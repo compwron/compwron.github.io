@@ -1,3 +1,7 @@
 # compwron.github.io
 blog
-yep
+
+To generate noew post:
+```thor jekyll:new The title of the new post```
+
+
