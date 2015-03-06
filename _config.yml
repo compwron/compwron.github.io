@@ -3,7 +3,7 @@ title: compwron
 email: a@b.com
 description: >
   Some stuff
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://compwron.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username: compwron
