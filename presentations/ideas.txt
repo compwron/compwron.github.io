@@ -12,5 +12,18 @@ hash_initializer
 
 ensuring that class names match file names
 
+git permissions and how to fix them in ruby for ssh testing
+commandline = "sftp -q -i #{private_key} -P #{port} #{user}@#{host} > /dev/null 2>&1 << #{remote_cmd_with_heredoc}"
+FileUtils.chmod(0400, 'filepath')
+
+gem "gemname", :git => "git@github.com:me/yourapp.git", :ref => "<ref>"
+
+ruby
+named parameters
+assign all from hash to instance variables
+polymorphic database example
 
 
+ALL = [ A = B, C = D] in module
+sanity spec
+rake_commit and workflows
