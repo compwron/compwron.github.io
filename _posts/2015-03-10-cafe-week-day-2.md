@@ -15,7 +15,7 @@ Started updating pairSee:
 
 [Slides](https://compwron.github.io/presentations/space_age/index.html) for a theoretical presentation on the Space Age exercism exercise using react.js 
 
-Json resume re-creation and upload (under a password) (code private on bitbucket)
+[Json resume](https://registry.jsonresume.org/compiledwrong) re-creation and upload (under a password) (code private on bitbucket)
 
 Setup launchctl on new osx box
 
