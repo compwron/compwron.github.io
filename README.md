@@ -1,7 +1,8 @@
 # compwron.github.io
 blog
 
-To generate noew post:
+To generate new post:
 ```thor jekyll:new The title of the new post```
 
-
+Launch locally:
+```jekyll serve```

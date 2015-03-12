@@ -2,7 +2,7 @@
 layout: post
 title: "Cafe Week Day 1"
 tags:
- -
+ - cafe
 ---
 
 Cafe week, day 1. 

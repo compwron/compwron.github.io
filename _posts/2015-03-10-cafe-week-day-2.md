@@ -2,7 +2,7 @@
 layout: post
 title: "Cafe Week Day 2"
 tags:
- -
+ - cafe
 ---
 
 Fixed exercism permissions; apparently ~ and the actual path to home dir are not direct equivalents. 
