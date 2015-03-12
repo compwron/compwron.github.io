@@ -11,4 +11,8 @@ Did the [Anagram](http://exercism.io/submissions/4d17bbdcbd6b40c7abb0bdd80f26894
 
 Continued work on [pair_see](https://rubygems.org/gems/pair_see) and pushed it to rubygems. Then pushed version 0.1.1 that can be used (fixed scoping issues). Pushed [example repo](https://github.com/compwron/example_pair_see_use) that uses pair_see.
 
-Other life stuff involving camera equipment, household maintenance.
+Filed [bug report](https://github.com/SublimeTextIssues/Core/issues/718) on Sublime
+
+Other life stuff involving camera equipment, household maintenance
+
+Approximate working hours: 11am-11pm at home, with many interruptions
