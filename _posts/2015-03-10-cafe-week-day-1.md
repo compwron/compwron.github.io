@@ -13,4 +13,6 @@ Solved the "space age" exercism.io problem. Re-solved it using metaprogramming, 
 
 Added some things to the 'cafe week' trello board.
 
+Approximate working hours: 10am - 3pm at cafes and home.
+
 Did other useful life things not related to code. 

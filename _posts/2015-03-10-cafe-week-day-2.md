@@ -21,6 +21,8 @@ Setup launchctl on new osx box
 
 Inbox 0 (down from ~200)
 
+Approximate working hours: 10:30am - 6pm at coworking space cafe
+
 And assorted "life things" (dentist, phone, theatre)
 
 
