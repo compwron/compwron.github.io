@@ -27,3 +27,5 @@ polymorphic database example
 ALL = [ A = B, C = D] in module
 sanity spec
 rake_commit and workflows
+
+all about badges on github: what are they, why are they useful, how they work
