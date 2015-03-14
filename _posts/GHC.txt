@@ -1,0 +1,43 @@
+On larger projects with more teammates, basic sanity can be difficult. Let’s discuss code that can help. 
+Fail a test if any classes have a different filename than class name. 
+Fail a test if there are any binding.pry or puts statements in the codebase. 
+Require spec_helper in all files… without requiring it in any files. 
+Find variable lists that are almost completely in alphabetic order. 
+In your tests, fix permissions on private keys for integration tests, because git literally cannot let you commit them.
+
+Software Engineering Track > Software Architecture and Methodology
+
+
+
+
+Ruby Hacks for Sanity on Big Projects
+ 
+Linda Goldstein
+Developer
+compiledwrong@gmail.com
+
+ABSTRACT
+On larger projects with more teammates, basic sanity can be difficult. Let’s discuss code that can help. 
+Fail a test if any classes have a different filename than class name. 
+Fail a test if there are any binding.pry or puts statements in the codebase. 
+Require spec_helper in all files… without requiring it in any files. 
+Find variable lists that are almost completely in alphabetic order. 
+In your tests, fix permissions on private keys for integration tests, because git literally cannot let you commit them.
+Other interesting snippets to make code more reliably non-broken
+ 
+AUDIENCE
+The audience who will most benefit from this talk is experienced developers who are interested (or have lived through) large projects. The code samples are in ruby and the principles are generic and can be applied to Java, Scala, lisp etc projects.
+
+OUTCOMES/CONCLUSION
+Attendees will think about safeguards designed into codebases (tests and design, not defensive null checks) and learn about some existing practices for safer & saner development in complicated large codebases. 
+
+ 
+PARTICIPATION STATEMENT
+I intend to attend Grace Hopper 2015 and will present this talk if it is accepted. 
+ 
+BIO
+A brief description of presenter’s background, including expertise related to the topic and views of the issues. Make sure the Bios are not generic, but give the reviewers a chance to understand why the submitter(s) would deliver an excellent presentation.
+ 
+REFERENCES/BIBLIOGRAPGHY
+Important for reviewers to distinguish a good idea from work that has been tried and tested.
+
