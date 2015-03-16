@@ -11,3 +11,5 @@ I have been submitting talk proposals without extensive preparation (mostly the 
 
 15 Mar
 I followed a [google tutorial](https://developers.google.com/apps-script/quickstart/docs) and made an [add-on for google docs](https://docs.google.com/document/d/1r0-mu1nYLKj2u1P2JkN3eEfwhTc-kiaUxvMvR2D4_wg/edit?usp=sharing) (Add-ons > Translate Quickstart) because it came up in the course of preliminary research for a web project that I might do for a friend. The publish function (basically app store submission) is currently [manual](https://developers.google.com/apps-script/add-ons/publish).
+
+Added a [lanyrd guide for space related events](http://lanyrd.com/guides/space-researchexploration/past/), openly editable. Please feel free to add.
