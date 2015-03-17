@@ -5,7 +5,7 @@ tags:
  -
 ---
 
-Below you can find my (sanitized) day-by-day notes from my most recent employment (primarily large rails project, with some iOS and golang). Some days are missing because I forgot. 
+Below you can find some (sanitized) day-by-day notes from my most recent employment (primarily large rails project, with some iOS and golang). Some days are missing because I forgot. 
 
 If you find anything which you believe should not be posted or which you think I may have posted by mistake, please make an issue at [https://github.com/compwron/compwron.github.io/issues](https://github.com/compwron/compwron.github.io/issues)
 
@@ -31,7 +31,7 @@ Day: 1 (Weds) June 25, 2014
 
 Victories:
 
-- Pushed code! (actually just a file ending fix to the "braintree radar", an internal what-tech-are-we-using-not-using-where-why-whynot github reference. I actually really like this format for developer usage (rather than the TW radar which is much prettier and also semi aimed at nontech/post-tech audience)
+- Pushed code! (actually just a file ending fix to the "bt radar", an internal what-tech-are-we-using-not-using-where-why-whynot github reference. I actually really like this format for developer usage (rather than the TW radar which is much prettier and also semi aimed at nontech/post-tech audience)
 - Access permissions
 - Got to hang out with my "spirit guide" (onboarding mentor)
 - Got swag!
@@ -209,7 +209,7 @@ Learned:
 - cocoapods repo
 - ios url schemes for inter-app communication, x-callback-url
 - http://www.programmableweb.com/news/charge-credit-card-ios-app-izettles-new-api/2012/07/06
-- braintree-sample-merchant.heroku.com
+- <sample merchant app name>.heroku.com
 - __unused in objective C to prevent warnings (probably used with frameworks/metaprogramming)
 - BT demo app iOS stuff
 - pragma mark for making xCode show you prettier headers http://iosdevelopertips.com/xcode/xcode-and-pragma-mark.html
