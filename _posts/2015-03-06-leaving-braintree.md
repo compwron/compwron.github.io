@@ -39,11 +39,11 @@ I admire that Braintree revoked my email and slack tokens within two hours of my
 
 Braintree has a complex system of codebases, necessitated by the deep and astonishing domain which it adresses. I have seen how the payments processing sausage is made, and it is full of gritty complicated inexplicable crap, most of it presumably left over from bank mainframes and waterfall development. But I have been inside the Braintree codebases, and I would gladly use it in my future endeavors. What is supposed to be secure is secure; what is supposed to be tested, is tested. The domain may be mad; the code may have built up over the years; sometimes things are manges'd; and I trust the whole of it to make the money flow. Safely, quickly, responsibly, with forethought and forward planning and the house not being on fire. 
 
-Why did I leave Braintree? I wasn't fired; nothing terrible happened; it was a personal choice. In San Francisco right now, a developer is employable. I am able "to go sit in a cafe and code." without major repurcussion. Sometimes you just have to go use your freedom when you have it. 
+Why did I leave Braintree? I wasn't fired; nothing terrible happened; it was a personal choice. There are many no-fault ways to not be the best fit for a team. It also influences my decision that in San Francisco right now, a developer is employable. I am able to "go sit in a cafe and code." Sometimes you just have to go use your freedom when you have it. 
 
 
 
 ------
 
 
-Typofixes, questions, and feedback are welcome: please file an issue on github at https://github.com/compwron/compwron.github.io/issues
+Typofixes, questions, factual corrections, and feedback are welcome: please file an issue on github at [https://github.com/compwron/compwron.github.io/issues](https://github.com/compwron/compwron.github.io/issues)
