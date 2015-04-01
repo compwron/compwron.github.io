@@ -14,6 +14,7 @@ TIL [GHC](http://gracehopper.org/) does not pay for the tickets of speakers O.o
 Talk 1 (lightning talk, common security vulns), speakers: [Daed](https://twitter.com/unda3d) and [hypatia](https://twitter.com/hypatiadotca)
 
 Interesting links
+
 - [gem canary](https://gemcanary.com/)
 - [hakiri](https://hakiri.io/)
 - [brakeman](http://brakemanscanner.org/)
