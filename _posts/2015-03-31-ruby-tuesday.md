@@ -32,9 +32,6 @@ Put everything that you actually depend on in your carry-on
 
 Have your slides under version control, accessible from multiple locations and multiple machines, and on a flash drive. Bring a mac-VGA adapter, a remote, thunderbolt cord, ethernet connector, chapstick.
 
-Funny stories: 
-
-
 For a speaker conferences should:
 
 - pay for your travel (If the conference is cranky about travel expenses, you might not want to hang out with them anyway)
