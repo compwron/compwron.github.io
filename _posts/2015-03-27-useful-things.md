@@ -5,7 +5,7 @@ tags:
  -
 ---
 
-[Donated to Rails Girls](compwron.github.io/img/railsgirls.png)
+[Donated to Rails Girls](../../../img/railsgirls.png)
 
 Submitted the ruby-sanity-hacks talk to [!!con](http://bangbangcon.com/)
 
