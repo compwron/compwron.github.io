@@ -7,7 +7,7 @@ tags:
 
 tl;dr: eBay is actually pretty good at exit interviews
 
-On 30 Mar 2015 I recieved a call from what my phone identified as "Strategic Problems". It was an exit interview for the (parent corp) of the most-recently-left job. My last day was 6 Mar 2015. They also called me on 20 Mar 2015 but I had assumed that it were spam and didn't pick up. (First attempt 10 business days after last day; successful attempt 16 business days after last day)
+On 30 Mar 2015 I recieved a call from what my phone identified as "Strategic Problems". It was an exit interview for the (parent corp) of the most-recently-left job. My last day was 6 Mar 2015. They also called me on 20 Mar 2015 but I had assumed that it was spam and didn't pick up. (First attempt 10 business days after last day; successful attempt 16 business days after last day)
 
 It was a verbal interaction by a human who responded to my questions. It was an enjoyable interaction, surprisingly. I requested that they email my answers to me; after consulting her supervisor, she found out that it was possible and then sent it to me. 
 
