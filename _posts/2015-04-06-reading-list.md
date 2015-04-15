@@ -10,7 +10,7 @@ Books I've read between 19 Feb and 6 Apr (in roughly new-to-old order)
 - Midway Relics and Dying Breeds by Seanan McGuire: good short
 - Carniepunk: Daughter of the Midway, the Mermaid, and the Open, Lonely Sea by Seanan McGuire: good short
 - Pocket Apocalypse: InCryptid, Book Four by Seanan McGuire: OMG I want more, novel-length but too short because it is awesome
-- The Way Into Darkness: Book Three of The Great Way by Harry Connolly: I literally dad nightmares about grunts
+- The Way Into Darkness: Book Three of The Great Way by Harry Connolly: I literally had nightmares about grunts
 - The Way Into Magic: Book Two of The Great Way by Harry Connolly
 - The Way Into Chaos: Book One of the Great Way by Harry Connolly
 - Interface by Neal Stephenson, J. Frederick George: reread because last year I left my future-self a message that it was awesome
