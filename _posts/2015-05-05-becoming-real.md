@@ -33,4 +33,5 @@ Here is an incomplete list of the things that my brain thinks are related to Rea
   - you mean, other than my own gems that no one except me uses? Someday.
 - contribute to a language
   - done, but in the very minorest of minor ways. Scale up. 
-
+- present at a major conference
+  - submitting proposals is the first step, right? 
