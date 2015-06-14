@@ -5,7 +5,7 @@ tags:
  -
 ---
 
-"Email is not a revision control system!!" someone to me at the [Karmic Labs](https://karmiclabs.com/) hack night 
+"Email is not a revision control system!!" someone said to me at a [Karmic Labs](https://karmiclabs.com/) hack night 
 
 But I said- because I am trying to train my brain to pattern-match statements like "X is terrible" with "think of solutions for X"
 
