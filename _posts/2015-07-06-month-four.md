@@ -8,10 +8,12 @@ tags:
 It is only month four? We are definitely well into the steady state of forever (phase 1) i.e. time to look beyond Getting Things Done to Improving How We Get Things Done.
 
 Numbers:
+
 * 317 commits in ~4 months. Again, git flow and squash make these numbers basically unintelligibly weird, and I don't have my gem pairSee in a state that can parse our git history sensibly yet.
 * This is actually 112 days after I started, so ~3.7 months.
 
 Thoughts:
+
 * Going to a conference is quite a hassle if you expense it, book flights through the company travel system, etc. In the future I will strongly prefer local conferences. Not much of a hardship since this is SF, but annoying.
 * I am excited to go to &conf! I am not expensing this because then I would have to explain "intersectional feminism code retreat" to several people, and it's pretty cheap for a conference.
 * One on ones are still A+ awesome at venting, fixing problems before they are big, and checking in.
