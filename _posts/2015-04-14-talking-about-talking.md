@@ -2,16 +2,16 @@
 layout: post
 title: "Talking About Talking"
 tags:
- -
+ - conf
 ---
 
 I went to a [talk about talking](https://www.eventbrite.com/e/writespeakcode-conference-talk-proposals-twitter-hq-tickets-16166042067) by [@wscsf](https://twitter.com/wscsf) where [@caitie](https://twitter.com/Caitie) spoke about speaking. Twitter hosted. Their lobby is not the most meetup-friendly place, but I do like their elevators. There was also another meetup about [automated testing in java](http://www.meetup.com/sfjava/events/220862630/) being hosted at the same time, although of course the office was more than big enough for all. (We never even saw them once we got upstairs.)
 
-~20+ people attended- some coming late, some leaving early. 
+~20+ people attended- some coming late, some leaving early.
 
 There were three impromptu lightning talks before the main talk:
 
-- ruby examples from my github 
+- ruby examples from my github
 - "Hero" programmers (with lego slides!)
     - "I am a responsibility sponge"
     - "You get bitten by a radioactive spider and now theres a repo you have to take care of or people will be mad at you"
@@ -24,9 +24,9 @@ Some interesting takeaways for me from the main talk:
 - [Saga pattern](https://webcache.googleusercontent.com/search?q=cache:V7CI6OO1VmsJ:kellabyte.com/2012/05/30/clarifying-the-saga-pattern/+&cd=1&hl=en&ct=clnk&gl=us): failure management pattern, also described in the book [SOA patterns](http://www.manning.com/rotem/)
     - "A saga is a long lived transaction that can be broken up into a collection of sub-transactions that can be interleaved w/ other transactions. Each sub transaction in the saga has a compensating transaction which from a semantic point of view undoes actions of the sub transaction" [source](https://twitter.com/caitie/status/579753897658462208)
 - craftcon budapest! (next week)
-- Tip for what to talk about: rip off talks that you wanted to be better! If you see a talk description that's like "omg so cool!" and the talk is like "eh" then write your own version of that talk. 
+- Tip for what to talk about: rip off talks that you wanted to be better! If you see a talk description that's like "omg so cool!" and the talk is like "eh" then write your own version of that talk.
 - After your talk is accepted, if you don't know yet
-    - Ask how many hotel nights the conf covers. Expect the entire conference, + a day or weekend if it is a very long trip. 
+    - Ask how many hotel nights the conf covers. Expect the entire conference, + a day or weekend if it is a very long trip.
     - If the conf travel allocation is not enough for your flight, messsage them and see if they can help.
     - Do not feel bad about asking for-profit conferences for nice things (politely!)
     - Will talks be streamed / recorded? (Make sure to be clear on this if you have preferences)

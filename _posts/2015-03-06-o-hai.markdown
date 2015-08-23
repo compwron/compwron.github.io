@@ -1,7 +1,0 @@
----
-layout: post
-title:  "O hai"
-date:   2015-03-06 10:50:47
-categories: stuff 
----
-This is a thing. 

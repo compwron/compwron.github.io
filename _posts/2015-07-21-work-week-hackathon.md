@@ -2,7 +2,9 @@
 layout: post
 title: "Work Week Hackathon"
 tags:
- -
+ - bread
+ - company
+ - cafe
 ---
 
 5 days (not including the long Monday morning meeting and the all-day-Friday Presentations) of building stuff! Wooo!

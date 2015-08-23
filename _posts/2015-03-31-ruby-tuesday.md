@@ -2,7 +2,8 @@
 layout: post
 title: "Ruby Tuesday"
 tags:
- -
+ - conf
+ - talk
 ---
 
 I went to Ruby Tuesday this week (at Heroku)

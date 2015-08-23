@@ -2,13 +2,13 @@
 layout: post
 title: "Hackbright Graduation Observed"
 tags:
- -
+ - conf
 ---
 
 I would love to attend Hackbright as a student for a variety of reasons; this is deeply unlikely for a yet larger variety of reasons.
 
 * food and drink and mingling and photography (I skipped)
-* [Michelle Glauser](https://twitter.com/michelleglauser) 'Welcome to Alumnaehood' - singing the gif-tastic praises of the alum association 
+* [Michelle Glauser](https://twitter.com/michelleglauser) 'Welcome to Alumnaehood' - singing the gif-tastic praises of the alum association
 * [Joel Burton](https://twitter.com/wjoelburton) [Dir. of Edu. of Hackbright](http://hackbrightacademy.com/person/joel-burton/): "what the program is like"
 * A Day in the Life at Hackbright by Sarah "I drank the kool-aid" "So you're going to coding bootcamp. This was crazy talk to most of the people that I knew."
   * wonderful script as schedule
@@ -17,20 +17,20 @@ I would love to attend Hackbright as a student for a variety of reasons; this is
 * Demos: all on one single computer. Yay!
   * Sadie Wilhelm, Pensive Passport - travel plan comparator
   * Viola, The Hunt - job-finding personal tracker of in-flight applications, with notes
-  * Alina Kuchinski, Skillit - person-finding and help-sharing app with location sensing. 
+  * Alina Kuchinski, Skillit - person-finding and help-sharing app with location sensing.
   * Lindsie Grizzard, ArtUp - formulae that go into how to hang the art for an exhibition, track by walls in exhibition
   * Tiffany Williams (previous PhD cancer biology), WunderLand - book discovery via geographic locations related to the book, used python Natural Language Toolkit
   * Teresa K (molecular / cellular biology), Mineralchemy - data from etsy and ebay API, Minfind (scraped), radial tree for taxonomy of minerals, mindat,org
   * Becca Powell, [Break It Up](https://github.com/bpownow/breakitup) - like billsup + expensify but fancier, with OCR. Venmo integration!
-  * Julie Han, roller derby stats tracker - 
+  * Julie Han, roller derby stats tracker -
   * Dana, Intonation Coach - helps you practice your intonation
   * Leslie Castillianos (nonprofit funddraising management), Brew Day - helps you manage your beer brewing cycyle, with timers and steps, with calendar reminders!
-  * Shabnam, Crime Map - 
+  * Shabnam, Crime Map -
   * Rachel, Talkalot - audio request and storage service for oral histories "when I was your age..."
   * Judy Chow (GIS technician, trying to fix the data), Mapster - travel planner avoiding backtracking, uses Yelp api
   * Emily, PricePing - texts you when amazon price goes down
   * Kiera Hall (dir. of museum services @ Museum of african diaspora), Armchair Activist - five-click challenge!, Ammado integration
-  * Alexandra Persaris, eCred - credit card payment plan planner. 
+  * Alexandra Persaris, eCred - credit card payment plan planner.
 * Summary of upcoming deadlines
 
 
@@ -43,7 +43,7 @@ Terrible jokes:
 
 My favorite things:
 
-* [BeautifulSoup](https://en.wikipedia.org/wiki/Beautiful_Soup) 
+* [BeautifulSoup](https://en.wikipedia.org/wiki/Beautiful_Soup)
 * ArtUp (a thing that I didn't know existed, that probably did not exist before, that is useful to a known albeit small set of people)
 * Break It Up (useful to me personally)
 * grey symbolic systems tshirt some dude was wearing

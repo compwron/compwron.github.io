@@ -2,7 +2,8 @@
 layout: post
 title: "Cafe Week Day 4"
 tags:
- -
+ - cafe
+ - talk
 ---
 
 Sites from bios of people in Worskshop Cafe today:

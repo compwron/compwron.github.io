@@ -2,7 +2,7 @@
 layout: post
 title: "Outer Developer"
 tags:
- -
+ - conf
 ---
 
 Once upon a time, there was [a python meetup at Yelp](http://www.meetup.com/sfpython/events/222835660/) (again). [Previous post](https://compwron.github.io/2015/03/24/attending-talks.html)
@@ -20,7 +20,7 @@ Talks:
 
 Humans notes:
 
-* Some dude wearing a hipchat shirt who has confirmed that he does not work for hipchat took a while to figure out how to stop telling me the names of chat clients. 
+* Some dude wearing a hipchat shirt who has confirmed that he does not work for hipchat took a while to figure out how to stop telling me the names of chat clients.
 * There is a cool dude who works at [Appdynamics](https://www.appdynamics.com/)
 * Z's friend with the briefcase, hi!
 * Cool lady to whom I talked while in line: you rock!

@@ -2,7 +2,8 @@
 layout: post
 title: "Month Three"
 tags:
- -
+ - bread
+ - company
 ---
 
 My delight span for new (non-spaceflight) domains, previous testing has shown, is about 90 days. That is about how long it takes me to go from "wow, what does that crazy domain term mean??" to "ok, so a Foo can Frajble a Bar but only if it has been previously Blerged a Baz, but what about X? Arrrrgh, X"
@@ -13,7 +14,7 @@ Themes this month:
 * Big coordinations with other teams
 * Weird bugs, concurrency
 * Timezones
-* I've been 'handyman' twice in four weeks and even though it was my idea and the best idea for my schedule, it is still draining. 
+* I've been 'handyman' twice in four weeks and even though it was my idea and the best idea for my schedule, it is still draining.
 * Testing ruby with java O.o
 * Hipchat being flaky/broken (but still getting the job done)
 
@@ -24,7 +25,7 @@ Fun moments:
 Quotes:
 
 * '@here what does "failed permanently" mean?'
-* "operation fix our shit" 
+* "operation fix our shit"
 * "I will keep an eye out for lack of tomatoes on pull requests"
 * flaming bodhran!!
 * "Facebook gatekeeper is the north star for features flag management"
@@ -39,11 +40,11 @@ Quotes:
 * "This is only the code, I will now work on adding tests"
 
 
-Pet peeves 
+Pet peeves
 
 * "bang it out" [urbandictionary](https://www.urbandictionary.com/define.php?term=bang+it+out&defid=5499936) "To do the job quickly, and cheaply, cutting lots of corners along the way. The finished work appears shabby and unprofessional. Phrase is frequently used by amateurs."
 * Comparing your coworker to a Pantene commercial
-* "I'm glad you were able to find something to comment on there" on a comment on a PR 
+* "I'm glad you were able to find something to comment on there" on a comment on a PR
 
 
 Best code I've seen:

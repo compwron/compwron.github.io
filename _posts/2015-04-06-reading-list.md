@@ -2,7 +2,7 @@
 layout: post
 title: "Reading List"
 tags:
- -
+ - books
 ---
 
 Books I've read between 19 Feb and 6 Apr (in roughly new-to-old order)

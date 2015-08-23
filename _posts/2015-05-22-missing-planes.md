@@ -2,14 +2,14 @@
 layout: post
 title: "Missing Planes"
 tags:
- -
+ - travel
 ---
 
 Planes I have missed (that I remember):
 
 * SFO > PHX, SouthwestAir (2015)
   * Reason: I went to the wrong airport (OAK vs SFO)
-  * Fix: Realized at the airport when the self-serve ticket machine said to please go to the counter, asked the SouthwestAir counter staff politely for help, got a for-sure ticket for eight hours later and a standby for half an hour later. Went though TSA, jogged through the airport in socks, waited for standby, and was the last person onto a plane. 
+  * Fix: Realized at the airport when the self-serve ticket machine said to please go to the counter, asked the SouthwestAir counter staff politely for help, got a for-sure ticket for eight hours later and a standby for half an hour later. Went though TSA, jogged through the airport in socks, waited for standby, and was the last person onto a plane.
   * Cost: free
 * Toronto > Montreal, Lufthansa (2015)
   * Reason: short connection, international customs, in-air delay

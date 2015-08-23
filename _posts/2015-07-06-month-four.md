@@ -2,7 +2,8 @@
 layout: post
 title: "Month Four"
 tags:
- -
+ - bread
+ - company
 ---
 
 It is only month four? We are definitely well into the steady state of forever (phase 1) i.e. time to look beyond Getting Things Done to Improving How We Get Things Done.
