@@ -90,4 +90,27 @@ People who have visual markers of belonging to the same group are more likely to
 
 It can be very hard to work when surrounded by hubbub. Make sure that there are designated hack spaces that are also clearly marked as quiet spaces.
 
+## Resources
 
+# Colleges
+
+- ["first" Stanford hackthon](https://www.treehacks.com/) (I attended as a company/coach; I think it was well run) and [news article](http://www.stanforddaily.com/2015/01/13/stanfords-first-large-scale-hackathon-treehacks-kicks-off-feb-20/)
+- [SF State](http://hackathon.sfsu.edu/)
+- [Penn](http://2015f.pennapps.com/) (recurring, famous)
+- [USC](http://f2014.hacksc.com/)
+
+# Companies (for college students)
+
+- [Skype](https://www.facebook.com/skypeunihack) student hackathon hosted by a large company
+- [DuckDuckGo](https://duck.co/blog/post/196/the-first-global-quack-hack)
+
+# Bigger lists
+
+- [MLH Upcoming hackathons](https://mlh.io/seasons/f2014/events) that you can travel to!
+- [Hackalist Upcoming hacakthons](http://www.hackalist.org/) get reimbursed to fly cool places and build cool things!
+- [Hackerleague Upcoming hackathons](https://www.hackerleague.org/hackathons)
+
+
+## Bibliography
+
+- [Quora](https://www.quora.com/Is-there-a-list-of-all-the-college-hackathons-happening-in-the-2013-2014-school-year)
