@@ -23,11 +23,15 @@ A group of students and other university-affiliated people who, singly or in tea
 
 ## As a student, what should I do at a hackathon?
 
-As quickly as possible, sit down with yourself or a few workmates to BRAINSTORM! Write down every crazy idea that comes to mind, even if it's totally impossible to build. Remember to think of all the cool APIs you could use: twitter, google maps, NASA, yelp, hackernews. Google for APIs to use in hackathons; there are entire lists for this. After ten minutes or so, stop brainstorming. Pick the awesomest thing on the list. Pick the easiest thing on the list. Plan out how you would build it. Cut it down to something that sounds possible. Try to imagine what tools you would need. Get started! You will be completely wrong about what tools and how easy this will be. That is totally ok. You might switch ideas several times during the event, or get to the end of one idea and need to use a new one.
+As quickly as possible, sit down with yourself or a few workmates to BRAINSTORM! Write down every crazy idea that comes to mind, even if it's totally impossible to build. Remember to think of all the cool APIs you could use: twitter, google maps, NASA, yelp, hackernews. Google for APIs to use in hackathons; there are entire lists for this; remember to search for them.
+
+After ten minutes or so, stop brainstorming. Pick the awesomest thing on the list. Pick the easiest thing on the list. Plan out how you would build them. Cut it down to something that sounds possible. Try to imagine what tools you would need. This should take no more than ten minutes; you will be mostly completely wrong but it is very useful to start with have a plan; it gives you a path out of the "but we could do ANYTHING!" frozen-ness that many hackathon participants get stuck in.
+
+Get started! You will be completely wrong about what tools and how easy this will be. That is totally ok. You might switch ideas several times during the event, or get to the end of one idea and need to use a new one.
 
 Every time you think of a new awesome thing that you could do for the hackathon, put it on the list. Share the list with everyone, including your competitors! Sharing ideas is inherently more useful than hiding them away. Even if you are doing the same project as someone else, that is ok. You are probably doing it entirely differently and will end up with different projects.
 
-Maybe work with new people; maybe work with friends. Seek out alumni, professors, industry professionals, whoever to ask questions of.
+Maybe work with new people; maybe work with friends. Seek out alumni, professors, industry professionals, everyone. Ask questions. "What is the coolest thing you can think of to do for this hackathon?" "How do you think would be good to build X?" "Want to work on this with us?"
 
 ## Common failures when running a hackathon
 
@@ -40,7 +44,7 @@ No seriously, even more than that.
 - Get your university representatives to tweet
 - Get your professors and faculty sponsors to send an email (or equivalent) to their classes
 - Posters on campus
-- Flyers in the forms
+- Flyers in the dorms
 - School newspaper
 - SHOUT REALLY LOUD
 - everything else you can think of
@@ -56,7 +60,7 @@ Never make the attendees wait to eat the food in order for your speaker to finis
 # [How to not fail] Record the awesome things that you do!
 
 - Take photos (Get permission from the attendees. Do not take pictures of anyone who wants you to not take their photo. If you do, apologize and delete the photo.)
-- Have everyone tweet or email or (whatever)
+- Have everyone tweet or email or (whatever) their in-progress and completed-wins. Harvest this for publication.
 - If you have a central chatroom, use that to glean details of awesome projects
 - Send out a post-hackathon email with a list of awesome projects, awards, photos... do this promptly! Within 24 hours. Within two hours or so is totally doable if you take notes during the hackathon.
 
