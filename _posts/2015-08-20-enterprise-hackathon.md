@@ -55,6 +55,8 @@ No one knows better what internal tools need work / are missing than the people 
 
 - Braintree has "open dev" on Friday of every other week, for developers to work on non-roadmap work and/or read technical materials. A lot of this work is people making internal tools or maintaining open source libraries that are used by various internal codebases.
 
+- [eBay](http://www.ebaytechblog.com/2015/09/09/company-wide-hack-week-encourages-innovation/) "hack week"
+
 - Groupon has "Geekon" for all developers for an entire week at a time, twice a year.
 
 - (Feel free to submit more in a github issue or pull request)
