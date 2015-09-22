@@ -121,6 +121,7 @@ Knowledge-sharing: Really the only knowledge sharing there was, was 1. presentat
 
 ## Other sources:
 
+- [Groupon](https://engineering.groupon.com/2015/events/4-reasons-geekon-our-global-internal-hackathon-rocks-at-groupon/)
 - ThoughtWorks on [Enterprise Hackathons](http://www.thoughtworks.com/insights/blog/hackathons-enterprise) (short, but not terrible)
 - [Howto Host a Hackathon](http://www.brightidea.com/blog/how-to-host-a-successful-hackathon/) (Applicable in the planning stages, but different )
 - [7 ways hackathons make AddThis a better company](https://www.addthis.com/blog/2015/05/21/7-ways-hackathons-make-us-a-better-company/#.VdjcYlNViko)
