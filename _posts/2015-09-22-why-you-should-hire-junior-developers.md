@@ -84,3 +84,8 @@ You've been meaning to look into that one weird exception that you saw two weeks
 - "But the majority of work being done on a typical web application does not require a team full of PhD's with 10 years experience, making it no surprise that senior engineers quickly get bored and seek out other opportunities. By hiring junior developers and ensuring they're getting the continual training and development that they need, you can ensure that they stay engaged and derive as much personal and professional value out of your company as your company derives from them." [OnStartups](http://onstartups.com/tabid/3339/bid/87890/Startups-Stop-Trying-To-Hire-Ninja-Rockstar-Engineers.aspx)
 - "Companies can avoid the long, drawn out search for that needle in a hay stack developer by hiring a more junior candidate and training and molding them into their ideal developer." [WorkBridge](http://www.workbridgeassociates.com/blog/posts/2014/03/21/workbridge-orange-county-junior-developer-mentor-cto)
 
+
+------
+
+
+Typofixes, questions, factual corrections, and feedback are welcome: please file an issue on github at [https://github.com/compwron/compwron.github.io/issues](https://github.com/compwron/compwron.github.io/issues) or tell me at [@compiledwrong](https://twitter.com/compiledwrong)
