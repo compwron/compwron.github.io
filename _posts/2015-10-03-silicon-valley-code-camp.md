@@ -36,7 +36,7 @@ Lunch was free with registration (they handed you a raffle ticket, used as an en
 
 ## Recordings
 
-Only talks in the "Theater" room were recorded.
+Only talks in the "Theater" room were recorded. they will be up on [youtube](https://www.youtube.com/channel/UCl_fhwlTAARASHq2hoEd_pw)
 
 ## Speaker dinner
 
@@ -193,6 +193,6 @@ Quote from other attendee: "I didn't study CS, so maybe I don't know the right t
 
 - Lady who has been a QA for 8 years at some company that starts with the letter T
 - Person whom I also ran into at a Python meetup at Yelp, and who now has my business card.
-- Cool dude from [Hurricane Electric(https://www.he.net/) and the [quiz](https://ipv6.he.net/certification/cert-main.php) you can fill out if you want them to mail you a shirt
-- Dude from the Scala talk who does something with UI, and his backend team does Scala?
+- Cool dude from [Hurricane Electric](https://www.he.net/) with whom I chatted. There is a [quiz](https://ipv6.he.net/certification/cert-main.php) you can fill out if you want them to mail you a shirt
+- Dude from the Scala talk who does something with UI, and his backend team does Scala? Asked for and recieved my business card.
 
