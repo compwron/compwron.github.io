@@ -85,6 +85,7 @@ This data collection is certainly not the only data collection that has followed
 # References
 
 * [Datensparsamkeit by Martin Fowler](http://martinfowler.com/bliki/Datensparsamkeit.html) "The problem with the "capture-it-all" approach is that it raises serious questions of privacy. Even if we trust ourselves to not abuse the data we collect, each data store represents a target for criminals or government surveillance agencies."
+* [Haunted By Data](http://idlewords.com/talks/haunted_by_data.htm) "Imagine data not as a pristine resource, but as a waste product, a bunch of radioactive, toxic sludge that we don’t know how to handle."
 
 -----------------------
 
