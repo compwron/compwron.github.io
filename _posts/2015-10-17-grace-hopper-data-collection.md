@@ -88,4 +88,4 @@ This data collection is certainly not the only data collection that has followed
 
 -----------------------
 
-Typofixes, questions, factual corrections, and feedback are welcome: please file an issue on github at [https://github.com/compwron/compwron.github.io/issues](https://github.com/compwron/compwron.github.io/issues)
+Typofixes, questions, factual corrections, and feedback are welcome: please file an issue on github at [https://github.com/compwron/compwron.github.io/issues](https://github.com/compwron/compwron.github.io/issues) or contact [compwron](https://twitter.com/compiledwrong)
