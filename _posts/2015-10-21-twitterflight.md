@@ -116,7 +116,7 @@ Meh. Good for what it was. Mac and cheese was good. Supplying hard alcohol at an
 - Twitter for mac is coming back
 - [Official warning about automating tweets](https://support.twitter.com/articles/76915)
 - [USA Today Exploring Galapagos Island](http://www.usatoday.com/topic/69075ecb-9738-49b6-9340-c10f510f5021/galapagos-islands/) I lost the link but this is pretty too
-- My notes that look like (*foo) are explained [here](https://compwron.github.io/2015-10-21-how-i-rate-talks.html)
+- My notes that look like (*foo) are explained [here](https://compwron.github.io/2015/10/21/how-i-rate-talks.html)
 
 
 People:
