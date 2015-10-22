@@ -103,12 +103,12 @@ I got in early, got my badge, ate some free breakfast, then went to work and wat
 - "Keep the web fast"
 - Shoutout to AMP (possibly the future; still experimental)
 - "There are always more ways to go faster"
-- Loading int he shadow dom (not supported everywhere yet- but does go faster)
+- Loading in the shadow dom (not supported everywhere yet- but does go faster)
 - twitter-grid, async
 
 # Happy Hour
 
-Meh. Good for what it was. Mac and cheese was good. Supplying hard alcohol at an open bar at a tech conference seems unnecessary to me.
+Meh. Good for what it was. Mac and cheese was good. Supplying hard alcohol at an open bar at a tech conference seems like poor decision-making to me.
 
 
 # Other notes
@@ -123,8 +123,7 @@ People:
 
 - Saw a BT tshirt go by
 - One of the speakers who'd just finished said hi to me, we know each other from game nights at Badger. Cool dude; I wish I'd caught the talk.
-- O.o dude in tank top who took two seats very firmly
-- O.o dude who sat behind me and had a very audible "sexy" conversation with his companion so I switched seats
+- Various people with interesting behaviors, who were avoidable.
 
 
 # [Python Project Night](http://www.meetup.com/sfpython/events/225954872/)
