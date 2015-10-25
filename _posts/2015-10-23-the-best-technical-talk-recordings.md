@@ -5,7 +5,7 @@ tags:
  - conf
 ---
 
-This is an inherently incomplete list of talk that I personally think are both interesting to watch, and relevant to teams that I have worked on. These are not just talks that I like; there are a lot of those. These are talks that I am willing to try to round up developers on my team into a conference room to watch.
+This is an inherently incomplete list of talks that I personally think are both interesting to watch, and relevant to teams that I have worked on. These are not just talks that I like; there are a lot of those. These are talks that I am willing to try to round up developers on my team into a conference room to watch.
 
 - [Running Aground: Debugging Docker in Production](https://www.youtube.com/watch?v=sYQ8j02wbCY), Bryan Cantrill, DockerCon 2015
 - [Javascript The Better Parts](https://www.youtube.com/watch?v=Ji6NHEnNHcA), Douglas Crockford, Silicon Valley Code Camp 2015
