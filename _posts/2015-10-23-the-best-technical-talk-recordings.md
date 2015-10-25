@@ -8,7 +8,7 @@ tags:
 This is an inherently incomplete list of talk that I personally think are both interesting to watch, and relevant to teams that I have worked on. These are not just talks that I like; there are a lot of those. These are talks that I am willing to try to round up developers on my team into a conference room to watch.
 
 - [Running Aground: Debugging Docker in Production](https://www.youtube.com/watch?v=sYQ8j02wbCY), Bryan Cantrill, DockerCon 2015
-- [Javascript The Better Parts](https://www.youtube.com/watch?v=Ji6NHEnNHcA), Douglas Crockford, Silicon Valley Code Camp
+- [Javascript The Better Parts](https://www.youtube.com/watch?v=Ji6NHEnNHcA), Douglas Crockford, Silicon Valley Code Camp 2015
 - [How to Write Clean, Testable Code](https://www.youtube.com/watch?v=XcT4yYu_TTs), Miško Hevery, Google Tech Talks 2010
 - [Testing Isn't Enough: Fighting Bugs with Hacks](http://confreaks.tv/videos/rubyconf2014-testing-isn-t-enough-fighting-bugs-with-hacks), Paul Gross, RubyConf 2014
 - [Building Scalable Stateful Services](https://www.youtube.com/watch?v=H0i_bXKwujQ), Caitie McCaffrey, StrangeLoop 2015
