@@ -13,6 +13,6 @@ My favorite interesting repo right now is [rotten](https://github.com/rntz/rotte
 
 I've been continuing to slowly work on the [exercism](http://exercism.io/) exercises
 
-I have an open pull request against [konacha](https://github.com/jfirebaugh/konacha/pull/200) because one of the teams at work mentioned that it was going to start using it. # it 
+I have an open pull request against [konacha](https://github.com/jfirebaugh/konacha/pull/200) because one of the teams at work mentioned that they were going to start using it.
 
-Mostly focussing my energy on the new job. 
+I am mostly focusing my energy on the new job.

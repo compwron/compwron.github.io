@@ -2,7 +2,7 @@
 layout: post
 title: "Grace Hopper Data Collection"
 tags:
- -
+ - conf
 ---
 
 This year at [ghc](https://www.gracehopper.org) (2015, Houston) in order to get into any talk other than the keynote, you had to offer your badge and have the bar code on it scanned by one of several conference center staff who monitored each door.
@@ -78,7 +78,7 @@ Have a bin of interchangeable tokens (or rfid cards or something) that every att
 
 # Future thoughts
 
-Of course this is valuable data. Of course the conference organizers / conference center want it. They could get a much understanding of traffic flow, attendee preferences, speaker quality... I get it. I just don't think that the value is worth the price.
+Of course this is valuable data. Of course the conference organizers / conference center want it. They could get a new depth of understanding of their conference's traffic flow, attendee preferences, speaker quality... I get it. I just don't think that the value is worth the price.
 
 This data collection is certainly not the only data collection that has followed us each around this week; many people use Facebook, Twitter, Swarm, etc. Why worry about this one specifically? Because it is new. Because it is particularly and excessively valueless. Because it was not consensual. Because it is indicative of an overall trend towards data over people, and lack of foresight. Because maybe it is fixable.
 
