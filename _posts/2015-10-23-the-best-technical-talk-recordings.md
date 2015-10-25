@@ -24,7 +24,7 @@ This is an inherently incomplete list of talk that I personally think are both i
 - [Refactoring from Good to Great](http://confreaks.tv/videos/aloharuby2012-refactoring-from-good-to-great), Ben Orenstein, AlohaRuby 2012
 - [Refactoring Fat Models with Patterns](https://www.youtube.com/watch?v=IqajIYxbPOI), Bryan Helmkamp, wroc_love.rb 2014
 - [Therapeutic Refactoring](http://confreaks.tv/videos/cascadiaruby2012-therapeutic-refactoring), Katrina Owen, Cascadia Ruby 2012
-- [Double Dream Hands](https://www.youtube.com/watch?v=kWOAHIpmLAI), Aaron Patterson, RailsConf 2011
+- [Double Dream Hands](https://www.youtube.com/watch?v=kWOAHIpmLAI), Aaron Patterson, RailsConf 2011 (start at minute 7)
 - [Confident Code](http://confreaks.tv/videos/rubymidwest2011-confident-code), Avdi Grimm, RubyMidwest 2011
 - [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy), Rich Hickey, StrangeLoop 2011
 
