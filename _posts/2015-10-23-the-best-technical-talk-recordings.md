@@ -30,4 +30,4 @@ This is an inherently incomplete list of talks that I personally think are both 
 - [Nothing is something](https://www.youtube.com/watch?v=9lv2lBq6x4A), Sandi Metz, BathRuby 2015
 - [N design patterns you might actually use](https://www.youtube.com/watch?v=Oxd_DBuX8R8), Aja Hammerly, Cascadia Ruby 2014
 - [Server Side Template Injection RCE For The Modern Web App](https://www.youtube.com/watch?v=BGsAguMPtFw), James Kettle, Black Hat USA 2015
-
+- [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M), Raymond Hettinger, PyCon 2015
