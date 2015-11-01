@@ -45,6 +45,7 @@ At around 1:20 the hosts from the table outside came in to say that they had onl
 - I suggested geofencing as a solution to a problem, and after some research, rediscovered [Llama](https://play.google.com/store/apps/details?id=com.kebab.Llama&hl=en) which I used to use.
 - Left-handed cameras are not currently in production. (although left-handed apps for cell phones do exist) They used to be made, but are not currently made.
 - My rating of this event is (*walk). It was ok. I had fun. It was of value but not of notably high value for me. It fit in well with my other plans.
+- Siemens hosts a women in tech conference in Boston and one of the attendees is going to go ... maybe it is [this one?](http://leadership.simmons.edu/)
 
 # People
 
