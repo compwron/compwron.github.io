@@ -31,3 +31,4 @@ This is an inherently incomplete list of talks that I personally think are both 
 - [N design patterns you might actually use](https://www.youtube.com/watch?v=Oxd_DBuX8R8), Aja Hammerly, Cascadia Ruby 2014
 - [Server Side Template Injection RCE For The Modern Web App](https://www.youtube.com/watch?v=BGsAguMPtFw), James Kettle, Black Hat USA 2015
 - [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M), Raymond Hettinger, PyCon 2015
+- [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw), Josh Bloch, GoogleTechTalks 2007 (content starts around 2:00)
