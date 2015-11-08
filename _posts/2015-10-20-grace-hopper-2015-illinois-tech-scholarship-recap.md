@@ -123,9 +123,23 @@ Attending the Grace Hopper conference was a new experience for me.  I didn’t r
 
 # Summary 4
 
-coming soon
+Going to this year’s GHC was an experience I’ll always remember. I’ve never been in a room with 50 female technologists, let alone 12,000! I spent most of my time at GHC talking to companies about internship opportunities and interviewing. Grace Hopper gave me the opportunity to talk to every company I was interested in at once. I gave out 25 resumes in a day, which means that I had facetime with 25 companies in a few hours. For perspective purposes, waiting in line to talk to Microsoft at IIT’s career fair would take an hour at least. I had five onsite interviews with Square, Microsoft, Facebook, Bloomberg, and Dell. The resume database was awesome — I was contacted by Square and Dell before GHC and began the interview process before the conference even began. I also attended an event at Lucky Strike for Square interview candidates and had a great time. It was awesome to get to know the engineers on a personal level and talk to other girls going through the same interview process. 1 month after GHC, I am proud to say that I am accepting my offer to intern as a software engineer at Bloomberg’s NYC office this summer.
+
+Another great thing about GHC was the ability to reconnect with CS friends from around the country. I was able to see all of my female intern friends from Visa and a few female computer scientists from the Denver area that I met outside of work. My coworker Lauren and I had the same manager this summer and we were able to have coffee and catch up at the Visa booth. I had a great time getting to know our IIT group better as well. We are all in Carol’s Lean In circle, so we’ll be keeping in touch.
+
+It’s really important that we continue sending female CS students to this conference. It’s empowering for us, but it’s also amazing for IIT. It felt great to know that I was representing IIT’s computer science program, interviewing side by side with students from the typical schools that companies recruit from and doing just as well. It was great to be an example to industry that IIT has computer science students who are excited about professional opportunities.
+
+Thank you for this incredible opportunity. This opportunity made a big difference in my life and it only came to be because of you. Thanks for supporting us.
 
 # Summary 5
 
 coming soon
 
+
+
+# TODO
+
+Add in the applications that won (anonymized) with analysis of why
+TODO make a google folder for docs
+
+TODO mailing list of interested alumni? Plan how to do with?
