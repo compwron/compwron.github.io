@@ -32,3 +32,5 @@ This is an inherently incomplete list of talks that I personally think are both 
 - [Server Side Template Injection RCE For The Modern Web App](https://www.youtube.com/watch?v=BGsAguMPtFw), James Kettle, Black Hat USA 2015
 - [Beyond PEP 8 -- Best practices for beautiful intelligible code](https://www.youtube.com/watch?v=wf-BqAjZb8M), Raymond Hettinger, PyCon 2015
 - [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw), Josh Bloch, GoogleTechTalks 2007 (content starts around 2:00)
+- [NetflixOSS, Groovy and Grails, and Cloud Native](https://www.youtube.com/watch?v=eDbWoZydT5s#t=144), SpringOne 2GX 2015
+- [Pain Is Over, If You Want It](https://www.youtube.com/watch?v=ahtihwxgriA), Mike Bland, DevOps Enterprise Summit 2015
