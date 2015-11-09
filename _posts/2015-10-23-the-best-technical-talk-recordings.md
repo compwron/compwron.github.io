@@ -34,3 +34,4 @@ This is an inherently incomplete list of talks that I personally think are both 
 - [How To Design A Good API and Why it Matters](https://www.youtube.com/watch?v=aAb7hSCtvGw), Josh Bloch, GoogleTechTalks 2007 (content starts around 2:00)
 - [NetflixOSS, Groovy and Grails, and Cloud Native](https://www.youtube.com/watch?v=eDbWoZydT5s#t=144), SpringOne 2GX 2015
 - [Pain Is Over, If You Want It](https://www.youtube.com/watch?v=ahtihwxgriA), Mike Bland, DevOps Enterprise Summit 2015
+- [why everything is just the worst](https://puppetlabs.com/presentations/why-everything-just-worst), @sadserver, PuppetConf 2015
