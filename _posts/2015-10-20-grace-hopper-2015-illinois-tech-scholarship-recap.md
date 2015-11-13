@@ -46,6 +46,8 @@ Because I do not believe that it would significantly benefit any current student
 
 A complete spreadsheet of last year's expenses (anonymized) will be available to alumni interested in helping with conference expenses for future scholarship students.
 
+The total reimbursed cost to all 5 students was $3940.95 (total) which is approximately $788.18 / student. Was it worth it? I think so. I don't know how to tell
+
 
 ## Conference Summaries
 
