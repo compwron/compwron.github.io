@@ -133,8 +133,15 @@ Thank you for this incredible opportunity. This opportunity made a big differenc
 
 # Summary 5
 
-coming soon
+Attending the Grace Hopper Celebration of Women in Computing was a wonderful opportunity to meet other women in technology from all over the country. I walked away with professional connections, a few new friends, and a renewed inspiration to make a difference in the STEM fields.
 
+Through its extensive career fair, I made connections at several universities that offer the PhD program I am interested in, talked with a few companies about summer internships, and much to my surprise, found two laboratories performing the research that I am interested in who have the kind of opportunities I am looking for. I certainly wasn’t expecting such diversity in the types of organizations who sent representatives, and was pleasantly surprised to get more out of the career fair than I bargained for.
+
+The majority of the sessions were intriguing, as they focused on current research and technology, and how computing can be involved in so many different facets of society. Of course, some were more interesting than others. A few felt like a company was simply advertising their product, but the ones that focused on showing the audience the process rather than selling them the product really hit home. It highlighted the differences between the organizations, and gave a little insight into what it might be like to work in those kinds of environments.
+
+As we attended this conference in a group, I think the experience was much more enjoyable because of it. We split up each day for the sessions and career fair, but we met up for dinners, and got to know each other over the course of the conference. Even though we all go to the same school, I don’t believe I would have ever crossed paths with most of these incredible women if it weren’t for this conference. Together, we are attempting to create a Lean In circle at IIT, so we can pool resources of as many women in technology on campus as possible.
+
+All in all, I got a lot out of this experience, and I wouldn’t have had the chance to go if it weren’t for the funding we received. This is a fantastic program, and I would highly recommend it to any of my female classmates in computer science.
 
 
 ## Winning applications
