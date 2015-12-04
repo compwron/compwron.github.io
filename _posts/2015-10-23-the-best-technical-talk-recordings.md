@@ -35,3 +35,6 @@ This is an inherently incomplete list of talks that I personally think are both 
 - [NetflixOSS, Groovy and Grails, and Cloud Native](https://www.youtube.com/watch?v=eDbWoZydT5s#t=144), SpringOne 2GX 2015
 - [Pain Is Over, If You Want It](https://www.youtube.com/watch?v=ahtihwxgriA), Mike Bland, DevOps Enterprise Summit 2015
 - [why everything is just the worst](https://puppetlabs.com/presentations/why-everything-just-worst), @sadserver, PuppetConf 2015
+- [Not Even Close: The State of Computer Security](https://vimeo.com/135347162), James Mickens, NDC 2015
+- [Extremely Defensive Coding](http://confreaks.tv/videos/rubyconf2015-extremely-defensive-coding), Sam Phippen, RubyConf 2015
+- [How to Stop Hating Your Test Suite](http://confreaks.tv/videos/rubyconf2015-how-to-stop-hating-your-test-suite), Justin Searls, RubyConf 2015
