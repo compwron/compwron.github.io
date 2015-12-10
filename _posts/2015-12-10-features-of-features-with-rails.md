@@ -21,7 +21,7 @@ Once upon a time, long ago and far away, there was a feature for a software proj
 
 # Assumptions
 
-- A Tlo can have multiple devices which are under its purview, but they must all be on the same version of the app, i.e. upgrading one android tablet to version 1.1.2 of the app will force all other devices to refuse to work until they too are using exactly version 1.1.2 of the app.
+- A Tlo can have multiple devices which are under its purview, but they must all be on the same version of the app, i.e. upgrading one android tablet (Bob) to version 1.1.2 of the app will force all other devices (Alice, Charles) which are owned by Bob's Tlo to refuse to work until they too are using exactly version 1.1.2 of the app.
 
 # Regions of code
 
@@ -50,6 +50,6 @@ It is possible that someday I will publish a gem that is related to this code.
 
 # References
 
-- [Facebook](http://blog.acolyer.org/2015/10/16/holistic-configuration-management-at-facebook/)
+- [Holistic Configuration Management at Facebook](http://blog.acolyer.org/2015/10/16/holistic-configuration-management-at-facebook/)
 - [A Tale of Two Feature Flags](http://confreaks.tv/videos/rubyconf2015-a-tale-of-two-feature-flags) Rebecca Sliter, RubyConf 2015
 - I wrote some of, but certainly not a majority of, the code that is in the git history of the code that this code was copied from before I modified it. Many fine developers made terrible faces to create for us this code.
