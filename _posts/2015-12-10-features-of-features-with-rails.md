@@ -18,6 +18,8 @@ Once upon a time, long ago and far away, there was a feature for a software proj
 - Polymorphic (more than one type of Tlo can have features, i.e. GoatMerchant, CatMerchant)
 - Works with ruby on rails (although the principles are extractable)
 - Must be pre-enable-able, for usage by non-update-able clients like an android/ios app
+- A new feature can be added via the UI (although until there is code to depend on it, it will do nothing)
+- A feature can be edited via the UI (i.e. the minimum_client_version can be increased from 1.1.1 to 1.1.2 if for example the 1.1.1 client has a bug that makes the feature work unreliably)
 
 # Assumptions
 
