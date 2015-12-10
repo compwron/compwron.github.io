@@ -38,3 +38,4 @@ This is an inherently incomplete list of talks that I personally think are both 
 - [Not Even Close: The State of Computer Security](https://vimeo.com/135347162), James Mickens, NDC 2015
 - [Extremely Defensive Coding](http://confreaks.tv/videos/rubyconf2015-extremely-defensive-coding), Sam Phippen, RubyConf 2015
 - [How to Stop Hating Your Test Suite](http://confreaks.tv/videos/rubyconf2015-how-to-stop-hating-your-test-suite), Justin Searls, RubyConf 2015
+- [How does Bundler work, anyway?](http://confreaks.tv/videos/rubyconf2015-how-does-bundler-work-anyway), Andre Arko, RubyConf2015
