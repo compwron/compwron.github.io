@@ -23,3 +23,4 @@ You will need
 - All of your server config files (although honestly with docker maybe you don't need them anymore??)
 - You will need an email system. Will everyone's email addresses change? Probably.
 - iOS app publishing permissions group
+- Whatever you use for logging (splunk) and graphs (grapher) or some substitute for the two.
