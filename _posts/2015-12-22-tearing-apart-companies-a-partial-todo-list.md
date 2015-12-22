@@ -5,6 +5,8 @@ tags:
  -
 ---
 
+I am really glad that this is not my job, but it is fun to watch.
+
 When you separate a little company from a bigger company- even if, once upon a time, the little company used to be a separate company, before it got bought- there is a lot lot lot to do. Here are some musings on it, with a (very partial) list of items that need separating.
 
 You will need
