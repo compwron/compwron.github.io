@@ -5,6 +5,15 @@ tags:
  -
 ---
 
+## Cucumber
+
+Origin: Suggested by contributor's partner
+
+Source: ["Just curious- what is the origin of the name "cucumber" for cucumber?" "It’s what my wife suggested when I asked her to come up with a name." - aslakhellesoy](https://gitter.im/cucumber/chat?at=56ba14c29f5549965ee1f8ed)
+
+Classification: random
+
+
 ## Javascript
 
 Origin: Named to make it clear that it was complementary with Java
