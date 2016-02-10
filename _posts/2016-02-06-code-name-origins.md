@@ -40,6 +40,7 @@ Source: http://www.infoworld.com/article/2653798/application-development/javascr
 
 Classification: practical / domain reference
 
+
 ## Poise
 
 Origin: Thematically related to "Balanced" (the name of company that the author was working at, at the time, and it was unclear how related this would be to their brand). Unlikely to overlap with other things in the namespace. Available toplevel domain, available name on pypi and rubygems and npm. Found by thesaurus search for "balance". The only major name collision at the time was an australian tampon manufactuer. No, you are not legitimately confused.
@@ -47,6 +48,7 @@ Origin: Thematically related to "Balanced" (the name of company that the author 
 Source: [coderanger](https://twitter.com/kantrn)
 
 Classification: practical / origin reference
+
 
 ## Java
 
@@ -56,6 +58,7 @@ Source: [java](http://www.javaworld.com/article/2077265/core-java/so-why-did-the
 
 Classification: practical / random
 
+
 ## Hadoop
 
 Origin: The name of the author's child's stuffed elephant, which was easy to pronounce and to google
@@ -63,6 +66,7 @@ Origin: The name of the author's child's stuffed elephant, which was easy to pro
 Source: [quora](https://www.quora.com/Whats-the-origin-of-the-name-Hadoop)
 
 Classification: practical / random
+
 
 ## Asgard (Netflix)
 
@@ -72,6 +76,7 @@ Source: [asgard](https://github.com/Netflix/asgard)
 
 Classification: wordplay / domain reference
 
+
 ## Python
 
 Origin: Guido was reading “Monty Python's Flying Circus” and "needed a name that was short, unique, and slightly mysterious"
@@ -79,6 +84,7 @@ Origin: Guido was reading “Monty Python's Flying Circus” and "needed a name 
 Source: [faq](https://docs.python.org/2/faq/general.html)
 
 Classification: practical / random
+
 
 ## Ruby
 
@@ -88,6 +94,7 @@ Source: [faq](http://ruby-doc.org/docs/ruby-doc-bundle/FAQ/FAQ.html)
 
 Classification: random
 
+
 ## Django
 
 Origin: Named after jazz musician [Django Reinhardt](https://en.wikipedia.org/wiki/Django_Reinhardt), because the framework that Django was extracted from, [Ellington](http://www.ellingtoncms.com/) was named after a jazz musician because Adrian Holovaty is a jazz fan.
@@ -96,6 +103,7 @@ Source: [django](http://www.djangobook.com/en/2.0/chapter01.html#django-s-histor
 
 Classification: random / wordplay
 
+
 ## PIP
 
 Origin: "python installs packages"
@@ -103,6 +111,7 @@ Origin: "python installs packages"
 Source: [pip](https://www.reddit.com/r/Python/comments/3a1cht/ask_rpython_why_was_pip_named_pip/)
 
 Classification: practical / domain reference
+
 
 ## Halite
 
@@ -118,6 +127,7 @@ Origin: [resetexistence](https://twitter.com/resetexistence) Wanted to name it "
 
 Classification: wordplay / domain reference
 
+
 ## Ansible
 
 Origin: Named after Orson Scott Card's instantaneous communications device (which in turn was named after Le Guin's, but this name was a reference to the reference, not to the true source material- a single-layer symlink)
@@ -126,7 +136,8 @@ Source: [ansible](https://en.wikipedia.org/wiki/Ansible_(software))
 
 Classification: literary reference / domain reference
 
-## Postgress
+
+## PostgresSQL
 
 Origin: Is a joke on / reference to Ingres, a database. Before SQL, postgres was the "post-ingress" database. Then the name was changed name to PostgreSQL when they added sql querying (that was a non-universal competitive feature at the time)
 
@@ -151,6 +162,7 @@ Origin: "Mez" is the part-of + backwards the usernames of two of my friends who 
 Source: me
 
 Classification: domain reference
+
 
 ## Poltergeist
 
