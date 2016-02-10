@@ -14,6 +14,24 @@ Source: ["Just curious- what is the origin of the name "cucumber" for cucumber?"
 Classification: random
 
 
+## Reversey
+
+Origin: "A homophone of the name of the game implemented (Reversi) while hilariously spelling it as if it were an adjective"
+
+Source: [conversation with zdavis](http://zackmdavis.net/blog/)
+
+Classification: wordplay / domain reference
+
+
+## pyrst
+
+Origin: Contains the concatenation of the Python and Rust file extensions (the code being two hours of hacking to sort-of expose a specialization of Rust's collections::BTreeMap to Python via FFI), while being pronounceable as a homophone of an English word ("pierced")
+
+Source: [conversation with zdavis](http://zackmdavis.net/blog/)
+
+Classification: wordplay / domain reference
+
+
 ## Javascript
 
 Origin: Named to make it clear that it was complementary with Java
@@ -102,7 +120,7 @@ Classification: wordplay / domain reference
 
 ## Ansible
 
-Origin: Named after Orson Scott Card's instantaneous communications device
+Origin: Named after Orson Scott Card's instantaneous communications device (which in turn was named after Le Guin's, but this name was a reference to the reference, not to the true source material- a single-layer symlink)
 
 Source: [ansible](https://en.wikipedia.org/wiki/Ansible_(software))
 
@@ -116,13 +134,15 @@ Source: [history](http://www.postgresql.org/about/history/)
 
 Classification: wordplay / domain reference
 
+
 ## Mezzanine
 
 Origin: a reference to the project [mez](https://github.com/compwron/mez) a predecessor with some of the same aims
 
-Source: "cause your Zendo project which inspired me was called "mez" and I like my project names to be English words
+Source: [conversation with zdavis](http://zackmdavis.net/blog/) "(Because the) Zendo project which inspired me was called "mez" and I like my project names to be English words
 
 Classification: wordplay / domain reference
+
 
 ## [Mez](https://github.com/compwron/mez)
 
@@ -139,6 +159,7 @@ Origin: phantomJS driver for capybara (phantom and poltergeist are thematically 
 Source: [poltergeist](https://github.com/teampoltergeist/poltergeist)
 
 Classification: wordplay / domain reference
+
 
 ## Konacha
 
