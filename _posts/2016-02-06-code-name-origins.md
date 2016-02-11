@@ -5,7 +5,7 @@ tags:
  - culture
 ---
 
-## mayara
+## Mayara
 
 Origin: PHP silex framework named after [MC Mayara](https://t.co/LuDuXhnQgO)
 
