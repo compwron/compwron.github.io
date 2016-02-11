@@ -2,8 +2,36 @@
 layout: post
 title: "Code Name Origins"
 tags:
- -
+ - culture
 ---
+
+## mayara
+
+Origin: PHP silex framework named after [MC Mayara](https://t.co/LuDuXhnQgO)
+
+Source: [tweet1](https://twitter.com/anasofiapaixao1/status/697595745357189120) [tweet2](https://twitter.com/anasofiapaixao1/status/697596326725476352)
+
+Classification: random
+
+
+## [Jindy](https://github.com/irenical/jindy)
+
+Origin: "Conceived for killing our JNDI use. We had 2 ways of (mis)spelling it: jnidi (zhuh-nee-dee) and jindy. Jnidi won in day-to-day conversation.Author of the library always liked jindy best though, and so picked that one as the name"
+
+Source: [tweet1](https://twitter.com/anasofiapaixao1/status/697594936762503168) [tweet2](https://twitter.com/anasofiapaixao1/status/697594201656193024)
+
+Classification: wordplay / domain reference
+
+
+## Mossy
+
+Origin: "Merchant Operating System Sync Service" (Breadcrumb Point of Sale by Groupon)
+
+Source: internal github
+
+Classification: wordplay / domain reference
+
+
 
 ## Cucumber
 
@@ -180,3 +208,13 @@ Origin: A type of green tea (related to what it does- it is a Rails engine that 
 Source: [konacha](https://github.com/jfirebaugh/konacha)
 
 Classification: wordplay / domain reference
+
+
+##
+
+Origin:
+
+Source:
+
+Classification:
+
