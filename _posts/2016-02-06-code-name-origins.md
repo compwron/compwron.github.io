@@ -10,9 +10,9 @@ I'm interested in the origins of the names of code projects, from libraries to l
 
 ## Mayara
 
-Origin: PHP silex framework named after [MC Mayara](https://t.co/LuDuXhnQgO)
+Origin: PHP silex framework named after [MC Mayara](https://t.co/LuDuXhnQgO) in homage to all the times her songs have played in the office's tiny stereo pompously named RVO - Rádio Voz do Operário
 
-Source: [tweet1](https://twitter.com/anasofiapaixao1/status/697595745357189120) [tweet2](https://twitter.com/anasofiapaixao1/status/697596326725476352)
+Source: [tweet1](https://twitter.com/anasofiapaixao1/status/697595745357189120) [tweet2](https://twitter.com/anasofiapaixao1/status/697596326725476352) [tweet3](https://twitter.com/anasofiapaixao1/status/697603446682337280)
 
 Classification: random
 
