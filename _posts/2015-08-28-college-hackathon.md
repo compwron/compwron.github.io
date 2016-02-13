@@ -53,7 +53,7 @@ No seriously, even more than that.
 
 You probably know this already, but lots of college students are highly motivated by food. Keep the food somewhere where you have to actually enter the hackathon area in order to get it.
 
-Pizza is cheap. Do pizza. Make sure that special dietary needs are satisfied- vegetarian, gluten, etc. (You can have an optional registration form field for this)
+Pizza is cheap. Do pizza. Make sure that special dietary needs are satisfied- vegetarian, gluten, etc. (You can have an optional registration form field for this) If money isn't limited, get something better than pizza. :)
 
 Never make the attendees wait to eat the food in order for your speaker to finish a presentation. Just give the presenter more time later. Everyone will be happier.
 
@@ -118,3 +118,4 @@ It can be very hard to work when surrounded by hubbub. Make sure that there are 
 ## Bibliography
 
 - [Quora](https://www.quora.com/Is-there-a-list-of-all-the-college-hackathons-happening-in-the-2013-2014-school-year)
+- [MLH](http://news.mlh.io/hackathon-guides-for-parents-and-administrators-09-10-2015)
