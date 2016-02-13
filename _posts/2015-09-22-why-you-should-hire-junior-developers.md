@@ -5,11 +5,11 @@ tags:
  -
 ---
 
-## Getting started
+## Junior developers are very useful
 
 # How to recognize a junior developer
 
-A developer who has only had one or zero development jobs previously, for less than a year or so total. Maybe they're coming from a college degree, a code bootcamp, or making a career transition into development from a related field.
+A developer who has only had one or zero development jobs previously, for less than a year or so total. Maybe they're coming from a college degree, a code bootcamp, another area of the tech industry, or are making a career transition into software development from a different field.
 
 
 # "Junior" can mean so many things
@@ -24,7 +24,17 @@ A developer who has only had one or zero development jobs previously, for less t
 
 ## Why hire a junior developer?
 
-# They turn into senior developers (surprisingly quickly)
+# They ask "Why?"
+
+Not only do they ask why, they ask 'why' better than more-senior developers, because explaining to them they naturally need more root-cause explanation.
+
+"Delegate to juniors. they are wonderful people. They ask hard questions. They bring new insight into whats going on." - [@DivineOps](https://twitter.com/divineops) at [DevOpsDays Silicon Valley 2015](http://www.devopsdays.org/events/2015-siliconvalley/)
+
+Having to justify (and research) the decisions made years ago frequently gives a developer more and better insight into those decisions, and also leads naturally to ideas for what to do instead.
+
+Listen to yourself say "But when I have time we'll change it to X" and then tell the junior developer to implement it, with daily check-ins and access to a more experienced team member, in order to help them explore without getting lost in the wilderness.
+
+# Juniors turn into senior developers (surprisingly quickly)
 
 Train them the way you want them. Surprisingly soon they'll be owning features, running design meetings, and arguing about scope creep. Corollary: if your company has messed-up practices, your junior developer might not figure that out as soon as a more experienced hire would.
 
@@ -36,10 +46,8 @@ They will ask for more to do, because they want to get better at what they are d
 
 Corollary: As the boss/employeer/mentor, you have to be careful to not ask for things that you shouldn't, because they might try to do them. "Can you do it by tomorrow?" "Sure! (if I stay until 2am and flake on plans with my friends and get sick because I haven't slept but This Is How Software Works, Right?"
 
+"Don't burn your candle at both ends: burn a space-filling fractal candle at every end at once." - [@popmaada](https://twitter.com/popmaada)
 
-# They ask "Why?"
-
-Having to justify (and research) the decisions made years ago frequently gives you better insight into them and also gives you ideas for what to do instead. Listen to yourself say "But when I have time we'll change it to X" and then tell the junior developer to implement it (and check in with you daily, of course)
 
 # They're (relatively) cheap
 
@@ -70,11 +78,11 @@ You've been meaning to look into that one weird exception that you saw two weeks
 - "You will need to separate your self worth i.e. ego from your code. You will need to manage that nagging sense you are not good enough." [EricBrooke](https://ericbrooke.wordpress.com/2014/03/31/surviving-as-junior-developer/)
 - "A good junior dev stands out from his or her peers because of an excitement for creating stuff." (but don't be super annoying about it) [jarenthenerd](http://www.jaredthenerd.com/2013/05/what-makes-good-developer.html)
 - "Join your local meetup group" This is where the people who care about doing what you want to do, are. [learnwithjeff](http://www.learnwithjeff.com/blog/2012/08/21/how-to-get-a-job-as-a-developer-in-less-than-six-months/)
-- "The second I hear something that even smells like "that's not worth my time" is the second they get their first reprimand." [Jesse Farmer, Dev Bootcamp co-founder](https://www.quora.com/What-is-expected-of-a-junior-back-end-web-developer)
+- "The second I hear something that even smells like "that's not worth my time" is the second they get their first reprimand.  If they get huffy or arrogant about it I won't even need to pull rank -- I'll just ask them a series of questions which will illustrate to them and everyone around that there are a hundred things in this task that hadn't even occurred to them.  The engineers who have the opposite attitude, who seek out the value in a task without needing it to be spelled out in fractal-like detail, are precisely the ones who make brilliant junior engineers." [Jesse Farmer, Dev Bootcamp co-founder](https://www.quora.com/What-is-expected-of-a-junior-back-end-web-developer)
 - "There's an exception that pops up a few times a week.  It doesn't appear to be causing major harm -- famous last words -- but nobody has had time to fix it.  Can you investigate it, fix it, document it, and write a regression test for it?" (Jesse Farmer)
 - "If you have to complete a code challenge, make sure it's the best code you've ever written. Even if it's a trivial task, things like full test coverage and demonstrating that you know some OOP best practices will give you a better chance at an interview." [mildavw](https://news.ycombinator.com/item?id=7695601)
 
-## Snippets
+## Snippets & references
 
 - "At that rate, you can give a junior developer a 10% raise every year for 3 years at the end of which you'd have an experienced senior employee who's been with you that long and is still costing less than a new senior hire." [OnStartups](http://onstartups.com/tabid/3339/bid/87890/Startups-Stop-Trying-To-Hire-Ninja-Rockstar-Engineers.aspx)
 - "I like to think of questions as a junior developer’s superpower." [NewRelic](https://blog.newrelic.com/2014/04/23/better-junior-developer/)
@@ -83,6 +91,11 @@ You've been meaning to look into that one weird exception that you saw two weeks
 - "For most products, seeking out rockstar senior engineers is like hiring Picasso to paint your apartment" (Avid Flombaum)
 - "But the majority of work being done on a typical web application does not require a team full of PhD's with 10 years experience, making it no surprise that senior engineers quickly get bored and seek out other opportunities. By hiring junior developers and ensuring they're getting the continual training and development that they need, you can ensure that they stay engaged and derive as much personal and professional value out of your company as your company derives from them." [OnStartups](http://onstartups.com/tabid/3339/bid/87890/Startups-Stop-Trying-To-Hire-Ninja-Rockstar-Engineers.aspx)
 - "Companies can avoid the long, drawn out search for that needle in a hay stack developer by hiring a more junior candidate and training and molding them into their ideal developer." [WorkBridge](http://www.workbridgeassociates.com/blog/posts/2014/03/21/workbridge-orange-county-junior-developer-mentor-cto)
+- "In return for your generosity, I will do everything in my power to make it not have been generosity."[Company Loyalty](http://zackmdavis.net/blog/2015/10/company-loyalty/)
+- ["An argument for hiring junior developers (from a conversation I had with @kamalmarhubi just now) -b0rk"](https://twitter.com/b0rk/status/621922353757470720)
+- "Delegate to juniors. they are wonderful people. They ask hard questions. They bring new insight into whats going on."
+- [@DivineOps](https://twitter.com/divineops) at [DevOpsDays Silicon Valley 2015](http://www.devopsdays.org/events/2015-siliconvalley/)
+- ["Why companies suck at recruiting programmers"](https://medium.com/@2Flt/why-companies-suck-at-recruiting-programmers-f31ea78463dc?imm_mid=0dc37e&cmp=em-webops-na-na-newsltr_20151113#.xlutj1dgq)
 
 
 ------
