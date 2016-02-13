@@ -121,8 +121,8 @@ Knowledge-sharing: Really the only knowledge sharing there was, was 1. presentat
 
 ## Other sources:
 
-- [Groupon](https://engineering.groupon.com/2015/events/4-reasons-geekon-our-global-internal-hackathon-rocks-at-groupon/)
-- ThoughtWorks on [Enterprise Hackathons](http://www.thoughtworks.com/insights/blog/hackathons-enterprise) (short, but not terrible)
+- [Groupon](https://engineering.groupon.com/2015/events/4-reasons-geekon-our-global-internal-hackathon-rocks-at-groupon/) [and tweet](https://twitter.com/GrouponJobs/status/623173465688768512)
+- ThoughtWorks on [Enterprise Hackathons](http://www.thoughtworks.com/insights/blog/hackathons-enterprise) (short, but not terrible) and [some principles](https://medium.com/featured-insights/hackathons-for-the-enterprise-c18a9c130fb4)
 - [Howto Host a Hackathon](http://www.brightidea.com/blog/how-to-host-a-successful-hackathon/) (Applicable in the planning stages, but different )
 - [7 ways hackathons make AddThis a better company](https://www.addthis.com/blog/2015/05/21/7-ways-hackathons-make-us-a-better-company/#.VdjcYlNViko)
 - [Likeable Local Hackathon](http://www.inc.com/dave-kerpen/3-reasons-your-business-should-host-a-hackathon.html)
@@ -131,6 +131,7 @@ Knowledge-sharing: Really the only knowledge sharing there was, was 1. presentat
 - [Quora thread](https://www.quora.com/What-companies-have-regular-hackathon-hack-days)
 - [Facebook/Uber](https://medium.com/@pedramkeyani/hacking-company-culture-1daa3be1d769)
 - [PayPal](https://www.fastcompany.com/3029885/why-you-should-probably-host-a-hackathon)
+- [Pivotal](http://blog.pivotal.io/big-data-pivotal/news/hacking-apache-ambari-for-open-data-platform-initiative)
 
 
 ## Some things I worked on:
