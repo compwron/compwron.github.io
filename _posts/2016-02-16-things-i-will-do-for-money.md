@@ -32,11 +32,12 @@ None of these are what I would consider market-competitive prices. Probably you 
 - Go on one date in a coffee shop convenient for me to get to, for about half an hour, with a stranger (not an existing acquaintance or friend) whose name and face I am provided with beforehand. $500
 - Walk a dog once $300
 - Attend martial arts classes $500 per class
-- Paint your nails with one regular color per nail, out of colors that I or your currently posses $10 + $50/hr of transit time
+- Paint your nails with one regular color per nail, out of colors that I or your currently possess $10 + $50/hr of transit time
 - Sniff you and tell you what I think of your body odor / cologne $20
 - 1 hour ramble on how I think you could use twitter in order to learn interesting things and listen to interesting people $500
 - Sit around and color things with you $10/hr
 - Eat one olive $50
+- One hour of walking around Golden Gate Park and photographing you with a DSLR for fancy profile pics $100
 
 ## Code
 
