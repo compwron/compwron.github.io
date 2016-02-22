@@ -5,28 +5,40 @@ tags:
  -
 ---
 
-## Brag pages
+## Brag pages / OSS Listing pages
 
-- [Twilio](https://www.twilio.com/open-source)
-- [Google](https://developers.google.com/open-source/projects?hl=en)
-- [Facebook](https://code.facebook.com/projects/)
-- [Netflix](https://netflix.github.io/)
-- [Apple](http://www.apple.com/opensource/)
 - [Apache](http://www.apache.org/)
+- [Apple](http://www.apple.com/opensource/)
+- [Facebook](https://code.facebook.com/projects/)
+- [Google](https://developers.google.com/open-source/projects?hl=en)
 - [IBM](https://developer.ibm.com/open/projects/)
-- [Square](ttp://square.github.io/)
 - [Linkedin](http://linkedin.github.io/)
+- [Microsoft](https://microsoft.github.io/)
+- [Netflix](https://netflix.github.io/)
+- [Square](http://square.github.io/)
+- [Twilio](https://www.twilio.com/open-source)
 - [Twitter](https://engineering.twitter.com/opensource)
 
 
-## Blogs
+## Engineering Blogs
 
-- [Groupon](https://engineering.groupon.com/category/open-source/)
+- [Apple Swift](https://developer.apple.com/swift/blog/)
+- [Facebook](https://code.facebook.com/posts/)
 - [Google](http://google-opensource.blogspot.com/)
-- [Linkedin](https://engineering.linkedin.com/tags/open-source)
+- [Groupon](https://engineering.groupon.com/category/open-source/)
+- [IBM Engineering](https://www.ibm.com/developerworks/community/blogs/Engineers?lang=en)
+- [Linkedin](https://engineering.linkedin.com/blog)
+- [Linkedin](https://engineering.linkedin.com/open-source)
+- [Netflix](http://techblog.netflix.com/)
+- [Spotify](https://labs.spotify.com/)
+- [Square](https://corner.squareup.com/)
+- [Twilio](https://www.twilio.com/engineering/)
+- [Twitter](https://blog.twitter.com/engineering)
 
 
 ## Related:
 
+- [A showcase of organizations showcasing their open source projects (on github)](https://github.com/showcases/open-source-organizations)
 - [opensource.com](http://opensource.com/resources/organizations)
-- [opensource.sys-con](http://opensource.sys-con.com/)
+- [Opensource Magazine](http://opensource.sys-con.com/)
+
