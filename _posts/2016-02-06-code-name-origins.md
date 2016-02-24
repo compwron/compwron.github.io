@@ -8,6 +8,16 @@ tags:
 I'm interested in the origins of the names of code projects, from libraries to languages. I have a theory that many of them are based on wordplay about their domain and other libraries that they interface with. The naming of these things is a usually-unnoticed reference to events not known by the majority of people who use them every day. [Tell me about yours!](https://twitter.com/compiledwrong/status/697220859161739264) No code is too big or too small.
 
 
+## [Guten Tag](https://github.com/arrdem/guten-tag)
+
+Origin: "Good tags for a good day!" i.e. "guten tag" [which means](https://en.wiktionary.org/wiki/guten_Tag) "I wish you a good day" in German. "Tag" is also an english word which is used commonly in computer science to mean a marker with additional metadata (i.e. tagging a build with version information). Here it is used to mean "tagging" a piece of data with a datatype in order to prevent losing the type information. From the [readme:](https://github.com/arrdem/guten-tag/blob/master/README.md) "The solution I came up with was to hack out a new class which behaves just like the above tag prefixed map when you seq it and thus for core.match, but which keeps the tag out of the way"
+
+Source: [github](https://github.com/arrdem/guten-tag)
+
+Classification: Domain reference, wordplay (multilingual)
+
+Credit: [zdavis](http://zackmdavis.net) for pointing out how good this one was :)
+
 ## Mayara
 
 Origin: PHP silex framework named after [MC Mayara](https://t.co/LuDuXhnQgO) in homage to all the times her songs have played in the office's tiny stereo pompously named RVO - Rádio Voz do Operário
