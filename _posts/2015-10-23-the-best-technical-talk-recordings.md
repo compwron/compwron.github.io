@@ -40,3 +40,4 @@ This is an inherently incomplete list of talks that I personally think are both 
 - [How to Stop Hating Your Test Suite](http://confreaks.tv/videos/rubyconf2015-how-to-stop-hating-your-test-suite), Justin Searls, RubyConf 2015
 - [How does Bundler work, anyway?](http://confreaks.tv/videos/rubyconf2015-how-does-bundler-work-anyway), Andre Arko, RubyConf2015
 - [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc), Adam Jacob, ChefConf 2015
+- [Easy rewrites with ruby and science](https://www.youtube.com/watch?v=kgDqUHWVw4A), Jesse Toth, RubyConf2014
