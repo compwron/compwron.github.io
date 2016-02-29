@@ -278,40 +278,37 @@ We ran into a guy on the street who stopped us and talked about screens being no
 - harvard, brilliant linguist using computers to translate languages.
 - we did fortran, we did cobol, 86 years old and I lose words. "no one cares."
 - "So I called a friend up, and I said PLEASE if you know where the lesbians are, TAKE ME"
-- "i built a harpsichord"
-- estate tax for the apartment,
-- lawyer!
-- thea spire - paralyzed, patient therapist, edie ath genius
-- "I was so despondent about ever having a life that I wanted to have" *when she went to the therapist
-- "my job as a awyer was to put my michigas aside..."
-- "I, like everybofy here-"
+- "O built a harpsichord"
+- She had to pay a huge estate tax for the apartment (which was much more valuable than when they bought it) because their marriage was not legally recognized in the US
+- Thea Spire - paralyzed, patient therapist, described her wife as a "math genius"
+- "I was so despondent about ever having a life that I wanted to have" when she went to the therapist (the therapist whose widowed wife she later represented in front of the Supreme Court)
+- "My job as a lawyer was to put my michigas aside..." (MITCH-ee-gahs) what is that?
+- "I, like everybody here-" This is such a strange thing to say- it tries to establish common ground but I suspect that it actully just makes the people who do not share the thing, sad.
 
 
 ## genentech
 
-just a pitch
+just a pitch for their company. :/ they are cool, but come on.
 
 
 ## Ramona, Decalara
 
-- Future of ed tech
-- for "well I wont tell you how long" ageism?
-- run 13 miles a day to sit in calss and be bred for six hours
-- military
-- she has amazing glasses
-- the hard part was- when i woke u from teh 18 moths coma, blind
-- trying to survive
-- all these teeth are porcelin and titanium
-- "beautiful frankenstein" scifi retelling?
-- nice moving slides, pointer, how do?
-- product eclaira, virtual reality
-- 1.6 million teachers in mexico
-- the digital divide- who will be the victim of technology?
-- "the sum of human knowledge can be had on your phone" I think that's untrue, but the bottom quarter is still pretty useful and the - rest is cmoing as we can
-- "I was in india on the edge of the city and there was a guy riding a waterbuffalo injust his underwear, and i took out my iphone - and took a photo of him, and he dug in his underear- and i thought, wow this is going to be interesting- and he takes outhis phone - and takes a photo of me!" (audience applaudes)
-- better algorithms to find shrapnel fragments in teh brain, payback the bush family for my education
-- declara - adult learning
-- the total archaicism of whiteboard photos being the thing that represents smart and innocation
+- Future of educational tech
+- When she says, "for- well I won't tell you how long-" is that ageism? Implying that long-ness is embarassing and not to be admitted to?
+- She would "run 13 miles a day to be able to sit in class and be bored for six hours"
+- She was in the military
+- She has amazing glasses
+- "The hard part was- when I woke up from the 18 month coma blind"
+- "All these teeth are porcelain and titanium"
+- She has nice moving slides, manipulated with a pointer. What software is this?
+- The product is Eclaira, and it involves virtual reality. I wish that we had wifi / reception here.
+- 1.6 million teachers in mexico use them.
+- The digital divide is about- who will be the victim of technology?
+- "The sum of human knowledge can be had on your phone" I think that's untrue, but the most-used bottom quarter is still pretty useful and the rest is coming as we can.
+- "I was in India on the edge of the city and there was a guy riding a water buffalo in just his underwear, and I took out my iphone and took a photo of him, and he dug in his underwear- and I thought, wow this is going to be interesting- and he takes out his phone and takes a photo of me!" (audience applauds)
+- "I was working on finding better algorithms to find and extract shrapnel fragments in the brain, to pay back the Bush family for my education"
+- Declara is focused on adult learning
+- Shoutout to the total archaicism of whiteboard photos being the thing that represents smart and innovation
 
 
 ## apple
@@ -319,25 +316,23 @@ just a pitch
 - wishpot
 - polyvore
 - wechat lookup nearby people
-- black turtlenect lol
-- apple watch
+- She is wearing a black turtleneck. I wonder whether it's a deliberate visual reference to Jobs?
+- Slides of the apple watch and what it can do
 
 
-
-## intro
+## Intro
 
 - good intro video
-- high fives
-- it turns out that you do! you exist!
-- it is... glorious.
-- crowded, booths upstairs.
-- sold out theater
-- we allow dogs onstage!
-- we are all about intersectioanlity
-- letter from obama
-- tweet at #lwtoptimize with suggestions
-- overlay intro video
-- i have the weirdest headache
-- kippier clothiers (tailored suits for women)
+- they had the audience high five each other
+- "it turns out that you do! you exist!""
+- It is very crowded. There are booths upstairs.
+- the theater is sold out.
+- "We allow dogs onstage!"
+- "We are all about intersectionality"
+- Apparently LWT got a letter from president Obama, which the organizer showd a slide of and also read out loud.
+- tweet at #lwtoptimize with suggestions for how to improve the conference
+- The intro video had an overlay section which was pretty cool. (The faces of people, with a transparent overlay of the googling that they were doing and the results that they were getting)
+- I have the weirdest headache
+- The MCs recommend [kippier clothiers](http://www.kipperclothiers.biz/) (tailored suits for women)
 
 
