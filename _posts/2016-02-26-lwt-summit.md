@@ -253,32 +253,32 @@ We ran into a guy on the street who stopped us and talked about screens being no
 - what are the areas that you must protect? if youre a corporate security office,r, CIO, you need NERC CIP standards- must look atif - youre a CIP
 - Executive Womens forum- mid to high level
 - SANS
-- idaho national labs- hubs- free online course on industrial security- reach out to the spaker to get the ilnk
-- "create teh space."
-- electroferocious.com
+- Idaho national labs- hubs- free online course on industrial security- reach out to the spaker to get the ilnk
+- "Create the space."
+- [electroferocious.com](http://electroferocious.com/efweb/)
 
 
 # edie windsor scholarship award and panel
 
-- "how do you feel?" "as soon as I stop crying, I'll be fine"
-- "when i came in, fortran had already been created, but there were very few compilers, so one of th ethings that I woekd on was - those compilers"
-- got a masters in math, worked as a secretary at ibm to pay the bills
-- very old lady discussinc complicated math on stage is amazing.
-- by accident, my thesis ended up being original
-- we went to the library- they had my thesis, they were getting requests for it- they had to get her permission to send it out, and - i said yes but first give usfive minutes to fix it
+- "How do you feel?" "as soon as I stop crying, I'll be fine"
+- "When I came in, Fortran had already been created, but there were very few compilers, so one of th ethings that I woekd on was - those compilers"
+- She got a masters degree in math, and worked as a secretary at IBM in order to pay the bills
+- Watching a very old lady discussing complicated math on stage is amazing. It gives me a great feeling.
+- "By accident, my thesis ended up being original"
+- "We went to the library- they had my thesis, they were getting requests for it- they had to get their permission to send it out, and - I said yes but first you have to give us five minutes to fix it"
 - ibm "corporate came down"
 - ibm supervisor, can you get me machine time tonight,
-- "i was a hero because i had all these smart people in cucbicles who "
-- my realtalent was that I loved talent- people worked for me like they hadnt been working and I made sure that everyone got full - credit.
-- "fnally corporate realized that they needed to upgrade us all"
-- "i dont even remember the words that they used, but it turns out that internet was what they were talking about"
-- "so i would call them back a couple days later and said tell me again, why this is important."
-- "I knew all of them very well and noen of them were lesbians. I lied all the time. I never told the truth."
-- "one half of one of the greatest love stories there has evern been. the documentary opened in this theater"
-- harvard, brilliant linguist using computers to translate languages.
-- we did fortran, we did cobol, 86 years old and I lose words. "no one cares."
-- "So I called a friend up, and I said PLEASE if you know where the lesbians are, TAKE ME"
-- "O built a harpsichord"
+- "I was a hero because i had all these smart people in cubicles who [did good work]"
+- "My real talent was that I loved talent- people worked for me like they hadn't been working, and I made sure that everyone got full credit."
+- "Finally, corporate realized that they needed to upgrade us all" (as in teaching them new skills)
+- "I don't even remember the words that they used, but it turns out that internet was what they were talking about"
+- "So I would call them back a couple days later and said tell me again, why this is important."
+- "I knew all of them [coworkers] very well and none of them were lesbians. I lied all the time. I never told the truth."
+- "One half of one of the greatest love stories there has ever been. The documentary about it opened in this theater"
+- Harvard, brilliant linguist using computers to translate languages.
+- "We did Fortran, we did COBOL, we did- ...I'm 86 years old and I lose words." (shouted from the audience, lovingly and to applause) "No one cares! [that she loses words"
+- "So I called a friend up, and I said PLEASE if you know where the lesbians are, TAKE ME" (long ago, in New York)
+- "I built a harpsichord"
 - She had to pay a huge estate tax for the apartment (which was much more valuable than when they bought it) because their marriage was not legally recognized in the US
 - Thea Spire - paralyzed, patient therapist, described her wife as a "math genius"
 - "I was so despondent about ever having a life that I wanted to have" when she went to the therapist (the therapist whose widowed wife she later represented in front of the Supreme Court)
