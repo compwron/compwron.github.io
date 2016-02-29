@@ -18,6 +18,16 @@ Classification: Domain reference, wordplay (multilingual)
 
 Credit: [zdavis](http://zackmdavis.net) for pointing out how good this one was :)
 
+
+## "Candler" aka "Global Voucher Inventory Service"
+
+Origin: It is named after Asa Candler who came up with the idea for the first voucher in 1887.
+
+Source: Groupon internal chat
+
+Classification: Domain reference
+
+
 ## Mayara
 
 Origin: PHP silex framework named after [MC Mayara](https://t.co/LuDuXhnQgO) in homage to all the times her songs have played in the office's tiny stereo pompously named RVO - Rádio Voz do Operário
