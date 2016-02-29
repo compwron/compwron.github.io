@@ -15,3 +15,4 @@ This list is not comprehensive. [Ask me anything.](https://twitter.com/compiledw
 - You should use a person's preferred pronouns to refer to them, both to their face and to others.
 - Lockpicking is a fun sport and should not be illegal, as long as you only pick locks that you own, or have received permission from their owners to pick them
 - Do not prosecute security researchers who disclose issues responsibly
+- Marijuana should be legal for medical and recreational use
