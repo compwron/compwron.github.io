@@ -5,14 +5,18 @@ tags:
  -
 ---
 
-THese are my notes (in reverse order, most recent up top) from LWT summit, which was in the Castro Theater.
+These are my notes (in reverse order, most recent up top) from LWT summit, which was in the Castro Theater.
+
 
 ## Impressions and Feelings
 
-At several points during the day, I felt overhelmed with the amazingness of beign surrounded by these people. Giddy. Having a friend with me was helpful.
+At several points during the day, I felt overhelmed with the amazingness of being surrounded by these people. Giddy. Having a friend with me was helpful.
 
+## Overall
 
-## podcast "call your girlfriend"
+The Lesbians Who Tech Summit was enjoyable for the company and it helped me regain a little of my dwindling inspiration; it was not technically taxing like Strangeloop. The swag was certainly great; I love my new rainbow-logsos-on-grey t-shirts.
+
+## Live recording of the podcast "call your girlfriend"
 
 - "is there any company that is doing it right, doing anything?"
 - "He said- the men and women of Company"- and they were all men.
