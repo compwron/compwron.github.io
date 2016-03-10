@@ -57,7 +57,7 @@ One of the things that I am the most proud of personally doing is creating and g
 
 1. Posting something every day and inviting comment, even when it felt silly/strained to do so.
 
-2. Sending an invite to  every person with a vaguely-female sounding first name. I worried that this could be an overreach on my part but no one has given me any flack about it whatsoever.
+2. Sending an invite to  every person with a vaguely-female sounding first name. I worried that this could be an overreach on my part but no one has given me any negative feedback about it whatsoever.
 
 
 There is so much more to say. Maybe someday.
