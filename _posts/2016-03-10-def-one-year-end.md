@@ -50,6 +50,8 @@ I have a strong memory of a page that I escalated after some quick debugging- I 
 
 I kept a daily log of what I did, which really helped me feel not-terrible even after hectic no-progresss days.
 
+I've learned a lot about the management of restaurants, employees, overtime laws, and various weird things that restaurant owners do or want that I had never considered in any way before. Thanks y'all awesome people for teaching me!
+
 
 ## Proud
 
