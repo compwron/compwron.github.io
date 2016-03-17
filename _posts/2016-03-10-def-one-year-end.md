@@ -5,7 +5,7 @@ tags:
  - company
 ---
 
-The title is a joke about ruby- it means that the method began, one year ocurred, and then the method ended.
+The title is a joke about ruby- it means that the method began, one year occurred, and then the method ended.
 
 {% highlight ruby %}
 def
