@@ -16,6 +16,8 @@ This list is not comprehensive. [Ask me anything.](https://twitter.com/compiledw
 - Lockpicking is a fun sport and should not be illegal, as long as you only pick locks that you own, or have received permission from their owners to pick them
 - Do not prosecute security researchers who disclose issues responsibly
 - Marijuana should be legal for medical and recreational use
+- Death is bad. No one should die, ever. In response to the common rebuttal "but then the earth would be overcrowded" I say- we should solve that. It is an excuse, not a reason.
+- I want to live forever. In response to the common rebuttal "wouldn't you get bored?" I say- extremely unlikely, but I look forward to finding out in person.
 
 A clarification on religion as a non-discriminatory topic:
 
