@@ -65,16 +65,16 @@
 					<h2>Project context</h2>
 					<p>
 						Rails backend
-					</p><p>several iPads per merchant
-					</p><p>$$$ per month per merchant
-					</p><p>many users (restaurant staff) for each merchant.
+					</p><p>several iPads per restaurant
+					</p><p>$$$ per month per restaurant
+					</p><p>many users (restaurant staff) for each restaurant.
 					</p>
 				</section>
 
 				<section>
 					<h2>iOS App Versions</h2>
 					<p>
-					We MUST support anything that the merchant does
+					We MUST support anything that the restaurant does
 					</p><p>Including forgetting/refusing to upgrade
 					</p>
 				</section>
@@ -83,8 +83,115 @@
 					<h2>Purposes</h2>
 					<p>
 					slow rollout (trusted partners first)
-					</p><p>load testing
+					</p><p>load testing (forgot an index?)
+					</p><p>only for iOS versions that can handle the new behavior
+					</p><p>server-side work-around for bugs in specific old app versions
+					</p><p>?
+					</p>
+				</section>
+
+				<section>
+					<h2>Database</h2>
+					<p>Features persist and have state, that can be manipulated
 					</p><p>
+					</p>
+				</section>
+
+				<section>
+					<h2>Type and instance</h2>
+					<p>Features have attributes, which differ per restaurant</p>
+					<pre><code class="ruby" data-trim contenteditable>
+create_table :restaurants do |t|
+  t.string :client_version, null: false
+  # other important stuff, like name
+end
+
+create_table :feature_types do |t|
+  t.timestamps
+  t.string   :name, null: false
+  t.string   :minimum_client_version, null: false
+  t.boolean  :on_for_new_restaurants, null: false, default: false
+  t.boolean  :reversible, null: false, default: false
+end
+
+create_table :features do |t| # this could be named restaurant_features
+  t.uuid     :restaurant_id, null: false
+  t.uuid     :feature_type_id, null: false
+end
+add_index :features, [:feature_type_id]
+add_index :features, [:restaurant_id]
+				  </code></pre>
+				</section>
+
+				<section>
+					<h2>Restaurant</h2>
+					<pre><code class="ruby" data-trim contenteditable>
+class Restaurant < ActiveRecord::Base
+  include Concerns::Restaurant::TogglingClientFeatures
+  has_many :features # in the real world this was polymorphic
+  validates :client_version, format: Semantic::Version::SemVerRegexp
+end
+					</code></pre>
+				</section>
+
+				<section>
+					<h2>Toggling Concern</h2>
+					<pre><code class="ruby" data-trim contenteditable>
+module Concerns::Restaurant::TogglingClientFeatures
+  extend ActiveSupport::Concern
+
+  included do
+    after_update :update_features, if: :required_version_changed?
+  end
+
+  def initiate_features
+    enable_new_restaurants_on_features
+  end
+
+  def update_features
+    FeatureType.find_each do |feature_type|
+      feature = self.features.where(feature_type_id: feature_type.id).first_or_initialize
+      feature.update_status
+      feature.save! # in the real world, there is error handling here
+    end
+  end
+
+  private
+
+  def enable_new_restaurants_on_features
+     FeatureType.where(new_tlos_on: true).find_each do |feature_type|
+      feature = features.where(feature_type_id: feature_type.id).new
+      feature.initialize_enable
+    end
+  end
+end
+					</code></pre>
+				</section>
+
+				<section>
+					<h2>Toggling Concern</h2>
+					<pre><code class="ruby" data-trim contenteditable>
+class FeatureType < ActiveRecord::Base
+  UNSAFE_FEATURES = ['place_holder', Features::BAD_FEATURE_2]
+  scope :safe_to_enable, -> { where "name not in (?)", UNSAFE_FEATURES }
+
+  has_many :features, dependent: :destroy
+  after_update :update_feature_list, if: :minimum_client_version_changed?
+  has_enumerations_for(status: Enums::Tlo::Status)
+
+  def restaurants_on
+    Restaurant.joins(:features).where(features:
+      {feature_type_id: id, control_value: Enums::Feature::ControlValue::ENABLED})
+  end
+end
+
+					</code></pre>
+				</section>
+
+				<section>
+					<h2>Backfill data for feature</h2>
+					<p>Moving to more granular roles? # has_one => has_many
+					</p><p>You can never go back (without losing permissions data)
 					</p>
 				</section>
 
@@ -97,27 +204,6 @@
 
 
 				<!-- <section>
-					<h2>Pretty Code</h2>
-					<pre><code class="hljs" data-trim contenteditable>
-function linkify( selector ) {
-  if( supports3DTransforms ) {
-
-    var nodes = document.querySelectorAll( selector );
-
-    for( var i = 0, len = nodes.length; i &lt; len; i++ ) {
-      var node = nodes[i];
-
-      if( !node.className ) {
-        node.className += ' roll';
-      }
-    }
-  }
-}
-					</code></pre>
-					<p>Code syntax highlighting courtesy of <a href="http://softwaremaniacs.org/soft/highlight/en/description/">highlight.js</a>.</p>
-				</section>
-
-				<section>
 					<h2>List</h2>
 					<ul>
 						<li>item</li>
@@ -135,7 +221,8 @@ function linkify( selector ) {
 
 				<section>
 					<h2>Thanks</h2>
-					<p><a href="http://compwron.github.io/presentations/feature_feature/index.html">http://compwron.github.io/presentations/feature_feature/index.html</a>
+					<p><a href="http://compwron.github.io/presentations/feature_feature/index.html">compwron.github.io/presentations/feature_feature/index.html</a>
+					</p><p><a href="https://github.com/compwron/feature_feature">github.com/compwron/feature_feature</a>
 					</p><p>AMA => <a href="https://twitter.com/compiledwrong">twitter.com/compiledwrong</a></p>
 				</section>
 
