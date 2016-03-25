@@ -8,6 +8,15 @@ tags:
 I'm interested in the origins of the names of code projects, from libraries to languages. I have a theory that many of them are based on wordplay about their domain and other libraries that they interface with. The naming of these things is a usually-unnoticed reference to events not known by the majority of people who use them every day. [Tell me about yours!](https://twitter.com/compiledwrong/status/697220859161739264) No code is too big or too small.
 
 
+## [Inlein](https://github.com/hyPiRion/inlein)
+
+Origin: Wordplay on "inline" and the dominant Clojure build tool, Leiningen (executable name `lein`)
+
+Credit: [zdavis](http://zackmdavis.net) for pointing it out :)
+
+Classification: Domain reference, wordplay
+
+
 ## [Squash](https://github.com/SquareSquash/web)
 
 Origin: "A squarish bug spray" (an alliterative joke about squashing bugs)
