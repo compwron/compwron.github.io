@@ -30,6 +30,8 @@ The internal RFC process is one of the more excellent things, especially for a d
 
 Braintree internal post-mortems are really good. They go out quicky, and they go out to everyone (internally). There is root cause analysis in a google doc, sent out to everyone to read and comment on. There are "what to change so this doesn't happen." There are modifications to the runbooks, if that is relevant. There is not finger-pointing. There is not acrimony. There is "we will do it better next time" and "we will find out why".
 
+Braintree has strong roots in the pair programming and TDD practices of ThoughtWorks; at one time, ~35% of the SF office were ex-TWers.
+
 I love their "sanity spec". There are tests that check that the hashed of old database migrations have not changed. There are tests that fail the local build if there is a 'binding.pry' in the code. There are tests that check for N+1 database queries.
 
 "Open Dev" is a great draw for developers: every second Friday, work on "whatever you want." Frequently, people choose to spike out stuff related to one's current work. Many valuable features, internal tools, convenience scripts, and architectural improvements have come from open dev. Sometimes it is going to a local conference, or reading a book on advanced Postgres, or writing a technical blogpost.
@@ -40,8 +42,9 @@ I admire that Braintree revoked my email and slack tokens within two hours of my
 
 Braintree has a complex system of codebases, necessitated by the deep and astonishing domain which it adresses. I have seen how the payments processing sausage is made, and it is full of gritty complicated inexplicable crap, most of it presumably left over from bank mainframes and waterfall development. But I have been inside the Braintree codebases, and I would gladly use it in my future endeavors. What is supposed to be secure is secure; what is supposed to be tested, is tested. The domain may be mad; the code may have built up over the years; sometimes things are manges'd; and I trust the whole of it to make the money flow. Safely, quickly, responsibly, with forethought and forward planning and the house not being on fire.
 
-Why did I leave Braintree? I wasn't fired; nothing terrible happened; it was a personal choice. There are many no-fault ways to not be the best fit for a team. It also influences my decision that in San Francisco right now, a developer is employable. I am able to "go sit in a cafe and code." Sometimes you just have to go use your freedom when you have it.
+Why did I leave Braintree? I wasn't fired; nothing terrible happened; it was a personal choice. There are many no-fault ways to not be the best fit for a team, and some of them are not discoverable in the more consciously stilted setting of an interview. At the time that I left BT, SF was still a very small office, filled with the best of food and video game luxuries.
 
+My good friend who was leading a team at Breadcrumb at the time put a lot of effort into telling me about BC and having the freedom to grow as a developer, poke into every corner of every part of the code of a startup, and strongly influence architecture changes. In between jobs, I very much appreciated the ability to take a week to go sit in a cafe and code.
 
 
 ------
