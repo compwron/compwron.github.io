@@ -54,7 +54,14 @@
 					</aside>
 				</section>
 
-				<section>
+        <section>
+          <h2>What is a feature?</h2>
+          <p>
+            A feature is a thing that your codebase does that is useful to a user
+          </p>
+        </section>
+
+        <section>
 					<h2>What is a feature toggle?</h2>
 					<p>
 						It's basically an if statement. "If [some condition]... then let the user use this new functionality!"
@@ -64,8 +71,10 @@
         <section>
           <h2>Purposes</h2>
           <p>
-          slow rollout (trusted partners first)
+          gradual rollout (trusted partners first)
           </p><p>load testing (forgot an index?)
+          </p><p>forces implementation encapsulation
+          </p><p>$$ per feature (we don't do this)
           </p><p>only for iOS versions that can handle the new behavior
           </p><p>server-side work-around for bugs in specific old app versions
           </p>
