@@ -50,7 +50,7 @@
 						<small><a href="http://twitter.com/compiledwrong">@compiledwrong</a></small>
 					</p>
 					<aside class="notes">
-						This is an example speaker note
+						Slow down until the screenshots<br>
 						This presentation is not recursive, it's just about a self-referental topic, i.e. implementing a feature that is feature toggling.
 					</aside>
 				</section>
@@ -151,7 +151,7 @@
           <h2>Automatic upgrade</h2>
           <p>Some features should be enabled as soon as the app is upgraded
           </p><p>Some should wait for rollout
-          </p><p>Autorun the appropriate backfill on feature enablement!
+          </p><p>Autorun the appropriate backfill on feature enablement! (.to_sym.eval(:run_on_enable!))
           </p>
         </section>
 
@@ -164,6 +164,9 @@
             <li>database</li>
             <li>UI / API endpoint / prod rails console</li>
           </ul>
+          <aside class="notes">
+          PAUSE on screenshots before talking
+          </aside>
         </section>
 
         <section>
@@ -228,6 +231,9 @@ class Restaurant < ActiveRecord::Base
   validates :client_version, format: Semantic::Version::SemVerRegexp
 end
 					</code></pre>
+          <aside class="notes">
+          Explain polymorphic association
+          </aside>
 				</section>
 
 				<section>
@@ -330,6 +336,10 @@ end
           <h2>Lessons Learned</h2>
           <p>How do you migrate features between feature toggle systems? How do you test the migration? Backfills and intermediate comparison formats! (CSV)
           </p>
+          <aside class="notes">
+          CSV helps the non-developers help themselves, look at results, manipulate data
+          Manual comparison in Excel, Product can help you check that your progress is correct (even including new restaurant) "PMs know how to use excel"
+          </aside>
         </section>
 
         <section>
@@ -341,7 +351,8 @@ end
 
 				<section>
 					<h2>Thanks</h2>
-					<p><a href="http://compwron.github.io/presentations/feature_feature/index.html">compwron.github.io/presentations/feature_feature/index.html</a>
+					<p>Thanks, Breadcrumb team!!
+          </p><p><a href="http://compwron.github.io/presentations/feature_feature/index.html">compwron.github.io/presentations/feature_feature/index.html</a>
 					</p><p><a href="https://compwron.github.io/2015/12/10/features-of-features-with-rails.html">compwron.github.io/2015/12/10/features-of-features-with-rails</a>
           </p><p><a href="http://martinfowler.com/bliki/FeatureToggle.html">martinfowler.com/bliki/FeatureToggle.html</a>
           </p><p><a href="http://martinfowler.com/articles/feature-toggles.html">martinfowler.com/articles/feature-toggles.html</a>
