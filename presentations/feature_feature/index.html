@@ -93,7 +93,8 @@
           </p><p>many users (restaurant staff) for each restaurant.
           </p>
           <aside class="notes">
-            Granular per restaurant but not per user or per ipad
+            We are probably at least one step above paper- trackability, metrics, handwriting, memory
+            <br>Granular per restaurant but not per user or per ipad
           </aside>
         </section>
 
@@ -103,6 +104,9 @@
           "server-side work-around for bugs in specific app versions"
           </p><p>DST - iOS app reads PDT as PST? Just munge the data by 1 hour for that specific app version! (iOS fix = dev time + app approval wait)
           </p>
+          <aside class="notes">
+          Inflight data munge, not db
+          </aside>
         </section>
 
         <section>
@@ -112,6 +116,10 @@
           </p><p>features for internal users only (i.e. roles)
           </p><p>(feature) enablement vs (user) setting (the user configuring their usage of the feature)
           </p>
+          <aside class="notes">
+          Billing awareness - usually kept separate
+          Interesting possible bug- if the feature is enabled, the user configures it, and the feature is disabled, do the configurations stay? Does the feature actually become disabled?
+          </aside>
         </section>
 
         <section>
@@ -126,6 +134,9 @@
             <li>github.com/jpignata/switches</li>
             <li>github.com/balvig/chili</li>
           </ul>
+          <aside class="notes">
+          We also used rollout; pretty good but not nuanced enough for us. I've used flipper at a previous company and it was pretty good. Again, less complicated than this.
+          </aside>
         </section>
 
          <section>
@@ -137,6 +148,9 @@
           </p><p>PATCH version when you make backwards-compatible bug fixes
           </p><p>http://ruby-doc.org/stdlib-2.3.0/libdoc/rubygems/rdoc/Gem/Version.html
           </p>
+          <aside class="notes">
+          Audience question: Have you heard of semver? Have you published or worked on a library that adhered to it?
+          </aside>
         </section>
 
 				<section>
@@ -145,6 +159,9 @@
 					We MUST support anything that the restaurant does
 					</p><p>Including forgetting/refusing to upgrade
 					</p>
+          <aside class="notes">
+          It's scary to upgrade your POS; it's what the money comes through! We recommend not doing it during business hours.
+          </aside>
 				</section>
 
         <section>
@@ -153,6 +170,9 @@
           </p><p>Some should wait for rollout
           </p><p>Autorun the appropriate backfill on feature enablement! (.to_sym.eval(:run_on_enable!))
           </p>
+          <aside class="notes">
+          Reverse polarity of feature, where the feature is not having the feature
+          </aside>
         </section>
 
         <section>
@@ -182,10 +202,8 @@ end
           </p>
           <aside class="notes">
             Creating a feature from the UI lets you manipulate it IF it exists in the code. A feature that exists in the code but not on the screen, is off for all restaurants.
-            "Irreversible" data was modified in a backfill when the feature was turned on- this particularly applies to “roles” applied to users.) To make it reversible, we would have to run a reverse backfill, but we decided that would be over-engineering for now. There was no way to reverse multiple roles and keep all the data.
-            Notice the visibility into number of on/off
-            Pre-enabled means that it will turn on when the user updates the app.
-            The download is a csv
+            "Irreversible" data was modified in a backfill when the feature was turned on. To make it reversible, we would have to run a reverse xbackfill, but we decided that would be over-engineering for now.
+            The download is a CSV
           </aside>
         </section>
 
@@ -197,7 +215,7 @@ end
         </section>
 
 				<section>
-					<h2>Type and instance</h2>
+					<h2>DB schemae</h2>
 					<p>Features have attributes, which differ per restaurant</p>
 					<pre><code class="ruby" data-trim contenteditable>
 create_table :restaurants do |t|
@@ -223,7 +241,7 @@ add_index :restaurant_features, [:restaurant_id]
 				</section>
 
 				<section>
-					<h2>Restaurant</h2>
+					<h2>Restaurant.rb</h2>
 					<pre><code class="ruby" data-trim contenteditable>
 class Restaurant < ActiveRecord::Base
   include Concerns::Restaurant::FeatureToggle
@@ -237,13 +255,14 @@ end
 				</section>
 
 				<section>
-					<h2>Toggling Concern</h2>
+					<h2>FeatureToggle.rb</h2>
 					<pre><code class="ruby" data-trim contenteditable>
 module Concerns::Restaurant::FeatureToggle
   extend ActiveSupport::Concern
 
   included do
-    after_update :update_features, if: :required_version_changed?
+    after_update :update_features, if: :client_version_changed?
+    on_create :initiate_features
   end
 
   def update_features
@@ -272,7 +291,7 @@ class Feature < ActiveRecord::Base
   scope :safe_to_enable, -> { where "name not in (?)", UNSAFE_FEATURES }
 
   has_many :restaurant_features, dependent: :destroy # important!!
-  after_update :update_feature_list, if: :minimum_client_version_changed?
+  after_update :update_feature_list, if: :client_version_changed?
 
   def update_status
     if enabled? && !has_sufficient_version?
