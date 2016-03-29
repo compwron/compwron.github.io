@@ -151,6 +151,7 @@
           <h2>Automatic upgrade</h2>
           <p>Some features should be enabled as soon as the app is upgraded
           </p><p>Some should wait for rollout
+          </p><p>Autorun the appropriate backfill on feature enablement!
           </p>
         </section>
 
@@ -178,7 +179,7 @@ end
           </p>
           <aside class="notes">
             Creating a feature from the UI lets you manipulate it IF it exists in the code. A feature that exists in the code but not on the screen, is off for all restaurants.
-            "Irreversible" data was modified in a backfill when the feature was turned on- this particularly applies to “roles” applied to users.) To make it reversible, we would have to run a reverse xbackfill, but we decided that would be over-engineering for now. There was no way to reverse multiple roles and keep all the data.
+            "Irreversible" data was modified in a backfill when the feature was turned on- this particularly applies to “roles” applied to users.) To make it reversible, we would have to run a reverse backfill, but we decided that would be over-engineering for now. There was no way to reverse multiple roles and keep all the data.
             Notice the visibility into number of on/off
             Pre-enabled means that it will turn on when the user updates the app.
             The download is a csv
@@ -213,8 +214,8 @@ create_table :restaurant_features do |t|
   t.uuid     :restaurant_id, null: false
   t.uuid     :feature_id, null: false
 end
-add_index :features, [:feature_id]
-add_index :features, [:restaurant_id]
+add_index :restaurant_features, [:feature_id]
+add_index :restaurant_features, [:restaurant_id]
 				  </code></pre>
 				</section>
 
@@ -223,7 +224,7 @@ add_index :features, [:restaurant_id]
 					<pre><code class="ruby" data-trim contenteditable>
 class Restaurant < ActiveRecord::Base
   include Concerns::Restaurant::FeatureToggle
-  has_many :features # in the real world this was polymorphic
+  has_many :restaurant_features # in the real world this was polymorphic
   validates :client_version, format: Semantic::Version::SemVerRegexp
 end
 					</code></pre>
@@ -240,7 +241,7 @@ module Concerns::Restaurant::FeatureToggle
   end
 
   def update_features
-    FeatureType.find_each do |feature_type|
+    Feature.find_each do |feature_type|
       feature = self.features.where(feature_type_id: feature_type.id).first_or_initialize
       feature.update_status
       feature.save! # in the real world, there is error handling here
@@ -248,9 +249,9 @@ module Concerns::Restaurant::FeatureToggle
   end
 
   def initiate_features
-    FeatureType.where(new_restaurants_on: true).find_each do |feature_type|
-      feature = features.where(feature_type_id: feature_type.id).new
-      feature.initialize_enable
+    Feature.where(new_restaurants_on: true).find_each do |feature|
+      rfeature = restaurant_features.where(feature_id: feature.id).new
+      rfeature.initialize_enable
     end
   end
 end
@@ -285,6 +286,23 @@ end
 					</code></pre>
 				</section>
 
+        <section>
+          <h2>Autorun backfill</h2>
+          <p>Autorun the appropriate backfill on feature enablement</p>
+          <pre><code class="ruby" data-trim contenteditable>
+module FeatureManager
+  class MultipleRoles < FeatureManager::Base
+    def run_before_enable
+      @restaurant_feature.restaurant.users.each do |user|
+        next if user.roles.count > 0
+        UserRole.create! { user: user, role: user.role, foo: user.foo }
+      end
+    end
+  end
+end
+          </code></pre>
+        </section>
+
 				<section>
 					<h2>Irreversible?</h2>
 					<p>Moving to more granular roles? # has_one => has_many
@@ -303,6 +321,9 @@ end
           <h2>Lessons Learned</h2>
           <p>Quick, get rid of the "Off" button!
           </p>
+          <aside class="notes">
+          Auto backfills on feature on... why would we write a reverse if you should never turn them off? Oops, crashes based on data that doesnt fit the app.
+          </aside>
         </section>
 
         <section>
@@ -314,32 +335,9 @@ end
         <section>
           <h2>Lessons Learned</h2>
           <p>???
+          </p><p>(unknown unknowns)
           </p>
         </section>
-
-<!--         <section>
-          <h2>more slides go here</h2>
-          <p>
-          </p><p>
-          </p>
-        </section> -->
-
-
-				<!-- <section>
-					<h2>List</h2>
-					<ul>
-						<li>item</li>
-						<li>other item</li>
-					</ul>
-				</section>
-
-				<section>
-					<h2>Ordered List</h2>
-					<ol>
-						<li>item</li>
-						<li>other item</li>
-					</ol>
-				</section> -->
 
 				<section>
 					<h2>Thanks</h2>
