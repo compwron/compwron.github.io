@@ -58,17 +58,19 @@
         <section>
           <h2>What is a feature?</h2>
           <p>
-            A feature is a thing that your codebase does that is useful to a user
+            A thing that your thing (application) does, that users use, that is a coherent chunk of thing-ness
           </p>
         </section>
 
         <section>
 					<h2>What is a feature toggle?</h2>
-					<p>
-						It's a conditional statement. "If [some condition]... then let the user use this new functionality! Otherwise... don't.
+					<p>"If [some condition]... then let the user use this new functionality!" Otherwise... don't.
 					 </p><p>Not controlled by the user of the feature
            </p><p>"a technique in software development that attempts to provide an alternative to maintaining multiple sourcecode branches." https://en.wikipedia.org/wiki/Feature_toggle
           </p>
+          <aside class="notes">
+            Lets you put work in prod that is not "done" yet
+          </aside>
 				</section>
 
         <section>
@@ -78,15 +80,7 @@
           </p><p>load testing (forgot an index?)
           </p><p>encourages implementation encapsulation
           </p><p>only for iOS versions that can handle the new behavior
-          </p><p>server-side work-around for bugs in specific old app versions
-          </p>
-        </section>
-
-        <section>
-          <h2>Detour</h2>
-          <p>
-          "server-side work-around for bugs in specific old app versions"
-          </p><p>DST
+          </p><p>server-side work-around for bugs in specific app versions
           </p>
         </section>
 
@@ -104,25 +98,33 @@
         </section>
 
         <section>
+          <h2>Detour</h2>
+          <p>
+          "server-side work-around for bugs in specific app versions"
+          </p><p>DST - iOS app reads PDT as PST? Just munge the data by 1 hour for that specific app version! (iOS fix = dev time + app approval wait)
+          </p>
+        </section>
+
+        <section>
           <h2>Similar but different</h2>
-          <p>$ / feature
-          </p><p>A/B testing / experiments
-          </p><p>permissions / features for internal users only
-          </p><p>enablement vs setting
+          <p>$$ per feature
+          </p><p>A/B testing i.e. experiments
+          </p><p>features for internal users only (i.e. roles)
+          </p><p>(feature) enablement vs (user) setting (the user configuring their usage of the feature)
           </p>
         </section>
 
         <section>
           <h2>Frameworks</h2>
           <ul>
-            <li>https://github.com/FetLife/rollout</li>
-            <li>https://github.com/jnunemaker/flipper</li>
-            <li>https://github.com/mgsnova/feature</li>
-            <li>https://github.com/pda/flip</li>
-            <li>https://github.com/YelpArchive/feature_flipper</li>
-            <li>https://github.com/ckdake/setler</li>
-            <li>https://github.com/jpignata/switches</li>
-            <li>https://github.com/balvig/chili</li>
+            <li>github.com/FetLife/rollout</li>
+            <li>github.com/jnunemaker/flipper</li>
+            <li>github.com/mgsnova/feature</li>
+            <li>github.com/pda/flip</li>
+            <li>github.com/YelpArchive/feature_flipper</li>
+            <li>github.com/ckdake/setler</li>
+            <li>github.com/jpignata/switches</li>
+            <li>github.com/balvig/chili</li>
           </ul>
         </section>
 
@@ -154,7 +156,7 @@
 
         <section>
           <h2>Storage & Control</h2>
-          <p>Features persist and have state, that can be manipulated</p>
+          <p>Features persist and have multiple configuration states</p>
           <ul>
             <li>redis / in-memory keystore</li>
             <li>config.yml (per-deploy release)</li>
@@ -170,7 +172,7 @@
           <pre><code class="ruby" data-trim contenteditable>
 before_destroy :ensure_feature_is_reversible
 def ensure_feature_is_reversible
-  !feature_type.irreversible?
+  !feature_type.irreversible? # double negative
 end
           </code></pre>
           </p>
@@ -184,7 +186,7 @@ end
         </section>
 
         <section>
-          <h2>UI</h2>
+          <h2>Screenshots! (from UAT)</h2>
           <p><img data-src="https://compwron.github.io/presentations/feature_feature/feature_edit.png">
           </p><p>
           </p>
@@ -246,7 +248,7 @@ module Concerns::Restaurant::FeatureToggle
   end
 
   def initiate_features
-    FeatureType.where(new_tlos_on: true).find_each do |feature_type|
+    FeatureType.where(new_restaurants_on: true).find_each do |feature_type|
       feature = features.where(feature_type_id: feature_type.id).new
       feature.initialize_enable
     end
@@ -264,6 +266,20 @@ class Feature < ActiveRecord::Base
 
   has_many :restaurant_features, dependent: :destroy # important!!
   after_update :update_feature_list, if: :minimum_client_version_changed?
+
+  def update_status
+    if enabled? && !has_sufficient_version?
+      pre_enable
+    elsif pre_enabled? && has_sufficient_version?
+      enable
+    end
+  end
+
+  def update_feature_list
+    features.includes(:feature_owner).find_each do |feature|
+      update_feature(feature)
+    end
+  end
 end
 
 					</code></pre>
@@ -277,11 +293,36 @@ end
 				</section>
 
 				<section>
-					<h2>more slides go here</h2>
-					<p>
-					</p><p>
+					<h2>Lessons learned</h2>
+          <h4>(Over and over and over)</h4>
+					<p>Requirements evolve! Use evolutionary design. The first thing is rarely the right thing.
 					</p>
 				</section>
+
+        <section>
+          <h2>Lessons Learned</h2>
+          <p>Quick, get rid of the "Off" button!
+          </p>
+        </section>
+
+        <section>
+          <h2>Lessons Learned</h2>
+          <p>How do you migrate features between feature toggle systems? How do you test the migration? Backfills and intermediate comparison formats! (CSV)
+          </p>
+        </section>
+
+        <section>
+          <h2>Lessons Learned</h2>
+          <p>???
+          </p>
+        </section>
+
+<!--         <section>
+          <h2>more slides go here</h2>
+          <p>
+          </p><p>
+          </p>
+        </section> -->
 
 
 				<!-- <section>
