@@ -65,7 +65,8 @@
 					<h2>What is a feature toggle?</h2>
 					<p>
 						It's a conditional statement. "If [some condition]... then let the user use this new functionality! Otherwise... don't.
-					</p>
+					 </p><p>"a technique in software development that attempts to provide an alternative to maintaining multiple sourcecode branches." https://en.wikipedia.org/wiki/Feature_toggle
+          </p>
 				</section>
 
         <section>
@@ -99,7 +100,7 @@
         </section>
 
         <section>
-					<h2>Project context</h2>
+					<h2>Design Constraints & Project context</h2>
 					<p>
 						Rails backend
 					</p><p>several iPads per restaurant
@@ -124,11 +125,40 @@
         </section>
 
 				<section>
-					<h2>Database</h2>
+					<h2>Storage</h2>
 					<p>Features persist and have state, that can be manipulated
-					</p><p>
+					</p><p>redis?
+          </p><p>config.yml ?
+          </p><p>database
 					</p>
 				</section>
+
+        <section>
+          <h2>Screenshots! (from UAT)</h2>
+          <p>It’s not beautiful. The admin users love it. All of the power, none of the danger.
+          <img data-src="https://compwron.github.io/presentations/feature_feature/all_features.png" alt="Feature Management (screenshot)"/>
+          <pre><code class="ruby" data-trim contenteditable>
+before_destroy :ensure_feature_is_reversible
+def ensure_feature_is_reversible
+  !feature_type.irreversible?
+end
+          </code></pre>
+          </p>
+          <aside class="notes">
+            Creating a feature from the UI lets you manipulate it IF it exists in the code. A feature that exists in the code but not on the screen, is off for all restaurants.
+            "Irreversible" data was modified in a backfill when the feature was turned on- this particularly applies to “roles” applied to users.) To make it reversible, we would have to run a reverse xbackfill, but we decided that would be over-engineering for now. There was no way to reverse multiple roles and keep all the data.
+            Notice the visibility into number of on/off
+            Pre-enabled means that it will turn on when the user updates the app.
+            The download is a csv
+          </aside>
+        </section>
+
+        <section>
+          <h2>UI</h2>
+          <p><img data-src="https://compwron.github.io/presentations/feature_feature/feature_edit.png">
+          </p><p>
+          </p>
+        </section>
 
 				<section>
 					<h2>Type and instance</h2>
@@ -139,7 +169,7 @@ create_table :restaurants do |t|
   # other important stuff, like name
 end
 
-create_table :feature_types do |t|
+create_table :features do |t|
   t.timestamps
   t.string   :name, null: false
   t.string   :minimum_client_version, null: false
@@ -147,11 +177,11 @@ create_table :feature_types do |t|
   t.boolean  :reversible, null: false, default: false
 end
 
-create_table :features do |t| # this could be named restaurant_features
+create_table :restaurant_features do |t|
   t.uuid     :restaurant_id, null: false
-  t.uuid     :feature_type_id, null: false
+  t.uuid     :feature_id, null: false
 end
-add_index :features, [:feature_type_id]
+add_index :features, [:feature_id]
 add_index :features, [:restaurant_id]
 				  </code></pre>
 				</section>
@@ -160,7 +190,7 @@ add_index :features, [:restaurant_id]
 					<h2>Restaurant</h2>
 					<pre><code class="ruby" data-trim contenteditable>
 class Restaurant < ActiveRecord::Base
-  include Concerns::Restaurant::TogglingClientFeatures
+  include Concerns::Restaurant::FeatureToggle
   has_many :features # in the real world this was polymorphic
   validates :client_version, format: Semantic::Version::SemVerRegexp
 end
@@ -170,15 +200,11 @@ end
 				<section>
 					<h2>Toggling Concern</h2>
 					<pre><code class="ruby" data-trim contenteditable>
-module Concerns::Restaurant::TogglingClientFeatures
+module Concerns::Restaurant::FeatureToggle
   extend ActiveSupport::Concern
 
   included do
     after_update :update_features, if: :required_version_changed?
-  end
-
-  def initiate_features
-    enable_new_restaurants_on_features
   end
 
   def update_features
@@ -189,10 +215,8 @@ module Concerns::Restaurant::TogglingClientFeatures
     end
   end
 
-  private
-
-  def enable_new_restaurants_on_features
-     FeatureType.where(new_tlos_on: true).find_each do |feature_type|
+  def initiate_features
+    FeatureType.where(new_tlos_on: true).find_each do |feature_type|
       feature = features.where(feature_type_id: feature_type.id).new
       feature.initialize_enable
     end
@@ -204,18 +228,12 @@ end
 				<section>
 					<h2>Toggling Concern</h2>
 					<pre><code class="ruby" data-trim contenteditable>
-class FeatureType < ActiveRecord::Base
+class Feature < ActiveRecord::Base
   UNSAFE_FEATURES = ['place_holder', Features::BAD_FEATURE_2]
   scope :safe_to_enable, -> { where "name not in (?)", UNSAFE_FEATURES }
 
-  has_many :features, dependent: :destroy
+  has_many :restaurant_features, dependent: :destroy # important!!
   after_update :update_feature_list, if: :minimum_client_version_changed?
-  has_enumerations_for(status: Enums::Tlo::Status)
-
-  def restaurants_on
-    Restaurant.joins(:features).where(features:
-      {feature_type_id: id, control_value: Enums::Feature::ControlValue::ENABLED})
-  end
 end
 
 					</code></pre>
@@ -255,7 +273,10 @@ end
 				<section>
 					<h2>Thanks</h2>
 					<p><a href="http://compwron.github.io/presentations/feature_feature/index.html">compwron.github.io/presentations/feature_feature/index.html</a>
-					</p><p><a href="https://github.com/compwron/feature_feature">github.com/compwron/feature_feature</a>
+					</p><p><a href="https://compwron.github.io/2015/12/10/features-of-features-with-rails.html">compwron.github.io/2015/12/10/features-of-features-with-rails</a>
+          </p><p><a href="http://martinfowler.com/bliki/FeatureToggle.html">martinfowler.com/bliki/FeatureToggle.html</a>
+          </p><p><a href="http://martinfowler.com/articles/feature-toggles.html">martinfowler.com/articles/feature-toggles.html</a>
+          </p><p><a href="https://github.com/compwron/feature_feature">github.com/compwron/feature_feature</a>
 					</p><p>AMA => <a href="https://twitter.com/compiledwrong">twitter.com/compiledwrong</a></p>
 				</section>
 
