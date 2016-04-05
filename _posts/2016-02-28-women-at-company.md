@@ -5,7 +5,7 @@ tags:
  -
 ---
 
-When I joined Groupon in one of their smallest offices, San Francisco, I asked a female coworker over chat, hesitantly- is there a "Women at Groupon" group?" I knew that there was an internal group on their Jive instance (named Skynet for reasons that I think were intended to be funny). I didn't really... want anything out of such a group. But my previous company had had one, and I had lurked it because I like lurking everything that has a faint chance of being useful to me, and I was still in the stage of onboarding where I was looking for parallels for my most recent corporate reference point.
+When I joined [Company] in one of their smallest offices, I asked a female coworker over chat, hesitantly- is there a "Women at [Company]" group?" I knew that there was an internal group on their Jive instance (named Skynet for reasons that I think were intended to be funny). I didn't really... want anything out of such a group. But my previous company had had one, and I had lurked it because I like lurking everything that has a faint chance of being useful to me, and I was still in the stage of onboarding where I was looking for parallels for my most recent corporate reference point.
 
 There used to be such a group, she told me, but it had fizzled out- there just weren't enough women. I accepted this. Eventually she left the company and got a job at a place that was more meaningful and had more diverse people and more interesting work and probably also paid more. I was happy for her, but sad for me.
 
