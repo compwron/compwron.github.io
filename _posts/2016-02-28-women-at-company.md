@@ -11,7 +11,7 @@ There used to be such a group, she told me, but it had fizzled out- there just w
 
 I created the group in Hipchat, even though there was no one in it. I created another group, with another plausible-to-search-for name, and posted in it that the group to use was the other group.
 
-Then I invited everyone who had a vaguely feminine first name. I got some false positives. I am ok with this.
+Then I invited everyone who had a vaguely feminine first name. I used lists on the internet, like [this](http://names.mongabay.com/female_names.htm) and [this](https://unusualnames.wordpress.com/2013/02/20/most-popular-african-american-girl-names-2013-so-far/). I got some false positives. I am ok with this.
 
 There were at least fifty of them, maybe even a hundred. Hipchat offers no visibility into whether you've tried to invite someone to a room before, so I may have done some duplicates. Sorry about that. It worked. No one told me to stop. A few people asked why they were invited- I told them that it was because I thought that they might be interested, and that it was totally okay to not join, and that I would remember to not add them twice.
 
