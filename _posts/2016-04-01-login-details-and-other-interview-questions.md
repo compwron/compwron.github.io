@@ -18,3 +18,12 @@ There should be some mechanism to disallow many repeated retries of the wrong pa
 If the password matches, a revokable and expirable token should be generated and sent to the client. The client will include this token in all communications with the server, and the server will check the token against the db every time to confirm that the client is still authorized. The user or server can revoke this token at will- the user by interacting with a UI that shows last login and origin of login (which can be sent by the client as part of the login request).
 
 I hope to add to the above when the time, energy, and knowledge arises.
+
+
+## References & Resources:
+
+- [Railscast #250 - Jan 2011](http://railscasts.com/episodes/250-authentication-from-scratch)
+- [Devise (Ruby)](https://github.com/plataformatec/devise)
+- [Apache Shiro (Java)](https://shiro.apache.org/java-authentication-guide.html)
+- [OWASP Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
+- [awesome-ruby Authentication and OAuth](https://github.com/markets/awesome-ruby#authentication-and-oauth)
