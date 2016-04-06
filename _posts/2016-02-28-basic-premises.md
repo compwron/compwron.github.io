@@ -21,6 +21,7 @@ This list is not comprehensive. I may learn more and change my mind. [Ask me any
 - Death is bad. No one should die, ever. In response to the common rebuttal "but then the earth would be overcrowded" I say- we should solve that. It is an excuse, not a reason.
 - I want to live forever. In response to the common rebuttal "wouldn't you get bored?" I say- extremely unlikely, but I look forward to finding out in person.
 - Imprisonment should be curative, not punitive.
+- Waiting to do awesome things makes them less likely to happen. For example: not using awesome products because they might be canceled (see: the Google Wallet debit card, Google RSS) to me is like refusing to smell flowers when they are in bloom, because they will not always be in bloom. Yes, there is more effort in switching to a new thing when this thing/product/job dies/stops- but using the good things while they are available, enjoying the beautiful things while they are beautiful, and putting in the effort to support good products even if someday you might- and it is almost always a might, sooner or later- the only difference is of timescale- have to put in more effort to recover from the ending of that good thing that you are interacting with... I am not in favor.
 
 A clarification on religion as a non-discriminatory topic:
 
