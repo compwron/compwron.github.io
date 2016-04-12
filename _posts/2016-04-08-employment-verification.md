@@ -17,6 +17,7 @@ Screenshot of such a requirement: [twitter](https://twitter.com/compiledwrong/st
 * [zenefits](https://www.zenefits.com/answers/is-it-ok-to-request-w2s-from-an-employee-to-verify-their-income-before-extending-them* -a-job-offer/)
 * [payscale.com](http://www.payscale.com/career-news/2015/07/prospective-employers-asking-for-w-2-forms-a-cover-for-discrimination-* )
 * [proformative](https://www.proformative.com/questions/requesting-copies-w-2-candidate-extending-offer)
+* [Ask A Manager](http://www.askamanager.org/2013/11/company-wants-my-past-performance-evaluations-and-tax-forms-and-4-other-is-it-legal-questions.html)
 
 
 From TW (unofficial): "We use them to get a balance on what the market actually looks like in addition to the companies we use externally for the market data is what I understand."
