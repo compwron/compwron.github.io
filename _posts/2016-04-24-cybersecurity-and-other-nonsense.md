@@ -39,13 +39,15 @@ What is your threat model? If it's a government, what have you been doing? Don't
 
 ## How is IIT's security?
 
-I don't know. Ask TechOps. IIT has a huge attack area- every ethernet port in the dorms and ethernet is usually more trusted than wifi unless you fix that in your network configurations, the wifi networks on every campus, all web assets, blackboard, professors' old websites, myIIT. Their threat model is huge- students who want to get in, students who want better grades, anyone who is interested in any private files that a professor might have in the network, and loads of other things that I don't know about. How is their security? Well, right now it's good enough that there are no public breaches. Please try to not change that. Always report vulnerabilities responsibly. Some companies still publish responsible vulnerability reporting, and that is a terrible practice that not only hurts the company's reputation and defensibility, but poisons the whole ecosystem. Never dig deeper than you have to in order to get a proof of concept. Document everything. Don't be a [script kiddie](https://en.wikipedia.org/wiki/Script_kiddie) (a low-skilled individual who behaves unprofessionally and then brags about it). If you want to go into the industry, trustworthiness and etiquette are super important. Air gaps for important systems are super important. If you've read the latest research out of MIT, that's not enough; there are [side channel attacks](https://en.wikipedia.org/wiki/Side-channel_attack) for [screen flicker (badBIOS)](https://www.schneier.com/blog/archives/2013/11/badbios.html) and [fan noise](https://www.tau.ac.il/~tromer/acoustic/).
+I don't know. Ask TechOps. IIT has a huge attack area- every ethernet port in the dorms and ethernet is usually more trusted than wifi unless you fix that in your network configurations, the wifi networks on every campus, all web assets, blackboard, professors' old websites, myIIT. Their threat model is huge- students who want to get in, students who want better grades, anyone who is interested in any private files that a professor might have in the network, and loads of other things that I don't know about. How is their security? Well, right now it's good enough that there are no public breaches. Please try to not change that. Always report vulnerabilities responsibly. Some companies still punish responsible vulnerability reporters (via litigation or other penalties), and that is a terrible practice that not only hurts the company's reputation and defensibility, but poisons the whole ecosystem. Never dig deeper than you have to in order to get a proof of concept. Document everything. Don't be a [script kiddie](https://en.wikipedia.org/wiki/Script_kiddie) (a low-skilled individual who behaves unprofessionally and then brags about it). If you want to go into the industry, trustworthiness and etiquette are super important. Air gaps for important systems are super important. If you've read the latest research out of MIT, that's not enough; there are [side channel attacks](https://en.wikipedia.org/wiki/Side-channel_attack) for [screen flicker (badBIOS)](https://www.schneier.com/blog/archives/2013/11/badbios.html) and [fan noise](https://www.tau.ac.il/~tromer/acoustic/).
 
 ## What is responsible vulnerability reporting?
 
-(And what does "poisons the whole ecosystem" mean?)
+HackerOne has some [good guidelines.](https://hackerone.com/disclosure-guidelines) Basically: Always report directly to the company/project that has the bug. Never keep sell any data that you get from a vulnerability. Never share how to replicate the issue with anyone other than the product team until there is a release that has fixed the issue and an announcement has been made that everyone should upgrade to the new release. The importance of sticking to this etiquette scales with the severity of the vulnerability that you find. [Impero reporting guidelines](https://www.imperosoftware.com/about/reporting-vulnerabilities/)
 
-TODO
+## What does "poisons the whole ecosystem" mean?
+
+Some companies punish responsible vulnerability reporters (via litigation or other penalties), and that is a terrible practice that not only hurts the company's reputation and defensibility, but poisons the whole ecosystem. When a security researcher does not report a vulnerability (usually because they are scared of retaliation and therefore feel that it will not be worth the trouble to them), this increases the chances that some less ethical researcher will discover the vulnerability and use it for ill to take advantage of the users of the vulnerable system. Companies which penalize the reporting of security issues are actively disintegrating the system which helps all systems become more secure. This really annoys me.
 
 ## How do you think like a pen tester?
 
@@ -143,39 +145,34 @@ I am not a security expert. I haven't studied it formally. It has mattered to ev
 
 ## IIT alumni are encouraged to share with us one (most) memorable experience at IIT
 
-Not really any security-related events. Some really memorable classes.
+Not really any security-related events. Some really memorable classes. Being a TA was a great experience because you get to see a little more of what's behind the educational curtain. Maybe I was naive but up until I was a TA, I didn't really think about education as an endeavor, just as a thing that was happening to me, or that I was trying to get.
+
+## Give some real cyber-incident that you have experienced in your work?
+
+Well, some of those aren't great for speaking about in public. Here's a funny one that turned out ok. Just after a certain person had been let go from a company where I worked, all of the names of our employees in Zendesk (our support and reporting system) began changing to weird nicknames, and every time we fixed them, they would just change back. So we suspected the person. But it turned out that we had just released to production an application inline integration with Zendesk that over-wrote the names every time someone made a note or replied to a comment. But for a day or so in there we frantically changed a lot of passwords, and we did some really intense debugging and some really thorough searching through the application logs.
+
+## How can IIT be better at cybersecurity training? (teaching, research areas, outreach, etc)
+
+That's a great question. I think that this panel is a big start. I think that colloquiums and research paper reading groups are pretty great for academic advancement in the field. Definitely go to meetups and conferences if you can. Read the literature! Do some googling. I think that the campus ACM could make a big contribution here with student-run sessions, but the problem here is the "don't know what you don't know" quadrant of knowledge. Someone needs to know the name of the thing that they don't know, in order to get started. In order to learn what the things are that you don't know, meetups and conferences are super great.
+
+## Advice to current IIT students
+
+### What are the hot/cool areas in cyber-security today?
+
+Everything. Literally everything. Internet of things is a huge steaming pile of insecurity, so that's an easy place to get some big wins. Mobile computing has some big opportunities to be very creepy and invasive and therefore it's a good place to put some security attention.
+
+### What are the most needed skills in cyber-security job market?
+
+[Systems thinking](https://en.wikipedia.org/wiki/Systems_thinking), good teamwork, clear communication, and diligence. Like everything else, basically.
 
 
+## Are passwords obsolete?
 
-General Questions
-* What is cyber-security from your viewpoint? Why is cyber-security important?
-* Give some real cyber-incident that you have experienced in your work?
-* As a student, how do they have better cyber-security hygiene?
-* What are companies doing to promote security and best practices?
-* Your thoughts in some recent cyber-events
-e.g., FBI vs Apple, Sony Hack, cyber attack to the Ukraine's power grid...
-* Why isn’t the government more up to date?
+Probably, but I don't know if there's widespread agreement on what to use instead.
 
-Advice to the CS department, College of Science and the University
-* How is IIT’s security?
-* How shall IIT get prepared for cyber-security training?
-teaching, research areas, outreach, etc.
+## Why does credit card information get stolen so often?
 
-Advice to current IIT students
-* What are the hot/cool areas in cyber-security today?
-e.g., Internet of things, mobile computing, distributed storage, cloud ...
-
-* What are the most needed skills in cyber-security job market?
-* How do they get a career in cyber-security? We know that government, industry, industry lab have different requirements.
-
-
-passphorase / password
-banking on free wifi
-
-rsa - wht it means, handshaking
-
-
-
+Because it's a high-value target and therefore a lot of people aim at it. Also card skimmers and the USA's deeply incomplete implementation of chip-and-pin cards. [source1](http://www.usatoday.com/story/money/personalfinance/2015/10/01/us-shifts-credit-cards-chip-signature-still-do/73145306/) [source2](https://www.quora.com/Why-is-the-USA-adopting-chip-signature-and-not-chip-pin) [source3](http://www.wired.com/2015/09/big-security-fix-credit-cards-wont-stop-fraud/)
 
 
 ## IIT specific resources
@@ -216,6 +213,8 @@ rsa - wht it means, handshaking
 - [Five things that should scare you](https://coderanger.net/five-fears/)
 - [https://www.quora.com/What-are-the-top-cybersecurity-challenges](https://www.quora.com/What-are-the-top-cybersecurity-challenges)
 - [Companies](https://www.quora.com/What-are-the-top-cybersecurity-startups-in-America)
+- Really great and thought-through defensive programming security design: [Callisto](https://www.projectcallisto.org/)
+- Other recent-ish news: [Ukraine power hack](http://www.wired.com/2016/03/inside-cunning-unprecedented-hack-ukraines-power-grid/)
 
 
 ------
