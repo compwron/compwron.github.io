@@ -19,31 +19,37 @@ Check out the OWASP guides, the CISSP study guides, the Matsano challenges if yo
 
 ## How do you get a career in it?
 
-I don't have personal experience in this. Like many things, you learn enough that someone gives you responsibility, and then you learn more. What part of the field do you want a career in Sanctioned digging into other people's systems? Or blue team defense against malicious actors? Or big company asset protection- having literally the keys to the kingdom, and the responsibilities that go along with that? Most people want the first one. do you want to do independent research, trying to live on bug bounty rewards, or internal work for a consulting security company, seeing the most hilariously, frighteningly insecure systems and never ever being able to talk about it, just slowly losing your faith in anything ever? Or social engineering, which is part of any *practical* security red or blue program? Or academic research, probably in cryptography, which is very very important and is mostly made of really cool math?
+I don't have personal experience in this. Like many things, you learn enough that someone gives you responsibility, and then you learn more. What part of the field do you want a career in? Sanctioned digging into other people's systems? Or blue team defense against malicious actors? Or big company asset protection- having literally the keys to the kingdom, and the responsibilities that go along with that? Most people want the first one. Do you want to do independent research, trying to live on bug bounty rewards, or internal work for a consulting security company, seeing the most hilariously, frighteningly insecure systems and never ever being able to talk about it, just slowly losing your faith in anything ever? Or social engineering, which is part of any *practical* security red or blue program? Or academic research, probably in cryptography, which is very very important and is mostly made of really cool math?
 
 ## What is red team / blue team?
 
-[Wikipedia](https://en.wikipedia.org/wiki/Red_team) and [Red-blue exercise planning](http://www.csoonline.com/article/2122440/emergency-preparedness/red-team-versus-blue-team--how-to-run-an-effective-simulation.html) Red- attackers, either in real life or for practice. Blue- defenders. Red always has the advantage, because they know where they are aiming, and blue just has to defend everything. There is always a huge surface area to defend and you have to think about hour threat model and choose how do design your defensive strategy. Always defend in depth- multiple layers of defense. It's one of the only areas of software engineering where DRY is not a good idea.
+[Wikipedia](https://en.wikipedia.org/wiki/Red_team) and [Red-blue exercise planning.](http://www.csoonline.com/article/2122440/emergency-preparedness/red-team-versus-blue-team--how-to-run-an-effective-simulation.html) Red- attackers, either in real life or for practice. Blue- defenders. Red always has the advantage, because they know where they are aiming, and blue just has to defend everything. There is always a huge surface area to defend and you have to think about your threat model and choose how to design your defensive strategy. Always defend in depth- multiple layers of defense. It's one of the only areas of software engineering where DRY is not a good idea.
 
 ## What is surface/attack area?
 
-Also known as [attack surface](https://en.wikipedia.org/wiki/Attack_surface) and [OWASP has a good page](https://www.owasp.org/index.php/Attack_Surface_Analysis_Cheat_Sheet). Surface area is everything that an attacker can get at from the outside of your organization. IIT's surface area is large- their wifi networks, their ethernet ports, the computer lab, the email system, the website, and every integration point with any outside system. Every field that someone can type into on a website that you host or control is an attack point, for example.
+Also known as [attack surface](https://en.wikipedia.org/wiki/Attack_surface) and [OWASP has a good page](https://www.owasp.org/index.php/Attack_Surface_Analysis_Cheat_Sheet). Surface area is everything that an attacker can get at from the outside of your organization. IIT's surface area is large- their wifi networks, their ethernet ports, the computer lab, the email system, the website, and every integration point with any outside system. By this definition, every field that someone can type into on a website that you host or control is an attack point, for example. Every open port on your server is an attack point. Every API endpoint is an attack point.
 
 ## How do you report a vulnerability?
 
-Most companies have a secutiy@ email address. Most companies have a "Security" link at the bottom of their webpage. If you can't find anything, email their help email address and ask for an escalation. If you really can't find anything, look up their employees, find someone who looks like developer, and try to contact them. Ask on IRC if you can find someone or a group to ask. If you really really can't find anything, email one of the security field's big names and ask for help reporting. Never disclose the exploit to anyone except the actual company, especially not in a forum. Never post the data that you have gotten from an exploit. In fact, never save the data that you get from an exploit, other than the minimum needed to prove/verify.
+Most companies have a security@ email address. Most companies have a "Security" link at the bottom of their webpage. If you can't find anything, email their help email address and ask for an escalation. If you really can't find anything, look up their employees, find someone who looks like developer, and try to contact them. Ask on IRC if you can find someone or a group to ask. If you really really can't find anything, email one of the security field's big names, probably [Schneider]](https://www.schneier.com/), the Electronic Frontier Foundation [(EFF)](https://www.eff.org/issues/coders/vulnerability-reporting-faq) or [SANS](https://www.sans.org/) and ask for help reporting. Never disclose the exploit to anyone except the actual company, especially not in a forum. Never post the data that you have gotten from an exploit. In fact, never save the data that you get from an exploit, other than the minimum needed to prove/verify.
 
-## As a student, how do I have better cybersecurity hygene?
+## As a student, how do I have better cybersecurity hygiene?
 
-What is your threat model? It it's a government, what have you been doing? Don't tell me. I hope that you know more than I do about this stuff. If your threat model is your parents- whether they think that they're benign or not-, or other students, or protecting your wordpress server from random people on the internet? Basic basic basic stuff that you know like you know your toes- Never post your address or phone number anywhere. Use a different password for every website that has your credit card information in it. Use a unique password for your email. I recommend using a password manager like 1Pass or LastPass. Review your apps list on everything that does app intrgrations, especially facebook and twitter. Use two factor auth on everything, including github. You can get a yubikey and/or GPG sign your emails; for most of you, that would be a cool technical brag but not a necessity, unless you are going to be a journalist about controversial topics. Use a password on your phone; swipe is too easy to break. Fingerprint is ok unless you have a threat model that includes people who will pick your fingerprints off the desk or the DMV database.
+What is your threat model? If it's a government, what have you been doing? Don't tell me. I hope that you know more than I do about this stuff. If your threat model is your parents- whether they think that they're benign or not-, or other students, or protecting your wordpress server from random people on the internet? Basic basic basic stuff that you know like you know your toes- Never post your address or phone number anywhere. Use a different password for every website that has your credit card information in it. Use a unique password for your email. I recommend using a password manager like [1Password](https://agilebits.com/) or LastPass. Review your apps list on everything that does app integrations, especially facebook and twitter. Use two-factor authentication on everything, including github. You can get a [yubikey](https://www.yubico.com) and/or [GPG](https://www.gnupg.org/) sign your emails; for most of you, that would be a cool technical brag but not a necessity, unless you are going to be a journalist about controversial topics. Use a password on your phone; swipe is too easy to break. Fingerprint is ok unless you have a threat model that includes people who will pick your fingerprints off the desk or the DMV database.
 
 ## How is IIT's security?
 
-I don't know. Ask TechOps. IIT has a huge attack area- every ethernet port in the dorms and ethernet is usually more trusted than wifi unless you fix that in your network configurations, the wifi networks on every campus, all web assets, blackboard, professors' old websites, myIIT. Their threat model is huge- students who want to get in, students who want better grades, anyone who is interested in any provate files that a professor might have in the network, and loads of other things that I don't know about. How is their security? Well, right now it's good enough that there are no public breaches. Please try to not change that. Always report vulnerabilities responsubly. Some companies still pubish responsible vulberability reporting, and that is a terrible practice that not only hurts the company's reputation and defensibility, but poisons the whole ecosystem. Never dig dieeper than you have to in order to get a proof of concept. Document everything. Don't be a script kiddie. If you want to go into the industry, trustworthiness and ettiquite are super important. Air gaps for important systems are super important. If you've read the latest research out of MIT, that's not enough; there are side channel attacks for screen flicker and fan noise.
+I don't know. Ask TechOps. IIT has a huge attack area- every ethernet port in the dorms and ethernet is usually more trusted than wifi unless you fix that in your network configurations, the wifi networks on every campus, all web assets, blackboard, professors' old websites, myIIT. Their threat model is huge- students who want to get in, students who want better grades, anyone who is interested in any private files that a professor might have in the network, and loads of other things that I don't know about. How is their security? Well, right now it's good enough that there are no public breaches. Please try to not change that. Always report vulnerabilities responsibly. Some companies still publish responsible vulnerability reporting, and that is a terrible practice that not only hurts the company's reputation and defensibility, but poisons the whole ecosystem. Never dig deeper than you have to in order to get a proof of concept. Document everything. Don't be a [script kiddie](https://en.wikipedia.org/wiki/Script_kiddie) (a low-skilled individual who behaves unprofessionally and then brags about it). If you want to go into the industry, trustworthiness and etiquette are super important. Air gaps for important systems are super important. If you've read the latest research out of MIT, that's not enough; there are [side channel attacks](https://en.wikipedia.org/wiki/Side-channel_attack) for [screen flicker (badBIOS)](https://www.schneier.com/blog/archives/2013/11/badbios.html) and [fan noise](https://www.tau.ac.il/~tromer/acoustic/).
+
+## What is responsible vulnerability reporting?
+
+(And what does "poisons the whole ecosystem" mean?)
+
+TODO
 
 ## How do you think like a pen tester?
 
-What is valuable? What do you have to protect? A penetration tester penetrates defenses, usually of a network or other organization. A friend of mine had their linkedin account broken into and all of the skills changed to "sex" some people get email notifications for changes in their network, and in this person's case their parent got an email from linkedin that their child was skilled at sex. So even if that's not a disaster, it's still an annoyance. With access to a linkedin account, one could delete all the recommendations, message and insult all the coworkers and bosses, change the photo to something unprofessional, just generally make a mess. This would be a bigger deal if you were in the middle of a job search. Thiking like a pen tester required that you think the unthinkable thoughts- the ones that some people are too polite to think. Every thought is a "but I wouldn't really do that" thought, but you need to think about what could be done with the data that you are trying to get, in order to know what data and access you are trying to get. With access to someone's IIT account, maybe you could drop all their classes, email all their professors rude things, delete all their google docs. Don't do that. Most of it is recoverable, with some cooperation from the university and a lot of apologizing. Think of the things that are beyond the pale, and how someone would do them. Then defend those things.
+What is valuable? What do you have to protect? A penetration tester penetrates defenses, usually of a network or other organization. A friend of mine had their linkedin account broken into and all of the skills changed to "sex." Some people get email notifications for changes in their network, and in this person's case their parent got an email from linkedin that their child was skilled at sex. So even if that's not a disaster, it's still an annoyance. With access to a linkedin account, one could delete all the recommendations, message and insult all the coworkers and bosses, change the photo to something unprofessional, just generally make a mess. This would be a bigger deal if you were in the middle of a job search. Thinking like a pen tester required that you think the unthinkable thoughts- the ones that some people are too polite to think. Every thought is a "but I wouldn't really do that" thought, but you need to think about what could be done with the data that you are trying to get, in order to know what data and access you are trying to get. With access to someone's IIT account, maybe you could drop all their classes, email all their professors rude things, delete all their google docs. Don't do that. Most of it is recoverable, with some cooperation from the university and a lot of apologizing. Think of the things that are beyond the pale, and how someone would do them. Then defend those things.
 
 ## How can I hack someone?
 
@@ -51,11 +57,11 @@ One, I'm not going to answer that. Two, I recommend discussing your differences 
 
 ## How do man in the middle attacks work?
 
-Ask the internet. If you connect to a malicious wifi network that captures all your traffic and fowards it to someone who wants to do bad things with it- well, they can see what sites you are visiting, what you type into fields on those sites, even login fields, unless the page is served over https and logins are submitted via ssl. many hotel wifi networks do this. I would be unsurprised if some corporate and university networks do this, for theoretically beign reasons. To avoid this, you can forward all your traffic through a VPN. You can run your own, or pay for one for about $6 per month. Absolutely every page should use ssl for login. With the rise of [LetsEncrypt](https://letsencrypt.org/) free SSL/TLS certs, more and more everythign should be being served over https. Hopefully the amount of damage doable via MiTM attacks is declining.
+Ask the internet. If you connect to a malicious wifi network that captures all your traffic and forwards it to someone who wants to do bad things with it- well, they can see what sites you are visiting, what you type into fields on those sites, even login fields, unless the page is served over HTTPS and logins are submitted via ssl. many hotel wifi networks do this. I would be unsurprised if some corporate and university networks do this, for theoretically benign reasons. To avoid this, you can forward all your traffic through a VPN. You can run your own, or pay for one for about $6 per month. Absolutely every page should use ssl for login. With the rise of [LetsEncrypt](https://letsencrypt.org/) free SSL/TLS certs, more and more everything should be being served over https. Hopefully the amount of damage doable via MiTM attacks is declining.
 
 ## How do I get a career in (government) cybersecurity? (Part 2)
 
-Like anything else that you really care about- do your rsearch. Keep up with security news- maybe plug everything into an RSS reader so you can see it all in one place. Look up all available government security jobs. Look up the things that they want you to know and figure out what they are. Write blogs and code snippets and put them on your github- a portfolio of your thinking and work. Meet people- go to meetups and conferences. Find industry prfessionals and professors and ask them respectfully for their time- listen to them and ask them quetions, try to learn what they know. Conferences are by far the best way to immerse your brain in the mad glory that is the constantly-changing field of security. They are also by far the best place to find jobs and internships. If you have the time and brainspace, run a local meetup group, invite speakers who know more than you do and listen to them.
+Like anything else that you really care about- do your research. Keep up with security news- maybe plug everything into an RSS reader so you can see it all in one place. Look up all available government security jobs. Look up the things that they want you to know and figure out what they are. Write blogs and code snippets and put them on your github- a portfolio of your thinking and work. Meet people- go to meetups and conferences. Find industry professionals and professors and ask them respectfully for their time- listen to them and ask them questions, try to learn what they know. Conferences are by far the best way to immerse your brain in the mad glory that is the constantly-changing field of security. They are also by far the best place to find jobs and internships. If you have the time and brainspace, run a local meetup group, invite speakers who know more than you do and listen to them.
 
 ## Why is cybersecurity important?
 
@@ -73,17 +79,17 @@ All of the things that use the internet or other electronic transmitting- email,
 
 ## What is the "Internet of things" and why is it a security nightmare?
 
-It's the thing where your thermostat can be accessed via your phone, and your fridge knows or can guess what food is inside it and has an API that you can use to talk to it, or mabe it just texts you. Smart light bulbs. IoT is scary because it dramatically increases your attack surface, and brings the attack surface further into your physical home. An attacker who can see that your thermostat is off and you rlightbulbs are off knows that it's a good time to come take your stuff, since you're not at home. An attacker can nuisance-attack you by changing the temperature and lights in your house, making all your food spoil, and driving up your energy bill- or just making you think that you've gone insane. Baby monitors that strangers on the intenet can break into and watch and talk to your child are not just possible, [it has happened](http://www.buzzfeed.com/craigsilverman/creeps-hack-baby-monitors-and-say-terrifying-thing).
+It's the thing where your thermostat can be accessed via your phone, and your fridge knows or can guess what food is inside it and has an API that you can use to talk to it, or maybe it just texts you. Smart light bulbs. IoT is scary because it dramatically increases your attack surface, and brings the attack surface further into your physical home. An attacker who can see that your thermostat is off and your lightbulbs are off knows that it's a good time to come take your stuff, since you're not at home. An attacker can nuisance-attack you by changing the temperature and lights in your house, making all your food spoil, and driving up your energy bill- or just making you think that you've gone insane. Baby monitors that strangers on the internet can break into and watch and talk to your child are not just possible, [it has happened](http://www.buzzfeed.com/craigsilverman/creeps-hack-baby-monitors-and-say-terrifying-thing).
 
 ## What was the Apple vs FBI thing about?
 
 [Wikipedia](https://en.wikipedia.org/wiki/FBI%E2%80%93Apple_encryption_dispute)
 
-The FBI wanted Apple to break into an iphone for them, which would let them get into all iphones. Apple refused- which I agree with- because that is a huge amount of power that literally no one should have. The FBI found an alternate solution, but they want all the keys- which I can kinda sympathize with, even though I think it's a terrible idea because the thing about keys is that they can be lost, and these particular keys are basically impossible to change the locks for-
+The FBI wanted Apple to break into an iphone for them, which would let them get into all iphones. Apple refused- which I agree with- because that is a huge amount of power that literally no one should have. The FBI found an alternate solution, but they want all the keys- which I can kinda sympathize with, even though I think it's a terrible idea because the thing about keys is that they can be lost, and these particular keys are basically impossible to change the locks for.
 
 ## What are companies doing to promote security and best practices?
 
-Hacktober is really cool- basically a company hacks it's employees, then when they fall for it, redirects them to an internal site with educational resources. This is much more effective than making everyone sit through a training course. Stuff like leaving flash drives in teh parking lot- you plug it into your computer to see what it is and how to get it back to the owner, and then the software on it compromises the machine that it is plugged into.
+Hacktober is really cool- basically a company hacks it's employees, then when they fall for it, redirects them to an internal site with educational resources. This is much more effective than making everyone sit through a training course. Stuff like leaving flash drives in the parking lot- you plug it into your computer to see what it is and how to get it back to the owner, and then the software on it compromises the machine that it is plugged into.
 
 [Facebook hacktober](https://www.facebook.com/notes/facebook-engineering/happy-hacktober/10151170449088920/) [Mashable article](http://mashable.com/2012/11/29/facebook-hacktober/) [NS/Sophos article](https://nakedsecurity.sophos.com/2012/11/30/facebook-hacks-its-workers-into-hacktober-smithereens/)
 
@@ -97,17 +103,19 @@ HIPAA is The Health Insurance Portability and Accountability Act of 1996 and it 
 
 ## How does detection of hacking work?
 
-It depends. For many corporate networks, the company can track what software is installed on a company device, and if new software, especially suspicious software, appears, then someone can be alerted. As a person, check that you haven't posted anything weird to facebook, check that your bank account has no weird charges. this is a topic that deserves its own conference. Google "network intrusion detection"
+It depends. For many corporate networks, the company can track what software is installed on a company device, and if new software, especially suspicious software, appears, then someone can be alerted. As a person, check that you haven't posted anything weird to facebook, check that your bank account has no weird charges. This is a topic that deserves its own conference. Google "network intrusion detection."
+
+This section needs a lot more work. I know fairly little about this- only hand-wave-y stuff.
 
 
-## What is "spoofing"
+## What is "spoofing"?
 
 Pretending to be something that you are not (a cell phone tower, the gmail login page). Email spoofing is pretending to send email from an address that you do not control- most modern email clients don't allow this.
 
 
 ## How does anyone get through a firewall into a network?
 
-Many firewalls are mis-configured in common ways. ALways run a scanning tool on your own firewall to find and fix simple mistakes before anyone else does. Always change default passwords, or someone will look them up and use them.
+Many firewalls are mis-configured in common ways. Always run a [scanning tool](http://brakemanscanner.org/) on your own code [and firewalls](http://lcamtuf.coredump.cx/afl/) to find and fix simple mistakes before anyone else does. Always change default passwords, or someone will look them up and use them. Much more rare is an actual software fault that can be taken advantage of.
 
 ## Why isn't the government more up to date?
 
@@ -115,7 +123,7 @@ They have a huge surface area, with many authorities, none of which have final s
 
 ## What is a data breach and why do they happen?
 
-When some data that was supposed to not be public, is made public, it is a data breach. Uusally this happens when someone breaks into a company's data store and then posts it online- either for revenge, journalism, or profit (selling it to people who can use the data for monetary gain)
+When some data that was supposed to not be public, is made public, it is a data breach. Usually this happens when someone breaks into a company's data store and then posts it online- either for revenge, journalism, or profit (selling it to people who can use the data for monetary gain)
 
 ## What about that cryptolocker thing?
 
@@ -127,6 +135,48 @@ That's where files are encrypted on disc; the user values the files and pays to 
 ## What steps would you suggest a security noob take to improve on a pretty much nonexistent security strategy?
 
 Write down your threat model. Write down what your valuable data is and what could go wrong for your users if you have a data breach. Write down what havoc an attacker could wreak if they accessed your systems. Show it to your team and brainstorm. Read the OWASP guides and run the basic security tools (scanners, fuzzers) against your networks and websites. If you have to do due diligence for an acquisition, hire a reputable company or researcher to look at your systems.
+
+
+## My self-introduction / how is cyber-security related to your daily job/life?
+
+I am not a security expert. I haven't studied it formally. It has mattered to every team I've ever been on. It is one of the ever-present "cross-cutting concerns" just like performance and uptime. I'm interested in it as a field because it is hugely important, and I like important things.
+
+## IIT alumni are encouraged to share with us one (most) memorable experience at IIT
+
+Not really any security-related events. Some really memorable classes.
+
+
+
+General Questions
+* What is cyber-security from your viewpoint? Why is cyber-security important?
+* Give some real cyber-incident that you have experienced in your work?
+* As a student, how do they have better cyber-security hygiene?
+* What are companies doing to promote security and best practices?
+* Your thoughts in some recent cyber-events
+e.g., FBI vs Apple, Sony Hack, cyber attack to the Ukraine's power grid...
+* Why isn’t the government more up to date?
+
+Advice to the CS department, College of Science and the University
+* How is IIT’s security?
+* How shall IIT get prepared for cyber-security training?
+teaching, research areas, outreach, etc.
+
+Advice to current IIT students
+* What are the hot/cool areas in cyber-security today?
+e.g., Internet of things, mobile computing, distributed storage, cloud ...
+
+* What are the most needed skills in cyber-security job market?
+* How do they get a career in cyber-security? We know that government, industry, industry lab have different requirements.
+
+
+passphorase / password
+banking on free wifi
+
+rsa - wht it means, handshaking
+
+
+
+
 
 ## IIT specific resources
 
@@ -163,6 +213,9 @@ Write down your threat model. Write down what your valuable data is and what cou
 - [“Dirty Tricks” for Seminars and Talks](http://dailynous.com/2015/06/19/dirty-tricks-for-seminars-and-talks-guest-post-by-josh-parsons/)
 - [https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html](https://www.whitehouse.gov/sites/default/files/omb/egov/digital-government/digital-government.html)
 - [http://www.engadget.com/2016/04/22/how-60-minutes-played-telephone-with-public-hacking-hysteria/](http://www.engadget.com/2016/04/22/how-60-minutes-played-telephone-with-public-hacking-hysteria/) and the actual [60 Minutes episode](http://www.cbsnews.com/news/60-minutes-hacking-your-phone/)
+- [Five things that should scare you](https://coderanger.net/five-fears/)
+- [https://www.quora.com/What-are-the-top-cybersecurity-challenges](https://www.quora.com/What-are-the-top-cybersecurity-challenges)
+- [Companies](https://www.quora.com/What-are-the-top-cybersecurity-startups-in-America)
 
 
 ------
