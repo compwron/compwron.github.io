@@ -15,7 +15,7 @@ It's a funny word, and a vague one. "Cyber." It is the practice of keeping digit
 
 ## How do you learn more about it?
 
-Check out the OWASP guides, the CISSP study guides, the Matsano challenges if you're interested in the crypto side, 2600 magazine, hackerOne for current competitions, system administrator educational resources for practical advice, and conferences for actually meeting people and immersing your brain in the whole crazy range of the field.
+Check out the OWASP guides, the CISSP study guides, the [Matasano](http://cryptopals.com/) challenges if you're interested in the crypto side, 2600 magazine, hackerOne for current competitions, system administrator educational resources for practical advice, and conferences for actually meeting people and immersing your brain in the whole crazy range of the field.
 
 ## How do you get a career in it?
 
@@ -31,11 +31,11 @@ Also known as [attack surface](https://en.wikipedia.org/wiki/Attack_surface) and
 
 ## How do you report a vulnerability?
 
-Most companies have a security@ email address. Most companies have a "Security" link at the bottom of their webpage. If you can't find anything, email their help email address and ask for an escalation. If you really can't find anything, look up their employees, find someone who looks like developer, and try to contact them. Ask on IRC if you can find someone or a group to ask. If you really really can't find anything, email one of the security field's big names, probably [Schneider]](https://www.schneier.com/), the Electronic Frontier Foundation [(EFF)](https://www.eff.org/issues/coders/vulnerability-reporting-faq) or [SANS](https://www.sans.org/) and ask for help reporting. Never disclose the exploit to anyone except the actual company, especially not in a forum. Never post the data that you have gotten from an exploit. In fact, never save the data that you get from an exploit, other than the minimum needed to prove/verify.
+Most companies have a security@ email address. Most companies have a "Security" link at the bottom of their webpage. If you can't find anything, email their help email address and ask for an escalation. If you really can't find anything, look up their employees, find someone who looks like developer, and try to contact them. Ask on IRC if you can find someone or a group to ask. If you really really can't find anything, email one of the security field's big names, probably [Schneider](https://www.schneier.com/), the Electronic Frontier Foundation [(EFF)](https://www.eff.org/issues/coders/vulnerability-reporting-faq) or [SANS](https://www.sans.org/) and ask for help reporting. Never disclose the exploit to anyone except the actual company, especially not in a forum. Never post the data that you have gotten from an exploit. In fact, never save the data that you get from an exploit, other than the minimum needed to prove/verify.
 
 ## As a student, how do I have better cybersecurity hygiene?
 
-What is your threat model? If it's a government, what have you been doing? Don't tell me. I hope that you know more than I do about this stuff. If your threat model is your parents- whether they think that they're benign or not-, or other students, or protecting your wordpress server from random people on the internet? Basic basic basic stuff that you know like you know your toes- Never post your address or phone number anywhere. Use a different password for every website that has your credit card information in it. Use a unique password for your email. I recommend using a password manager like [1Password](https://agilebits.com/) or LastPass. Review your apps list on everything that does app integrations, especially facebook and twitter. Use two-factor authentication on everything, including github. You can get a [yubikey](https://www.yubico.com) and/or [GPG](https://www.gnupg.org/) sign your emails; for most of you, that would be a cool technical brag but not a necessity, unless you are going to be a journalist about controversial topics. Use a password on your phone; swipe is too easy to break. Fingerprint is ok unless you have a threat model that includes people who will pick your fingerprints off the desk or the DMV database.
+What is your threat model? If it's a government, what have you been doing? Don't tell me. I hope that you know more than I do about this stuff. If your threat model is your parents- whether they think that they're benign or not-, or other students, or protecting your wordpress server from random people on the internet? Basic basic basic stuff that you know like you know your toes- Never post your address or phone number anywhere. Use a different password for every website that has your credit card information in it. Use a unique password for your email. I recommend using a password manager like [1Password](https://agilebits.com/) or LastPass. Review your apps list on everything that does app integrations, especially facebook and twitter. Use two-factor authentication on everything, including github. You can get a [yubikey](https://www.yubico.com) and/or [GPG](https://www.gnupg.org/) sign your emails; for most of you, that would be a cool technical brag but not a necessity, unless you are going to be a journalist about controversial topics. Use a password on your phone; swipe is too easy to break. Fingerprint is ok unless you have a threat model that includes courts, because you aren't allowed to not disclose a fingerprint.
 
 ## How is IIT's security?
 
@@ -112,7 +112,7 @@ This section needs a lot more work. I know fairly little about this- only hand-w
 
 ## What is "spoofing"?
 
-Pretending to be something that you are not (a cell phone tower, the gmail login page). Email spoofing is pretending to send email from an address that you do not control- most modern email clients don't allow this.
+Pretending to be something that you are not (a cell phone tower, the gmail login page). Email spoofing is pretending to send email from an address that you do not control. Gmail tries to disallow this; many other clients do not.
 
 
 ## How does anyone get through a firewall into a network?
@@ -131,7 +131,7 @@ When some data that was supposed to not be public, is made public, it is a data 
 
 A hospital was recently held "hostage" to unlock their data. [News1](http://www.wired.com/2016/02/hack-brief-hackers-are-holding-an-la-hospitals-computers-hostage/) [News2](http://www.latimes.com/business/technology/la-me-ln-hollywood-hospital-bitcoin-20160217-story.html)
 
-That's where files are encrypted on disc; the user values the files and pays to have them unlocked. This is a repeatable exploit until the system is patched, but it is harder to get the victim to pay the second time. Always back up your data in addition to securing your systems!
+That's where files are encrypted on disk; the user values the files and pays to have them unlocked. This is a repeatable exploit until the system is patched, but it is harder to get the victim to pay the second time. Always back up your data in addition to securing your systems!
 
 
 ## What steps would you suggest a security noob take to improve on a pretty much nonexistent security strategy?
