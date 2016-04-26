@@ -7,7 +7,11 @@ tags:
 
 Here are my answers to some questions. I am not an expert, just an interested amateur. This is me rambling, not a guide to anything. Ask the internet. Don't access systems that you do not own or do not have permission to access. Always report the minimum exploit. Always report responsibly.
 
-[CS2050](http://cos.iit.edu/cs2050/)
+This is all in the context of thinking about [CS2050](http://cos.iit.edu/cs2050/)
+
+## My self-introduction / how is cyber-security related to your daily job/life?
+
+I am not a security expert. I haven't studied it formally. It has mattered to every team I've ever been on. It is one of the ever-present "cross-cutting concerns" just like performance and uptime. I'm interested in it as a field because it is hugely important, and I like important things.
 
 ## What is cybersecurity?
 
@@ -59,11 +63,13 @@ One, I'm not going to answer that. Two, I recommend discussing your differences 
 
 ## How do man in the middle attacks work?
 
-Ask the internet. If you connect to a malicious wifi network that captures all your traffic and forwards it to someone who wants to do bad things with it- well, they can see what sites you are visiting, what you type into fields on those sites, even login fields, unless the page is served over HTTPS and logins are submitted via ssl. many hotel wifi networks do this. I would be unsurprised if some corporate and university networks do this, for theoretically benign reasons. To avoid this, you can forward all your traffic through a VPN. You can run your own, or pay for one for about $6 per month. Absolutely every page should use ssl for login. With the rise of [LetsEncrypt](https://letsencrypt.org/) free SSL/TLS certs, more and more everything should be being served over https. Hopefully the amount of damage doable via MiTM attacks is declining.
+Ask the internet. If you connect to a malicious wifi network that captures all your traffic and forwards it to someone who wants to do bad things with it- well, they can see what sites you are visiting, what you type into fields on those sites, even login fields, unless the page is served over HTTPS and logins are submitted via ssl. Many hotel wifi networks do this. I would be unsurprised if some corporate and university networks do this, for theoretically benign reasons. To avoid this, you can forward all your traffic through a VPN. You can run your own, or pay for one for about $6 per month. Absolutely every page should use ssl for login. With the rise of [LetsEncrypt](https://letsencrypt.org/) free SSL/TLS certs, more and more everything should be being served over https. Hopefully the amount of damage doable via MiTM attacks is declining.
 
 ## How do I get a career in (government) cybersecurity? (Part 2)
 
 Like anything else that you really care about- do your research. Keep up with security news- maybe plug everything into an RSS reader so you can see it all in one place. Look up all available government security jobs. Look up the things that they want you to know and figure out what they are. Write blogs and code snippets and put them on your github- a portfolio of your thinking and work. Meet people- go to meetups and conferences. Find industry professionals and professors and ask them respectfully for their time- listen to them and ask them questions, try to learn what they know. Conferences are by far the best way to immerse your brain in the mad glory that is the constantly-changing field of security. They are also by far the best place to find jobs and internships. If you have the time and brainspace, run a local meetup group, invite speakers who know more than you do and listen to them.
+
+A lot of software developers use twitter to talk about code stuff and general industry stuff. When presenting, a huge number of industry presenters use their twitter handle as their "contact me." Think about getting a twitter account.
 
 ## Why is cybersecurity important?
 
@@ -91,9 +97,11 @@ The FBI wanted Apple to break into an iphone for them, which would let them get 
 
 ## What are companies doing to promote security and best practices?
 
-Hacktober is really cool- basically a company hacks it's employees, then when they fall for it, redirects them to an internal site with educational resources. This is much more effective than making everyone sit through a training course. Stuff like leaving flash drives in the parking lot- you plug it into your computer to see what it is and how to get it back to the owner, and then the software on it compromises the machine that it is plugged into.
+"Hacktober" is really cool- basically a company hacks it's employees, then when they fall for it, redirects them to an internal site with educational resources. This is much more effective than making everyone sit through a training course. (It is an addition to the training, not a replacement!) Stuff like leaving flash drives in the parking lot- you plug it into your computer to see what it is and how to get it back to the owner, and then the software on it compromises the machine that it is plugged into.
 
 [Facebook hacktober](https://www.facebook.com/notes/facebook-engineering/happy-hacktober/10151170449088920/) [Mashable article](http://mashable.com/2012/11/29/facebook-hacktober/) [NS/Sophos article](https://nakedsecurity.sophos.com/2012/11/30/facebook-hacks-its-workers-into-hacktober-smithereens/)
+
+Of course companies have "security training" courses, internal security teams, lunch-and-learns, etc. The short answer to "what do companies do" in my opinion is: mostly not enough to not get hacked, but they don't know that until too late.
 
 
 ## What is PCI compliance, and how is it different from HIPAA?
@@ -121,7 +129,7 @@ Many firewalls are mis-configured in common ways. Always run a [scanning tool](h
 
 ## Why isn't the government more up to date?
 
-They have a huge surface area, with many authorities, none of which have final say in many cases. Communication in such a huge organization takes a lot of overhead and propagation time. Best practices change over time. There are a lot of regulations, many of which are hard to understand and adhere to, some of which are out of date. Offering a service to the government, even from inside the government, is difficult. [18F (that's an address) Digital Services Delivery](https://18f.gsa.gov/) is doing great at this.
+They have a huge surface area, with many authorities, none of which have final say in many cases. Communication in such a huge organization takes a lot of overhead and propagation time. Best practices change over time. There are a lot of regulations, many of which are hard to understand and adhere to, and some of which are out of date. Offering a service to the government, even from inside the government, is difficult. [18F (that's an address) Digital Services Delivery](https://18f.gsa.gov/) is doing great at this.
 
 ## What is a data breach and why do they happen?
 
@@ -136,12 +144,10 @@ That's where files are encrypted on disk; the user values the files and pays to 
 
 ## What steps would you suggest a security noob take to improve on a pretty much nonexistent security strategy?
 
-Write down your threat model. Write down what your valuable data is and what could go wrong for your users if you have a data breach. Write down what havoc an attacker could wreak if they accessed your systems. Show it to your team and brainstorm. Read the OWASP guides and run the basic security tools (scanners, fuzzers) against your networks and websites. If you have to do due diligence for an acquisition, hire a reputable company or researcher to look at your systems.
+Write down your threat model. Write down what your valuable data is and what could go wrong for your users if you have a data breach. Write down what havoc an attacker could wreak if they accessed your systems. Show it to your team and brainstorm. Read the OWASP guides and run the basic security tools (scanners, fuzzers) against your networks and websites. If you're serious about this- if you have a lot to lose- hire a reputable company or researcher to look at your systems.
 
+Consider getting ["cyberattack" insurance.](http://www.nytimes.com/2014/06/09/business/cyberattack-insurance-a-challenge-for-business.html)
 
-## My self-introduction / how is cyber-security related to your daily job/life?
-
-I am not a security expert. I haven't studied it formally. It has mattered to every team I've ever been on. It is one of the ever-present "cross-cutting concerns" just like performance and uptime. I'm interested in it as a field because it is hugely important, and I like important things.
 
 ## IIT alumni are encouraged to share with us one (most) memorable experience at IIT
 
@@ -215,7 +221,7 @@ Because it's a high-value target and therefore a lot of people aim at it. Also c
 - [Companies](https://www.quora.com/What-are-the-top-cybersecurity-startups-in-America)
 - Really great and thought-through defensive programming security design: [Callisto](https://www.projectcallisto.org/)
 - Other recent-ish news: [Ukraine power hack](http://www.wired.com/2016/03/inside-cunning-unprecedented-hack-ukraines-power-grid/)
-
+- Ridiculous long amazing paper about linux container hardening [https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/)
 
 ------
 
