@@ -11,7 +11,7 @@ This is all in the context of thinking about [CS2050](http://cos.iit.edu/cs2050/
 
 ## My self-introduction / how is cyber-security related to your daily job/life?
 
-I am not a security expert. I haven't studied it formally. It has mattered to every team I've ever been on. It is one of the ever-present "cross-cutting concerns" just like performance and uptime. I'm interested in it as a field because it is hugely important, and I like important things.
+I am not a security expert. I haven't studied it formally. It has mattered to every team I've ever been on. I've worked as a software developer for only the most recent part of industry history. These people see the long view. I see the details, the code, the detail at the bottom of the pile. When someone has a deadline, my team and I are the people who actually meet or don't meet the deadline. I really like being at that level. Security is one of the ever-present "cross-cutting concerns" just like performance and uptime. I'm interested in it as a field because it is hugely important, and I like important things.
 
 ## What is cybersecurity?
 
@@ -53,6 +53,10 @@ HackerOne has some [good guidelines.](https://hackerone.com/disclosure-guideline
 
 Some companies punish responsible vulnerability reporters (via litigation or other penalties), and that is a terrible practice that not only hurts the company's reputation and defensibility, but poisons the whole ecosystem. When a security researcher does not report a vulnerability (usually because they are scared of retaliation and therefore feel that it will not be worth the trouble to them), this increases the chances that some less ethical researcher will discover the vulnerability and use it for ill to take advantage of the users of the vulnerable system. Companies which penalize the reporting of security issues are actively disintegrating the system which helps all systems become more secure. This really annoys me.
 
+## What is hacktivism?
+
+It is controversial, for one thing. The practice of causing change, usually politically, using data or attacks obtained via system vulnerabilities. For instance, if government or company X announces a controversial law or business deal, and then someone finds a way to unauthorizedly change the content on that organization's website, and includes a paragraph mentioning that unauthorized change was motivated by dislike of the government's action- or brags later about the same- then I consider it accurate to describe it as "hacktivism". This is rarely a good idea, just like breaking and entering is rarely a good idea- it's illegal and the victims usually get really mad. It can have a huge reach, of course.
+
 ## How do you think like a pen tester?
 
 What is valuable? What do you have to protect? A penetration tester penetrates defenses, usually of a network or other organization. A friend of mine had their linkedin account broken into and all of the skills changed to "sex." Some people get email notifications for changes in their network, and in this person's case their parent got an email from linkedin that their child was skilled at sex. So even if that's not a disaster, it's still an annoyance. With access to a linkedin account, one could delete all the recommendations, message and insult all the coworkers and bosses, change the photo to something unprofessional, just generally make a mess. This would be a bigger deal if you were in the middle of a job search. Thinking like a pen tester required that you think the unthinkable thoughts- the ones that some people are too polite to think. Every thought is a "but I wouldn't really do that" thought, but you need to think about what could be done with the data that you are trying to get, in order to know what data and access you are trying to get. With access to someone's IIT account, maybe you could drop all their classes, email all their professors rude things, delete all their google docs. Don't do that. Most of it is recoverable, with some cooperation from the university and a lot of apologizing. Think of the things that are beyond the pale, and how someone would do them. Then defend those things.
@@ -60,6 +64,7 @@ What is valuable? What do you have to protect? A penetration tester penetrates d
 ## How can I hack someone?
 
 One, I'm not going to answer that. Two, I recommend discussing your differences with them civilly and/or try third party arbitration. Three, what are you going for? If you just want to annoy them, you could try to log in as them five times to a service that locks you out and sends a warning email after too many failed attempts.
+
 
 ## How do man in the middle attacks work?
 
@@ -181,6 +186,16 @@ Probably, but I don't know if there's widespread agreement on what to use instea
 Because it's a high-value target and therefore a lot of people aim at it. Also card skimmers and the USA's deeply incomplete implementation of chip-and-pin cards. [source1](http://www.usatoday.com/story/money/personalfinance/2015/10/01/us-shifts-credit-cards-chip-signature-still-do/73145306/) [source2](https://www.quora.com/Why-is-the-USA-adopting-chip-signature-and-not-chip-pin) [source3](http://www.wired.com/2015/09/big-security-fix-credit-cards-wont-stop-fraud/)
 
 
+## Are there any security startups?
+
+Absolutely. Some of them are great. Some of them are absurdly terrible. There have been some really naive Kickstarters. Be skeptical. Always always always be skeptical. If you can't think of hard questions to ask, do more research and try harder.
+
+TODO: more links
+
+## Are we all doomed?
+
+We are currently experiencing doom. The doom will increase.
+
 ## IIT specific resources
 
 - [C2Safe](http://appliedtech.iit.edu/c2safe)
@@ -222,6 +237,18 @@ Because it's a high-value target and therefore a lot of people aim at it. Also c
 - Really great and thought-through defensive programming security design: [Callisto](https://www.projectcallisto.org/)
 - Other recent-ish news: [Ukraine power hack](http://www.wired.com/2016/03/inside-cunning-unprecedented-hack-ukraines-power-grid/)
 - Ridiculous long amazing paper about linux container hardening [https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/)
+- [Key findings from the 2015 US State of Cybercrime Survey](https://www.pwc.com/cybersecurity)
+- [Verizon's 2016 Data Breach Investigations Report](https://jacobian.org/writing/2016-dbir-highlights/)
+
+## Other stuff to talk about
+
+- What does "hack" mean? (old definition vs modern media definition)
+- DDoS
+- How much can/should you defend systems against employees?
+- Minimum permissions systems
+- Google's awesome device indexing (link)
+- Talk more about ethics
+- Discussion of current crypto libraries and auth, password hashing
 
 ------
 
