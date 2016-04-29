@@ -28,3 +28,4 @@ Other interesting plane-related things:
 
 * My first time flying into the SF Bay Area, told the person picking me up that I was at the wrong airport (OAK vs SFO), public transit, eventually beat them back to the place of residence (traffic, whee), sat on a front porch in the cold dark for an hour.
 * Was on the only pre-2014 SouthwestAir direct flight from DAL to MDW (Southwest was not allowed to fly direct hops on that route yet, but we got redirected instead of stopping in St. Louis because of weather)
+* American Airlines called me at 3am to tell me that my flight was three hours delayed. the flight was indeed three hours delayed, despite the plane being at the gate an hour before the revised takeoff time.
