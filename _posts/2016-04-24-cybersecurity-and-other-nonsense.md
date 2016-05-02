@@ -239,6 +239,7 @@ We are currently experiencing doom. The doom will increase.
 - Ridiculous long amazing paper about linux container hardening [https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/)
 - [Key findings from the 2015 US State of Cybercrime Survey](https://www.pwc.com/cybersecurity)
 - [Verizon's 2016 Data Breach Investigations Report](https://jacobian.org/writing/2016-dbir-highlights/)
+- [Top U.S. universities failing at cybersecurity education](http://www.cio.com/article/3060813/it-skills-training/top-u-s-universities-failing-at-cybersecurity-education.html)
 
 ## Other stuff to talk about
 
@@ -254,3 +255,5 @@ We are currently experiencing doom. The doom will increase.
 
 
 Typofixes, questions, factual corrections, and feedback are welcome: please file an issue on github at [https://github.com/compwron/compwron.github.io/issues](https://github.com/compwron/compwron.github.io/issues) or contact me via email (compiledwrong at gmail)
+
+
