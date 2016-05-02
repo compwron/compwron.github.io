@@ -240,6 +240,8 @@ We are currently experiencing doom. The doom will increase.
 - [Key findings from the 2015 US State of Cybercrime Survey](https://www.pwc.com/cybersecurity)
 - [Verizon's 2016 Data Breach Investigations Report](https://jacobian.org/writing/2016-dbir-highlights/)
 - [Top U.S. universities failing at cybersecurity education](http://www.cio.com/article/3060813/it-skills-training/top-u-s-universities-failing-at-cybersecurity-education.html)
+- [Bothersome Privacy (Fowler)](http://martinfowler.com/articles/bothersome-privacy.html)
+- [Datensparsamkeit](http://martinfowler.com/bliki/Datensparsamkeit.html)
 
 ## Other stuff to talk about
 
