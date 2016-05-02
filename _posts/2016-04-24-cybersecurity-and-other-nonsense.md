@@ -242,6 +242,7 @@ We are currently experiencing doom. The doom will increase.
 - [Top U.S. universities failing at cybersecurity education](http://www.cio.com/article/3060813/it-skills-training/top-u-s-universities-failing-at-cybersecurity-education.html)
 - [Bothersome Privacy (Fowler)](http://martinfowler.com/articles/bothersome-privacy.html)
 - [Datensparsamkeit](http://martinfowler.com/bliki/Datensparsamkeit.html)
+- [Google Code Browser Security Handbook](https://code.google.com/archive/p/browsersec/)
 
 ## Other stuff to talk about
 
