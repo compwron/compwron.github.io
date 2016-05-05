@@ -49,6 +49,8 @@ I don't know. Ask TechOps. IIT has a huge attack area- every ethernet port in th
 
 HackerOne has some [good guidelines.](https://hackerone.com/disclosure-guidelines) Basically: Always report directly to the company/project that has the bug. Never keep sell any data that you get from a vulnerability. Never share how to replicate the issue with anyone other than the product team until there is a release that has fixed the issue and an announcement has been made that everyone should upgrade to the new release. The importance of sticking to this etiquette scales with the severity of the vulnerability that you find. [Impero reporting guidelines](https://www.imperosoftware.com/about/reporting-vulnerabilities/)
 
+An example of responsible disclosure is [imagetragick](https://imagetragick.com/) where, because widespread attacks were seen in the wild, the announcement was made very quickly. The purpose of responsible disclosure is to minimize the amount of damage to users caused by the vulnerability.
+
 ## What does "poisons the whole ecosystem" mean?
 
 Some companies punish responsible vulnerability reporters (via litigation or other penalties), and that is a terrible practice that not only hurts the company's reputation and defensibility, but poisons the whole ecosystem. When a security researcher does not report a vulnerability (usually because they are scared of retaliation and therefore feel that it will not be worth the trouble to them), this increases the chances that some less ethical researcher will discover the vulnerability and use it for ill to take advantage of the users of the vulnerable system. Companies which penalize the reporting of security issues are actively disintegrating the system which helps all systems become more secure. This really annoys me.
@@ -258,5 +260,3 @@ We are currently experiencing doom. The doom will increase.
 
 
 Typofixes, questions, factual corrections, and feedback are welcome: please file an issue on github at [https://github.com/compwron/compwron.github.io/issues](https://github.com/compwron/compwron.github.io/issues) or contact me via email (compiledwrong at gmail)
-
-
