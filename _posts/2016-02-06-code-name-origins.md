@@ -120,7 +120,7 @@ Classification: practical / origin reference
 
 ## [Java](http://hg.openjdk.java.net/jdk9)
 
-Origin: Some word that was "dynamic, revolutionary, lively, fun"
+Origin: [Some word that was "dynamic, revolutionary, lively, fun"](http://www.javaworld.com/article/2077265/core-java/so-why-did-they-decide-to-call-it-java-.html)
 
 Source: [java](http://www.javaworld.com/article/2077265/core-java/so-why-did-they-decide-to-call-it-java-.html)
 
