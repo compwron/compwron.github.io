@@ -14,7 +14,6 @@ Mockito does not work with groovy because of [Mockito Issue 303](https://code.go
 2. Spock has beautiful error output
 3. Otherwise we would be using plain groovy mocking, which is great except for the very important detriment that you can't pass a groovy mock into a constructor, so if you are using constructor injection, it is basically useless.
 
-In order to get a buildtime-generated parameter like a build number (coming in from your CI system- i.e build 1 would be 0.0.1 and build 2 would be 0.0.2. This is not quite [semver](http://semver.org/) but it seems to my team to be better than 0.0.0-1 or 0.0.0.1) because we are ok with large Patch versions and we want to be able to stick to three digits for clarity sake and in order to distance ourselves from the 0.0.0-SNAPSHOT style that is common in Maven, because we want to never never never overwrite a build number. We thought about appending a git hash, to be even more sure to never overwrite versions, but there is no way for the human eye to be able to tell which number is before which other number when they look like 0.0.0-5a6fadf and 0.0.0-686021d etc
 
 ## Security checking dependencies
 
@@ -29,6 +28,12 @@ We are using [codenarc](http://codenarc.sourceforge.net/) for groovy code lintin
 ## Test coverage
 
 We are using [jacobo](https://docs.gradle.org/current/userguide/jacoco_plugin.html) (the gradle default) for test coverage reporting (what percentage of a codebase is covered by tests)
+
+
+## Build version
+
+In order to get a buildtime-generated parameter like a build number (coming in from your CI system- i.e build 1 would be 0.0.1 and build 2 would be 0.0.2. This is not quite [semver](http://semver.org/) but it seems to my team to be better than 0.0.0-1 or 0.0.0.1) because we are ok with large Patch versions and we want to be able to stick to three digits for clarity sake and in order to distance ourselves from the 0.0.0-SNAPSHOT style that is common in Maven, because we want to never never never overwrite a build number. We thought about appending a git hash, to be even more sure to never overwrite versions, but there is no way for the human eye to be able to tell which number is before which other number when they look like 0.0.0-5a6fadf and 0.0.0-686021d etc
+
 
 ## Displaying build time properties in the /info endpoint
 
