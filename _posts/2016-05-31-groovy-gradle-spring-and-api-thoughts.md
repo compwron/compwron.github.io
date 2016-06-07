@@ -126,7 +126,7 @@ class SwaggerContractTest extends Specification {
 
 For use in later stages of a Continuous Delivery pipeline (to run tests against code)
 
-https://github.com/compwron/gradle-executable-tests-jar-demo
+[compwron/gradle-executable-tests-jar-demo](https://github.com/compwron/gradle-executable-tests-jar-demo)
 {% highlight groovy %}
 task testJar(type: Jar, dependsOn: [':compileTestGroovy']) {
     classifier = "test"
