@@ -145,6 +145,35 @@ task testJar(type: Jar, dependsOn: [':compileTestGroovy']) {
 }
 {% endhighlight %}
 
+## Decision Log
+
+We are using a "Decision Log" which, backed up by "Decision Matrices" is intended to explain to business stakeholders and future developers what and why we have chosen various technical solutions. Below is a sanitized version of our real project log.
+
+I have taken a lot out of this. Just assume that all blank spaces say "redacted"
+
+| Item | Decision Taken | Status | Confidence | Rationale | Assumptions | Agreed By | Date
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Development stack for new platform | JDK on Linux | Done | 100% | Majority of existing source code is in Java/Groovy ||||
+| API Java Framework | Spring Boot | Done | 100% |||||
+| PaaS provider | Managed Cloud Foundry | Pending | 80% |||||
+| Cloud Platform | Amazon AWS | Pending | 50% |||||
+| Orchestrator | GoCD | Done | 100% | "Team City is very good at CI, but is a challenge to use as the tool for an overarching deployment pipeline including fan-in of multiple services for integration and visualizing everything in a dashboard" |  ||||
+| Versioning Scheme | Modified semver | Done | 100% | "Semantic versioning provides good advice but is incompatible with continuous delivery which expects any build that passes verifications to be a release candidate. We'll use MAJOR.MINOR.BUILD-NUMBER instead of MAJOR.MINOR.PATCH to get the core value out of semantic versioning while supporting CD." ||||
+| Testing buildfile (gradle) |  | Pending | 50% | "Specifically this is currently concerned with the logic in the buildfile (building of version number from passed in params) |||
+| API Gateway | API Management Assessment | Pending | 80% |  |  |  ||
+| API Spec |  | Pending | 50% |  ||||
+| Spec-first or code-first API development |  | Done | 60% | See decision matrix |  |  ||
+| API schema usage |  | Pending | 25% |  |  |  ||
+| How to keep docs & code in sync |  | Pending | 50% | Look at code-generation vs testing approaches to ensure consistency |  |  |
+| Which API service(s) to build first |  | Pending | 75% |
+| Logging Framework | Log Consolidation Technologies |
+| Logging Library | SLF4j | Done | 100% | Implemented |  |  |
+| Testing Java | Spock | Done | 100% | "We are using the spock test framework because it has useful error output, works well with groovy, and is very commonly adopted. This relies upon and in most usages replaces Junit and Hamcrest (cleaner syntax and more useful output). Spock also replaces mockito. Mockito is not usable with groovy." |  |  |
+| Developer workflow - merge vs rebase | rebase | Done | 100% | "The code that is on the ""master"" git branch should always have passing tests and be deployable. When you are pushing new code to master |  rebase your local commits (git pull --rebase instead of git pull). This is in order to keep the git log maximally readable and descriptive." |  |  |
+| Feature toggles | FF4j | Done | 100% | "In order to keep features that are not fully done yet from getting into production we will use FF4J for development-level feature toggling" |  |  |
+
+
+
 -----
 
 {% highlight groovy %}
