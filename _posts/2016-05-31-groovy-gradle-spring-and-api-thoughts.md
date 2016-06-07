@@ -121,3 +121,32 @@ class SwaggerContractTest extends Specification {
     }
 }
 {% endhighlight %}
+
+## Building a test sources jar
+
+For use in later stages of a Continuous Delivery pipeline (to run tests against code)
+
+https://github.com/compwron/gradle-executable-tests-jar-demo
+{% highlight groovy %}
+task testJar(type: Jar, dependsOn: [':compileTestGroovy']) {
+    classifier = "test"
+
+    from files(sourceSets.test.output.classesDir)
+    from configurations.testRuntime.asFileTree.files.collect { zipTree(it) }
+
+//  Avoid JNI error in fat jar which includes some signed jar dependencies
+    exclude "META-INF/*.SF"
+    exclude "META-INF/*.DSA"
+    exclude "META-INF/*.RSA"
+
+    manifest {
+        attributes 'Main-Class': 'foo.MainInTest'
+    }
+}
+{% endhighlight %}
+
+-----
+
+{% highlight groovy %}
+{% endhighlight %}
+
