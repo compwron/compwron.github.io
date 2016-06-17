@@ -50,7 +50,7 @@
 						<small><a href="http://twitter.com/compiledwrong">@compiledwrong</a></small>
 					</p>
 					<aside class="notes">
-
+          Feature flags, also known as feature toggles, a way to get around having long lived feature branches for your features.
 					</aside>
 				</section>
 
@@ -63,6 +63,7 @@
 
         <section>
 					<h2>What is a feature flag/toggle?</h2>
+          <small>not A/B testing (which requires much monitoring & data analysis)</small>
           <ul>
             <li>Some features should not be in production YET
             <ul>
@@ -81,16 +82,9 @@
 				</section>
 
         <section>
-          <h2>What is a feature flag/toggle?</h2>
-          <p>Not an A/B test! (In this context)</p>
-          <aside class="notes">
-          </aside>
-        </section>
-
-        <section>
           <h2>Taxonomy of flags/toggles</h2>
           <ul>
-            <li><b>very temporary</b> (only while a new feature is being developed, to enable developer workflow) OR <b>long-lasting</b></li>
+            <li><b>very temporary</b> (only while a new feature is being developed, to enable developer workflow) OR <b>long-lasting</b> (very tempting, more dangerous)</li>
             <li><b>When</b> the state of the flag can be changed (runtime or deploy/restart -time)</li>
             <li>What level of <b>granularity</b> the flag controls: application-wide OR user-specific (maybe with groups of users!)</li>
           </ul>
@@ -101,21 +95,28 @@
           <p>
             config file (deploy-time)
           </p><p>OR
-          </p><p>database/datastore (runtime enablement)
+          </p><p>environmental variable sourced from external system (deploy-time)
+          </p><p>OR
+          </p><p>database/datastore or API calls to external config system (runtime enablement)
+          </p><p>NOT
+          </p><p>NOT! in-memory (resets on deploy)
           </p>
           <aside class="notes">
           </aside>
         </section>
 
         <section>
-          <h2>Changing state</h2>
+          <h2>Who toggles your toggles, and how?</h2>
           <ul>
-            <li><b>Who</b> changes them? (Developers? Ops? Product?)</li>
-            <li>JMX (reduce chance of unauthorized UI/external access)</li>
-            <li>[DANGER] Someone runs a sql insert in prod</li>
-            <li>[DANGER] Admin-only console for your Product team</li>
+            <li><b>Who</b> changes them? (Developers via commit? Ops via env variable + restart? Product via UI?)</li>
+            <li><a href="http://www.oracle.com/technetwork/articles/java/javamanagement-140525.html">JMX</a> (reduce chance of unauthorized UI/external access)</li>
+            <li>Developers, in a commit, which is then deployed
+            <li>[mild danger] Admin-only console for your Product team (access protection)</li>
+            <li>[DANGER] Someone runs a sql insert in prod (harder to get traceability/logging)</li>
           </ul>
+          <small>Log everything!</small>
           <aside class="notes">
+          Log everything!
           </aside>
         </section>
 
@@ -123,7 +124,7 @@
           <h2>User-specific feature flags/toggles</h2>
           <ul>
             <li>gradual rollout (trusted partners first)</li>
-            <li>load testing (forgot an index?)</li>
+            <li>(accidental) load testing (forgot an index?)</li>
             <li>automatic enablement of server-side feature on iOS/Android app upgrade</li>
           </ul>
           <aside class="notes">
@@ -131,15 +132,16 @@
         </section>
 
         <section>
-          <h2>Reasons for long-lasting feature toggles</h2>
+          <h2>Long-lasting feature toggles</h2>
           <ol>
             <li>increase developer pain :(</li>
-            <li>frequent gradual rollout, rollback</li>
-            <li>Many client versions (iOS/Android) in the wild that can/not support different features</li>
-            <li>DANGER: combinatorial explosion of testing complexity if any of these features impact each other</li>
-            <li>DANGER: are you accidentally using it as a user/admin permissions system?</li>
+            <li>gradual rollout and frequent rollback</li>
+            <li>long-maintained iOS/Android client versions in the wild that can/not support different features</li>
+            <li>[DANGER] combinatorial explosion of testing complexity</li>
+            <li>[DANGER] did you accidentally write a permissions system?</li>
           </p>
           <aside class="notes">
+          nested features! Validity of states!
           </aside>
         </section>
 
@@ -149,8 +151,9 @@
           <h3>a user/admin permissions system</h3>
           <ul>
             <li>charging $$ per feature</li>
-            <li>A/B testing (how do you get meaningful metrics?)</li>
-            <li>features for internal users only (i.e. roles)</li>
+            <li>features for certain users only (i.e. roles)</li>
+            <li>A/B testing (additional effort required for meaningful metrics)</li>
+            <li>log everything!</li>
           </ol>
           <aside class="notes">
           </aside>
@@ -163,6 +166,7 @@
             (the user configuring their usage of the feature)
           </p><p>Once a feature is enabled, a user can configure it. What do you do with the configuration if the feature is turned off again? Keep it? Delete it? What if the configuration options mean different things when you turn the feature back on again?
           </p>
+          <small>Really weird data bugs</small>
           <aside class="notes">
           </aside>
         </section>
@@ -216,7 +220,7 @@ end
 
 				<section>
 					<h2>DB schemae</h2>
-          <small>modified, based on BreadcrumbPro</small>
+          <small>modified, based on BreadcrumbPro <a href="https://github.com/compwron/feature_feature">github.com/compwron/feature_feature</a></small>
 					<p>Features have attributes, which differ per restaurant</p>
 					<pre><code class="ruby" data-trim contenteditable>
 create_table :restaurants do |t|
@@ -243,7 +247,7 @@ add_index :restaurant_features, [:restaurant_id]
 
 				<section>
 					<h2>FeatureToggle.rb</h2>
-          <small>modified, based on BreadcrumbPro</small>
+          <small>modified, based on BreadcrumbPro <a href="https://github.com/compwron/feature_feature">github.com/compwron/feature_feature</a></small>
 					<pre><code class="ruby" data-trim contenteditable>
 module Concerns::Restaurant::FeatureToggle
   extend ActiveSupport::Concern
@@ -273,7 +277,7 @@ end
 
 				<section>
 					<h2>Feature.rb</h2>
-          <small>modified, based on BreadcrumbPro</small>
+          <small>modified, based on BreadcrumbPro <a href="https://github.com/compwron/feature_feature">github.com/compwron/feature_feature</a></small>
 					<pre><code class="ruby" data-trim contenteditable>
 class Feature < ActiveRecord::Base
   UNSAFE_FEATURES = ['place_holder', Features::BAD_FEATURE_2]
@@ -307,7 +311,9 @@ end
 
         <section>
           <h2>Lessons Learned</h2>
-          <p>How do you migrate features between feature toggle systems? How do you test the migration? Backfills and intermediate comparison formats! (CSV)</p>
+          <p>How do you migrate features between feature toggle systems? How do you test the migration? Especially if their states are being modified even during the deploy (for business reasons)?
+          </p><p>
+          </p>
           <aside class="notes">
           CSV helps the non-developers help themselves, look at results, manipulate data
           Manual comparison in Excel, Product can help you check that your progress is correct (even including new restaurant) "PMs know how to use excel"
@@ -316,9 +322,11 @@ end
 
         <section>
           <h2>Lessons Learned</h2>
-          <p>Deploy strategy: how do you feature toggle the feature toggle feature?</p>
+          <p>
+          Deploy strategy: how do you feature toggle the feature toggle feature?
+          </p><p>We first encapsulated every toggle in a class, then backfilled and traded out the contents of that one class in one closely-monitored deploy.
+          </p>
           <aside class="notes">
-          We first encapsulated every toggle in a class, then backfilled and traded out the contents of that one class in one closely-monitored deploy.
           </aside>
         </section>
 
