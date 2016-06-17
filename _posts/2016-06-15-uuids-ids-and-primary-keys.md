@@ -7,7 +7,7 @@ tags:
 
 This came out of some thoughts at work.
 
-TL;DR defense in depth is good, it's possible but not unavoidablt to have large-scale performance problems if you use uuid as your primary key, UUIDs can in some situations be a solution for having to generate IDs in multiple locations, including the client and sharded databases, and I don't think it's worth it to use UUIDs instead of incrementing integers in API URLs (unless you're a financial company I guess) because the only real win is that it's harder for someone who's gotten past your auth system to increment over your objects by ID, and that's not worth the extra code complexity for many non-financial teams.
+TL;DR defense in depth is good, it's possible but not unavoidable to have large-scale performance problems if you use uuid as your primary key, UUIDs can in some situations be a solution for having to generate IDs in multiple locations, including the client and sharded databases, and I don't think it's worth it to use UUIDs instead of incrementing integers in API URLs (unless you're a financial company I guess) because the only real win is that it's harder for someone who's gotten past your auth system to increment over your objects by ID, and that's not worth the extra code complexity for many non-financial teams.
 
 ## What is a UUID?
 
