@@ -172,6 +172,13 @@ I have taken a lot out of this. Just assume that all blank spaces say "redacted"
 | Developer workflow - merge vs rebase | rebase | Done | 100% | "The code that is on the ""master"" git branch should always have passing tests and be deployable. When you are pushing new code to master |  rebase your local commits (git pull --rebase instead of git pull). This is in order to keep the git log maximally readable and descriptive." |  |  |
 | Feature toggles | FF4j | Done | 100% | "In order to keep features that are not fully done yet from getting into production we will use FF4J for development-level feature toggling" |  |  |
 
+## Dependency management
+
+Today I learned that gradle does "newest" dependency resolution. And also that you can configure/change it.
+
+https://docs.gradle.org/current/userguide/dependency_management.html#sub:version_conflicts
+
+"Newest: The newest version of the dependency is used. This is Gradle's default strategy, and is often an appropriate choice as long as versions are backwards-compatible."
 
 
 -----
