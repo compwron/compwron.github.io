@@ -9,7 +9,8 @@ The most frustrating part of job searching, for me, is that I can only work for 
 
 ### OMG:
 
-* SpaceX (domain, prestige)
+* https://devprogress.us/
+* SpaceX (domain, prestige) even though I hear meh things about their internal team style and collaboration, the prestige would be worth it to me.
 * Tesla (prestige)
 * Change.org (friend, domain)
 * ThoughtWorks (friends, variety)
@@ -24,12 +25,14 @@ The most frustrating part of job searching, for me, is that I can only work for 
 * Akamai (domain)
 * OneMedical (people, domain)
 * [WhisperSystems](https://whispersystems.org/) (domain)
-* PagerDuty (domain)
+* PagerDuty (domain, friend)
+* [Procore](https://www.procore.com/) much ruby (domain, tech, friend(Syster))
 
 
 ### Maybe?
 
-* [Procore](https://www.procore.com/) much ruby (domain, tech)
+* Malwarebytes
+* https://gusto.com/
 * Twitter - I love what they build, cool problems (domain, tech)
 * facebook - cool problems (prestige, tech)
 * Wolfram - cool problems (domain, tech)
@@ -47,6 +50,7 @@ The most frustrating part of job searching, for me, is that I can only work for 
 * @SpaceVR
 * Pivotal? They sounds kinda like TW but with less P3, team-swapping, travel
 * [NationBuilder](http://nationbuilder.com/senior_software_engineer)
+* Memrise
 
 
 ### Cool dev ways to make resumes:
@@ -55,8 +59,12 @@ The most frustrating part of job searching, for me, is that I can only work for 
 * [https://jsonresume.org/](https://jsonresume.org/)
 
 
-Actually-good recruiters that I've personally interacted with:
+Actually-good recruiters with whom I've personally interacted:
 
 - [Albert Liao](http://rockitrecruiting.com/team/albert_liao)
 - [Kyle Barbato](https://www.linkedin.com/in/kyle-barbato-9753a64b)
+- [Bailey Douglass](https://www.linkedin.com/in/baileydouglass)
 - All of the TW peoples :)
+
+
+
