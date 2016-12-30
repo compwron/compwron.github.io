@@ -36,6 +36,11 @@ Dec 29 19:57:55 administrator acwebsecagent[23820]: OpenPlugin returned kdf erro
 
 I have no idea whether this might be related.
 
+Also tried:
+
+- Fixing everything that "brew doctor" says
+- upgrading xcode to the latest version
+
 
 ### References:
 
