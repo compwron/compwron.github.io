@@ -7,7 +7,7 @@ tags:
 
 ### Problem:
 
-Sometimes, for reasons I don't understand, my computer restarts while it is asleep. Frustratingly, a 60-second countdown to this tends to happen just after I open the lid, so if I don't log in quickly, it restarts. This seems... odd.
+Sometimes, for reasons I don't understand, my computer restarts while it is asleep. Frustratingly, a 60-second countdown to this tends to happen just after I open the lid, so if I don't log in quickly, it restarts. This seems... odd. This has been happening intermittantly (sometimes daily, sometimes not for weeks) since June 2016.
 
 ### Investigation:
 
