@@ -42,6 +42,12 @@ Also tried:
 - upgrading xcode to the latest version
 
 
+More notes:
+
+Now the computer does not restart (as seen by putting "uptime" in my on-console-start, and putting Terminal to open on restart), but all the apps close.
+10:10  up 2 days, 13:07, 2 users, load averages: 2.18 2.41 2.29
+
+
 ### References:
 
 [OSX Daily](http://osxdaily.com/2009/09/22/check-your-macs-uptime-and-reboot-history/)
