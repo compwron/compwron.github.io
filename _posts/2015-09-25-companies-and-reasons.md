@@ -5,11 +5,10 @@ tags:
  -
 ---
 
-The most frustrating part of job searching, for me, is that I can only work for one awesome company at a time, and the industry currently frowns upon stints of less than a year. Maybe this is why people go into freelancing? Anyway, for my future edification, here are the companies that are currently on my radar for a few years from now (obviously there will be a lot more companies in the world a year or two or five from now)
+The most frustrating part of job searching, for me, is that I can only work for one awesome company at a time, and the industry currently frowns upon stints of less than a year. Maybe this is why people go into freelancing? Anyway, for my future edification, here are the companies that are currently on my radar for a few years from now, and why (obviously there will be a lot more companies in the world a year or two or five from now)
 
 ### OMG:
 
-* https://devprogress.us/
 * SpaceX (domain, prestige) even though I hear meh things about their internal team style and collaboration, the prestige would be worth it to me.
 * Tesla (prestige)
 * Change.org (friend, domain)
@@ -31,8 +30,10 @@ The most frustrating part of job searching, for me, is that I can only work for 
 
 ### Maybe?
 
+* https://binti.com/binti-careers/software-engineer/ (doing good in the world)
+* https://altvr.com/careers/ (domain)
+* SolarCity
 * Malwarebytes
-* https://gusto.com/
 * Twitter - I love what they build, cool problems (domain, tech)
 * facebook - cool problems (prestige, tech)
 * Wolfram - cool problems (domain, tech)
