@@ -28,6 +28,8 @@ I like being able to stick my nose into a lot of different code, while making de
 * PagerDuty (domain, friend)
 * [Procore](https://www.procore.com/) much ruby (domain, tech(ruby), friend(Syster))
 * [Bayes Impact](http://www.bayesimpact.org/careers) (impact, friend)
+* Slack (friend, domain, tech)
+* Square (friend, domain)
 
 ### Maybe?
 
