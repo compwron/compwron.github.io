@@ -23,14 +23,15 @@ I like being able to stick my nose into a lot of different code, while making de
 * Virgin Galactic (domain, prestige)
 * Akamai (domain, geek prestige)
 * Cloudflare (domain)
-* OneMedical (people, domain)
+* OneMedical (people, domain, tech(ruby))
 * [WhisperSystems](https://whispersystems.org/) (domain)
 * PagerDuty (domain, friend)
-* [Procore](https://www.procore.com/) much ruby (domain, tech, friend(Syster))
-
+* [Procore](https://www.procore.com/) much ruby (domain, tech(ruby), friend(Syster))
+* [Bayes Impact](http://www.bayesimpact.org/careers) (impact, friend)
 
 ### Maybe?
 
+* Walmart Labs (tech)
 * [Binti](https://binti.com/binti-careers/software-engineer/) (doing good in the world)
 * [altvr](https://altvr.com/careers/) (domain)
 * CarbonFive (location, variety)
