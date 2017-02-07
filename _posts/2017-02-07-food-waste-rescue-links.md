@@ -18,6 +18,11 @@ tags:
 - [https://www.boulderfoodrescue.org/](Boulder Food Rescue) Colorado (Boulder)
 - [http://www.bostonareagleaners.org/](Boston Area Gleaners) Boston
 - [http://412foodrescue.org/](412 food rescue) Pittsburgh
+- [http://www.lastminutemarket.it/](Last Minute Market) Italy
+- [http://www.lakitchen.org/](LA Kitchen) Los Angeles
+- [http://www.iskashitaa.org/harvesting-and-gleaning/](Iskashitaa)
+- [http://www.imperfectproduce.com/](Imperfect Produce)
+- [http://www.hungryharvest.net/#how-it-works](Hungry Harvest)
 
 ### Non-location organizations
 
@@ -32,10 +37,27 @@ tags:
 - [http://www.wastedfood.com/food-rescue/](Wasted Food)
 - [https://www.secondhelpings.org/](Second Helpings)
 - [http://www.caritas.org/what-we-do/food/caritas-food-waste/](Caritas)
+- [http://lovinspoonfulsinc.org/](Lovin' Spoonfuls)
+- [http://www.leanpath.com/](Lean Path)
+- [https://www.lovefoodhatewaste.com/](Love Food Hate Waste)
+- [http://www.handsforhunger.org/](Hands for Hunger)
+- [http://www.forgottenharvest.org/](Forgotten Harvest)
+- [http://www.foodwastealliance.org/](Food Waste Alliance)
+- [http://fsenetwork.org/](FSE Network)
+- [http://foodshift.net/](Food Shift)
+- [http://www.feedingamerica.org/find-your-local-foodbank/](Feeding America)
+- [http://fdshr.convio.net/](FoodShare)
+- [http://www.foodsave.org/](FoodSave)
+- [http://www.foodrecoverynetwork.org/](Food Recovery Network)
+- [http://foodpolicyaction.org/](Food Policy Action)
+- [https://www.foodloop.net/en/](Food Loop)
 
-### Government resources
 
-[https://www.usda.gov/oce/foodwaste/resources/donations.htm](USDA Resources)
+### Resources
+
+- [https://www.usda.gov/oce/foodwaste/resources/donations.htm](USDA Resources)
+- [http://hls.harvard.edu/dept/clinical/clinics/food-law-and-policy-clinic-of-the-center-for-health-law-and-policy-innovation/](Harvard)
+= [http://law.uark.edu/service-outreach/food-recovery-project/](University of Arkansas)
 
 ### Articles
 
