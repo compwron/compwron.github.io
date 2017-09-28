@@ -93,8 +93,7 @@ You've been meaning to look into that one weird exception that you saw two weeks
 - "Companies can avoid the long, drawn out search for that needle in a hay stack developer by hiring a more junior candidate and training and molding them into their ideal developer." [WorkBridge](http://www.workbridgeassociates.com/blog/posts/2014/03/21/workbridge-orange-county-junior-developer-mentor-cto)
 - "In return for your generosity, I will do everything in my power to make it not have been generosity."[Company Loyalty](http://zackmdavis.net/blog/2015/10/company-loyalty/)
 - ["An argument for hiring junior developers (from a conversation I had with @kamalmarhubi just now) -b0rk"](https://twitter.com/b0rk/status/621922353757470720)
-- "Delegate to juniors. they are wonderful people. They ask hard questions. They bring new insight into whats going on."
-- [@DivineOps](https://twitter.com/divineops) at [DevOpsDays Silicon Valley 2015](http://www.devopsdays.org/events/2015-siliconvalley/)
+- "Delegate to juniors. they are wonderful people. They ask hard questions. They bring new insight into whats going on." - [@DivineOps](https://twitter.com/divineops) at [DevOpsDays Silicon Valley 2015](http://www.devopsdays.org/events/2015-siliconvalley/)
 - ["Why companies suck at recruiting programmers"](https://medium.com/@2Flt/why-companies-suck-at-recruiting-programmers-f31ea78463dc?imm_mid=0dc37e&cmp=em-webops-na-na-newsltr_20151113#.xlutj1dgq)
 
 

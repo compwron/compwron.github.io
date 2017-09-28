@@ -42,3 +42,7 @@ This is an inherently incomplete list of talks that I personally think are both 
 - [Chef Style DevOps Kungfu](https://www.youtube.com/watch?v=_DEToXsgrPc), Adam Jacob, ChefConf 2015
 - [Easy rewrites with ruby and science](https://www.youtube.com/watch?v=kgDqUHWVw4A), Jesse Toth, RubyConf2014
 - [Schemas for the Real World](https://www.youtube.com/watch?v=PYYfVqtcWQY), Carina C. Zona, PyCon 2015
+
+
+https://www.youtube.com/watch?v=sc8sc-ELMhA
+https://www.youtube.com/playlist?list=PLfymmdgr20auPILX3Swhu0QZNB2L0aSRG&utm_source=News+from+The+Recompiler&utm_campaign=7e5c9afb83-EMAIL_CAMPAIGN_2016_10_31&utm_medium=email&utm_term=0_131cefd51c-7e5c9afb83-57730537&mc_cid=7e5c9afb83&mc_eid=3a5f00c41e

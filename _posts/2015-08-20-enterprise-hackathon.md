@@ -82,7 +82,7 @@ If only part of the company has permission + encouragement to join in, the remai
 
 The teams that do not participate will not make as many connections within the organization and new avenues of understanding and communication will not be formed during the hackathon to the extent that they will be among the other teams. If, for example, the individual/s who are responsible for the improvement and maintenance of the organization-wise continuous integration servers are too busy with their core tasks to take time away, this would be particularly disadvantageous to the organization.
 
-You will need to make provisions in order to let those in your org who are on call or in other ways unable to participate fully- and they are likely some of your most essential people- not feel that they are getting a raw deal. They do not deserve to be left out. Maybe a team like that could do a hackathon in one on, three-off mode, rotating by day, or with a little more prep time you could add a focus on 'unmanaged uptime' and 'user elf service' to the roadmap before the hackathon for a longer-lasting improvement in team productivity.
+You will need to make provisions in order to let those in your org who are on call or in other ways unable to participate fully- and they are likely some of your most essential people- not feel that they are getting a raw deal. They do not deserve to be left out. Maybe a team like that could do a hackathon in one on, three-off mode, rotating by day, or with a little more prep time you could add a focus on 'unmanaged uptime' and 'user self service' to the roadmap before the hackathon for a longer-lasting improvement in team productivity.
 
 # Enterprise hackathon fail 4: Not enough ways to brag
 
