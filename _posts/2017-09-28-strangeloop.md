@@ -255,6 +255,258 @@ inexplicably blank slide
 rule 6- data outlives applications
 data as an asset will outlive your code... example from mailing list comapny... assembled the year presenter was born. still using data. list fo services. ISAM to VSAM to network database (mainframe, mainframe, ?)
 there are still all caps record because mainframe couldnt do lowercase. ebsidec to ascii to utf-8 the data went along...  rewritten in TCL?
+serialized java objects in database columns. json is the limit... (well, yeah, but... lol)
+sunset 6:48pm here... welp
+shuttles...
+"and then ou wont be able to change your schema any more because you have all this ETL stuff poking into your database getting your data"
+rule 7- applications outlive integrations
+my lj app has stopped working :/
+"Thank you so much for looking out for me!! It really means a lot to me" - from jr I just sent a job op :)
+most architects came from being developers, so they think code centric...
+"I hop Im not beating a dead horse or bashing layers... I think that layers react badly to both- rules 6 and 7 (outliving)"
+"hexagonal architecture" allister coburn http://alistair.cockburn.us/Hexagonal+architecture http://fideloper.com/hexagonal-architecture
+TODO take a train?
+honeycomb design?
+"hwo different is that from a regular graph?"
+How the hell do I eat food around here
+rule 8- you dont always know what else is going on, ina complex ecosystem - vitual duplicate being beuilt elsewhere...
+"theres a whole world out there!"
+increase disoverability.
+github enterprise, visible by default, immediately helps discoverability.
+"i hope your comapny is engineering driven, or- has an engineering culture. need visible repos on internal application... all have links t team page- wheo is responsible, issue tracker, who can I call (or contact) etc. all of thse things are table stakes for an external serice.... we tend to not do it or internal sercice"
+recal of 8 rules... 4:13pm, wish there is more?? not just wuestions, eew??
+hexagonal architecture sounds like bullcrap to me.
+"I'm done, but happy to answer questions..."
+Hardest parts ias bac hurts. poor guy
+splitting teams is very hard to undo... why? splitting later is easy?? build unified until it makes sense to split... especially if small company or startup. Q: in conflict with plurality? A: in tensioni shwrere we find creativity
+http://paperswelove.org/
+a thingive learned from watching rich hickey designing clojure- careful adding features- once its there, its not going away...
+decompose systems into smaller and smaller units of commitment...
+the problem with crud is- it doesnt do anything. gotta read it , make decisions, update it. means- misplaced resposibility (so... not a REST fan I think)
+developers plucked from a pool, thrown into a domain they carenothing about, and thrown back when they are expended.
+attending developer https://github.com/intellij-solidity/intellij-solidity "Solidity is an object-oriented programming language for writing smart contracts." https://en.wikipedia.org/wiki/Solidity
+Q: ... honeycomb...
+Q: Simon's model clarification question...
+Slides will be shared, not sure how yet. Bit.ly link or dropbox link sometime soon.
+Q: ADRs adoption issues?
+1st floor - drinks, band
+2nd floor - drinks, Riot Games board game lounge
+3rd floor - snacks, drinks, sponsor tables for MailChimp and Monsanto
+Roof - it's amazing! The elevator is to the right of the ticket booth at the entrance. Take the 10 story slide down ... if you dare!
+"just in time for christmas... great gift..." laughter...
+
+--
+Day 1- keynote- tail optimization
+"end of denard scaling"
+servers chart- socket count, unbranded 2+ sockets
+microsoft FPGA for netwroking, ??
+electricity in US datacenters
+more NUMA domains on a chip (more sockets)
+highly technical language from female speaker as first talk, not super polished at speaking, um ah. thanks to research partners.
+example lucene oss java search
+football got more popular because we mixed football and politics...
+bursty, dirurnal, CDF changes slowly.
+Dick Site person from google
+"hand instrument system"
+toubles with "schematics" and "instrument"? :/
+
+hardware signals, values or counters.
+"there we go, all the things I just said (slides)" dont need an instrument code,or have inturrupt... shared thread, same process- read aout of shared locations. observe global state from othe rcode. while true... read LLC misses, ccles
+do the processing on it later, offline. can control through cache partitioning meachansisms, control memory.
+local state with SMT hardware.
+problem: samples are not atomic.
+giving stickers to people you like (mi) lol. Louie and John and Apax chat.... Bill, Pivotal
+"do we know this is perfect yet? no of course not, but its look  lot clother to groupond truth"
+sample with shim at 10 MHz - really figure it out
+overheads from the same core. overhead from another core, ...
+SHIM signals-
+mi TODO send Suya feedback from 4th friday talk?
+mii-  mi- I miss having a little moleskin notebook with me at conferences?
+notess from notary- mi- November first payment (thats how long it takes to do paperwork), zero mortgage insurance, rock climbingin st louis
+longest 200 reuests. queueing at worker, vs CPU work...
+sitting in fancy opera seats
+because they didnt get me the slides in time
+keep track of load, to know reissue budget
+what is reissuing?
+because I promised you I would show you lots of stuff about lucene
+DVFS faster on the tail
+on your phone but not in servers yet- asymmetric multicore.
+sacrifice average to imrpove teh tail- ^
+best of all worlds, green line, can we?
+mi- chelsea :)
+Cosmin will talk to Jasmine! WoooO! omg yas
+mi- cosmin- "linda you always know all the best peole:" :)
+based on numbers of requests in the system, hoe many to parallelise- shortens execution time, reduces chance of queueing in he future.
+21% fewer servers  or educe tail latency and engey consumed by 28% - and that was judicous parallelism
+migrate early under load? mograte oldest first
+adaptive slow to fast network
+if we get crowded on the litle cores, we hve the oldest migrate first to the biggest core. the opposite of real life
+basic controller design off the shelf, model space of the linerar controller... model piecewise...
+Pegasusu was state of the art from google and stanford, all core freueuences for load, at low load, slow all the cores, then increase speeed of all cores together.
+vs per core appraoches, EETL energy efficient with tatget tail latency
+mi fail talking to mindy about the guy we interviewed and couldnt hire...
+way over my head
+assymetric multicore, what id DVFS? EETL_AMP?
+
+--- talk 2: redux at the new york times
+despite being surrounded in teh vast majority by men and the usual rappery of being given precedence at doors (unwanted) and not in hallways (wanted) and other similar, I am more comfortable at strangeloop than at uptime or monitorama... mabe because it is enough my areana that I am confident, maybe that I know many people here.
+redux channel on slack, slides are there (internet is not working fo rme right now)
+JC, english version... monterey mexicao :)
+opera singer and producer, wine sommlier
+casual mention of triggers :) love the full name introduction with origin... YES (bings to mind for me- "immigrants- we get the job done"
+loves the Glow tv s)how
+internal VC model, pitch every few months , stressful! (mi: ...but I like it - keeps away deadwieght, if applied non-oopsly)
+1010 of unidirectional data flow, redux 1010 :/
+people pimping their talks in conference slack
+"Fixed with makeshift electrical tape made out of lint roller sticky paper, "
+nice because conf slack is more interactive and useful, many-use app.
+slack takes battery... 78% 5 hr remaining with only sublime, no wifi
+this.props vs this.state "if youre using redux all the way, dont use this.state!"
+ugh redux 101 but yay it exists, I do like this model
+conferences are like a vacation but just hard enough to be fun
+when in doubt, lurk he main stage
+and the netflix booth :)
+yep reducers are great
+actually I'm glad im here,it  helps me know what I know.
+can find usages of case string in reducers, makes them nice to find
+read redux source, im ready?
+"and actually this is all i knew when I ghipped watching for the first times"
+to watch later: I'm talking at @strangeloop_stl after the keynote about Policy as Code
+diagram of their app, cool
+"so that's no bueno"
+multiple containers- when adding functionalitu incolves many files.
+non primary to app- ads-
+and code that s essential- cards everywhere
+tradeoff: access to state vs pure components
+not container per app? weird?
+mi- if I cant go to brasil, I want a sourth america vacation anyway... maybe Quito?
+lunch- charge/ 3rd floor... netflix!
+'reselect' library
+composeable selectors...
+selector : const fooSelector = (state) => this.stae.foo
+change the order of the selectors- from changeless often to change morst often
+"I have my own definition of business logic- it's- the things that people tell you to add to your app. Nonessential to the user for an optimial experience of the product."
+avoid using app internal stte. dont want componetnt to behave differently based on...
+stae.app.isppOnClient (server vs non server) ????
+advertising diff url call based on mobile vs desktop .hard for me- because its all one webpage. analytics- not responsive techniques- because analytics- cant just hide using css- double count, thats not good (charges more)
+only render ad when you know window size, state.app.windowSizeOnMount - cool
+"impure top component"
+"btw this is an epiphany I had yesterday" ugh sign of bad / unprepared speaker
+a sign of age, being annnoyed by everyhing- part knowledge, part impatience
+onMount redux
+update url based on search tag- middleware
+middleayre= between action and reducer- composer, chan have chain, useful for implementing side effects.
+when click tag, take it through redux...
+mi- everything is everyday if you do it everyday maybe
+onboarding for first-click
+conferences, should travel with power splitter oops
+dig out big splitter for Peacock downstairs
+takeaway: always compartmentalize your impure stuff, so everywhere else in the app is well behaved
+refactored thw way they save and store save
+he seems really exicted that they have finaley caught up witht he 60s
+@norsemelon on twitter
+
+---
+talk 3- writing git in ruby (before lunch)
+ran into Melanie from USDS, knows Jared Hatch from NY, was commenting on how big this is, she is speaking here...
+file systems arent build to have tooo many files in one folder
+this will be a good talk for developers to watch on viode
+Marianne Belotti is the USDS speaker
+hash thecompressed or uncompressed files? compressed- is nice, never unhash... uncompressed- defencds against compression algo changes
+permissions name content - enough to store directory.
+should we include permissions? not the same owner between 2 systems, maybe not the same groups, except executable bit.
+a tak about cool stuff yes this is good
+hackathon would be good also
+what separtors to use? space of \0 null byte- which one? will separator ever occur in text? filename has no null byte. dont use too many null bytes in things that might be printed later. (why?) so many languages use null byte to indicate end of string... use space...
+[utting null byte and sha together is dangerous, sha could have null byte in it, but ]
+how was this recorded, this is great
+tree command
+"if I wenre vesion controlling our version directory- which is a fantastic idea- ha ha, its not"
+tree structure, to mirror how dirs actually are...
+
+
+museum hackathon talk, yes I got here! qith a pug detour :) :)
+API is still running!
+experimenal API...
+sold out, 11 projects
+attrition is ok
+5 teams to final round
+some people made it to final round
+doubled prise money!!
+philadelphia museum of art
+#hackthemuseum
+my day went from nervewracking to very woth it
+devhosot
+"hackathon.io was not used agin, haha" ??
+judged remotely- had to submit a 3 min vieo also
+11 projects, peoples choice award, voting handled through wishbone(??)
+version control: judge criteia: innovation, deasible, innovation
+wish
+artingo
+deramscapes
+bines
+gallery answer question, colored in your color, capture flag, territory game for entire museum, didint even make top 5 omg
+time bandit
+trying tos how a video
+time bandidt video, aboslute favorites, descprion- none of the team knew each other :) :) great about hackathongs
+this talk makes me want tog go to hackathons
+
+"this cruiseship can FLY" yass
+winners
+Winners choice- unlock 3D versions of images, turned painting style into diff environments, mocking it around the great hall, rending in jungle. ome!
+Vibes: clue guessing- contribute clues, if no one guessed, you got 0 points, trying to get points in the middle!
+illustrated connection between tech and art, mentoring college students team
+gamedec mentors, fantastic
+their ideas wee beyond what we could get from a survey0 no one says on a survey time traceling VR bandit game
+zoom out.... space in slides! satrun, Cassini picture, looking back at earth. thats us.can you see apps from cassini. does aything matter. I would argue that it does.
+I get teary here lol
+the inertia and disance, literally creating meaning.
+"vision and hope, it matters. I practiced this."
+and I will quote carl sagan, because im a nerd and I want to *sniffle sniffle*
+Lito Nicolai’s Rewriting History talk will be available on his website learnto.computer
+omg stickers yay yes
+you are welcome to not stick them to museum objects
+
+
+-- Lunch: not veg other than vegan, happens I guess
+hugged Kozak, people on stairs, ran into Boyle TWer :)
+low on battery power, gotta stop at the quiet lounge at some point
+some mildly unpleasant interactions with venue staff
+saw Vlad in the distance lol
+doximity, platinum sponsor, saw them ins the disance
+some guy climbed over me twice ugh, I hope it was as unpleasant for him as it was for me. This is why the main floor of the hall is a meh place to be.
+I could be coding right now, ut might kill my laptop batery...
+tech difficulties with steno setup.
+Dude michael, de slackified.
+Yon and Garrett, web auth.
+passportjs, node
+password-local, must provide callback
+database password, plaintext eek. should not be an option.
+salted hash, makes comparison harder. adobe passowrd leak.
+anonnews "everything anonymous:
+scotthelme.co/the-adbe-halk
+leak continaed password hint plaintext
+fli4h.ch
+"same as gmail" passsword hint sigh
+xkcd crossword pzzzle comment
+brute-force a single encryption key, descruption 150M passowrds- and you have hints, so you can check!
+(secure) session management (garrett)
+book- twitter and tear Gas
+sercer-side sessions, session identifier (django by default)
+"stateless" sends all data- eg Flask
+"cookies arent the greatest" same orgin policy in browser
+flags: httponly, secure (per browser..." no tls https connection... persisted onclient, using local storeage in browser. vulnerableto xss, but CSP can help content security policy- access control for browser.... TWer talk on this would begood
+this talk shoul dne watched  TWers, can do conf talk lunch
+"
+MAC message aithentication code, serialize session data, MAC tag
+hardt o gnerate valid without key
+sessions signed, not encrpted... also problem with JWTs....
+user should not have some of the session data... like "winning number for lottery" lol for online games etc
+
+
+
+
+
 
 
 
