@@ -502,6 +502,611 @@ MAC message aithentication code, serialize session data, MAC tag
 hardt o gnerate valid without key
 sessions signed, not encrpted... also problem with JWTs....
 user should not have some of the session data... like "winning number for lottery" lol for online games etc
+- swap speaker- compare mac tags
+time to run varies.... == string compare oops
+vuln in early letsEncrypt, she found it, time variation in no mismatch.
+mi- I should
+pdfs.semanticscholar.org
+practical over network yep
+constant time comparison. doing extra work on purpose. use xor
+node crypto.timingSafeEqual
+timing as a
+Brad Hill nccgroup.trust
+high level languages- code looks constant time, but compiler optimizes it. oops. gotta actually test I guess. blind the timing channel, add a random ish func
+HMAC node cryoto api, why to do this. even slower!
+garritt- beyond passowrds. "the yo dawg of-"
+build in leak-detecting password comparator into web auth library?
+how ot protect users wven when twe know that they fallible humans who dont always make right decisions?
+
+ss7 routing protocol, drain bitcoin
+kinda weird that trumps account hasnt been hacked yet
+hmac or authy, google auth.
+always sends you an SMS- twitter- oops.."if anyone here works at twitter- maybe take a look at thts"
+mi- would be nice to fo a 2fa survey of diff public accounts...
+there sa website for seeing who has 2factor auth... Simple bank I teeted at...
+w3c u2f fido certified, really cool standard, industry group called fido, reworked in open group web auth spec...
+todo TW writeup of STL attendees? Email everyone, were you these? embed buttons? facv talk?TW coordination fail :/
+TLS channel ID,
+even if valid TLS cert, cant spoof channelid...
+still easy UX is the plan. need a dedicated thing...
+aapotion...
+github/hillbrad/u2freviews
+yubikey with NFC report, apple is not availabe to 3rd party apps. WIP iOS
+https://github.com/github/softu2f macos eychain, easy to setup
+firefox nightly last week native support for u2f, stable release in 6 weeks, then80% worldwide...
+websites....
+http://www.dongleauth.info/
+- speaker swap: passwod-less login systems
+public service conf talks
+pewinternet.org
+5% of americans use password manager? Seems high
+slack magic links
+email address inbox is single point of failure
+starttls orrorunistic encryption protocol
+transparencysupport.google.com/sefer-email/overview
+alaska airlines un
+
+
+-- Netflix antics
+Mark Larsen from Braintree :)
+functional vs unit tests.... annotation...
+cold start service, restart, outage...
+john gall- complex systems exhibit unexpected bheaviou- peadiatrician...
+Sydney Dekker, safety science researcher, licensced pilot, how systems get int unsafe states.
+braintree still getting thoughtworks people "glad to help" i said lol
+light jeans, red shirt, lol
+service becomes latent
+20-30 braintree popele here
+retry storm...
+nice slide labeling
+system fails safe...
+gray failure paper by HotOS, ryan Huang,
+Guo Zhenyu failure recovery, cure worse than disease
+users think something is wrong, but system doesn tknow what- grey failures
+1200 engineers...
+harvard is a hedge fund with a PR firm called university ad tax free status lol
+Cockroft, interesting and unexpected byproduct, also streams movies.
+talking about big company outages igets attenting!
+A/B service went down... log messages... kafka... thread takes a lock, also application threads... lock contention,throttled.
+logging took down prod
+aws ebs outage 2012 elastic block storage, us east 1... memory leak in monitor health sstem
+mitigation...
+... root causes are nonsense?
+willing to brag oneself because youve seen so many others do it now with so little cause only humble after value signaling
+"drift into failure:
+we cant model our systems well right now
+alvaro: fault tolerance isnt composable - ie cant put two together
+met a DBA who wants to work at TW
+paper- looked at formally proven systems, still found bugs
+formally verified operating system?
+"interaces are dangerous, thats why we dont only rely onunit tests" omg yes, so goood
+"this not about tsoftware engineers! this is about eing a human being!"
+decrementalism- failures happen slowly, incrementally. when is it ok to push to prod? canary deploymens... create a smaller cluster...
+canary probably ok, looked harmless, flaky canary...
+tweet from @sadoperator
+"super unfair to the eng involved" was thok, the bug was... from before! hadnt been noiced, only happened when change in traffic patterns...
+failure was real, but not caused by the code... then there as an issue...
+
+Diane Vaughan- normalization of devience... where over time, it the org gets used to a thing...
+this is why new people come in and improve things- theyre not used to it yet!!
+xkcd about bicycles evolution awesome yes
+Netflix EVCache, in memory volatile cache, nice slides... urls fails, playback has a fallback... one day, traffic spike- not common for Netflix- very predictable! saturted network interface cards on EV cache clusters... "became latent" cache miss, default to treat errors as misses- client will retry!
+vaughan: structural secrecy: you need to know, in order to have access... ugh now I want to work there...
+"make the wrong thing harder" chaos monkey killed itself. successful system design "doesnt cause many outages anymore..."
+omg this is so hpmor
+fuzz testing systems structure in prod -mi
+find vulnerabilities before they become outages
+mi- touch typing gets a lot better than otherwise
+drug testing analogy, full external validity- prod!
+Netflix "broadcast" function would be interesting?
+sorta
+Vizcerak. noncritical services. bookmark services. user has to start from beginning, is ok.
+tool Chap, chaos automation platform...
+expeiment diagram...
+people behavior differences detection
+http://principlesofchaos.org/
+SPS starts per second... very predictable!
+experiment today doesnt mean willl still work tomorrow
+minimize blast radius, small fraction traffic... auto-stop functionality
+chaos experiments can find pathologies
+humans making resoable decisions can cause systems to get into unsafe states YES THIS YES
+
+--stripe talk black box AI understanding
+dog grooming geometric shapes
+sripe develops tools for people working with money
+stripe pitch?
+card testing on donation sites
+fraud detection is so coo. stripe is great.
+stripe branded slides
+fraud adapts constantyl, spending all your time in the dashboard being suspicioun of everything all the time, xkcd yay
+explanation for every blocked charge...
+model outperform matrix
+binaryclassifier,
+does this have aything to do with the notify your credit cad company about travel? where is that used?
+every charge should find a slot in the tree
+ML to generate rules! But auto-change...
+"alll you need to do to wurn a decision tree into a set of rules is jut- pick a thresshold..."
+decision tree means you can simulate the algorithm yourlsef, look inside teh lack box...
+trust- if you block things that seem good to the user, then... they wont trust you
+shallow trees are not very accurate, two decisions are not enough. deep trees are not very explainable.
+50 or 100 or 1k predicates long is too much for a user... to see and trust. overfit to data.
+80% chance that strip has seen a card, even if you just launched a biz
+use multi ventor data- this user is unlikely to make this kind of transaction at this time fmi- argh, the escrow lady called me, argh why
+other talk https://github.com/mvolkmann/talks
+ineffieent and not good but a beautiful story...
+Explanation generated from random forest model, has some truth, it is true... is it the reason? Well...
+post-hoc explanations, give up on any idea, treat as a black box, just forgeddabout it, train another model that tries to explain.
+its easier to justofy predictions
+:my mom" what are the chances... after the fact, teh chance is 100% and you can come up with any story. lower effrot.
+Ryan Turner paper- Model explanation system- "I was totally bowled over" inspired byt eh paper
+key her- explain single
+use hindsight! yes!
+TWers here: ryan, vlad, Boyce, kozak, mindy, linda, 2 others with Boyle, other like Jared, Jared...
+prediction, thresshold, explanation. feature, operator, constant (unique card ip address last 24 hours)
+"most people only have patience for six predicates"
+strip more information, end up with "unusally large number"
+In what sense is this an exlpanation?
+should only trust this if you trust that soeone is workign hard to make the model accurate and fair
+visualization map to take it over the decision boundary!
+homes.cs.washington.edu/~marcotcr/lime
+training data, wolves in snow, huskies on couches- example tess you everything!!
+atheism vs christian list
+overfitted heavily n training set...
+AI rationalization
+https://homes.cs.washington.edu/~marcotcr/blog/lime/
+youre not going to put an ape behind the wheel! when you can have an algorithm! If its the right algorithm!
+EU right to explanation:
+analogy with 4yearolds explanations...
+"we dont know how to encode everythign we care about in teh goals of the model"
+"fairness accountability and transparency in machine learning"
+explanations let us see oucomes, interrogating blackbox models, can figure out
+formalize our ethics! In a way weve never really had to....
+lack box models are very explainable and dont trust anyone who tells you otherwise
+@sritchie
+
+
+- USDS tak by @bellmar
+TIC Trusted
+Brodie pfrom Stripe security
+Aaron was EPA lawyer, need a lawyer- illegal diagnose technical issues
+small groups of lwyers show up and swashbuckle
+
+have been trying to fix it desperately for years!!
+2007 rule, cased TIC, first iphone, internet very different, skeptical about software as a service, dont put anythign critical on it... the problem is- decade later, how do you define perimiter seurity... doesnt workt hat way??
+Deal by finessing the definition of internal/external to an insane degree. what does sensiive data mean??
+FISMA- FedRAMP "difficult to grok"
+agency specific laws Censsus title 13, IRS title 26
+Govcloud west coast, got data center east coast.
+amazon GovCloud, specific data center (oh no, only one data center? What about failover??)
+staffed 100% by american citizens, fewer products :/
+TIC is false sense of security and single point of failure
+...
+zero trust networks- everything needs individual TLS. strict access control, device registration.
+Relies on PKI- someting the gov has struggled with.
+Homeland Security Presidential Directive 12, government wide.. 2011: GAO Government Accountability Office
+No badges compatible
+DoD escort instead of badge, only badge if 6months O.o
+amazon wont build them a https://en.wikipedia.org/wiki/Sensitive_Compartmented_Information_Facility so cant make govcloud a TIF
+TIC reference architecture, says must be a SCIF 30 min away from management location, which assumed to be data center.
+COULD mean a place APIs to manage remotely...
+"cant put classified signatures in teh cloud"
+Good Natured Govie ??
+Einstein- intrusion detection sfwtware maintained by DHS, Does not block - web...
+situational awareness and automate data collection...
+"the Einstein system of tomrrow" eeeek
+most important- refocus conversation, !!!
+mi - I am already super looking forward to napssss
+negotiations
+Mirror packets from cloud to einstein?? :)
+mirror from switches? Amazon no. SPAN?TAP
+amazon, gateway routers... amazon specific, not other cloud offerings... VM... iptables (adds lots of overhead)
+load balancer, already all traffic run through, VTIC as load balancer?
+Compliance vs Security
+incremental security: can the government ever get to zero-trust? They are the future! Can we move that way?
+Adding value while moving towards value, not just laying base layers without use until network completion...
+current vs future needs from wishlist- takes careful communication. 5 years, 100s of engineers, thats how intrustion detection works!! well, its hard because... hard to think about problem?
+People who are good at writing policy and people who have technical expertise are rately the same people and have trouble identifiying each other
+OAI report
+Office of American Innovation IT Modernization Report, acting Federal CIO
+https://www.cio.gov/about/members-and-leadership/margie-graves/
+You have no idea how hard questions are to answer
+Officially 24 CFO ACT agencies. breaking down, little ones, 100 to 400... fun conversations about... Freddie Mac and Fannnie Mae, private secotr government straddle, "public" commentary" but really who does is- companies and lobbyists, who dont write short comments I might add
+Googles public comment
+Dude in audience try 2 pages of google ad, 2 pages on policy, all the comments are like that
+
+---
+lightinign talks
+Human Rictions
+Julia, Dmitry's gf yay!
+accenture, typescript, anchor4
+chatting with USDS speaker
+microsoft
+Julia- Wadler's talk, 30yr lang in CS to math...
+Surrounded by smart people yay, good feels, overwhelmed feels.
+USDS https://github.com/GSA/modernization/issues/80
+USDS https://github.com/GSA/modernization/issues
+lint
+sublime to visual studio
+"Anyone great attend ace cyber security boot camp?"
+http://www.stlpieces.com/
+"Hamlet is great and all, but let's go back to twitter"
+slack, google (7th official language), reddit!!!
+TODO TW typescript?? Convert??
+#MSBuild conferece, C# and .NET creator, EdEx course start tomorrow typescriptlang.org/play http://www.typescriptlang.org/
+slides to speakerdeck
+-- lightning 2
+Programming shibboleths.
+Thursday Bram,
+"We all have senses of humor, especially about timezones"
+time honored batttles, still fighting, mems, all the way down.
+injokes
+diversityyyy
+how do you teach teh joke "everybody gets a chance to laugh"
+"HTimezones horror show that will take the rest of your life"
+
+Nick, lightning talks
+@nickvanw eng manager at github, graphql
+typed, introspective, "version free"
+"rest is cool but we needed more"
+schemachange, drives data setup, going all in, graph first
+peole in lambdaconf shirts make me sad I guess but yay lambdas but sad about that conference.
+rate imiting and caching, graphql is still working on how to do those...
+Pam, coworker "vomits code" three different mispellings in three diff ways
+
+IoT without cloud talk
+asyncio apahe 2.0 hst by sef, track on map, home assistant, stae of house,
+https://github.com/strangeloop/StrangeLoop2017/wiki/Lightning-Talks-Sign-up
+http://heather.miller.am/teaching/cs7680/
+hour before sunsuet, turn on light...
+besides yaml... :)
+
+Lito- Voldemort effect!
+harry potter
+hermione competent!
+nature of power...
+we dismiss tech things because we dont understand thhem.... "not built here"
+"i dont know -> no one knows"
+"Ideas are bigger on the inside. there's more to it- history, and reasons"
+knowig a thing's name gives you power of it
+"being dismissive of a thing in tech... makes me certain that I don't understand it!"
+
+"Why not haskell?" Rebecca!
+mi m f runs local meetup, goes to other meetups :)
+mi- jared at dinner... "Michelle doesnt want to" not very consultant O.o
+PIP unknown, MJ said, Durling...
+sometimes the pitch is bad- haskell
+could I interest you in some monoids or applicitive functors
+help solve their current problems, not the ones we think they have
+javascript jokes like php kkes
+abelian monoid
+twilio tour was cool, should do
+the wrong place to start- abelian monad
+"getting stuff done should come before learning category theory"
+like feeling superior, aim for that. but more often, very excited, forget what it was like before they knew, forget which parts are jargon, forget which parts are shibolleths <3
+
+wayne- striking out on our own
+work for yourself, make a living, prepare for...
+more control of destiny, more money, work less,
+omg yes they made an announcement because I whinged about the guy with the photographs, "I don't know why they told me to say that" lol
+dont solve problem using language, just solve problem , ... dev in other places charge less, is fact, dont compete with that. dont be a commodity.
+book: strategy and tactics of pricing (2014)
+developers. specializing in vertical is huge.
+relationships and trust is money valuable.
+referrals- partially transitive trust
+credentials. track record. publications, presentatons, podcasts
+"velocity trust table" autonomy spectrum
+mi- callisto!!
+toptal, 10x manageent
+hourly == bad
+same thing faster, get paid less (or lie)
+try pricing by: weekly, fixed-fee, value-based
+"A lot of them are cheesy business books and some of them do reference fax machines"
+@wycdd
+
+Jude from Fog Creek
+@blinkymach12
+finding systemic issues your dev practice, via easily observible events
+canary "small creature with high metabolism"
+cats in japan for fish
+honeybees detecting pollution
+OMG YES THIS get the slides!!
+test encoding errors suggest script injection vulnerbilities
+om gyes this
+CR https://github.com/coderanger/talk-ideas/blob/master/monomyth.md
+https://twitter.com/blinkymach12
+SRE hat?
+
+Dee Dee Lavender
+https://twitter.com/@ddlavinder
+introverts
+synergy
+"they have a team exercise called subacrtic survivial situation"
+"introverts are slow to speak and tend to be deeper thinkers"
+extroverts can be higher volume...
+https://jigsaw.thoughtworks.net/consultants/17662 TWer with us
+creative ways to level playing field
+"dont yuck my yum" yass
+"that is my cat tax"!
+
+practical privacy protection! firebase google SF @eob
+https://twitter.com/eob
+GDPR europe! May 2018
+any users in europe? applies to you :)
+need a better conference not taking machine? ipad with keyboard?
+delete user data when account deleted (workaround- dont require account, track data anyway)
+wipeout and takeout
+mi- kiddom, tw, netflix goog, square
+so far I have attended every talk slot including lightning talks, missed 8-830 steno demo / open spaces tho
+harder in schemaless datebase to find a users data
+denomalization, including backupp copies! wipeout pipieline, O(user data) is the best you can do...
+schealess db schea is implicit in schema code
+"privacy expert visiting us- she created" SHE yass
+Holly coach?
+AuthZ system
+previously talk auth0 shoutout during auth talk yass love it
+mi- auth0, slack, stripe
+https://leanpub.com/queerprivacy
+Dan Zhang firebase cleanup example
+
+"whats your story" square-root.com
+under left eye twitch
+gotta expense the hotel - mi
+stories...
+want to do writing
+lj app?
+
+Memex!
+@hyfen (?)
+the human brain files by association! memx ad
+never built, jetpack?? lol
+grade 5 journal info packrat, msn chatogs!
+wants to search hstory, is difficult
+side project, way into the sunken cost fallacy
+even tsourcing
+state is only from transaction log!
+I guess this is why people talk at confs, what coul dI do here?
+triplestore, subject predicate, object, time. verb:liked from instagram, personal iftt ish history
+verb: commanded provider:bash vobject:gipsicle see all flags, timestamps! can see nearby temporal stackoverflow articles. can graph! messaging history. or as graph... visualization, places...
+find link, except recieved while in st louid museum!! omg
+13 killion relationships among daata, ebooks...
+journaling is awesome
+@hyfen hyfen.net/memex has newsletter TODO signup!
+
+day 3
+videos channel https://www.youtube.com/c/StrangeLoopConf
+photos https://www.flickr.com/photos/strangeloop2017/albums
+
+@nayafia Rebuilding the Cathedral
+"I wrote this talk for me as much as I did it for you" im not an oss developer, just someone interested in how it is... didnt have a background, couldnt look to hhow things have always been..
+"could feel resignation set in, givng automatic answers instead of asking questions"
+Maintainers are the "keystone species" of software development
+one maintainer per little project is 93% of npm, 2015 analysis, less than 3% of widely-used projects are "bazaars"
+10-250 conributors
+ratio of users to maintainers are getting worse
+"who pays the staff who organize the marathon?"
+"who pays the people who run the food kitchen?" volunteers are not paid staff
+volunteers are not maintainers waiting to happen.
+I am not excited by this keynote, I didnt think I was tired but maybe I am
+this talk does make me want to code though so that's good
+sustainability in open source
+How do we support maintainers- indirect, independence, infrastructure. dedicated employer time
+Behance OSS Babel
+https://opensourcefriday.com/
+https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to
+Evan for vue.js
+Patreon?
+https://rubytogether.org/
+mi- cczona, event at TW?
+https://github.com/nayafia/lemonade-stand
+treat OSS as digital infrastructure. its a public good, it shoul dbe supported. bridges and freeways are not a hobby.
+Parnell Treatise on Roads "exposed to insult and ill usage" https://books.google.com/books?id=x501AAAAMAAJ&pg=PA294&lpg=PA294&dq=Parnell+Treatise+on+Roads+%22insult+and+ill+usage%22&source=bl&ots=Q5kFPjCBAN&sig=0CLukdaLrc6A-W8_NqPGcyhiVC8&hl=en&sa=X&ved=0ahUKEwiOq_DZj83WAhXrjlQKHYN0Ag4Q6AEIKDAA#v=onepage&q=Parnell%20Treatise%20on%20Roads%20%22insult%20and%20ill%20usage%22&f=false
+mi- todo - compwron blog upgrade/improve
+https://rubytogether.org/
+"You woulnt't want one nation state or company dictating what a piece of important OSS would be like"
+dont know who uses projects unless companies say so...
+quantifying value of open source
+I want to be a maintainer... the frustrations of tending the garden sound enjoyable for me as I am now.
+"Think beyond palliative care and coping strategoies for maintainers"
+the live captioner must be incredibly literate, "pallitive care" and weird tech terms etc etc, whitecoat captioning.
+
+--charity majors operations @mipsytipsy
+"the only good diff is a red diff"
+"I will write code if I have to, but code causes problems and I don't like problems"
+@grepory "monitoring is dead"
+"there are people still in this room running nagios, fruit salad of doom"
+"I love strace more than life itself"
+
+"our tools are fnudalemtally designed to answer known unknowns"
+observability, trm from control theory, unknown-unknowns
+maybe next time I should goto talks that I have never heard of the speaker or topic
+the diff between what I want to know and
+mi- too ego to dude from clareent
+monitoring is biased towward outages
+cant monitor aeverything, can only monitor for known failures
+understandable-
+messing with her hair
+encompasses, how you answer wuestions
+complexity: inherent or accidental, arises out of software x architecture x human process. it is annoyingly subjective.
+architecture is about putting the complexity in the places where you want it instead of the places where you dont want it
+Halstead volume- where the information is, in the source
+"remember back when there way- "the database""
+very condescending to say "write boring code" to someone- you dont understand the problem space
+LAMP vs Parse infrastructure, requests could lopp back in multiple times,
+"We had built  system which was findamentally debuggable byt the time we got acquired"
+"would this work for the power grid?"
+"the health of the system moreor less accurately represents the experience of the indivial user:"
+"I fucking hate dashboars:"
+some relly great slides that I photographes with problems that are arcane and amazing, can I have a book full of arcane problems
+Ran into Lorien at the Netflix booth!
+Josh from Netflix LA
+"the hardest problem is often finding which component/s to debug or trace"
+up and down may not be meaningful- user experience is.
+"do I want to get paged about twenty fucking thousand things"
+"I dont want to get aged for most things, twenty fucking thousand things, or else all my engineers will uit and i will too"
+start at the edge and work down, instrumentation, internal state from softeare you didnt write too, wrap evey network calll, data call
+my little pony theme
+""events, not metrics?" "
+high cardinatlity data sets work well with metrics- no one has done this yet
+"there and entire generation of engineers internalized limiteations of metrics as being limitations of data
+hundreds? I dont know what datadog does now
+speaker slides as available https://github.com/strangeloop/StrangeLoop2017/tree/master/slides
+metrics are cheap, but terribly limites
+you can sample, it is amazing some people feel
+"I do not recommend that you sample your billing system" should vs must
+dont let engineres act like its not sampled. every request generates many events.
+average api request generated 50 event, at facebook,hundreds
+sample dynamically, not all data should have the same type
+keep all of the 50X, let the rate limiteer slice off the top of the mountain
+is this someting that a guy could do?
+Parse is down, logging endpoint, 61 seconds, 5x both tables scan, deployed there... life changing. SCUBA at facebook was amazing, wifi EDGE server, shopping cart ID
+"cardinality will save you" we did have to write our own storage engine, Ive spent my careeer telling people to not write databases, and I did not do it. It's... a storage engine"
+"With user-defined controls comes great chaos" humans inject chaos
+"structure your data! It's almost 2018!"
+dashboards are artifacts of past failures.
+ending keynote https://docs.google.com/presentation/d/e/2PACX-1vR3Mr4aYyDVpk4C2Kz9m0Qgm0VwA3-SXJXG6erJrlZiRAFBF4brWaI3L5zO6TNzfIoL4mDl79je3OG1/pub?start=true&loop=true&delayms=9000&slide=id.g2782bb7280_0_13
+dashboard blindless- doesnt start with a question
+explorative iteraticve interrogations
+aggregation is a one-way trip
+every api request should be locatable
+mi- def bragged too much
+read time aggregation, going to go home and build tools, b
+"this is not a sales pitch, this is a cry for help" build better monitoring tools
+Nines dont matter if users arent happy
+"thik about the natioal electric grid. you're not going to bring up a stging copy of that. most of the time Ive spent in staging has beenw asted. it drifts"
+"im the proud author of our capture and replay software, for yesterdays traffic, cant predict tomorrows traffic,"
+tooling for production in a place where people are underinvesting.
+"it should feel like a big deal to you when you remember how many interns they have, deploy internal, 1 percent, 5, then external, "
+people are so scared to break production
+force amplifiers (dbas etc) for developers
+conferences help me see the wider world
+the lifecycle of code after you hit ship
+dont hire engineers who wont
+as a group we are not known for our work life balance
+it doesnt have to be awful
+watching it run in production is your fcking job, if you dont want ch it when its normal, you wont know what abnormal looks like
+bring my ego back down to size and make me willing to look at the world
+what you win is drastically fewer paging alerts
+
+http://www.clearent.com/
+japanese dad pun
+TW camera covers
+@jon_moore
+god of the gaps - religion that fills in only the gaps in science?
+addicted by autohr for talks aslso
+
+
+rate limiting
+@Jon_meoore
+"40 blistering minutes of queing theory
+microservices are like taco trucks
+big food truck
+API management gateway,
+cosulting-tired
+"capacity mnagement: one cleitn shouldnt impact everyone.
+srelative rate limiting? Not regular rate limiting? "
+dudue look suspicitouly like sarnacke
+x=nr little's law
+jon moore's second law- if opp to ally littles law
+live demo ish, grafana dashoard....
+CLIENT SIDE, FRFANA, I SHOULD RUN ONE FOR PAIRSEE, SEE WHAT HAPPENS, DEVOPS TERRAFORM, WHAT IS.
+SO NOW LETS HAVE A PROBLEM!
+1latency gets doubled lol
+tshirt view #wholevacation
+shed_load = false origin server, not self protective
+flutter.io Written in Dart under the hood. Hot reload for mobile, iOS/Android
+latency climbing over time, want better dashboards, slunk skills, ?
+things to do with SNC splunk loging,amusement park analogy
+queue forms, britian, lol, line
+snc calculate money throughput
+menu calculate calls from bff
+systems are more fun
+conference serving its purpose, makingme willing to be a software engineer
+
+blue/green hair gy ahead of me yasss
+maybe STL flight fix? CR
+Is Josh here somewhere?
+seriously, my blog needs to happen
+queue overflow?
+FasterPaxosCommit is the name of the code of the gy to the right of me
+so if I divide infinityby three and a half...
+number of requests present in the system, response time, "I'm not sure what x should be here, but...: infinity equals infinity
+I want to play the twilio game... are there any talks ther that I should go to? bus out front
+many services wont shed load and protect themselves
+maybe I should I learn to type
+aratelimit doesnt pushback at client when origin has issues
+quota = 5 concurrent request, not requests per second
+coworking spaces tour? TW ask for? acting out? Ibrahim? Gotta plan oklahoma trip, Brasil??
+your tte limiting depends on load in system, isnt that leaking data/ dangerous?
+auth talk slides https://docs.google.com/presentation/d/e/2PACX-1vRQpAoiitWbkHg5hgtp2b7y5kgEEP7e1Z5aOcOB7c8QzEepCpDrotc-DN-WgzWKMpfCRXPQFaT6pHuL/pub?start=false&loop=false&delayms=60000&slide=id.g2776a6c5c7_2_284
+Theron Rabe from @Zymergen talks about how Codon, a DSL for specifying large collections of genome designs. Really awesome! #strangeloop
+throughput != capacity
+https://gist.github.com/ruthienachmany/03f9a9241dfb2b050cbc93e4781472ce  Biomaterials as UI: Designing New User Experiences // Strangeloop Talk // Resources to Learn More
+dont push back if there is capacity!
+TCP conejection avoidance additive increate, multiplicitive decrease, dropped packets are congestion
+?
+increase total target concrrency by constant c per unit time
+
+Brian Foote @bigballofmud
+7s
+Listening to @aaron_kimball of Zymergen describe the Radix-4 world of ATCG DNA to a Radix-2 audience #strangeloop #strangeloop2017
+OH i also forgot to say .... my colleague @samstokes will be talking about the @honeycombio storage engine, later today!! #strangeloop 🐝🥃💕
+adaptively find capacity?
+warnong header?
+socket timeout?
+2x morning waslk (could have been 3) otherwise lyft... really, stay in teh right hotel!!
+lua extension for ningx "spin that guy up" :(
+thinking during talks
+android app for lj, figure it out, more lj?
+conference breakfast is yay
+mindy commented that I seemed kinda ow for a while
+gave stickers to people lol
+ejmg [11:28 AM]
+It may be silly, but if you know of anyone/project trying to help with Puerto Rico right now that involves something someone far away can help with (like code), let me know. It's horrible to see what is happening there right now and moreso when you don't have some money you can throw at an organization you trust.
+litonico [11:31 AM]
+hey, have any of you worked as contract trainers in programming? I'm curious about what that's like and if it's a job you'd recommend!
+avoidable errors... not-serving capacity that we could have served
+financial- no matter what, never drop requests...
+https://github.com/aparrish/phonetic-similarity-vectors  Source code to accompany my paper "Poetic sound similarity vectors using phonetic features"
+talks https://www.youtube.com/playlist?list=PLcGKfGEEONaDzd0Hkn2f1talsTu1HLDYu&disable_polymer=true
+Allison Parrish @aparrish
+16h
+hey #strangeloop thank you for receiving my talk so warmly! source code for phonetic similarity vectors is here github.com/aparrish/phone…
+Reply
+Retweet
+Like
+More options
+aidanfeldman's avatar
+Aidan F #strangeloop @aidanfeldman
+1m
+“You know when you open a piece of software, and says ‘you need to bring your master’s degree to operate me’?” @RobbyKraft #strangeloop
+over quota but under target (what if youre charging by quota? rather than... handle all)
+the laws of demos plus distributed computing, hairpon through loopback of docker networking...
+loook ma no hands (demo)
+client a try to use all capcity
+I seee screenhero and box in there
+1 per second, wait for traffic...
+papers we love conf sounds nice. elmcnf also
+if I did this over- be more clear on the schedule before buyng tickets. plan for lunch and hotel earlier
+borrow quota when available
+going to have to charge... but also no lightingn talks
+jobs.comcast.com
+
+16m
+My @strangeloop_stl talk is up! “The Future is Now” it’s about modern visualization of cybernetic augmentation youtu.be/L4fjPojo1yE
+
+NASA and fault events
+1h
+Thoughtful project by @HelloAxiom88 for helping domestic violence victims escape and find help: jael.ai #StrangeLoop
+
+
+
+
+
+
+
+
+
+
 
 
 
