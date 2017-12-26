@@ -1097,6 +1097,130 @@ My @strangeloop_stl talk is up! “The Future is Now” it’s about modern visu
 NASA and fault events
 1h
 Thoughtful project by @HelloAxiom88 for helping domestic violence victims escape and find help: jael.ai #StrangeLoop
+https://www.fema.gov/
+
+talk think of someone important to you
+9 april 2014 911 routing system failure 6k
+over 8 hours to fix
+
+leif [12:58 PM]
+If anyone has a live usb of any Linux distro on them I could borrow for a few minutes that would be fantastic, my laptop is very sad about acpi or something and won’t boot
+
+where is 3 mile island?
+assumed it would always work...
+appplyign ideas to your own context....
+airline- tombstone mentality - problem that everyone knows and no one fixes it, until someone dies... "pays their life"
+"softwares biggest sellling point is its leverage"
+aerospace, medicine, energy, natural disasters- gettin gbetter at this. NTSB 140k aviation incidents investigated.
+Talks I want to give at TW SF, maybe in Borg... guide to government sites
+https://www.disasterassistance.gov/
+every airplane part, how many times flown, number of pressurizations- part replaced or rated. software works better after being proven?
+probabilistic risk assessment
+disk fail vs quorum loss, which components should we focus on?
+laguna fire 1970 - miscommunication about who would fix it, two departments interacting became ineffective. ICS
+NIMS
+2014 911 outage https://apps.fcc.gov/edocs_public/attachmatch/DOC-330012A1.pdf
+https://www.fcc.gov/document/april-2014-multistate-911-outage-report
+https://www.lexology.com/library/detail.aspx?g=fcd46350-ef0d-42ae-8472-b0d6acc8e2ff
+This edition of IT Hiccups of the Week revisits the 911 emergency call system outages that affected all of Washington State and parts of Oregon just before midnight, 9 April 2014. As I wrote at the time, CenturyLink—a telecom provider from Louisiana that is contracted by Washington State and the three affected counties in Oregon to provide 911 communication services—blamed the outages, which lasted several hours each, on a “technical error by a third party vendor.”
+
+CenturyLink gave few details in the aftermath of the outages other than to say that the Washington State and Oregon outages were merely an “uncanny” coincidence, and to send out the standard “sorry for the inconvenience” press release apology. The company estimated that approximately 4,500 emergency calls to 911 call centers went unanswered during the course of the Washington State outage. No details were available regarding the number of failed 911 calls there were during the two-hour Oregon outage, which affected some 16,000 phone customers.
+
+
+https://spectrum.ieee.org/riskfactor/computing/it/-fcc-chairman-calls-aprils-seven-state-sunny-day-911-outage-terrifying-
+https://www.theverge.com/2014/10/3/6414949/911-call-failures-fcc
+https://www.washingtonpost.com/news/the-switch/wp/2014/10/20/how-a-dumb-software-glitch-kept-6600-calls-from-getting-to-911/?utm_term=.2efe5322bc91
+https://spectrum.ieee.org/riskfactor/computing/it/it-hiccups-of-the-week
+https://spectrum.ieee.org/riskfactor/computing/it/it-hiccups-of-the-week-us-state-government-it-system-meltdowns-galore
+https://www.fema.gov/pdf/emergency/nims/nimsfaqs.pdf
+https://www.fema.gov/national-incident-management-system
+https://www.seattle.gov/emergency-management/hazards/infrastructure-failures
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1299330/
+first cehcklist used in airplanes
+2 airline merge- which checklist wins
+thought automation
+lobby tshirt, bus, twilio tshirt,
+united flight 173
+https://en.wikipedia.org/wiki/United_Airlines_Flight_173
+http://lessonslearned.faa.gov/ll_main.cfm?TabID=1&LLID=42
+https://en.wikipedia.org/wiki/United_Airlines_Flight_2860
+https://en.wikipedia.org/wiki/Eastern_Air_Lines_Flight_401
+https://en.wikipedia.org/wiki/Tenerife_airport_disaster
+crew resource management- formalization of interactions
+https://en.wikipedia.org/wiki/Crew_resource_management
+It really annoys me that so many talks are more basic, wherei sthe joy
+"never waste a good crisis"
+RCAs http://itmgr.org/process-management/root-cause-analysis-rca/
+"If you look back in time, all mistakes look like a choice. ...but these things are not clear in the moment [when they happen"
+https://software.nasa.gov/software/HQN-11316-1 The NASA Root Cause Analysis Tool (RCAT) has been designed to facilitate the analysis of anomalies, close calls, and accidents and also identify the appropriate corrective actions to prevent recurrence. The software provides an analyst with a quick, easy-to-use, accurate, and repeatable method to perform and document root cause analysis, identify corrective actions, perform trending analysis, and generate usable data for probabilistic risk assessment. All possible causes of accidents-hardware, software, the environment, weather, natural phenomena, external events, human error-can be incorporated into the timeline and fault/causal factor trees. The software features an intuitive logic diagramming capability and uses standard terminology, definitions, and symbols.
+https://software.nasa.gov/top20
+internal data on near misses...
+all pilots can anon report, ASRS issues monthly newsletters https://en.wikipedia.org/wiki/Aviation_Safety_Reporting_System FAA forbidden from prosecuting pilots who submit to ASRS https://asrs.arc.nasa.gov/
+https://www.usa.gov/ USA.gov is your online guide to government information and services.
+walmart and waffle house
+walmart louisiana "do the right ting" ocal responders, supplies, store inaccessible, bulldozer, suppplies to parking lot, broke into pharmacy, en
+https://www.dailykos.com/stories/2008/4/3/489440/-
+http://www.visajourney.com/forums/topic/119818-real-katrina-hero-wal-mart-study-says/
+https://en.wikipedia.org/wiki/Waffle_House_Index
+try to be the waffle house of the internet
+
+devsecops talk
+terraform, github, yep
+met cool persons
+http://www.cse.psu.edu/~gxt29/bug/softwarebug.html
+https://www.cs.tau.ac.il/~nachumd/horror.html
+http://www.cigniti.com/blog/software-failures-2016-testing-prevented/
+works for veracode
+calculate price per talk?
+my TW security talk, refresh and give- dunno what I'm talking about, a survey course
+where is chris schuster at?
+conference networking ftw
+my little moo cards ftw
+TODO contact all the people I have cards for
+test should have iam policy
+"I'm not sold on having a lot of tests for your infrastructure yet" WHY NOT
+life dashboard of conferences attended, DO IT:
+conf name, conf size (talks attended, people attended (dot size)) exact date, notes link, ticket cost (color), my rating- shape?
+bbs
+bbc flowlogs from aws
+working for chexmark or veracode coul dbe  fun
+is phoenix on twitter? TODO check on this
+TODO publish smartbra blogpost
+TODO book thanksgiving tickets
+cloudtrail logs
+http://www.snopes.com/fraud/phishing/hotel.asp
+Cloud Custodian by capital one, OSS python https://github.com/capitalone/cloud-custodian
+
+https://www.hashicorp.com/sentinel/
+https://github.com/awslabs/aws-security-benchmark
+https://www.thestrangeloop.com/2017/policy-as-code-with-sentinel-language.html
+https://medium.com/netflix-techblog/introducing-aardvark-and-repokid-53b081bf3a7e
+https://github.com/Netflix-Skunkworks/aardvark
+https://github.com/Netflix/repokid
+"all this work to avoid creating jira tickets"
+
+
+Key to the City: Writing Code to Induce Social Change
+Jurnell Cockhren https://www.thestrangeloop.com/2017/key-to-the-city-writing-code-to-induce-social-change.html
+inequality- "wprks on my machine vs "user issue!" for govt"
+"We know that this problem exists- we are either a victim of it, or a witness to it"
+"Our blockers [when fixing the bug of inequality] include the emotions of the decision makers
+I'm really encouraged by how many people in these audience are not diverse and are here listening
+http://labs.comcast.com/registration-now-open-for-software-as-craft-conference-2017
+nschrenk [2:54 PM]
+@U6ZLC8NP9: I'll copy my earlier post here about an event happening tonight:
+
+If anyone is looking for something to do after the conference on Saturday night, local hackerspace Arch Reactor is hosting an event from 7pm - 10pm where members are showing off things they've made. Arch Reactor is a 5 minute drive from Peabody Opera House.
+https://archreactor.org/show-me-show-off
+There's not much info about what will be happening on that event page, but a few things I know will be there are a small "cardboard robot" battle arena and I'll be making ice cream with liquid nitrogen.
+All are welcome. There will be some pizza/sandwiches/soda/beer, but supplies may run out depending on attendance. First come, first served. (edited)
+soack for conference, working well. some people
+function signature of inequalty?
+modeling complex systems in code sounds great
+drawing ines, boundaries,
+math on screen
+axiom of choice - In mathematics, the axiom of choice, or AC, is an axiom of set theory equivalent to the statement that the Cartesian product of a collection of non-empty sets is non-empty. It states that for every indexed family of nonempty sets there exists an indexed family of elements such that for every .
+http://sophicware.com/
 
 
 
