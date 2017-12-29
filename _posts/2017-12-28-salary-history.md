@@ -18,8 +18,8 @@ Another hesitation and embarrassment I have in posting this is that I make a rid
 * 2015 San Francisco - Groupon (Breadcrumb) 125,000 + RSUs (the value of RSUs changed a lot; eventually I sold them in 2017 for an approximate value of 5k), no 401k matching (How sure am I? Original document)
 * 2016 San Francisco - Carbon Five (offer) 135,000 (How sure am I? Original document)
 * 2016 San Francisco - One Medical (offer) 142,000 + RSUs (How sure am I? Original document)
-* 2016 San Francisco - ThoughtWorks (rejoin) 135,000 (How sure am I? Original document)
-* 2017 San Francisco - ThoughtWorks 144,500
+* 2016 San Francisco - ThoughtWorks (offer - accepted) 135,000 (How sure am I? Original document)
+* 2017 San Francisco - ThoughtWorks 144,500 (How sure am I? Original document)
 * 2017 San Francisco - Grand Rounds (offer) 155,000 + 10k signing and RSUs
 * 2018 San Francisco - Square - I won't put this here yet, but base salary was slightly higher than what I had, plus enough RSUs to be nice if I don't mess up handling them.
 
@@ -32,6 +32,3 @@ Note: it is legal to discuss salary (and illegal to fire people for discussing t
 It is also interesting to look at salaries paid to USA federal employees, which are all public: [https://www.fedsdatacenter.com/federal-pay-rates/](https://www.fedsdatacenter.com/federal-pay-rates/) and a non-governmental data visualizer/searcher: [https://www.federalpay.org/employees/agencies](https://www.federalpay.org/employees/agencies)
 
 The twitter hashtag you want to see for (mostly tech) salaries is [#talkPay](https://twitter.com/hashtag/TalkPay?src=hash) And there is even a bot so you can see many of them in one place and/or submit your own info anonymously: [https://twitter.com/talkpay_anon](https://twitter.com/talkpay_anon)
-
-
-Feel free to ask me anything at https://twitter.com/compiledwrong although of course I may not answer. :)
