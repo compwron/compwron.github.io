@@ -7,3 +7,5 @@ Posts I might write:
 - howto remote project
 - mountebank
 - leaving TW thoughts
+- musical transcription http://scorecloud.com/ https://www.seventhstring.com/xscribe/overview.html https://www.lunaverus.com/ https://www.musical-u.com/learn/whats-the-best-program-to-transcribe-music/  http://lilypond.org/
+Try a song by Michael Head or John Ireland. Try singing a piece by Schubert in the English language, like Ave Maria. https://www.wikihow.com/Become-a-Good-Singer-Without-Lessons
