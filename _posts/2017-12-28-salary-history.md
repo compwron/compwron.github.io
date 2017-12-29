@@ -7,9 +7,9 @@ tags:
 
 I have always been pretty open about my salary face-to-face. I do believe that open salary data is an effective way to combat salary discrimination. Recently I learned that some people I know are getting salaries that seem to me disproportionate to where others at their same company and in their same role are at.
 
-One hesitation that I have about publishing this is some significant personal embarrassment. I have never done well at salary negotiations and I know it. I deeply resent the practice of paying some people more because of negotiation skills (when negotiation skills are not part of the skills of the job.)
+One hesitation that I have about publishing this is some significant personal embarrassment. I have never done well at salary negotiations and I know it. I deeply resent the practice of paying some people more because of salary negotiation skills.
 
-Another embarrassment and hesitation I have in posting this is that I make a ridiculous amount of money. I do donate a good bit of it, and I've used a lot of it for stuff for my family. My rent (not counting utilities) has been about 1300/month since I've been in SF, which is a good price for the area. (Living in one room of a multi-room house brings the cost down quite a lot.)
+Another hesitation and embarrassment I have in posting this is that I make a ridiculous amount of money by the standards of everyone except software developers in SF/NY- by which standard I am either underpaid or low-value, depending on what kind of pessimism I'm using). I do donate a good bit of my salary with an eye to the advice from [GiveWell](https://www.givewell.org/), and I've also used a lot of it for stuff for my family. My rent (not counting utilities) has been about 1300/month since I've been in SF, which is a good price for the area. (Living in one room of a multi-room house brings the cost down quite a lot.)
 
 * 2010 Chicago - ThoughtWorks 55,000 plus healthcare and 401k matching (and expensing travel, train pass, and mobile phone) (How sure am I? Original document)
 * Some missing history here with TW- I lost some docs, and although I could figure it out from tax records, the fact that I expensed a lot of travel for work makes the math more difficult.)
@@ -21,7 +21,7 @@ Another embarrassment and hesitation I have in posting this is that I make a rid
 * 2016 San Francisco - ThoughtWorks (rejoin) 135,000 (How sure am I? Original document)
 * 2017 San Francisco - ThoughtWorks 144,500
 * 2017 San Francisco - Grand Rounds (offer) 155,000 + 10k signing and RSUs
-* 2018 San Francisco - San Francisco Square - I won't put this here yet, but base salary was slightly higher than what I had, plus enough RSUs to be nice if I don't mess up handling them.
+* 2018 San Francisco - Square - I won't put this here yet, but base salary was slightly higher than what I had, plus enough RSUs to be nice if I don't mess up handling them.
 
 My original "negotiation" with ThoughtWorks I remember vividly- it was in person, standing in the hallway with Julie (who is awesome <3) and I literally said "Well, I make minimum wage now, so... more than that?" ... not the brightest moment in negotiation history
 
