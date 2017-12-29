@@ -3,3 +3,4 @@ _site
 bin
 .bundle
 .DS_Store
+.idea

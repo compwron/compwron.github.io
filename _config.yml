@@ -1,12 +1,10 @@
-# Site settings
-title: compwron
-email: a@b.com
+title: Compiled Wrong
+email: compiledwrong+blog@gmail.com
 description: >
-  Some stuff
+  Some thoughts and conference notes
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://compwron.github.io" # the base hostname & protocol for your site
-twitter_username:
+twitter_username: compiledwrong
 github_username: compwron
 highlighter: rouge
-  # Build settings
 markdown: kramdown
