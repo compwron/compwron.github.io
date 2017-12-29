@@ -1,3 +1,6 @@
+updates
+- in presentations/ use hosted presentation js instead of vendored
+
 Posts I might write:
 
 - places I think would be cool (for me) to work at, and why
