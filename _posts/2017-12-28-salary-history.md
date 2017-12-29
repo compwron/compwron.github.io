@@ -27,4 +27,11 @@ My original "negotiation" with ThoughtWorks I remember vividly- it was in person
 
 Shoutout to TW for giving me a pretty fair salary given my lack of a CS degree, and with living cheap I managed to pay off my student debts in only 3 years or so of living in a $375/month apartment in Bricktown (helped a lot by the fact that a lot of my college time was paid for by various scholarships)
 
+Note: it is legal to discuss salary (and illegal to fire people for discussing their salaries) in the USA [https://www.govdocs.com/can-employees-discuss-pay-salaries/](https://www.govdocs.com/can-employees-discuss-pay-salaries/)
+
+It is also interesting to look at salaries paid to USA federal employees, which are all public: [https://www.fedsdatacenter.com/federal-pay-rates/](https://www.fedsdatacenter.com/federal-pay-rates/) and a non-governmental data visualizer/searcher: [https://www.federalpay.org/employees/agencies](https://www.federalpay.org/employees/agencies)
+
+The twitter hashtag you want to see for (mostly tech) salaries is [#talkPay](https://twitter.com/hashtag/TalkPay?src=hash) And there is even a bot so you can see many of them in one place and/or submit your own info anonymously: [https://twitter.com/talkpay_anon](https://twitter.com/talkpay_anon)
+
+
 Feel free to ask me anything at https://twitter.com/compiledwrong although of course I may not answer. :)
