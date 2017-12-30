@@ -2,6 +2,11 @@ updates
 - in presentations/ use hosted presentation js instead of vendored
 
 Posts I might write:
+- soylent
+- howto remote project
+- mountebank
+- leaving TW again??
+- how a readme should be, when, and why
 
 - places I think would be cool (for me) to work at, and why
 - why to remove names from code samples, resumes (references and summary)
