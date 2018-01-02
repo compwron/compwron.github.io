@@ -1,4 +1,5 @@
 Posts I might write:
+- traveler life ideas round 2 https://southwest.ereceiptuat.guestlogix.com/
 - Otp seed library two factor for centrify (credit to coderanger)
 - things I will miss about TW
 - read & discuss https://www.owasp.org/images/1/19/OTGv4.pdf
