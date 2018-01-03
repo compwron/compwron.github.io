@@ -23,8 +23,8 @@ Architecture Without an End State (day-long workshop)
 * shared knowledge- when knowledge needs to be in multiple codebases - what do?
 * "it was a business concept that had been around for a long time, but was not not around anywhere... (explicitly)" - publish items with reference to price points... every other system had to be changed to have price point- so many other systems needed a new concept. import processes...
 * "the worst kind of concept leakage" could have been handled by the upstream system...
-* "microservcies don;t address scaling down" they're about facilitating construction.
-* David Parnas paper- criteria to be used in decomposing systems into modules, 1972, makes sense today.
+* "microservcies don't address scaling down" they're about facilitating construction.
+* [David Parnas paper- criteria to be used in decomposing systems into modules, 1972, makes sense today.](https://www.cs.umd.edu/class/spring2003/cmsc838p/Design/criteria.pdf) "On the Criteria To Be Used in Decomposing Systems into Modules"
 * kwic index permuted index, circular shifts of lines
 * room filled up
 * breakfast did not happen, part of a very dry bagel, then coffee and ibuprofin.
@@ -43,51 +43,51 @@ Architecture Without an End State (day-long workshop)
 * "you cant get outraged about every outrageous decision in software, you'll be an unhappy person"
 * "90% of what this company could receive money for, would not fit in the Product structure... what is not recorded..."
 * what can you do with data, vs what its shape in- adjectives rather than nouns
-* federate tings based on context-carrying data, like URNs or URLs.
+* federate things based on context-carrying data, like URNs or URLs.
 
 --
 
 * part 2- architect as communicator, translator, and - to future-you and your successor/s as well as current stakeholders- between team and ...
-* common for team to say "refactoring iteration" ... crngeworthy, should do continually. management doesnt know why... they hear "stop delivering, polish our tailfins"
+* common for team to say "refactoring iteration" ... cringeworthy, should do continually. management doesnt know why... they hear "stop delivering, polish our tailfins"
 * "tech debt" as financial debt is a language understood by more than just developers..
 * shaman... "keeper of the lore, memory of the tribe"
 * documenation- does it add value? How do you tell?
 * speaker does lots of clojure, which is very dense code.
 * I do wish I could also be at elmconf.
 * "tell a story throughh a namespace- works well because clojure doesnt do fwd references"
-* CMI or ISO9000 process tends to give docs a bad rap. docs are like the coral left behind when the coral grows there
-* docs are for: capture info, present thinking, identify ares to eplor.
-* this would be a great time to code , but im actually interested in the content
+* CMI or [ISO9000](http://asq.org/learn-about-quality/iso-9000/overview/overview.html) process tends to give docs a bad rap. docs are like the coral left behind when the coral grows there
+* docs are for: capture info, present thinking, identify areas to explore
+* this would be a great time to code (easy to focus here- like a lecture hall), but I'm actually interested in the content
 * the best desk space / workspace ive ever had was the one at groupon... two bg monitors
 * https://gitlab.com/mtnygard/arch-folder-template
 * script that builds a doc out of it... ready to send to team or client. public repos.
-* architecture decision record- like the written embodyment- a weapon against " those developers nmust have been insane or stupid", fights the loss of context. point in time record. dont go back and update. its meant to get out of date. it is a snapshot- a living document only in one end. record new decision, which supercedes the old one.
+* architecture decision record- like the written embodiment- a weapon against "those developers must have been insane or stupid", fights the loss of context. It is a point in time record. Don't go back and update docs (mostly). It's meant to get out of date. It is a snapshot- a living document only in one end. record new decision, which supercedes the old one.
 * yep ADRs are great.
-* https://github.com/arachne-framework/architecture examples of ADRs
+* [https://github.com/arachne-framework/architecture](https://github.com/arachne-framework/architecture) examples of ADRs
 * 4+1 views philippe krutchen. this diagram is trying to say a lot- one box is single, one is many one arrow is.
 * LoTR joke
-* Simon Brown c4 model
-* "when youre drawing this kind of diagram, the boxes dont have a lot of reality to them"
+* [Simon Brown c4 model](http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html) and the [main site](https://c4model.com/) "What do the arrows actually mean??" lol
+* "When you're drawing this kind of diagram, the boxes don't have a lot of reality to them"
 * am I getting arrogant, going to things like this architecture training?
-* reminds me of the TW tech lead training in a way- lots of interesting stff, most of whih  is familliar and still valuable.
+* reminds me of the TW tech lead training in a way- lots of interesting stuff, most of which is familiar and still valuable.
 * "that is a design, not and architecture- in teh small, rather tin an in the large."
 * gotta communicate both visually and bervally outside of your team. you will be doing it a lot
-* in the past, I have tried to make ppt very accurate and precise. it turns out to not communicate so well outside the team. more abstract representation like a block diagram- will be communicated better. runs the engineer in me the wrong way, and communicating at a level of detail which is useful for the listener.
+* "In the past, I have tried to make ppt very accurate and precise. it turns out to not communicate so well outside the team. more abstract representation like a block diagram- will be communicated better. It rubs the engineer in me the wrong way, and communicating at a level of detail which is useful for the listener."
 * "the higher your volume, the more you will rely on pubsub and queues"
-* presenter wants more data flow diagrams. natural way to think and represent. many people do it by default. arrows are direction of data flow, not direction of invocation. data stores cannot be directly connected to each other. there must be a process that moves it... as reified as a trifgger...
-* prcesses must be invked. something has to know when to run.
+* presenter wants more data flow diagrams. natural way to think and represent. many people do it by default. arrows are direction of data flow, not direction of invocation. data stores cannot be directly connected to each other. there must be a process that moves it... as reified as a trigger...
+* processes must be invoked. something has to know when to run.
 * 10:47 pause for questions on communication
-* Netflix- container image for groovy- meet all these criterisa... interfaces to monitoring systems, circuit breaksers, startup routies...
+* Netflix- container image for groovy- meet all these criteria... interfaces to monitoring systems, circuit breakers, startup routines...
 
 --- lunch break
 
 * separation of concerns
 * ran into Paul Spears and Cosmin on lunch break :)
 * "maybe it's all left up to spring!"
-* Chatted with Dan, 9/12 consulnats from his little shop in Chicago are here.
+* Chatted with Dan, 9/12 consultants from his little shop in Chicago are here.
 * "you may not have enough ram to handle failover- transient memory during failover is higher than node a or b need during normal operations"
 * how do you get back to normal after failover? Or just declare that this is the new primary?
-* "Ny of these meachanisms that you don't test, by the way, will certainly not work when you need them."
+* "Any of these mechanisms that you don't test, by the way, will certainly not work when you need them."
 * spectrum of change- data, configuration, code, cross-cutting code, langauge and runtime
 * Vox media- guy beside me, in front of me
 * ecommerce
@@ -98,19 +98,17 @@ Architecture Without an End State (day-long workshop)
 * "unexpected reuse" product toolbox vs product creation, render engine, images as first class
 * "production here means printing the new photos"
 * school photos- render engine...
-* mi- simplicity in wondows... really hard to ipck a talk to go to... grarh, stick to mainstage? Hop between builidngs? Plan ahead..... museum...
-* impossible
 * java swing gui, hard to port to web- "richly interactive"
 * "we never stopped thinking about the design"
-* I saw database migration custom emgine on your slides- why was that?
-* javaFX 10, awful. spiking a bunch of tings@
+* I saw database migration custom engine on your slides- why was that?
+* javaFX 10, awful. spiking a bunch of tings
 * unicode strings in mysql- very disruptive
 * irreversible change
 * "ubiquitious guids"
-* by the time we got to first image on teh screen, we were probably already past the point where we could reconsider those
+* "by the time we got to first image on the screen, we were probably already past the point where we could reconsider those" (tech stack choices)
 * leaving open space to do new things is much easier than going back and changing a fundamental decision
 * 4 people, wanted to work together, never could- all expensive and seniors- 4 valid solutions, not compatible.
-* team decided- needed 4 architect problem, by javing an architect of last resort. came back and found that I was the architect of last resolrt.
+* team decided- needed 4 architect problem, by having an architect of last resort. came back and found that I was the architect of last resort.
 * now thats a sign of respect- being chosen while not present...
 * "better to ask the system than to ask the whiteboard"
 * reading http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/ and pondering my life
@@ -320,7 +318,7 @@ Day 1- keynote- tail optimization
 * way over my head
 * assymetric multicore, what id DVFS? EETL_AMP?
 
---- 
+---
 
 talk 2: redux at the new york times
 
