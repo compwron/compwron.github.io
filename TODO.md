@@ -22,3 +22,5 @@ Posts I might write:
 - why to remove names from interview code samples, resumes (references and summary)
 - musical transcription http://scorecloud.com/ https://www.seventhstring.com/xscribe/overview.html https://www.lunaverus.com/ https://www.musical-u.com/learn/whats-the-best-program-to-transcribe-music/  http://lilypond.org/
 Try a song by Michael Head or John Ireland. Try singing a piece by Schubert in the English language, like Ave Maria. https://www.wikihow.com/Become-a-Good-Singer-Without-Lessons
+- AI that can tell when people are sick? https://www.washingtonpost.com/news/speaking-of-science/wp/2018/01/02/these-subtle-cues-are-what-make-sick-people-look-sick/?undefined=&utm_term=.ceb638fa55b3&wpisrc=nl_most&wpmm=1
+- code learning blog pass-on from JL http://www.jgrasp.org/

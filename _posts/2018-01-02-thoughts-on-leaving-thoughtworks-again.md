@@ -19,3 +19,4 @@ Here are some thoughts, in no particular order and with no guarantee of coherenc
 * Omg what even is a SAR (yes I have read the powerpoint)
 * Suddenly thinking of whether there is anything that I need to leave as a legacy is a weird feel- right now the only thing I'm putting effort into is helping my coachees (formal and informal) transition, and making sure that a collection of my TWU Trainer travelogue posts are available.
 * I won't get to go to the Beach Product Pitches meeting on Monday :( ...I think I underestimated how hard it will be for me to do any kind of self-study during my break from work which is more fun and/or more educational than just being on the beach at TW.
+* I will probably miss TWers more than I will miss TW or more than TWers will miss me. Because y'all have each other, and I have a new and exciting adventure full of strangeness and surprises :)
