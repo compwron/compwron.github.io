@@ -9,7 +9,7 @@ Mostly, my advice is to not do it the way that I do.
 
 Some things that I do advocate for-
 
-* If at all possible, have a **public / open job search**. You will probably have to leave your prior job first in order to do this while not feeling super weird. It increases your options hugely. It is a big risk unless you have good savings. And it can be super depressing if it takes longer than you expect. But... you will be able to talk to so many more people and make a much more informed decision
+* If at all possible, have a **public / open job search**. You will probably have to leave your prior job first in order to do this while not feeling super weird. It increases your options hugely. It is a big risk unless you have good savings. And it can be super depressing if it takes longer than you expect. But... you will be able to talk to so many more people and make a much more informed decision.
 * **Be really clear with yourself** (in private) about why you are leaving a job, and what you want in your next job.
 * **It is okay to have mixed feelings about leaving a job.**
 * **It is good to talk about money!** Maybe after the onsite though. (You can always check Glassdoor though)

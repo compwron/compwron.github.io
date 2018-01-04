@@ -114,100 +114,86 @@ Architecture Without an End State (day-long workshop)
 * reading http://www.harpersbazaar.com/culture/features/a12063822/emotional-labor-gender-equality/ and pondering my life
 * light table
 * "One of the big challenges was type conversion"
-* "something really gnarly- to push the architecture past what it could do and prove it could not work- we spent a couple long lunches [trying to find something] trying to find solutions that already existed, disproved first appraoch almost immediatelly... disproved 2nd pretty uickly... 3rd appraoch got smart about the type system, and worked. "
-* "the worst thing I've ever seen- hang on, I need to draw this" building walkway to the architects room, glass walls 2nd floor, literally look down on everyone... come up the stair into exec row, and appraoch... with deference and tribute to taklk to the architects, 3years late, 40mil over budget" It was the only time id seen the literal ivory tower... visible...
+* "something really gnarly- to push the architecture past what it could do and prove it could not work- we spent a couple long lunches [trying to find something] trying to find solutions that already existed, disproved first approach almost immediately... disproved 2nd pretty quickly... 3rd approach got smart about the type system, and worked."
+* "the worst thing I've ever seen- hang on, I need to draw this" building walkway to the architects room, glass walls 2nd floor, literally look down on everyone... come up the stair into exec row, and approach... with deference and tribute to talk to the architects, 3 years late, 40mil over budget" It was the only time id seen the literal ivory tower... visible...
 * https://bit.ly/nygard-stl-2017-cards zip link, dropbox
 * 1 - big ball of mud
-* errr the Ball of Mud fdefinition reference to shantytown, then the speaker made ananalogy to mexico city... that was a little weird , reminds me of my convo with Zak
+* errr wtf the Ball of Mud definition reference to shantytown, then the speaker made analogy to mexico city... that was a little weird
 * 2. backboards - typle space, Linden system, implement backboards? good capacity for parallelism.
-* God I would really like a gym rught now to do upper body workouts to burn off this caffiene jitter
 * 3- Butterfly shaped pattern- fan in to broker, fan out on the other side. take from n squared connections where every component talks to every other component- all talk to broken. an ESB is a broker.
-* Dispatcher/worker or manager/worker "master/slave is in disfavor these days" workers can fail- this centralized faut tolerance in dispatcher so the workers dont have to deal with it
+* Dispatcher/worker or manager/worker "master/slave is in disfavor these days" workers can fail- this centralized faut tolerance in dispatcher so the workers don't have to deal with it
 * event stream
-* Sounds insane to people who arent functional programmers, perfectly obvious to finc programmers. relational databases were caused by having not enough space- keeping current, vs all of history. want to replay it into a new sysytem! replica or staging environment, apply a awhat-if scenario, back-test an algo or piece of code
-* if you keep it for a long time, can you still read old events? especially binary format, but also text- json or xm.
+* Sounds insane to people who aren't functional programmers, perfectly obvious to functional programmers. relational databases were caused by having not enough space- keeping current, vs all of history. want to replay it into a new system! replica or staging environment, apply a what-if scenario, back-test an algo or piece of code
+* if you keep it for a long time, can you still read old events? especially binary format, but also text- json or xml.
 * CQRS...
-* print these out, laminate them- i love laminating things- decscribe how you would make this combo work- up on the whiteboard.
+* "print these out, laminate them- i love laminating things- describe how you would make this combo work- up on the whiteboard."
 * suffixes
-* slack taking some of the usual titter traffic
-* B. Davis [8:27 AM]
-* I am very sad to hear this.  I am glad you didn't get injured.  I have been in this situation before and it's very scary.
-* Prasanna Gautam
-* So, @U6YHUSEN6 and I just got pulled over and handcuffed for a short while at Tower Grove neighborhood as we were driving back to our Airbnb from downtown. I was driving and saw cop lights in the back as I was turning left, so I took the turn and pulled over immediately. We were asked to take our hands out of the window, then I was asked throw my keys outside..
-* Then a female police officer came with a gun pointed at me and asked us to get out of the car. Then we were asked to turn around and the officers started handcuffing us immediately. I asked whether I was being arrested. By then my left hand was handcuffed already, and a senior police officer seemed to realize it was done in error and asked me for my identification. He also asked the female officer to uncuff me. We were then asked to sit at the curb and cross our legs. They asked if we were coming back from downtown. They’re looking for a suspect (possibly driving black camry, but I decided it wasn’t wise to pry further). After searching our car for weapons, and not finding any they let us go after telling us it was in error.
-* Anyway people, be careful and stay calm. I feel like we got a taste of what many Americans live in fear of every day.
+* slack taking some of the usual twitter traffic
 * Smalltalk systems, layering
 * "the war doctor"
-* "pivotlal cloud foundry is exactly a microkernal architecture for a data center"
-* (person behind me sneees and then say ssorry"
-* os researches in 80s and 90s tanenbaum and so on- caome to fruition, just not under a single system imace like they thought iw ould)
-* 10 - pipes and filters-  overhead for marshalling unmarshalling, combine stages in interesting ways, sepaparate them temporallys, physically- could do batching?
+* "pivotal cloud foundry is exactly a micro-kernel architecture for a data center"
+* os researchers in the 80s and 90s- tanenbaum and so on- came to fruition, just not under a single system like they thought it would)
+* 10 - pipes and filters-  overhead for marshalling unmarshalling, combine stages in interesting ways, separate them temporally, physically- could do batching?
 * 11- proxy pattern- prevent direct access.... why?
 * API gateway
 * Netflix Zuul. ?
-* if aI correct them directly thouhg....
-* incrementing IDs are bad
+* incrementing IDs are BAD (publicly)
 * Policy proxy
-* for someon reason these last two hours have been more bleh than the first two hours, wish Id had my laptop out from the begiining, I missed some good notes and I will never remember...
-* POSA six volumes- bst are 1 and 3 but all are good.
-* The more ways you ahave of looking at priblmes.. the better you can choose
+* for some reason these last two hours have been more bleh than the first two hours, wish Id had my laptop out from the beginning, I missed some good notes and I will never remember...
+* POSA six volumes- best are 1 and 3 but all are good.
+* The more ways you have of looking at problems.. the better you can choose
 * KISSlicer (from neighbor)
 
 --
 
-* Next section "eight rules" vastly expanded version of a talk that he gave, which was just about the 8 rules. breif description- example system. SaaS subscriptions,
+* Next section "eight rules" vastly expanded version of a talk that he gave, which was just about the 8 rules. brief description- example system. SaaS subscriptions,
 * Rule 1 before snack break
 * my mental endurance is a little tired
 * 1. embrace plurality
-* demo system is subscriptions with reminders, omg this is fun I could totally buid that
+* demo system is subscriptions with reminders, omg this is fun I could totally build that
 * at least I am hungry to code, that is nice
 * "One of my retail clients, and their model completely broke down" SKUs omg lol Stick Keeping Unit. 24oz and 48oz different SKUs. physical good. price and cost, known in advance.
 * "how much shelf space does an mp3 take up?"
 * also reversed cost and price- showed up as a negative number... partners, marketplace.... one item, not one price? mult partners could offer same item... offer...
 * 0-padded, SKU, identifiers should be strings... if int, still do. cannot do math.
 * 99% of all SKUs would be screws...
-* lots of things being sold has no SKU, went thru wuoting system. ditto for services. installs ... no SKUs... cannot make for combo of services...
-* "I have a long history of making analoies from one thing that people dont understand... to another ghtin that people dont understand..."
-* federated records? need downstream to use from upstream... many sources... if orderable, then shoul dbe able to order. if deliverable, then deliver. if shippable... etc. adjectives
-* mi- does elomi have a warranty?
-* "can interact with systems that didnt exist when I was deployed" can pre-publish, or nteract with doc stores, treat files on server instead of db query. flexibility- not assuming single source of authority
+* lots of things being sold has no SKU, went thru quoting system. ditto for services. installs ... no SKUs... cannot make for combo of services...
+* "I have a long history of making analogies from one thing that people don't understand... to another thing that people don't understand..."
+* federated records? need downstream to use from upstream... many sources... if orderable, then should be able to order. if deliverable, then deliver. if shippable... etc. adjectives
+* "can interact with systems that didn't exist when I was deployed" can pre-publish, or interact with doc stores, treat files on server instead of db query. flexibility- not assuming single source of authority
 * semantic tests are so much fun
-* worst possible answer- meaningful digits in the numbers. EAN in inernational commerce. LIke UPC code extended to the whole globe. Crazy rules around what they mean, meaningful digits.
-* runnign example- acquired 2 compeititors- integrate vendors and customers.....
-* first goal of acquisition is reduce operation expenses by merging systmes... very expensive to migrate... might be cheaper to not! Yuo might find that the payback period is like... never
-* "you can do it in noce.js in 30 minutes of coding and 4 hours of package management"
-* "some of these are not things you woud build a priori.... you never build for a vmerge... need to build for a fieldstone wall... jerry feinberg wrote a whole book about the fieldstone method. need to find a stone that fits into the hole you already have. merge- dealing with what we have, trying to fill the holes- without running a giant migration project."
+* worst possible answer- meaningful digits in the numbers. EAN in international commerce. LIke UPC code extended to the whole globe. Crazy rules around what they mean, meaningful digits.
+* running example- acquired 2 competitors- integrate vendors and customers.....
+* first goal of acquisition is reduce operation expenses by merging systems... very expensive to migrate... might be cheaper to not! You might find that the payback period is like... never
+* "you can do it in node.js in 30 minutes of coding and 4 hours of package management"
+* "some of these are not things you would build a priori.... you never build for a merge... need to build for a fieldstone wall... jerry feinberg wrote a whole book about the fieldstone method. need to find a stone that fits into the hole you already have. merge- dealing with what we have, trying to fill the holes- without running a giant migration project."
 
 -- snack break
 
 * 2nd rule
-* "a common issue I swee is that data will enter an org somewere... andbe passed along through a number of systems... there are tributaries and eddies and feedback loops (breaking the river emtaphor there lol) pretty much always identify a direction of flow"
-* street date, preorders... omg now I want to build this system
-* what can you not see? payment methoods that the customer hasnt used..
-* book "data and reality" by kent... oldbook, data base spelled as 2 words, its really theoretical https://www.goodreads.com/book/show/1753248.Data_And_Reality
-* realtional databases - named because of algebra-
-* relational algebra ha no such thing as a prmary key- just an engineering conveneience.
+* "a common issue I see is that data will enter an org somewhere... and be passed along through a number of systems... there are tributaries and eddies and feedback loops (breaking the river metaphor there lol) pretty much always identify a direction of flow"
+* street date, pre-orders... omg now I want to build this system
+* what can you not see? payment methods that the customer hasn't used..
+* book "data and reality" by kent... oldbook, data base spelled as 2 words, its really theoretical [https://www.goodreads.com/book/show/1753248.Data_And_Reality](https://www.goodreads.com/book/show/1753248.Data_And_Reality)
+* relational databases - named because of algebra-
+* relational algebra ha no such thing as a primary key- just an engineering convenience.
 * email bounces- tracking- ?
-* "returning from epistimology to architecture..."
-* past CSR inteeractions... and notes...
-* person sitting in front of me? https://twitter.com/emilywithcurls
-* Check bags with bellman desk, not front desk...
-* https://venmo.com/sammy-nickalls
+* "returning from epistemology to architecture..."
+* past CSR interactions... and notes...
 * service "event" - time, customer(entity), type, subtype,detail.. email not answered, sent human, dog bit... heart of real CSR- time order sequence of interactions, of course can filter by vendor...
-* vendors sometimes reture products, substitute... FTC laws arond that- when substitute, must have ooption to cancel. mi- look this up?
-* "programmers can do a lotof harm no matter waht... you cant entirely prevent that."
+* vendors sometimes return products, substitute... FTC laws around that- when substitute, must have option to cancel.
+* "programmers can do a lot of harm no matter what... you can't entirely prevent that."
 * overloaded meaning of comments field, got an elaborate DSL embedded in it...
 * Q: issue with migrating away from detail/entries?
 * guy next to me- knows coderanger, from BH area, knows a TWer. :)
-* I am more comfy at strangeloop than at uptime or montiroama- probably because I know more people here
+* I am more comfy at strangeloop than at uptime or monitorama- probably because I know more people here
 * rule 3- decentralize
 * local vie, local changes- trying to optimize the whole
-* Boeing 777- 300 cost of plane per pound of weight! then delegate to the lowest level. Distributed economic decision making. Communcated how everyone coul dmake decisions in concert. Like magnetic field and iron filings.
+* Boeing 777- 300 cost of plane per pound of weight! then delegate to the lowest level. Distributed economic decision making. Communicated how everyone could make decisions in concert. Like magnetic field and iron filings.
 * Uber- number of passenger miles.
 * Adtech cares about impressions generated
 * rule 4- beware grandiosity (global object model, one world model, esb...)
-* FPML financial product markup language - vast, detailed, usable.
-* https://en.wikipedia.org/wiki/FpML
+* [FPML](https://en.wikipedia.org/wiki/FpML) financial product markup language - vast, detailed, usable.
 * where is the anticorruption layers?
 * 5- isolate failure domains
 * tracing framework like zipkin will show you this call tree
@@ -215,55 +201,46 @@ Architecture Without an End State (day-long workshop)
 * failure domain of a service...
 * CR cool rendering of equations in messenger using $$ etc
 * This is nice, new stuff in brain, rejuvenating. NEED work coding time tho also
-* Chaos Community a few weeks ago- critical services affect teh "play" button... example: detail screen for a movie, next to title- that set of buttons is returned by a service. I fthe data doesnt come back intime, dont show it. Users wont miss, once in a while...
+* Chaos Community a few weeks ago- critical services affect the "play" button... example: detail screen for a movie, next to title- that set of buttons is returned by a service. If the data doesn't come back in time, don't show it. Users wont miss, once in a while...
 * my sublime says license upgrade required...
-* Good power strips in this rom
+* Good power strips in this room
 * "first of all, an order service is not exactly micro..."
 * STL tourist trip someday?
 * shopping cart is mutable until...
 * shadow of call, failure domain
 * inexplicably blank slide
 * rule 6- data outlives applications
-* data as an asset will outlive your code... example from mailing list comapny... assembled the year presenter was born. still using data. list fo services. ISAM to VSAM to network database (mainframe, mainframe, ?)
-* there are still all caps record because mainframe couldnt do lowercase. ebsidec to ascii to utf-8 the data went along...  rewritten in TCL?
-* serialized java objects in database columns. json is the limit... (well, yeah, but... lol)
-* sunset 6:48pm here... welp
-* shuttles...
-* "and then ou wont be able to change your schema any more because you have all this ETL stuff poking into your database getting your data"
+* data as an asset will outlive your code... example from mailing list company... assembled the year presenter was born. still using data. list of services. ISAM to VSAM to network database (mainframe, mainframe, ?)
+* there are still all caps record because mainframe couldn't do lowercase. ebsidic to ascii to utf-8 the data went along...  rewritten in TCL?
+* serialized java objects in database columns. json is the limit... (well, yeah, but...)
+* "and then you wont be able to change your schema any more because you have all this ETL stuff poking into your database getting your data"
 * rule 7- applications outlive integrations
-* my lj app has stopped working :/
 * "Thank you so much for looking out for me!! It really means a lot to me" - from jr I just sent a job op :)
 * most architects came from being developers, so they think code centric...
 * "I hop Im not beating a dead horse or bashing layers... I think that layers react badly to both- rules 6 and 7 (outliving)"
-* "hexagonal architecture" allister coburn http://alistair.cockburn.us/Hexagonal+architecture http://fideloper.com/hexagonal-architecture
+* ["hexagonal architecture" allister coburn](http://alistair.cockburn.us/Hexagonal+architecture http://fideloper.com/hexagonal-architecture)
 * honeycomb design?
-* "hwo different is that from a regular graph?"
+* "how different is that from a regular graph?"
 * How the hell do I eat food around here
-* rule 8- you dont always know what else is going on, ina complex ecosystem - vitual duplicate being beuilt elsewhere...
-* "theres a whole world out there!"
-* increase disoverability.
+* rule 8- you don't always know what else is going on, in a complex ecosystem - virtual duplicate being built elsewhere...
+* "there's a whole world out there!"
+* increase discoverability.
 * github enterprise, visible by default, immediately helps discoverability.
-* "i hope your comapny is engineering driven, or- has an engineering culture. need visible repos on internal application... all have links t team page- wheo is responsible, issue tracker, who can I call (or contact) etc. all of thse things are table stakes for an external serice.... we tend to not do it or internal sercice"
-* recal of 8 rules... 4:13pm, wish there is more?? not just wuestions, eew??
+* "I hope your company is engineering driven, or- has an engineering culture. need visible repos on internal application... all have links t team page- who is responsible, issue tracker, who can I call (or contact) etc. all of these things are table stakes for an external service.... we tend to not do it or internal service"
+* recap of 8 rules... 4:13pm, wish there is more, not just questions (ugh, Q&A sessions always have the same flaws)
 * hexagonal architecture sounds like bullcrap to me.
 * "I'm done, but happy to answer questions..."
-* Hardest parts ias bac hurts. poor guy
-* splitting teams is very hard to undo... why? splitting later is easy?? build unified until it makes sense to split... especially if small company or startup. Q: in conflict with plurality? A: in tensioni shwrere we find creativity
-* http://paperswelove.org/
-* a thingive learned from watching rich hickey designing clojure- careful adding features- once its there, its not going away...
+* splitting teams is very hard to undo... why? splitting later is easy?? build unified until it makes sense to split... especially if small company or startup. Q: in conflict with plurality? A: in tension is where we find creativity
+* [http://paperswelove.org/](http://paperswelove.org/)
+* a thing I've learned from watching rich hickey designing clojure- careful adding features- once its there, its not going away...
 * decompose systems into smaller and smaller units of commitment...
-* the problem with crud is- it doesnt do anything. gotta read it , make decisions, update it. means- misplaced resposibility (so... not a REST fan I think)
-* developers plucked from a pool, thrown into a domain they carenothing about, and thrown back when they are expended.
-* attending developer https://github.com/intellij-solidity/intellij-solidity "Solidity is an object-oriented programming language for writing smart contracts." https://en.wikipedia.org/wiki/Solidity
+* the problem with crud is- it doesn't do anything. gotta read it , make decisions, update it. means- misplaced responsibility (so... not a REST fan I think)
+* "developers plucked from a pool, thrown into a domain they care nothing about, and thrown back when they are expended."
+* attending developer [https://github.com/intellij-solidity/intellij-solidity](https://github.com/intellij-solidity/intellij-solidity) "Solidity is an object-oriented programming language for writing smart contracts." [https://en.wikipedia.org/wiki/Solidity](https://en.wikipedia.org/wiki/Solidity)
 * Q: ... honeycomb...
 * Q: Simon's model clarification question...
 * Slides will be shared, not sure how yet. Bit.ly link or dropbox link sometime soon.
 * Q: ADRs adoption issues?
-* 1st floor - drinks, band
-* 2nd floor - drinks, Riot Games board game lounge
-* 3rd floor - snacks, drinks, sponsor tables for MailChimp and Monsanto
-* Roof - it's amazing! The elevator is to the right of the ticket booth at the entrance. Take the 10 story slide down ... if you dare!
-* "just in time for christmas... great gift..." laughter...
 
 --
 
@@ -271,8 +248,8 @@ Day 1- keynote- tail optimization
 
 * "end of denard scaling"
 * servers chart- socket count, unbranded 2+ sockets
-* microsoft FPGA for netwroking, ??
-* electricity in US datacenters
+* microsoft FPGA for networking?
+* electricity in US data centers
 * more NUMA domains on a chip (more sockets)
 * highly technical language from female speaker as first talk, not super polished at speaking, um ah. thanks to research partners.
 * example lucene oss java search
@@ -280,41 +257,34 @@ Day 1- keynote- tail optimization
 * bursty, dirurnal, CDF changes slowly.
 * Dick Site person from google
 * "hand instrument system"
-* toubles with "schematics" and "instrument"? :/
+* troubles with "schematics" and "instrument"? :/
 * hardware signals, values or counters.
-* "there we go, all the things I just said (slides)" dont need an instrument code,or have inturrupt... shared thread, same process- read aout of shared locations. observe global state from othe rcode. while true... read LLC misses, ccles
-* do the processing on it later, offline. can control through cache partitioning meachansisms, control memory.
+* "there we go, all the things I just said (slides)" don't need an instrument code,or have interrupt... shared thread, same process- read about of shared locations. observe global state from other code. while true... read LLC misses, ccles
+* do the processing on it later, offline. can control through cache partitioning mechanisms, control memory.
 * local state with SMT hardware.
 * problem: samples are not atomic.
-* giving stickers to people you like (mi) lol. Louie and John and Apax chat.... Bill, Pivotal
-* "do we know this is perfect yet? no of course not, but its look  lot clother to groupond truth"
+* "do we know this is perfect yet? no of course not, but its look lot clother to groupond truth"
 * sample with shim at 10 MHz - really figure it out
 * overheads from the same core. overhead from another core, ...
 * SHIM signals-
-* mii-  mi- I miss having a little moleskin notebook with me at conferences?
-* notess from notary- mi- November first payment (thats how long it takes to do paperwork), zero mortgage insurance, rock climbingin st louis
-* longest 200 reuests. queueing at worker, vs CPU work...
+* longest 200 requests. queueing at worker, vs CPU work...
 * sitting in fancy opera seats
-* because they didnt get me the slides in time
+* because they didn't get me the slides in time
 * keep track of load, to know reissue budget
 * what is reissuing?
 * because I promised you I would show you lots of stuff about lucene
 * DVFS faster on the tail
 * on your phone but not in servers yet- asymmetric multicore.
-* sacrifice average to imrpove teh tail- ^
+* sacrifice average to improve the tail- ^
 * best of all worlds, green line, can we?
-* mi- chelsea :)
-* Cosmin will talk to Jasmine! WoooO! omg yas
-* mi- cosmin- "linda you always know all the best peole:" :)
-* based on numbers of requests in the system, hoe many to parallelise- shortens execution time, reduces chance of queueing in he future.
-* 21% fewer servers  or educe tail latency and engey consumed by 28% - and that was judicous parallelism
-* migrate early under load? mograte oldest first
+* based on numbers of requests in the system, hoe many to parallelize- shortens execution time, reduces chance of queueing in he future.
+* 21% fewer servers  or educe tail latency and engey consumed by 28% - and that was judicious parallelism
+* migrate early under load? migrate oldest first
 * adaptive slow to fast network
-* if we get crowded on the litle cores, we hve the oldest migrate first to the biggest core. the opposite of real life
+* if we get crowded on the little cores, we have the oldest migrate first to the biggest core. the opposite of real life
 * basic controller design off the shelf, model space of the linerar controller... model piecewise...
-* Pegasusu was state of the art from google and stanford, all core freueuences for load, at low load, slow all the cores, then increase speeed of all cores together.
-* vs per core appraoches, EETL energy efficient with tatget tail latency
-* mi fail talking to mindy about the guy we interviewed and couldnt hire...
+* Pegasusu was state of the art from google and stanford, all core frequences for load, at low load, slow all the cores, then increase speed of all cores together.
+* vs per core approaches, EETL energy efficient with target tail latency
 * way over my head
 * assymetric multicore, what id DVFS? EETL_AMP?
 
@@ -322,9 +292,8 @@ Day 1- keynote- tail optimization
 
 talk 2: redux at the new york times
 
-* despite being surrounded in teh vast majority by men and the usual unpleasantness of being given precedence at doors (unwanted) and not in hallways (wanted) and other similar, I am more comfortable at strangeloop than at uptime or monitorama... mabe because it is enough my areana that I am confident, maybe that I know many people here.
-* redux channel on slack, slides are there (internet is not working fo rme right now)
-* JC, english version... monterey mexicao :)
+* despite being surrounded in the vast majority by men and the usual unpleasantness of being given precedence at doors (unwanted) and not in hallways (wanted) and other similar, I am more comfortable at strangeloop than at uptime or monitorama... mabe because it is enough my arena that I am confident, maybe that I know many people here.
+* redux channel on slack, slides are there (conf internet is not working for me right now)
 * opera singer and producer, wine sommlier
 * casual mention of triggers :) love the full name introduction with origin... YES (bings to mind for me- "immigrants- we get the job done"
 * loves the Glow tv s)how
@@ -334,96 +303,90 @@ talk 2: redux at the new york times
 * "Fixed with makeshift electrical tape made out of lint roller sticky paper, "
 * nice because conf slack is more interactive and useful, many-use app.
 * slack takes battery... 78% 5 hr remaining with only sublime, no wifi
-* this.props vs this.state "if youre using redux all the way, dont use this.state!"
+* this.props vs this.state "if youre using redux all the way, don't use this.state!"
 * ugh redux 101 but yay it exists, I do like this model
 * conferences are like a vacation but just hard enough to be fun
 * when in doubt, lurk he main stage
-* and the netflix booth :)
 * yep reducers are great
-* actually I'm glad im here,it  helps me know what I know.
+* actually I'm glad I'm here, it helps me know what I know.
 * can find usages of case string in reducers, makes them nice to find
-* read redux source, im ready?
-* "and actually this is all i knew when I ghipped watching for the first times"
+* "and actually this is all I knew when I shipped watching for the first times"
 * to watch later: I'm talking at @strangeloop_stl after the keynote about Policy as Code
 * diagram of their app, cool
 * "so that's no bueno"
-* multiple containers- when adding functionalitu incolves many files.
+* multiple containers- when adding functionality involves many files.
 * non primary to app- ads-
 * and code that s essential- cards everywhere
 * tradeoff: access to state vs pure components
 * not container per app? weird?
-* mi- if I cant go to brasil, I want a sourth america vacation anyway... maybe Quito?
-* lunch- charge/ 3rd floor... netflix!
 * 'reselect' library
-* composeable selectors...
-* selector : const fooSelector = (state) => this.stae.foo
-* change the order of the selectors- from changeless often to change morst often
-* "I have my own definition of business logic- it's- the things that people tell you to add to your app. Nonessential to the user for an optimial experience of the product."
-* avoid using app internal stte. dont want componetnt to behave differently based on...
-* stae.app.isppOnClient (server vs non server) ????
+* composable selectors...
+* selector : const fooSelector = (state) => this.state.foo
+* change the order of the selectors- from changeless often to change most often
+* "I have my own definition of business logic- it's- the things that people tell you to add to your app.
+* avoid using app internal state. don't want component to behave differently based on...
+* state.app.isppOnClient (server vs non server) ????
 * advertising diff url call based on mobile vs desktop .hard for me- because its all one webpage. analytics- not responsive techniques- because analytics- cant just hide using css- double count, thats not good (charges more)
 * only render ad when you know window size, state.app.windowSizeOnMount - cool
 * "impure top component"
 * "btw this is an epiphany I had yesterday" ugh sign of bad / unprepared speaker
-* a sign of age, being annnoyed by everyhing- part knowledge, part impatience
+* a sign of age, being annoyed by everything- part knowledge, part impatience
 * onMount redux
 * update url based on search tag- middleware
-* middleayre= between action and reducer- composer, chan have chain, useful for implementing side effects.
+* middleware= between action and reducer- composer, can have chain, useful for implementing side effects.
 * when click tag, take it through redux...
-* mi- everything is everyday if you do it everyday maybe
 * onboarding for first-click
 * conferences, should travel with power splitter oops
 * dig out big splitter for Peacock downstairs
 * takeaway: always compartmentalize your impure stuff, so everywhere else in the app is well behaved
-* refactored thw way they save and store save
-* he seems really exicted that they have finaley caught up witht he 60s
+* refactored the way they save and store save
+* he seems really excited that they have caught up with the 60s
 * @norsemelon on twitter
 
 ---
 talk 3- writing git in ruby (before lunch)
 
-* ran into Melanie from USDS, knows Jared Hatch from NY, was commenting on how big this is, she is speaking here...
-* file systems arent build to have tooo many files in one folder
-* this will be a good talk for developers to watch on viode
-* Marianne Belotti is the USDS speaker
-* hash thecompressed or uncompressed files? compressed- is nice, never unhash... uncompressed- defencds against compression algo changes
+* ran into Marianne from USDS, knows Jared Hatch from NY, was commenting on how big this conf is, she is speaking here...
+* file systems aren't built to have tooo many files in one folder
+* this will be a good talk for developers to watch on video
+* hash the compressed or uncompressed files? compressed- is nice, never unhash... uncompressed- defends against compression algo changes (just store which compression algo goes with which hash for which file?)
 * permissions name content - enough to store directory.
 * should we include permissions? not the same owner between 2 systems, maybe not the same groups, except executable bit.
-* a tak about cool stuff yes this is good
+* a talk about cool stuff yes this is good
 * hackathon would be good also
-* what separtors to use? space of \0 null byte- which one? will separator ever occur in text? filename has no null byte. dont use too many null bytes in things that might be printed later. (why?) so many languages use null byte to indicate end of string... use space...
-* [utting null byte and sha together is dangerous, sha could have null byte in it, but ]
+* what separators to use? space of \0 null byte- which one? will separator ever occur in text? filename has no null byte. don't use too many null bytes in things that might be printed later. (why?) so many languages use null byte to indicate end of string... use space...
+* putting null byte and sha together is dangerous, SHA could have null byte in it, but ]
 * how was this recorded, this is great
 * tree command
-* "if I wenre vesion controlling our version directory- which is a fantastic idea- ha ha, its not"
+* "if I were version controlling our version directory- which is a fantastic idea- ha ha, its not"
 * tree structure, to mirror how dirs actually are...
 
 
-museum hackathon talk, yes I got here! qith a pug detour :) :)
+museum hackathon talk, yes I got here! with a detour to visit the cute pug dog :)
 
 * API is still running!
-* experimenal API...
+* experimental API...
 * sold out, 11 projects
 * attrition is ok
 * 5 teams to final round
 * some people made it to final round
 * doubled prise money!!
-* philadelphia museum of art
+* Philadelphia museum of art
 * #hackthemuseum
-* my day went from nervewracking to very woth it
-* devhosot
-* "hackathon.io was not used agin, haha" ??
-* judged remotely- had to submit a 3 min vieo also
+* "my day [of the day of the submission deadline] went from nervewracking to very worth it"
+* [devhost](http://d-h.st/)
+* "hackathon.io was not used again, haha" ??
+* judged remotely- had to submit a 3 min video also
 * 11 projects, peoples choice award, voting handled through wishbone(??)
-* version control: judge criteia: innovation, deasible, innovation
+* version control: judge criteria: innovation, feasible, innovation
 * wish
 * artingo
-* deramscapes
+* dreamscapes
 * bines
-* gallery answer question, colored in your color, capture flag, territory game for entire museum, didint even make top 5 omg
+* gallery answer question, colored in your color, capture flag, territory game for entire museum, didn't even make top 5 omg
 * time bandit
-* trying tos how a video
-* time bandidt video, aboslute favorites, descprion- none of the team knew each other :) :) great about hackathongs
+* trying to show a video
+* time bandit video, absolute favorites, description- none of the team knew each other :) :) great about hackathons
 * this talk makes me want tog go to hackathons
 * "this cruiseship can FLY" yass
 * winners
@@ -431,159 +394,148 @@ museum hackathon talk, yes I got here! qith a pug detour :) :)
 * Vibes: clue guessing- contribute clues, if no one guessed, you got 0 points, trying to get points in the middle!
 * illustrated connection between tech and art, mentoring college students team
 * gamedec mentors, fantastic
-* their ideas wee beyond what we could get from a survey0 no one says on a survey time traceling VR bandit game
-* zoom out.... space in slides! satrun, Cassini picture, looking back at earth. thats us.can you see apps from cassini. does aything matter. I would argue that it does.
-* I get teary here lol
-* the inertia and disance, literally creating meaning.
+* their ideas wee beyond what we could get from a survey- no one says on a survey time traceling VR bandit game
+* zoom out.... space in slides! saturn, Cassini picture, looking back at earth. thats us. can you see apps from cassini. does anything matter. I would argue that it does.
+* the inertia and distance, literally creating meaning.
 * "vision and hope, it matters. I practiced this."
-* and I will quote carl sagan, because im a nerd and I want to *sniffle sniffle*
+* "and I will quote carl sagan, because I'm a nerd and I want to *sniffle sniffle*""
 * Lito Nicolai’s Rewriting History talk will be available on his website learnto.computer
-* omg stickers yay yes
-* you are welcome to not stick them to museum objects
+* "you are welcome to NOT stick [the stickers] to museum objects"
 
 
 -- Lunch: not veg other than vegan, happens I guess
 
-* hugged Kozak, people on stairs, ran into Boyle TWer :)
+* ran into Kozak, people on stairs, ran into Boyle TWer :)
 * low on battery power, gotta stop at the quiet lounge at some point
 * some mildly unpleasant interactions with venue staff
 * saw Vlad in the distance lol
-* doximity, platinum sponsor, saw them ins the disance
-* some guy climbed over me twice ugh, I hope it was as unpleasant for him as it was for me. This is why the main floor of the hall is a meh place to be.
-* I could be coding right now, ut might kill my laptop batery...
+* doximity, platinum sponsor, saw them ins the distance
 * tech difficulties with steno setup.
-* Dude michael, de slackified.
 * Yon and Garrett, web auth.
 * passportjs, node
 * password-local, must provide callback
 * database password, plaintext eek. should not be an option.
-* salted hash, makes comparison harder. adobe passowrd leak.
+* salted hash, makes comparison harder. adobe password leak.
 * anonnews "everything anonymous:
-* scotthelme.co/the-adbe-halk
-* leak continaed password hint plaintext
+* [https://scotthelme.co.uk/](https://scotthelme.co.uk/)
+* leak continued password hint plaintext
 * fli4h.ch
-* "same as gmail" passsword hint sigh
-* xkcd crossword pzzzle comment
-* brute-force a single encryption key, descruption 150M passowrds- and you have hints, so you can check!
+* "same as gmail" password hint sigh
+* xkcd crossword puzzle comment
+* brute-force a single encryption key, description 150M passwords- and you have hints, so you can check!
 * (secure) session management (garrett)
-* book- twitter and tear Gas
-* sercer-side sessions, session identifier (django by default)
+* book- ["twitter and tear gas"](https://www.twitterandteargas.org/)
+* server-side sessions, session identifier (django by default)
 * "stateless" sends all data- eg Flask
-* "cookies arent the greatest" same orgin policy in browser
-* flags: httponly, secure (per browser..." no tls https connection... persisted onclient, using local storeage in browser. vulnerableto xss, but CSP can help content security policy- access control for browser.... TWer talk on this would begood
+* "cookies aren't the greatest" same origin policy in browser
+* flags: http only, secure (per browser..." no tls https connection... persisted on client, using local storage in browser. vulnerable to xss, but CSP can help content security policy- access control for browser.... TWer talk on this would be good
 * this talk should be watched by TWers, can do conf talk lunch
-* MAC message aithentication code, serialize session data, MAC tag
-* hardt o gnerate valid without key
-* sessions signed, not encrpted... also problem with JWTs....
+* MAC message authentication code, serialize session data, MAC tag
+* hard to generate valid without key
+* sessions signed, not encrypted... also problem with JWTs....
 * user should not have some of the session data... like "winning number for lottery" lol for online games etc
 * - swap speaker- compare mac tags
 * time to run varies.... == string compare oops
 * vuln in early letsEncrypt, she found it, time variation in no mismatch.
 * mi- I should
-* pdfs.semanticscholar.org
+* [semanticscholar.org](https://www.semanticscholar.org/)
 * practical over network yep
 * constant time comparison. doing extra work on purpose. use xor
 * node crypto.timingSafeEqual
 * timing as a
-* Brad Hill nccgroup.trust
+* Brad Hill [nccgroup.trust](https://www.nccgroup.trust/us/)
 * high level languages- code looks constant time, but compiler optimizes it. oops. gotta actually test I guess. blind the timing channel, add a random ish func
-* HMAC node cryoto api, why to do this. even slower!
-* garritt- beyond passowrds. "the yo dawg of-"
+* HMAC node crypto api, why to do this. even slower!
+* garritt- beyond passwords. "the yo dawg of-"
 * build in leak-detecting password comparator into web auth library?
-* how ot protect users wven when twe know that they fallible humans who dont always make right decisions?
+* how to protect users when when they know that they fallible humans who don't always make right decisions?
 * ss7 routing protocol, drain bitcoin
-* kinda weird that trumps account hasnt been hacked yet
+* kinda weird that trumps account hasn't been hacked yet
 * hmac or authy, google auth.
 * always sends you an SMS- twitter- oops.."if anyone here works at twitter- maybe take a look at thts"
-* mi- would be nice to fo a 2fa survey of diff public accounts...
-* there sa website for seeing who has 2factor auth... Simple bank I teeted at...
+* would be nice to do a 2fa survey of diff public accounts...
+* there's a website for seeing who has 2factor auth...
 * w3c u2f fido certified, really cool standard, industry group called fido, reworked in open group web auth spec...
 * TLS channel ID,
 * even if valid TLS cert, cant spoof channelid...
 * still easy UX is the plan. need a dedicated thing...
 * aapotion...
-* github/hillbrad/u2freviews
-* yubikey with NFC report, apple is not availabe to 3rd party apps. WIP iOS
-* https://github.com/github/softu2f macos eychain, easy to setup
-* firefox nightly last week native support for u2f, stable release in 6 weeks, then80% worldwide...
+* [github/hillbrad/u2freviews](https://github.com/hillbrad/u2freviews)
+* yubikey with NFC report, apple is not available to 3rd party apps. WIP iOS
+* [https://github.com/github/softu2f](https://github.com/github/softu2f) macos keychain, easy to setup
+* firefox nightly last week native support for u2f, stable release in 6 weeks, then 80% worldwide...
 * websites....
-* http://www.dongleauth.info/
-* - speaker swap: passwod-less login systems
+* [http://www.dongleauth.info/](http://www.dongleauth.info/)
+* - speaker swap: password-less login systems
 * public service conf talks
-* pewinternet.org
+* [pewinternet.org](http://www.pewinternet.org/)
 * 5% of americans use password manager? Seems high
 * slack magic links
 * email address inbox is single point of failure
-* starttls orrorunistic encryption protocol
-* transparencysupport.google.com/sefer-email/overview
-* alaska airlines un
+* [google transparency report](https://transparencyreport.google.com/)
 
 
 -- Netflix antics
 
-* Mark Larsen from Braintree :)
+* ran into Mark Larsen from Braintree :)
 * functional vs unit tests.... annotation...
 * cold start service, restart, outage...
-* john gall- complex systems exhibit unexpected bheaviou- peadiatrician...
-* Sydney Dekker, safety science researcher, licensced pilot, how systems get int unsafe states.
+* john gall- complex systems exhibit unexpected behavior- pediatrician...
+* Sydney Dekker, safety science researcher, licensced pilot, how systems get into unsafe states.
 * braintree still getting thoughtworks people "glad to help" i said lol
-* light jeans, red shirt, lol
 * service becomes latent
-* 20-30 braintree popele here
+* 20-30 braintree people here
 * retry storm...
 * nice slide labeling
 * system fails safe...
-* gray failure paper by HotOS, ryan Huang,
+* gray failure paper by HotOS, Ryan Huang,
 * Guo Zhenyu failure recovery, cure worse than disease
-* users think something is wrong, but system doesn tknow what- grey failures
+* users think something is wrong, but system doesn't know what- "grey failures"
 * 1200 engineers...
 * harvard is a hedge fund with a PR firm called university ad tax free status lol
 * Cockroft, interesting and unexpected byproduct, also streams movies.
-* talking about big company outages igets attenting!
+* talking about big company outages gets attention!
 * A/B service went down... log messages... kafka... thread takes a lock, also application threads... lock contention,throttled.
 * logging took down prod
-* aws ebs outage 2012 elastic block storage, us east 1... memory leak in monitor health sstem
+* aws ebs outage 2012 elastic block storage, us east 1... memory leak in monitor health system
 * mitigation...
 * ... root causes are nonsense?
 * willing to brag oneself because youve seen so many others do it now with so little cause only humble after value signaling
 * "drift into failure:
 * we cant model our systems well right now
-* alvaro: fault tolerance isnt composable - ie cant put two together
+* alvaro: fault tolerance isn't composable - i.e. cant put two together
 * met a DBA who wants to work at TW
 * paper- looked at formally proven systems, still found bugs
 * formally verified operating system?
-* "interaces are dangerous, thats why we dont only rely onunit tests" omg yes, so goood
-* "this not about tsoftware engineers! this is about eing a human being!"
-* decrementalism- failures happen slowly, incrementally. when is it ok to push to prod? canary deploymens... create a smaller cluster...
+* "interfaces are dangerous, thats why we don't only rely on unit tests" omg yes, so good
+* "this not about software engineers! this is about being a human being!"
+* decrementalism- failures happen slowly, incrementally. when is it ok to push to prod? canary deployments... create a smaller cluster...
 * canary probably ok, looked harmless, flaky canary...
 * tweet from @sadoperator
-* "super unfair to the eng involved" was thok, the bug was... from before! hadnt been noiced, only happened when change in traffic patterns...
+* "super unfair to the eng involved"
+* the bug was... from before! hadn't been noticed, only happened when change in traffic patterns...
 * failure was real, but not caused by the code... then there as an issue...
 
-Diane Vaughan- normalization of devience... where over time, it the org gets used to a thing...
+Diane Vaughan- normalization of deviance... where over time, it the org gets used to a thing...
 
-* this is why new people come in and improve things- theyre not used to it yet!!
+* this is why new people come in and improve things- they're not used to it yet!!
 * xkcd about bicycles evolution awesome yes
-* Netflix EVCache, in memory volatile cache, nice slides... urls fails, playback has a fallback... one day, traffic spike- not common for Netflix- very predictable! saturted network interface cards on EV cache clusters... "became latent" cache miss, default to treat errors as misses- client will retry!
+* Netflix EVCache, in memory volatile cache, nice slides... urls fails, playback has a fallback... one day, traffic spike- not common for Netflix- very predictable! saturated network interface cards on EV cache clusters... "became latent" cache miss, default to treat errors as misses- client will retry!
 * vaughan: structural secrecy: you need to know, in order to have access... ugh now I want to work there...
-* "make the wrong thing harder" chaos monkey killed itself. successful system design "doesnt cause many outages anymore..."
+* "make the wrong thing harder" chaos monkey killed itself. successful system design "doesn't cause many outages anymore..."
 * omg this is so hpmor
-* fuzz testing systems structure in prod -mi
 * find vulnerabilities before they become outages
-* mi- touch typing gets a lot better than otherwise
 * drug testing analogy, full external validity- prod!
 * Netflix "broadcast" function would be interesting?
-* sorta
 * Vizcerak. noncritical services. bookmark services. user has to start from beginning, is ok.
 * tool Chap, chaos automation platform...
-* expeiment diagram...
 * people behavior differences detection
-* http://principlesofchaos.org/
+* [http://principlesofchaos.org/](http://principlesofchaos.org/)
 * SPS starts per second... very predictable!
-* experiment today doesnt mean willl still work tomorrow
+* experiment today doesn't mean will still work tomorrow
 * minimize blast radius, small fraction traffic... auto-stop functionality
 * chaos experiments can find pathologies
-* humans making resoable decisions can cause systems to get into unsafe states YES THIS YES
+* humans making reasoable decisions can cause systems to get into unsafe states YES THIS YES
 
 stripe talk black box AI understanding
 
@@ -597,7 +549,7 @@ stripe talk black box AI understanding
 * explanation for every blocked charge...
 * model outperform matrix
 * binaryclassifier,
-* does this have aything to do with the notify your credit cad company about travel? where is that used?
+* does this have anything to do with the notify your credit cad company about travel? where is that used?
 * every charge should find a slot in the tree
 * ML to generate rules! But auto-change...
 * "alll you need to do to wurn a decision tree into a set of rules is jut- pick a thresshold..."
@@ -606,51 +558,50 @@ stripe talk black box AI understanding
 * shallow trees are not very accurate, two decisions are not enough. deep trees are not very explainable.
 * 50 or 100 or 1k predicates long is too much for a user... to see and trust. overfit to data.
 * 80% chance that strip has seen a card, even if you just launched a biz
-* use multi ventor data- this user is unlikely to make this kind of transaction at this time fmi- argh, the escrow lady called me, argh why
-* other talk https://github.com/mvolkmann/talks
-* ineffieent and not good but a beautiful story...
+* use multi vendor data- this user is unlikely to make this kind of transaction at this time
+* other talk [https://github.com/mvolkmann/talks](https://github.com/mvolkmann/talks)
+* inefficient and not good but a beautiful story...
 * Explanation generated from random forest model, has some truth, it is true... is it the reason? Well...
 * post-hoc explanations, give up on any idea, treat as a black box, just forgeddabout it, train another model that tries to explain.
-* its easier to justofy predictions
-* :my mom" what are the chances... after the fact, teh chance is 100% and you can come up with any story. lower effrot.
-* Ryan Turner paper- Model explanation system- "I was totally bowled over" inspired byt eh paper
+* its easier to justify predictions
+* what are the chances... after the fact, the chance is 100% and you can come up with any story. lower effort.
+* Ryan Turner paper- Model explanation system- "I was totally bowled over" inspired by the paper
 * key her- explain single
 * use hindsight! yes!
 * TWers here: ryan, vlad, Boyce, kozak, mindy, linda, 2 others with Boyle, other like Jared, Jared...
 * prediction, thresshold, explanation. feature, operator, constant (unique card ip address last 24 hours)
 * "most people only have patience for six predicates"
-* strip more information, end up with "unusally large number"
-* In what sense is this an exlpanation?
-* should only trust this if you trust that soeone is workign hard to make the model accurate and fair
+* strip more information, end up with "unusually large number"
+* In what sense is this an explanation?
+* should only trust this if you trust that someone is working hard to make the model accurate and fair
 * visualization map to take it over the decision boundary!
-* homes.cs.washington.edu/~marcotcr/lime
-* training data, wolves in snow, huskies on couches- example tess you everything!!
-* atheism vs christian list
+* [homes.cs.washington.edu/~marcotcr](https://homes.cs.washington.edu/~marcotcr/)
+* training data, wolves in snow, huskies on couches - example
 * overfitted heavily n training set...
 * AI rationalization
-* https://homes.cs.washington.edu/~marcotcr/blog/lime/
-* youre not going to put an ape behind the wheel! when you can have an algorithm! If its the right algorithm!
+* [https://homes.cs.washington.edu/~marcotcr/blog/lime/](https://homes.cs.washington.edu/~marcotcr/blog/lime/)
+* "you're not going to put an ape behind the wheel! when you can have an algorithm! If its the right algorithm!"
 * EU right to explanation:
-* analogy with 4yearolds explanations...
-* "we dont know how to encode everythign we care about in teh goals of the model"
+* analogy with 4 year olds explanations...
+* "we don't know how to encode everything we care about in the goals of the model"
 * "fairness accountability and transparency in machine learning"
-* explanations let us see oucomes, interrogating blackbox models, can figure out
-* formalize our ethics! In a way weve never really had to....
-* lack box models are very explainable and dont trust anyone who tells you otherwise
+* explanations let us see outcomes, interrogating blackbox models, can figure out
+* formalize our ethics! In a way we've never really had to....
+* "black box models are very explainable and don't trust anyone who tells you otherwise"
 * @sritchie
 
 
 - USDS tak by @bellmar
 
 * TIC Trusted
-* Brodie pfrom Stripe security
+* Brodie from Stripe security
 * Aaron was EPA lawyer, need a lawyer- illegal diagnose technical issues
-* small groups of lwyers show up and swashbuckle
+* small groups of lawyers show up and swashbuckle
 * have been trying to fix it desperately for years!!
-* 2007 rule, cased TIC, first iphone, internet very different, skeptical about software as a service, dont put anythign critical on it... the problem is- decade later, how do you define perimiter seurity... doesnt workt hat way??
-* Deal by finessing the definition of internal/external to an insane degree. what does sensiive data mean??
+* 2007 rule, cased TIC, first iphone, internet very different, skeptical about software as a service, don't put anything critical on it... the problem is- decade later, how do you define perimeter security... doesn't work that way??
+* Deal by finessing the definition of internal/external to an insane degree. what does sensitive data mean??
 * FISMA- FedRAMP "difficult to grok"
-* agency specific laws Censsus title 13, IRS title 26
+* agency specific laws Census title 13, IRS title 26
 * Govcloud west coast, got data center east coast.
 * amazon GovCloud, specific data center (oh no, only one data center? What about failover??)
 * staffed 100% by american citizens, fewer products :/
@@ -664,11 +615,11 @@ stripe talk black box AI understanding
 * amazon wont build them a https://en.wikipedia.org/wiki/Sensitive_Compartmented_Information_Facility so cant make govcloud a TIF
 * TIC reference architecture, says must be a SCIF 30 min away from management location, which assumed to be data center.
 * COULD mean a place APIs to manage remotely...
-* "cant put classified signatures in teh cloud"
+* "cant put classified signatures in the cloud"
 * Good Natured Govie ??
-* Einstein- intrusion detection sfwtware maintained by DHS, Does not block - web...
+* Einstein- intrusion detection sofwtware maintained by DHS, Does not block - web...
 * situational awareness and automate data collection...
-* "the Einstein system of tomrrow" eeeek
+* "the Einstein system of tomorrow" eeeek
 * most important- refocus conversation, !!!
 * mi - I am already super looking forward to napssss
 * negotiations
@@ -685,15 +636,15 @@ stripe talk black box AI understanding
 * Office of American Innovation IT Modernization Report, acting Federal CIO
 * https://www.cio.gov/about/members-and-leadership/margie-graves/
 * You have no idea how hard questions are to answer
-* Officially 24 CFO ACT agencies. breaking down, little ones, 100 to 400... fun conversations about... Freddie Mac and Fannnie Mae, private secotr government straddle, "public" commentary" but really who does is- companies and lobbyists, who dont write short comments I might add
+* Officially 24 CFO ACT agencies. breaking down, little ones, 100 to 400... fun conversations about... Freddie Mac and Fannnie Mae, private secotr government straddle, "public" commentary" but really who does is- companies and lobbyists, who don't write short comments I might add
 * Googles public comment
 * Dude in audience try 2 pages of google ad, 2 pages on policy, all the comments are like that
 
 ---
-lightinign talks
+lightining talks
 
 * Human Rictions
-* Julia, Dmitry's gf yay!
+* Julia, yay!
 * accenture, typescript, anchor4
 * chatting with USDS speaker
 * microsoft
@@ -718,7 +669,7 @@ lightinign talks
 * time honored batttles, still fighting, mems, all the way down.
 * injokes
 * diversityyyy
-* how do you teach teh joke "everybody gets a chance to laugh"
+* how do you teach the joke? "everybody gets a chance to laugh"
 * "HTimezones horror show that will take the rest of your life"
 
 Nick, lightning talks
@@ -743,21 +694,20 @@ Lito- Voldemort effect!
 * harry potter
 * hermione competent!
 * nature of power...
-* we dismiss tech things because we dont understand thhem.... "not built here"
-* "i dont know -> no one knows"
+* we dismiss tech things because we don't understand thhem.... "not built here"
+* "i don't know -> no one knows"
 * "Ideas are bigger on the inside. there's more to it- history, and reasons"
 * knowig a thing's name gives you power of it
 * "being dismissive of a thing in tech... makes me certain that I don't understand it!"
 
 "Why not haskell?" Rebecca!
 
-* mi m f runs local meetup, goes to other meetups :)
-* mi- jared at dinner... "Michelle doesnt want to" not very consultant O.o
+* mi- Jrd at dinner... "Michelle doesnt want to" not very consultant O.o
 * PIP unknown, MJ said, Durling...
 * sometimes the pitch is bad- haskell
-* could I interest you in some monoids or applicitive functors
+* could I interest you in some monoids or applicative functors
 * help solve their current problems, not the ones we think they have
-* javascript jokes like php kkes
+* javascript jokes like php jokes
 * abelian monoid
 * twilio tour was cool, should do
 * the wrong place to start- abelian monad
@@ -768,15 +718,14 @@ wayne- striking out on our own
 
 * work for yourself, make a living, prepare for...
 * more control of destiny, more money, work less,
-* omg yes they made an announcement because I whinged about the guy with the photographs, "I don't know why they told me to say that" lol
-* dont solve problem using language, just solve problem , ... dev in other places charge less, is fact, dont compete with that. dont be a commodity.
+* they made an announcement because I whinged about the guy with the photographs, "I don't know why they told me to say that" lol
+* don't solve problem using language, just solve problem , ... dev in other places charge less, is fact, don't compete with that. don't be a commodity.
 * book: strategy and tactics of pricing (2014)
 * developers. specializing in vertical is huge.
 * relationships and trust is money valuable.
 * referrals- partially transitive trust
 * credentials. track record. publications, presentatons, podcasts
 * "velocity trust table" autonomy spectrum
-* mi- callisto!!
 * toptal, 10x manageent
 * hourly == bad
 * same thing faster, get paid less (or lie)
@@ -787,12 +736,12 @@ wayne- striking out on our own
 Jude from Fog Creek
 
 * @blinkymach12
-* finding systemic issues your dev practice, via easily observible events
+* finding systemic issues your dev practice, via easily observable events
 * canary "small creature with high metabolism"
 * cats in japan for fish
 * honeybees detecting pollution
 * OMG YES THIS get the slides!!
-* test encoding errors suggest script injection vulnerbilities
+* test encoding errors suggest script injection vulnerabilities
 * om gyes this
 * CR https://github.com/coderanger/talk-ideas/blob/master/monomyth.md
 * https://twitter.com/blinkymach12
@@ -803,12 +752,12 @@ Dee Dee Lavender
 * https://twitter.com/@ddlavinder
 * introverts
 * synergy
-* "they have a team exercise called subacrtic survivial situation"
+* "they have a team exercise called subarctic survival situation"
 * "introverts are slow to speak and tend to be deeper thinkers"
 * extroverts can be higher volume...
 * https://jigsaw.thoughtworks.net/consultants/17662 TWer with us
 * creative ways to level playing field
-* "dont yuck my yum" yass
+* "don't yuck my yum" yass
 * "that is my cat tax"!
 
 practical privacy protection! firebase google SF @eob
@@ -817,17 +766,16 @@ practical privacy protection! firebase google SF @eob
 * GDPR europe! May 2018
 * any users in europe? applies to you :)
 * need a better conference not taking machine? ipad with keyboard?
-* delete user data when account deleted (workaround- dont require account, track data anyway)
+* delete user data when account deleted (workaround- don't require account, track data anyway)
 * wipeout and takeout
-* mi- kiddom, tw, netflix goog, square
 * so far I have attended every talk slot including lightning talks, missed 8-830 steno demo / open spaces tho
 * harder in schemaless datebase to find a users data
 * denomalization, including backupp copies! wipeout pipieline, O(user data) is the best you can do...
-* schealess db schea is implicit in schema code
+* schemaless db schema is implicit in schema code
 * "privacy expert visiting us- she created" SHE yass
 * Holly coach?
 * AuthZ system
-* previously talk auth0 shoutout during auth talk yass love it
+* previously talk auth0 shoutout during auth talk yass
 * mi- auth0, slack, stripe
 * https://leanpub.com/queerprivacy
 * Dan Zhang firebase cleanup example
@@ -882,7 +830,7 @@ photos [https://www.flickr.com/photos/strangeloop2017/albums](https://www.flickr
 * Parnell Treatise on Roads "exposed to insult and ill usage" https://books.google.com/books?id=x501AAAAMAAJ&pg=PA294&lpg=PA294&dq=Parnell+Treatise+on+Roads+%22insult+and+ill+usage%22&source=bl&ots=Q5kFPjCBAN&sig=0CLukdaLrc6A-W8_NqPGcyhiVC8&hl=en&sa=X&ved=0ahUKEwiOq_DZj83WAhXrjlQKHYN0Ag4Q6AEIKDAA#v=onepage&q=Parnell%20Treatise%20on%20Roads%20%22insult%20and%20ill%20usage%22&f=false
 * https://rubytogether.org/
 * "You woulnt't want one nation state or company dictating what a piece of important OSS would be like"
-* dont know who uses projects unless companies say so...
+* don't know who uses projects unless companies say so...
 * quantifying value of open source
 * I want to be a maintainer... the frustrations of tending the garden sound enjoyable for me as I am now.
 * "Think beyond palliative care and coping strategoies for maintainers"
@@ -906,10 +854,10 @@ photos [https://www.flickr.com/photos/strangeloop2017/albums](https://www.flickr
 * messing with her hair
 * encompasses, how you answer wuestions
 * complexity: inherent or accidental, arises out of software x architecture x human process. it is annoyingly subjective.
-* architecture is about putting the complexity in the places where you want it instead of the places where you dont want it
+* architecture is about putting the complexity in the places where you want it instead of the places where you don't want it
 * Halstead volume- where the information is, in the source
 * "remember back when there way- "the database""
-* very condescending to say "write boring code" to someone- you dont understand the problem space
+* very condescending to say "write boring code" to someone- you don't understand the problem space
 * LAMP vs Parse infrastructure, requests could lopp back in multiple times,
 * "We had built  system which was findamentally debuggable byt the time we got acquired"
 * "would this work for the power grid?"
@@ -921,18 +869,18 @@ photos [https://www.flickr.com/photos/strangeloop2017/albums](https://www.flickr
 * "the hardest problem is often finding which component/s to debug or trace"
 * up and down may not be meaningful- user experience is.
 * "do I want to get paged about twenty fucking thousand things"
-* "I dont want to get aged for most things, twenty fucking thousand things, or else all my engineers will uit and i will too"
+* "I don't want to get aged for most things, twenty fucking thousand things, or else all my engineers will uit and i will too"
 * start at the edge and work down, instrumentation, internal state from softeare you didnt write too, wrap evey network calll, data call
 * my little pony theme
 * ""events, not metrics?" "
 * high cardinatlity data sets work well with metrics- no one has done this yet
 * "there and entire generation of engineers internalized limiteations of metrics as being limitations of data
-* hundreds? I dont know what datadog does now
+* hundreds? I don't know what datadog does now
 * speaker slides as available https://github.com/strangeloop/StrangeLoop2017/tree/master/slides
 * metrics are cheap, but terribly limites
 * you can sample, it is amazing some people feel
 * "I do not recommend that you sample your billing system" should vs must
-* dont let engineres act like its not sampled. every request generates many events.
+* don't let engineres act like its not sampled. every request generates many events.
 * average api request generated 50 event, at facebook,hundreds
 * sample dynamically, not all data should have the same type
 * keep all of the 50X, let the rate limiteer slice off the top of the mountain
@@ -950,7 +898,7 @@ photos [https://www.flickr.com/photos/strangeloop2017/albums](https://www.flickr
 * mi- def bragged too much
 * read time aggregation, going to go home and build tools, b
 * "this is not a sales pitch, this is a cry for help" build better monitoring tools
-* Nines dont matter if users arent happy
+* Nines don't matter if users arent happy
 * "thik about the natioal electric grid. you're not going to bring up a stging copy of that. most of the time Ive spent in staging has beenw asted. it drifts"
 * "im the proud author of our capture and replay software, for yesterdays traffic, cant predict tomorrows traffic,"
 * tooling for production in a place where people are underinvesting.
@@ -959,10 +907,10 @@ photos [https://www.flickr.com/photos/strangeloop2017/albums](https://www.flickr
 * force amplifiers (dbas etc) for developers
 * conferences help me see the wider world
 * the lifecycle of code after you hit ship
-* dont hire engineers who wont
+* don't hire engineers who wont
 * as a group we are not known for our work life balance
 * it doesnt have to be awful
-* watching it run in production is your fcking job, if you dont want ch it when its normal, you wont know what abnormal looks like
+* watching it run in production is your fcking job, if you don't want ch it when its normal, you wont know what abnormal looks like
 * bring my ego back down to size and make me willing to look at the world
 * what you win is drastically fewer paging alerts
 * http://www.clearent.com/
@@ -1015,7 +963,7 @@ rate limiting
 * Theron Rabe from @Zymergen talks about how Codon, a DSL for specifying large collections of genome designs. Really awesome! #strangeloop
 * throughput != capacity
 * https://gist.github.com/ruthienachmany/03f9a9241dfb2b050cbc93e4781472ce  Biomaterials as UI: Designing New User Experiences // Strangeloop Talk // Resources to Learn More
-* dont push back if there is capacity!
+* don't push back if there is capacity!
 * TCP conejection avoidance additive increate, multiplicitive decrease, dropped packets are congestion
 * ?
 * increase total target concrrency by constant c per unit time
