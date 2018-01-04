@@ -24,3 +24,7 @@ Posts I might write:
 Try a song by Michael Head or John Ireland. Try singing a piece by Schubert in the English language, like Ave Maria. https://www.wikihow.com/Become-a-Good-Singer-Without-Lessons
 - AI that can tell when people are sick? https://www.washingtonpost.com/news/speaking-of-science/wp/2018/01/02/these-subtle-cues-are-what-make-sick-people-look-sick/?undefined=&utm_term=.ceb638fa55b3&wpisrc=nl_most&wpmm=1
 - code learning blog pass-on from JL http://www.jgrasp.org/
+- ad hoc dev team tracking for mj record wipe after legalization? https://twitter.com/krainboltgreene/status/948067780636557312
+
+tech:
+- set up google analytics as soon as the analytics site stops giving me 500 errors. Guides: https://groundberry.github.io/setup/2016/09/16/adding-google-analytics-to-jekyll.html https://github.com/jekyll/minima#enabling-google-analytics https://ongspxm.github.io/blog/2016/09/jekyll-google-analytics/ https://michaelsoolee.com/google-analytics-jekyll/ https://desiredpersona.com/google-analytics-jekyll/
