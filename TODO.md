@@ -1,4 +1,6 @@
 Posts I might write:
+- different definitions of "self care"
+- cool health-ish startups and news: ikea pregnancy test ad, https://angel.co/the-flex-company https://angel.co/modern-fertility
 - testing (from interviews) what makes a good unit test, what makes a good integration test, what do you do when the test suite is slow (and why does it matter), security testing, perf testing, test coverage, making sure that a test is good enough, mutuation testing, DRYness in testing, test data facories, test builders and how they should always generate valid data
 - traveler life ideas round 2 https://southwest.ereceiptuat.guestlogix.com/
 - Otp seed library two factor for centrify (credit to coderanger)
