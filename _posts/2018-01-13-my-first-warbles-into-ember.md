@@ -126,3 +126,10 @@ https://github.com/Addepar/ember-table "An addon to support large data set and a
 
 to be continued, maybe.
 TODO - make the links into actual links
+
+
+In other news- I have been a while away from rails, so I'm reading The Rails 5 Way.
+
+When i started with ruby, I knoly knew about rvm, not rbenv or chruby. Since then I have used all three of them but I still rdefault to rvm. I have come around to thinking that chruby is the best though, with the smallest code surface and most mdern and uninvasive design. http://kgrz.io/programmers-guide-to-choosing-ruby-version-manager.html
+
+https://github.com/socketry/nio4r "New I/O for Ruby: Cross-platform asynchronous I/O primitives for scalable network clients and servers"
