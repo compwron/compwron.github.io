@@ -5,96 +5,58 @@ tags:
  -
 ---
 
+Here are some books that I have heard from colleagues are good. Some of them I have read myself also. I think that all app/web developers should know enough about security to know that they don't know nearly enough and should consult an expert. As far as I know, the best way to do this is to read other people's horror stories.
 
-* Penetration test (introduction):
-https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking-ebook/dp/B00KME7GN8
+* Penetration Testing: A Hands-On Introduction to Hacking by Georgia Weidman
+[https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking-ebook/dp/B00KME7GN8](https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking-ebook/dp/B00KME7GN8)
 
-* Metasploit:
-https://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X
+* Metasploit: The Penetration Tester's Guide by David Kennedy,‎ Jim O'gorman,‎ Devon Kearns,‎ Mati Aharoni
+[https://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X](https://www.amazon.com/Metasploit-Penetration-Testers-David-Kennedy/dp/159327288X)
 
-* Agile IT security implementation methodology:
-https://www.amazon.com/Agile-Security-Implementation-Methodology-Laskowski-ebook/dp/B006BZCW8Q/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1472504150&sr=1-1&keywords=Agile+IT+Security+Implementation+Methodology+Agile+IT+Security+Implementation+Methodology
+* Agile IT Security Implementation Methodology by Jeff Laskowski
+[https://www.amazon.com/Agile-Security-Implementation-Methodology-Laskowski-ebook/dp/B006BZCW8Q](https://www.amazon.com/Agile-Security-Implementation-Methodology-Laskowski-ebook/dp/B006BZCW8Q)
 
-* Android Security Internals:
-https://www.amazon.com/Android-Security-Internals--Depth-Architecture-ebook/dp/B00P8DRZWA/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1472504321&sr=1-1&keywords=Android+Security+Internals
+* Android Security Internals: An In-Depth Guide to Android's Security Architecture by Nikolay Elenkov
+[https://www.amazon.com/Android-Security-Internals--Depth-Architecture-ebook/dp/B00P8DRZWA](https://www.amazon.com/Android-Security-Internals--Depth-Architecture-ebook/dp/B00P8DRZWA)
 
-* iOS Application Security:
-https://www.amazon.com/iOS-Application-Security-Definitive-Developers-ebook/dp/B01BLVZ3IK/ref=pd_sim_351_2?ie=UTF8&psc=1&refRID=J1T2CX4872TXX6WZT6KS
+* iOS Application Security: The Definitive Guide for Hackers and Developers by David Thiel
+[https://www.amazon.com/iOS-Application-Security-Definitive-Developers-ebook/dp/B01BLVZ3IK](https://www.amazon.com/iOS-Application-Security-Definitive-Developers-ebook/dp/B01BLVZ3IK)
 
-I already read Black hat Python:
+* Black Hat Python: Python Programming for Hackers and Pentesters by Justin Seitz
+[https://www.amazon.com/Black-Hat-Python-Programming-Pentesters-ebook/dp/B00QL616DW](https://www.amazon.com/Black-Hat-Python-Programming-Pentesters-ebook/dp/B00QL616DW)
 
-https://www.amazon.com/Black-Hat-Python-Programming-Pentesters-ebook/dp/B00QL616DW/ref=pd_sim_351_2?ie=UTF8&psc=1&refRID=NCM1V00THC8A76QWMY6N
+* Threat Modeling: Designing for Security by Adam Shostack [https://smile.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998](https://smile.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)
 
-And I also watched some learning path videos from Safari books online.
-https://www.safaribooksonline.com/
+* Cryptography Engineering: Design Principles and Practical Applications by Niels Ferguson,‎ Bruce Schneier, Tadayoshi Kohno [https://smile.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246](https://smile.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246)
 
-* Adam Shostack's Threat Modeling
+* Security Warrior: Know Your Enemy by Cyrus Peikari,‎ Anton Chuvakin [https://smile.amazon.com/dp/B0043EWV24](https://smile.amazon.com/dp/B0043EWV24)
 
-* Bruce Schneier et Al's Cryptography Engineering: Design Principles and
-Practical Applications
+* Beautiful Security: Leading Security Experts Explain How They Think by Andy Oram, John Viega [https://smile.amazon.com/Beautiful-Security-Leading-Experts-Explain-ebook/dp/B002NOGG54](https://smile.amazon.com/Beautiful-Security-Leading-Experts-Explain-ebook/dp/B002NOGG54)
 
-* Chuvakin and Peikari's Security Warrior
+* Holistic Infosec for Web Developers [https://holisticinfosecforwebdevelopers.com/](https://holisticinfosecforwebdevelopers.com/) [https://smile.amazon.com/Holistic-InfoSec-Web-Developers-Physical-ebook/dp/B01LYKJ982](https://smile.amazon.com/Holistic-InfoSec-Web-Developers-Physical-ebook/dp/B01LYKJ982)
 
-* Andy Oram's Beautiful Security: Leading Security Experts Explain How
-They Think
+* The Tangled Web: A Guide to Securing Modern Web Applications [https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886/](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886/)
 
-Hey guys! TWU 37 reunion thread!
+* OSCP Certification (I'm told it's one of the few certifications that are really really worth doing)
+[https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/)
 
-They're not books but here are some other resources that I've been bookmarking and collecting thanks to the Security efforts that have been going on in Australia lately:
+* Secure Code Warrior [https://new-www.securecodewarrior.com/](https://new-www.securecodewarrior.com/)
 
-OSCP Certification (I'm told it's one of the few certifications that are really really worth doing)
-https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/
+* Applied Cryptography by Bruce Schneier
 
-OWASP Intentionally Insecure apps which are great for practice:
-https://www.owasp.org/index.php/OWASP_Juice_Shop_Project
-https://www.owasp.org/index.php/Projects/OWASP_Rails_Goat_Project
+* Foundations of Cryptography by Oded Goldreich
 
-Secure Code Warrior
-https://new-www.securecodewarrior.com/
+* CyberWarfare by Jeffrey Carr
 
-Of those, Zalewski's book and "The Web Application Hacker's Handbook v2" are helpful if you want to get a grasp on what's at stake when developing web applications and understand how to start testing for flaws.
+* Security Warrior by Cyrus Peikari
 
-Paragon's awesome-appsec list has another few books and resources that are worth looking at. Some are not very relevant to what we do (for example, the book on IDA Pro)
+* Security Engineering by Ros Anderson.
 
-O'Reilly recently published a book on DevOpsSec that is a quick read, but unfortunately I think it is only in ebook form.
-
-A new book series I've seen mentioned a few times lately is Holistic Infosec for Web Developers. It is still being written. I haven't had a chance to go over it yet. It's available on GitHub here, here, and here if anyone is interested in taking a look. Let us know what you think if you do.
-
-
-
-​I've been reading The Tangled Web: A Guide to Securing Modern Web Applications [1]. Although the book is focused on web applications, it is totally worth the reader's time.
-
-Anything from Michael Zalewski – author of the American Fuzzy Lop [2], among many other tools – is worth a look.
-
-​[1] https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886/
-
-[2] http://lcamtuf.coredump.cx/afl/
-
-
-- Applied Cryptography by Bruce Schneier
-- Foundations of Cryptography by Oded Goldreich
- - CyberWarfare by Jeffrey Carr
-- Security Warrior by Cyrus Peikari
-
-“Security Engineering” by Ros Anderson.
-
-+1 to The Tangled Web; it's one of my favourite books. I've got Silence on the Wire in my to-read list, and I've found a copy of the Red Team Field Manual to be pretty invaluable in the past as a quick reference for more obscure CLI commands.
-
-
-
-I'm a new XD ThoughtWorker -- hi! Before I got here, I was working on usability for open source encryption tools (including doing a little work for pixelated) at Simply Secure and the (now-defunct) Open Internet Tools Project.
-
-Cade Cairns asked me to post a list of texts on usability and security. Here's the fundamental ones I know of:
-
-Usable Security: History, Themes, and Challenges (Synthesis Lectures on Information Security, Privacy, and Trust)
+* Usable Security: History, Themes, and Challenges (Synthesis Lectures on Information Security, Privacy, and Trust)
 by Simson Garfinkel
 
-Beautiful Security: Leading Security Experts Explain How They Think
-by John Viega and Andy Oram
+* Beautiful Security: Leading Security Experts Explain How They Think by John Viega and Andy Oram
 
-Security and Usability: Designing Secure Systems that People Can Use
-by Lorrie Faith Cranor and Simson Garfinkel
+* Security and Usability: Designing Secure Systems that People Can Use by Lorrie Faith Cranor and Simson Garfinkel
 
-Lorrie Cranor is a leader in organizing the security usability field, and has co-authored a number of other books as well. (Plus she makes amazing digital quilts!)
-
-So Tsatsi Sylivester Mahase, these may be security-related books you want to add to the Jo'burg library. And hey, Sara Dinari, I'd love it if we could get these in the NYC library as well!
+* Lorrie Cranor is a leader in organizing the security usability field, and has co-authored a number of other books as well. (Plus she makes amazing digital quilts!)
