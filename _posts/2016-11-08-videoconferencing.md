@@ -21,7 +21,3 @@ It is a big part of my current life to care about online videoconferencing provi
 - [uberconference](https://www.uberconference.com/)
 - [teamviewer](https://www.teamviewer.com/en/)
 - [bluejeans](https://bluejeans.com/)
-
-
-
-AnyMeeting | BlueJeans | Calliflower | Click Meeting | FreeConferenceCall | Fuze | GoToMeeting | InterCall | Join.Me | MeetingBurner | MegaMeeting | RHUB | Skype | StartMeeting | UberConference | WebEx | Zoom
