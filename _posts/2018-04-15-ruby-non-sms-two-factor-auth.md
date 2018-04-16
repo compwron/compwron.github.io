@@ -27,6 +27,7 @@ Note: these are also the only two mentioned at [https://github.com/plataformatec
 * [authy/authy-devise](https://github.com/authy/authy-devise) https://github.com/authy/authy-devise Dec 2017 (SMS only)
 * [opf/openproject-two_factor_authentication](https://github.com/opf/openproject-two_factor_authentication) now-ish (low usage, but promising!)
 * [mort666/yubikey_database_authenticatable](https://github.com/mort666/yubikey_database_authenticatable) Aug 2016
+* [little-bobby-tables/rose_quartz](https://github.com/little-bobby-tables/rose_quartz) Jan 2017, low usage
 
 **github's list:**
 [topics/two-factor-authentication?l=ruby](https://github.com/topics/two-factor-authentication?l=ruby)
