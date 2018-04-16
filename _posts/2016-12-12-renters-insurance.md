@@ -7,7 +7,7 @@ tags:
 
 I asked my friends on the internet whether I should get renters insurance, and here is what they said.
 
-I did end up getting renters insurance through geico (assurant) for $17/month with a first payment of $24.34. http://www.myassurantpolicy.com/welcome-new
+I did end up getting renters insurance through geico (assurant) for $17/month with a first payment of $24.34. http://www.myassurantpolicy.com/welcome-new EDIT: Then I switched to lemonade.com for $5/month
 
 - If I had that kind of money, I wouldn't be renting?
 - I hate it! It's like another annoying monthly membership
