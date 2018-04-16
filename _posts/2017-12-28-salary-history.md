@@ -11,17 +11,17 @@ One hesitation that I have about publishing this is some significant personal em
 
 Another hesitation and embarrassment I have in posting this is that I make a ridiculous amount of money by the standards of everyone except software developers in SF/NY- by which standard I am either underpaid or low-value, depending on what kind of pessimism I'm using. I do donate a good bit of my salary with an eye to the advice from [GiveWell](https://www.givewell.org/), and I've also used a lot of it for stuff for my family. My rent (not counting utilities) has been about 1300/month since I've been in SF, which is a good price for the area. (Living in one room of a multi-room house brings the cost down quite a lot.)
 
-* 2010 Chicago - ThoughtWorks - 55,000 plus healthcare and 401k matching (and expensing travel, train pass, and mobile phone) (How sure am I? Original document)
+* 2010 Chicago - ThoughtWorks - 55k plus healthcare and 401k matching (and expensing travel, train pass, and mobile phone) (How sure am I? Original document)
 * Some missing history here with TW- I lost some docs, and although I could figure it out from tax records, the fact that I expensed a lot of travel for work makes the math more difficult.)
-* 2014 San Francisco - ThoughtWorks - 97,000 (after cost of living adjustment for moving to SF) (How sure am I? Strong memory, no document)
-* 2014 San Francisco - Braintree - 106,000 plus 10k signing, healthcare, 401k (How sure am I? Original document)
-* 2015 San Francisco - Groupon (Breadcrumb) - 125,000 + RSUs (the value of RSUs changed a lot; eventually I sold them in 2017 for an approximate value of 5k), no 401k matching (How sure am I? Original document)
-* 2016 San Francisco - Carbon Five (offer) - 135,000 (How sure am I? Original document)
-* 2016 San Francisco - One Medical (offer) - 142,000 + RSUs (How sure am I? Original document)
-* 2016 San Francisco - ThoughtWorks (offer - accepted) - 135,000 (How sure am I? Original document)
-* 2017 San Francisco - ThoughtWorks - 144,500 (How sure am I? Original document)
-* 2017 San Francisco - Grand Rounds (offer) - 155,000 + 10k signing + RSUs (non public company)
-* 2018 San Francisco - Square (offer - accepted) - a little more base salary, plus RSUs (public company), no signing bonus.
+* 2014 San Francisco - ThoughtWorks - 97k (after cost of living adjustment for moving to SF) (How sure am I? Strong memory, no document)
+* 2014 San Francisco - Braintree - 106k plus 10k signing, healthcare, 401k (How sure am I? Original document)
+* 2015 San Francisco - Groupon (Breadcrumb) - 125k + RSUs (the value of RSUs changed a lot; eventually I sold them in 2017 for an approximate value of 5k), no 401k matching (How sure am I? Original document)
+* 2016 San Francisco - Carbon Five (offer) - 135k (How sure am I? Original document)
+* 2016 San Francisco - One Medical (offer) - 142k + RSUs (How sure am I? Original document)
+* 2016 San Francisco - ThoughtWorks (offer - accepted) - 135k (How sure am I? Original document)
+* 2017 San Francisco - ThoughtWorks - 144.5k (How sure am I? Original document)
+* 2017 San Francisco - Grand Rounds (offer) - 155k + 10k signing + RSUs (non public company)
+* 2018 San Francisco - Square (offer - accepted) - 160k + 40k RSUs (public company), no signing bonus. (How sure am I? Original document)
 
 My original "negotiation" with ThoughtWorks I remember vividly- it was in person, standing in the hallway with Julie (who is awesome <3) and I literally said "Well, I make minimum wage now, so... more than that?" ... not the brightest moment in negotiation history
 
@@ -32,3 +32,5 @@ Note: it is legal to discuss salary (and illegal to fire people for discussing t
 It is also interesting to look at salaries paid to USA federal employees, which are all public: [https://www.fedsdatacenter.com/federal-pay-rates/](https://www.fedsdatacenter.com/federal-pay-rates/) and a non-governmental data visualizer/searcher: [https://www.federalpay.org/employees/agencies](https://www.federalpay.org/employees/agencies)
 
 The twitter hashtag you want to see for (mostly tech) salaries is [#talkPay](https://twitter.com/hashtag/TalkPay?src=hash) And there is even a bot so you can see many of them in one place and/or submit your own info anonymously: [https://twitter.com/talkpay_anon](https://twitter.com/talkpay_anon)
+
+Also [levels.fyi](https://www.levels.fyi) has a "view salaries" section
