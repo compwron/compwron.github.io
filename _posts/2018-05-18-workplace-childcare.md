@@ -125,49 +125,38 @@ The federal government recognizes the value of on-site child care to both workin
 
 ### SAS
 
-- **Childcare name:**
-- **Started in:**
-- **Any affects on retention:**
+- **Childcare name:** SAS Institute Montessori Preschool
+- **Started in:** 1981 [Source](https://www.forbes.com/sites/christinecarter/2017/03/28/aflac-and-sas-weigh-in-the-hard-impact-of-child-care-on-todays-salary/2/#37bc1a44106d)
+- **Any affects on retention:** "SAS’s comprehensive child care program has also financially paid off for the company; they’ve achieved an employee turnover rate of less than 5% (vs. an industry average of 18%)." [Source](https://www.forbes.com/sites/christinecarter/2017/03/28/aflac-and-sas-weigh-in-the-hard-impact-of-child-care-on-todays-salary/2/#37bc1a44106d)
 - **Company cost to run:**
 - **Staff employed:**
-- **Capacity of daycare center:**
-- **Waiting list length:**
-- **Cost of use for employee:**
-- **Provider:**
+- **Capacity of daycare center:** 600 [Source](https://www.forbes.com/sites/christinecarter/2017/03/28/aflac-and-sas-weigh-in-the-hard-impact-of-child-care-on-todays-salary/2/#37bc1a44106d)
+- **Waiting list length:** "[the employee has to] work at SAS for a year ... there is often a waiting list to get in." [Source](https://www.fastcompany.com/36131/my-day-sas-day-care) "spot is very limited and you need to be senior enough, so timing is very critical." [2016, Source](https://www.glassdoor.com/Benefits/SAS-Institute-Childcare-US-BNFT26_E3807_N1.htm) "Daycare on campus-but only if you get them in as newborns. Worst: daycare. It's a tease because they do not have enough spaces for nearly the number of children in the Cary campus. If you don't get in as newborn, you never will." [2018, Source](https://www.glassdoor.com/Benefits/SAS-Institute-US-Benefits-EI_IE3807.0,13_IL.14,16_IN1.htm)
+- **Cost of use for employee:** $250/month [Source](https://www.fastcompany.com/36131/my-day-sas-day-care)
+- **Provider:** in-house (Montessori) [Source](https://www.fastcompany.com/36131/my-day-sas-day-care)
 - **Sources:**
-  -
-
-
-SAS
-
-As the global leader in analytics, SAS accredits their culture to the success of the organization. They may be world-renowned for providing innovative analytics, business intelligence and data management software and services, but for nearly 40 years SAS has offered high quality onsite daycare and preschool for 600 children, as well as a community and regional subsidy to help offset the cost of child care for their employees. For the past 20 years, SAS has been named as Fortune’s Best Places to Work in the US and has been named as the best place to work for new dads, single parents, women, working parents and millennials.
-
-Executive Vice President and Chief Human Resources Officer Jenn Mann leads SAS’s global HR organization that engages a diverse labor force of more than 14,000 employees. Mann shares how just one employee led to the decision of implementing a child care program:
-
-SAS began its childcare program in 1981 when one female employee was going to leave SAS to be a stay-at-home mom because she had no childcare options. As with all our benefit programs, as our employees’ needs and demographics evolved, so did our programs.
-
-In addition to onsite child care, SAS offers multiple on-site camp options: STEM and summer camp for young children, winter camp, and Counselor in Training opportunities for teens.
-
-We want to help employees do their best work. This includes everything from providing meaningful work to reducing the everyday stressors of life. Knowing your children are receiving the best possible care while you’re at work is a huge relief. Plus, there’s an added benefit for on-site daycare for parents to visit their children at lunch or for new moms to breastfeed during the workday. Removing that stress keeps employees engaged, focused and increases their productivity.
-
-SAS’s comprehensive child care program has also financially paid off for the company; they’ve achieved an employee turnover rate of less than 5% (vs. an industry average of 18%). Millennials make up 1/5 of their US workforce.
-
-The cost of child care wasn’t a primary concern for employees and their companies decades ago- in 1950 women made up less than 30% of the US labor force and could care for their children at home. But in 2017, it is a crucial issue. Today women account for nearly 47% of the U.S. labor force and millennials are the largest generation in the U.S. labor force. They do not earn as much income as previous generations due to the Great Recession, and still must compete against them for job opportunities as older generations defer retirement.
-
-NCR
+  - [Forbes](https://www.forbes.com/sites/christinecarter/2017/03/28/aflac-and-sas-weigh-in-the-hard-impact-of-child-care-on-todays-salary/2/#37bc1a44106d)
+  - [FastCompany](https://www.fastcompany.com/36131/my-day-sas-day-care)
+  - [SAS](https://www.sas.com/content/dam/SAS/en_us/doc/other1/fulltime-employee-benefits-program-booklet.pdf)
+  - [Glassdoor](https://www.glassdoor.com/Benefits/SAS-Institute-Childcare-US-BNFT26_E3807_N1.htm)
+  - [Huffington Post](https://www.huffingtonpost.com/2013/11/18/best-places-to-work_n_4240370.html)
+  - [MomTrusted](http://www.momtrusted.com/childcare/preschool-in-cary-sas-institute-montessori-preschool-ccae8ac3b412)
 
 ### Georgia Power/Southern Company
-- **Childcare name:**
+- **Childcare name:** Bright Generations Center(s)
 - **Started in:** 2009 [Source](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
 - **Any affects on retention:**
 - **Company cost to run:**
 - **Staff employed:**
-- **Capacity of daycare center:**
+- **Capacity of daycare center:** 150 children [Source](https://www.atlantadowntown.com/go/georgia-power-bright-generations-childcare)
 - **Waiting list length:**
 - **Cost of use for employee:**
-- **Provider:**
+- **Provider:** Bright Horizons
 - **Sources:**
   - [AJC](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
+  - [Southern Company](https://www.southerncompany.com/corporate-responsibility/community/benefits.html)
+  - [Bright Horizons](https://child-care-preschool.brighthorizons.com/ga/atlanta/brightgendowntown)
+  - [Atlanta Downtown](https://www.atlantadowntown.com/go/georgia-power-bright-generations-childcare)
 
 
 ### Clif Bar
@@ -179,39 +168,57 @@ NCR
 - **Staff employed:**
 - **Capacity of daycare center:** 64 children [Source](https://www.workingmother.com/5-fabulous-onsite-daycares)
 - **Waiting list length:**
-- **Cost of use for employee:**
+- **Cost of use for employee:** $500/month for pre-schoolers, ~$1,200/month for infants. [Source](https://www.thepennyhoarder.com/life/subsidized-child-care-benefits/)
 - **Provider:** [KinderCare Education at Work](http://kc-education.com/employers)
 - **Sources:**
   - [PennyHoarder](https://www.thepennyhoarder.com/life/subsidized-child-care-benefits/)
+  - [Working Mother](https://www.workingmother.com/5-fabulous-onsite-daycares#page-4)
 
-1. Clif Bar & Company
-Base Camp is an aptly-named, on-site child care center for the company that sells organic foods and drinks aimed at athletes. Facility prices range from around $500 a month for pre-schoolers to around $1,200 for infants.
+### Publix
 
-Why it's great: To promote a healthy work life balance for employees, Clif Bar & Company created this 6,700 square foot childcare center, designed to serve up to 64 children. Operated by KinderCare Education at Work, the camp has a staff of teachers—all early-childhood professionals—who use Early Foundations, a curriculum of age-specific programs for infants through 12-year-old school age students that focuses on six areas: language and literacy development, executive function, social and emotional development, physical development and wellness, cognitive development, and creative expression. In addition, the center is accredited by the National Association for the Education of Young Children (NAEYC), a child development organization whose standards are only achieved by 8 percent of all 110,000 programs nationally. Facilities, designed to reflect Clif Bar‘s spirit of outdoor adventure, consist of inside and outside areas for five distinct age groups, a music room, fitness toys including a pint-sized treadmill, elliptical trainer, stationary bike and bench press, and an outdoor playground.
-The center shares a common wall with the office area, and parents can visit their child at any point throughout the day. The cost for parents, subsidized by Clif Bar, depends on whether they work full-time or part-time and their children's ages; scholarships are also offered. Clif Bar reports less than 5 percent employee turnover each year and high marks for Clif Base Camp service and quality of care from parents.
-https://www.workingmother.com/5-fabulous-onsite-daycares#page-4
+- **Childcare name:**
+- **Started in:**
+- **Any affects on retention:** "The turnover for full-time employees is just 5%." [Source](http://fortune.com/2016/03/28/best-companies-child-care/)
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:**
+- **Waiting list length:**
+- **Cost of use for employee:** "comparable other child care facilities nearby" [Source](http://fortune.com/2016/03/28/best-companies-child-care/)
+- **Provider:**
+- **Sources:**
+  - [Fortune](http://fortune.com/2016/03/28/best-companies-child-care/)
+
+### General Mills
+
+- **Childcare name:** General Mills Infant Care Center
+- **Started in:**
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:** 70 children [Source](https://childcarecenter.us/provider_detail/general_mills_infant_care_center_golden_valley_mn)
+- **Waiting list length:**
+- **Cost of use for employee:** 360/week [2014, Source](https://community.babycenter.com/post/a47220088/general_mills_infant_daycare)
+- **Provider:** Bright Horizons
+- **Sources:**
+  - [Fortune](http://fortune.com/2016/03/28/best-companies-child-care/)
+  - [Bright Horizons](https://child-care-preschool.brighthorizons.com/mn/goldenvalley/generalmills/our-center)
+  - [CNN](https://www.cnn.com/2011/12/05/living/best-companies-for-working-moms-p/index.html)
 
 
+Bank of America https://www.cnn.com/2011/12/05/living/best-companies-for-working-moms-p/index.html
+Employees: 248,074
+Women: 60%
+Headquarters: Charlotte, NC
+What We Love
+Family health insurance is worth its weight in gold these days, but parents at this leading bank only need to work 20 hours per week to earn it. If they want to cut their out-of-pocket costs, they can save $5,000 annually in pretax health accounts; similar versions offset dependent-care and commuter expenses. While ten on and near-site child-care centers offer subsidies, parents can also call a resource and referral service to locate nannies, day cares, backup assistance and special-needs caregivers. Employees who are thinking about the future may consult the benefits Education and Planning center, whose counselors will pinpoint savings goals for their retirement and work with them to build a long-term financial strategy. Altruistic types may take two paid hours off per week to volunteer; over a year, that's 13 days.
 
-3. Goldman Sachs
-Goldman Sachs employees consider child care one of the top five perks of working for the finance giant.
-
-Workers at its New York and Jersey City locations receive 40 days of free on-site child care as part of the organization’s infant transition program. Most of its other locations have backup child care facilities, including one center with a child-sized rock climbing wall.
-
-4. Publix
-This Florida-based grocery store empire is as committed to employees as it is to customers. The rates for on-site child care at its corporate headquarters are comparable other child care facilities nearby. Parents are even encouraged to take time each day to pop into the center and have lunch with their kids.
-
-5. Citi Bank
-Though this financial institution doesn’t provide full-time, on-site child care, it knows unexpected situations come up. The bank offers backup child care for up to 15 days per year at some of its locations. Rates start at $25 per child, per visit and cap at $45 per family, per visit.
-
-6. SAS Institute
-Employees of this software company’s North Carolina headquarters and some regional offices are eligible for paid on-site child care after one year of service. The company is so kid-friendly it even offers octopus-shaped hot dogs in the cafeteria.
-
-7. Intuit
-This personal finance software organization’s employees have a couple of options when it comes to child care. It offers backup care for last-minute needs and ongoing child care if you need it for the long haul. A company-based flexible spending account helps you cover expenses with tax-free dollars.
-
-8. General Mills
-This food company is about more than breakfast cereal and ice cream. Its headquarters offers both on-site and backup daycare for workers throughout the organization. General Mills’ senior marketing manager for wellness strategy Lauren Pradhan says the options make her “feel like the company appreciates the parental pain points we go through sometimes.”
+TriHealth
+Employees: 10,114
+Women: 83%
+Headquarters: Cincinnati, OH
+What We Love
+Employee kids are everywhere at this health-care system -- working as candy stripers, roaming the halls during holiday parties, running through the on-site gymnasium and taking swimming, babysitting and yoga classes. In 2010, the organization expanded its day-care center to accommodate growing families, and now looks after 98 kids ages 6 weeks to 10 years. Children confronting tough issues get special help, with sessions on how to stay safe at home alone offered to those in grades three through six and a free retreat offered to older kids who've lost their parents. Mentoring and leadership initiatives and tuition aid abound for ambitious moms, who rely heavily on flex schedules; a very helpful employee assistance program can locate extra dependent care and provide parenting and health coaching.
+https://www.cnn.com/2011/12/05/living/best-companies-for-working-moms-p/index.html
 
 9. The Summit Center
 One of the largest human service organizations in western New York, this nonprofit takes child care seriously. Some locations offer on-site daycare, and the organization also offers “other benefits that promote a family-friendly environment.”
