@@ -1,0 +1,531 @@
+---
+layout: post
+title: "Workplace Childcare"
+tags:
+ -
+---
+
+The purpose of this post is to collect and collate information about companies which have on-site or near-site daycare. This post is focusing on daily-use daycare and mostly ignoring "backup care" and "elder care". Please feel free to contact me at [@compiledwrong](https://twitter.com/compiledwrong) with more information about these companies or other companies! Please feel free to use this information with or without crediting this post as a source.
+
+Details which I would like to capture for each company:
+
+- Company name
+- Childcare name:
+- Any affects on company retention of women:
+- Capacity of daycare center:
+- Waiting list length:
+- Cost of use for employee:
+- Provider:
+- Links / quotes
+
+## Benefits to onsite childcare
+
+# Employee recruiting & retention
+Childcare is often expensive and inconvenient in the USA. This is a benefit which is a hige incentive for parents.
+
+# Diversity
+Patagonia says that their provided childcare has helped them bring more women into management.
+
+# Tax Benefits
+The federal government recognizes the value of on-site child care to both working parents and the economy, and grants a qualified child-care program a yearly tax credit of $150,000. In addition, the government allows a company to deduct 35% of its unrecovered costs from its corporate tax bite.
+- [The ROI of On-Site Child Care](https://www.cebglobal.com/talentdaily/roi-on-site-child-care/) (2016)
+- [Make On-Site Child Care Pay for Itself](http://www.hereweare.com/make_on_site_child_care_pay_for_itself)
+
+## Corporate
+
+### Patagonia
+
+- **Childcare name:** Great Pacific Child Development Center (GPCDC)
+- **Started in:** 1983 [Source](https://work.qz.com/806516/the-secret-to-patagonias-success-keeping-moms-and-onsite-child-care-and-paid-parental-leave/)
+- **Any affects on company retention:** "100 percent of women who take maternity leave return and turnover for parents with kids in the on-site child care programs is 25 percent lower than turnover in the general employee population [at Patagonia]"
+- **Company cost to run:** About $1 million a year to run, not including tuition fees, or the costs parents pay
+- **Staff employed:** 33 total in 2016 (28 in Ventura, 5 in Reno)
+- **Capacity of daycare center:** 80 (both sites combined, in 2016)
+- **Waiting list length:**
+- **Cost of use for employee:** $1,275/month - "maximum cost per month for infants aged 8 weeks to 2 years ... and the company subsidizes the cost based on household income."
+- **Provider:** ???
+- **Sources:**
+  - [Patagonia](http://www.patagonia.com/family-business-on-site-child-care.html)
+  - [Fastcompany](https://www.fastcompany.com/3062792/patagonias-ceo-explains-how-to-make-onsite-child-care-pay-for-itself)
+  - [Work.qz.com](https://work.qz.com/806516/the-secret-to-patagonias-success-keeping-moms-and-onsite-child-care-and-paid-parental-leave/)
+  - [Fatherly.com](https://www.fatherly.com/love-money/patagonia-onsite-childcare-reno-warehouse-human-resources/)
+  - [Slate](http://www.slate.com/blogs/xx_factor/2016/10/19/patagonia_s_on_site_child_care_program_is_basically_eden_for_children_and.html)
+
+### Home Depot:
+
+- **Childcare name:** Little Apron Academy
+- **Started in:** 2012 [Source](https://www.benefitnews.com/news/home-depot-goes-big-with-child-care-center)
+- **Any affects on retention:** ???
+- **Company cost to run:** "the company will use child care tax credits to offset the construction of its day care facility. The credits are available to all businesses that offer state-licensed childcare facilities, and range from 75 to 100 percent of the cost of building and operating a facility, spread over several years." [Source](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
+- **Staff employed:** ???
+- **Capacity of daycare center:** 278 [Source](https://www.benefitnews.com/news/home-depot-goes-big-with-child-care-center)
+- **Waiting list length:** "If the daycare's capacity is reached during sign up, a lottery will determine which children attend the daycare." [Source](https://patch.com/georgia/smyrna/daycare-center-coming-to-home-depot-headquarters)
+- **Cost of use for employee:** "competitively priced" [Source](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
+- **Provider:** Bright Horizons [Source]()
+- **Sources:**
+  - [WSJ paywalled article](https://www.wsj.com/articles/the-case-for-day-care-at-the-office-1474882201) [mirrored at MarketWatch](https://www.marketwatch.com/story/the-case-for-day-care-at-the-office-2016-10-28)
+  - [Home Depot internal resource](https://secure.livethehealthyorangelife.com/files/buca-bright.pdf)
+  - [WorkingMother](https://www.workingmother.com/5-fabulous-onsite-daycares#page-3)
+  - [AJC](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
+
+
+### Alston and Bird
+
+- **Childcare name:** The Children's Campus
+- **Started in:** 2001 [Source](https://www.alston.com/en/insights/news/2001/10/alston--bird-opens-childcare-center--leading-atlan)
+- **Any affects on retention:** "Our retention statistics show an improvement of 6 percent since we opened the child-care center." [Source](https://apps.americanbar.org/buslaw/blt/2008-01-02/brown.shtml)
+- **Company cost to run:** "Alston & Bird was able to write off 100 percent of the $4 million cost of building the center over 10 years, explained Hillary Bowers, senior benefits coordinator for the firm, and they can write off 75 percent of the annual operating cost." [Source](https://www.newamerica.org/in-depth/care-report/care-in-georgia/) "Having a benefit that keeps just two associates from leaving pays for the investment made by the firm." [Source](https://apps.americanbar.org/buslaw/blt/2008-01-02/brown.shtml)
+- **Staff employed:**
+- **Capacity of daycare center:**
+- **Waiting list length:**
+- **Cost of use for employee:**
+- **Provider:** Bright Horizons
+- **Sources:**
+  - [AJC](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
+  - [Bright Horizons](https://child-care-preschool.brighthorizons.com/ga/atlanta/abcampus/our-center)
+  - [Alston](https://www.alston.com/en/insights/news/2001/10/alston--bird-opens-childcare-center--leading-atlan)
+  - [Fortune](http://fortune.com/best-workplaces-parents/alston-bird-5/)
+  - [NewAmerica](https://www.newamerica.org/in-depth/care-report/care-in-georgia/)
+  - [AmericanBar](https://apps.americanbar.org/buslaw/blt/2008-01-02/brown.shtml)
+
+### Chick-fil-A
+
+- **Childcare name:** Jeanette Cathy Children’s Center
+- **Started in:**
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:** 100 infant, toddler and two-year-olds [Source](http://www.studiomla.com/project/chic-fil-a/)
+- **Waiting list length:** "based upon availability." [Source](https://www.chick-fil-a.com/Careers/Corporate)
+- **Cost of use for employee:**
+- **Provider:** Bright Horizons
+- **Sources:**
+  - [WWA](http://wwa.us.com/project/chick-fil-a-childrens-center/)
+  - [Studio MLA](http://www.studiomla.com/project/chic-fil-a/)
+  - [Chick-fil-a Careers](https://www.chick-fil-a.com/Careers/Corporate)
+  - [SRSSA](http://www.srssa.com/work/jeannette-cathy-child-care-center-building-c)
+  - [Bright Horizons](https://child-care-preschool.brighthorizons.com/ga/collegepark/chickfila)
+
+### Aflac
+
+- **Childcare name:**
+- **Started in:**
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:** "two on-site day care centers for the children of Aflac employees only" [Source](https://www.forbes.com/sites/christinecarter/2017/03/28/aflac-and-sas-weigh-in-the-hard-impact-of-child-care-on-todays-salary/2/#37bc1a44106d)
+- **Waiting list length:**
+- **Cost of use for employee:**
+- **Provider:** KinderCare Education [Source](http://www.kc-education.com/newsroom/workplace-solutions/news-item-aflac)
+- **Sources:**
+  - [KinderCare Education](http://www.kc-education.com/newsroom/workplace-solutions/news-item-aflac)
+  - [KinderCare Education - Case study](http://www.kindercare.com/employer-sponsored-child-care/resources/case-studies/aflac)
+  - [Aflac](https://www.aflac.com/careers/life-at-aflac/employee-benefits.aspx)
+  - [Forbes](https://www.forbes.com/sites/christinecarter/2017/03/28/aflac-and-sas-weigh-in-the-hard-impact-of-child-care-on-todays-salary/2/#37bc1a44106d)
+
+### SAS
+
+- **Childcare name:**
+- **Started in:**
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:**
+- **Waiting list length:**
+- **Cost of use for employee:**
+- **Provider:**
+- **Sources:**
+  -
+
+
+SAS
+
+As the global leader in analytics, SAS accredits their culture to the success of the organization. They may be world-renowned for providing innovative analytics, business intelligence and data management software and services, but for nearly 40 years SAS has offered high quality onsite daycare and preschool for 600 children, as well as a community and regional subsidy to help offset the cost of child care for their employees. For the past 20 years, SAS has been named as Fortune’s Best Places to Work in the US and has been named as the best place to work for new dads, single parents, women, working parents and millennials.
+
+Executive Vice President and Chief Human Resources Officer Jenn Mann leads SAS’s global HR organization that engages a diverse labor force of more than 14,000 employees. Mann shares how just one employee led to the decision of implementing a child care program:
+
+SAS began its childcare program in 1981 when one female employee was going to leave SAS to be a stay-at-home mom because she had no childcare options. As with all our benefit programs, as our employees’ needs and demographics evolved, so did our programs.
+
+In addition to onsite child care, SAS offers multiple on-site camp options: STEM and summer camp for young children, winter camp, and Counselor in Training opportunities for teens.
+
+We want to help employees do their best work. This includes everything from providing meaningful work to reducing the everyday stressors of life. Knowing your children are receiving the best possible care while you’re at work is a huge relief. Plus, there’s an added benefit for on-site daycare for parents to visit their children at lunch or for new moms to breastfeed during the workday. Removing that stress keeps employees engaged, focused and increases their productivity.
+
+SAS’s comprehensive child care program has also financially paid off for the company; they’ve achieved an employee turnover rate of less than 5% (vs. an industry average of 18%). Millennials make up 1/5 of their US workforce.
+
+The cost of child care wasn’t a primary concern for employees and their companies decades ago- in 1950 women made up less than 30% of the US labor force and could care for their children at home. But in 2017, it is a crucial issue. Today women account for nearly 47% of the U.S. labor force and millennials are the largest generation in the U.S. labor force. They do not earn as much income as previous generations due to the Great Recession, and still must compete against them for job opportunities as older generations defer retirement.
+
+NCR
+
+### Georgia Power/Southern Company
+- **Childcare name:**
+- **Started in:** 2009 [Source](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:**
+- **Waiting list length:**
+- **Cost of use for employee:**
+- **Provider:**
+- **Sources:**
+  - [AJC](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
+
+
+### Clif Bar
+
+- **Childcare name:** Clif Base Camp
+- **Started in:**
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:** 64 children [Source](https://www.workingmother.com/5-fabulous-onsite-daycares)
+- **Waiting list length:**
+- **Cost of use for employee:**
+- **Provider:** [KinderCare Education at Work](http://kc-education.com/employers)
+- **Sources:**
+  - [PennyHoarder](https://www.thepennyhoarder.com/life/subsidized-child-care-benefits/)
+
+1. Clif Bar & Company
+Base Camp is an aptly-named, on-site child care center for the company that sells organic foods and drinks aimed at athletes. Facility prices range from around $500 a month for pre-schoolers to around $1,200 for infants.
+
+Why it's great: To promote a healthy work life balance for employees, Clif Bar & Company created this 6,700 square foot childcare center, designed to serve up to 64 children. Operated by KinderCare Education at Work, the camp has a staff of teachers—all early-childhood professionals—who use Early Foundations, a curriculum of age-specific programs for infants through 12-year-old school age students that focuses on six areas: language and literacy development, executive function, social and emotional development, physical development and wellness, cognitive development, and creative expression. In addition, the center is accredited by the National Association for the Education of Young Children (NAEYC), a child development organization whose standards are only achieved by 8 percent of all 110,000 programs nationally. Facilities, designed to reflect Clif Bar‘s spirit of outdoor adventure, consist of inside and outside areas for five distinct age groups, a music room, fitness toys including a pint-sized treadmill, elliptical trainer, stationary bike and bench press, and an outdoor playground.
+The center shares a common wall with the office area, and parents can visit their child at any point throughout the day. The cost for parents, subsidized by Clif Bar, depends on whether they work full-time or part-time and their children's ages; scholarships are also offered. Clif Bar reports less than 5 percent employee turnover each year and high marks for Clif Base Camp service and quality of care from parents.
+https://www.workingmother.com/5-fabulous-onsite-daycares#page-4
+
+
+
+3. Goldman Sachs
+Goldman Sachs employees consider child care one of the top five perks of working for the finance giant.
+
+Workers at its New York and Jersey City locations receive 40 days of free on-site child care as part of the organization’s infant transition program. Most of its other locations have backup child care facilities, including one center with a child-sized rock climbing wall.
+
+4. Publix
+This Florida-based grocery store empire is as committed to employees as it is to customers. The rates for on-site child care at its corporate headquarters are comparable other child care facilities nearby. Parents are even encouraged to take time each day to pop into the center and have lunch with their kids.
+
+5. Citi Bank
+Though this financial institution doesn’t provide full-time, on-site child care, it knows unexpected situations come up. The bank offers backup child care for up to 15 days per year at some of its locations. Rates start at $25 per child, per visit and cap at $45 per family, per visit.
+
+6. SAS Institute
+Employees of this software company’s North Carolina headquarters and some regional offices are eligible for paid on-site child care after one year of service. The company is so kid-friendly it even offers octopus-shaped hot dogs in the cafeteria.
+
+7. Intuit
+This personal finance software organization’s employees have a couple of options when it comes to child care. It offers backup care for last-minute needs and ongoing child care if you need it for the long haul. A company-based flexible spending account helps you cover expenses with tax-free dollars.
+
+8. General Mills
+This food company is about more than breakfast cereal and ice cream. Its headquarters offers both on-site and backup daycare for workers throughout the organization. General Mills’ senior marketing manager for wellness strategy Lauren Pradhan says the options make her “feel like the company appreciates the parental pain points we go through sometimes.”
+
+9. The Summit Center
+One of the largest human service organizations in western New York, this nonprofit takes child care seriously. Some locations offer on-site daycare, and the organization also offers “other benefits that promote a family-friendly environment.”
+
+10. Intel
+Though its child care facilities are off site, this tech company partners with local child care centers to give employees priority slots at nearby child care centers. They also offer prepaid backup care, access to summer camps and tax deferral options to help pay for it all.
+
+
+
+3. Northwestern Memorial Hospital's Bernice E. Lavin Early Childhood Education Center
+Location: Chicago, IL
+
+Why it's great: This center proves you can do onsite childcare in a city; with a capacity for 320 children, it's the largest onsite childcare center in Chicago. Operated by Bright Horizons, the center features programs for six different age groups (including infant, kindergarten prep and school age). It also offers enrichment programs guided by specialized teachers within an art studio, science library, dance studio and indoor physical activity spaces—and is one of only a few downtown Chicago childcare centers with two expansive playgrounds. The hospital center, a 2016 Working Mother 100 Best Company, Northwestern Memorial HealthCare, uses the World at Their Fingertips curriculum, designed to engage children in active learning that prepares them for school while helping them achieve their individual potential and fostering a spirit of community. In the summer, kids can even visit the center's rooftop garden, which provides produce for a weekly Farmer's Market. With an open door policy, parents can visit their kids anytime.
+https://www.workingmother.com/5-fabulous-onsite-daycares#page-4
+
+5. Toyota Manufacturing's Children's Center
+Location: Princeton, IN
+
+Why it's great: This childcare center, also managed by Bright Horizons, accommodates kids of parents who work super early and super late by operating 24 hours a day. To support work life balance, kids are kept on the same schedule as their parents. Kids can look forward to individualized attention at this NAEYC-accredited center as well as five separate outdoor learning areas, a natural trail and a green space located behind the center. To learn healthy eating habits and exercise, kids can take part in a Fit Kids program provided by Gibson General Hospital.
+
+Other notable features include free developmental and vision screenings twice a year, secure-at-all-times facilities supported by in-house security as well as fire security and EMS, and a Continuity of Care aspect to the program, which has educators stay with the the same primary group of children from enrollment in the infant program until age 2.
+https://www.workingmother.com/5-fabulous-onsite-daycares#page-6
+
+Google
+"Google's childdare was too far away- across town from my office (now that Google is more spread out) and there's a waiting list anyway" (2018 Ex-Googler)
+https://computer.howstuffworks.com/googleplex4.htm
+$57,000 per year
+"1900 a month." (2015, Quora)
+https://www.quora.com/What-is-the-Google-Daycare-Center-like
+new: "The Woods" old: "??"
+"The monthly fee for a preschooler is rising from $1,070 to $1,710; for an infant, it's rising from $1,470 to $2,390. " http://gawker.com/5016355/google-daycare-now-a-luxury-for-larry-and-sergeys-inner-circle
+"This is great, BUT the on-site childcare is ONLY for people who work in the head office and distribution centers, NOT for people who work in their stores, who, arguably, would need it more than others.
+But it really makes sense. Can you imagine the costs of putting a full nursery in to every one of your retail stores, not to mention the loss of valuable retail space etc etc.
+
+The question is is do they extend monetary compensation to store workers to pay for off site childcare
+
+permalink embedsave parentgive gold
+
+[–]kinkakinka
+
+ 5 points 1 year ago
+I'm not arguing that it doesn't make sense, just that the way it's worded it SOUNDS like they offer it to ALL of their employees. They do not. I'm just clarifying the reality vs perception." https://www.reddit.com/r/TwoXChromosomes/comments/4y101h/til_that_for_the_last_30_years_patagonia_the/
+
+Stride Rite
+I believe Stride Rite (they make kids shoes now) was one of the earliest companies to offer childcare for their workers. This was in the 1970s. Not sure if they have maternity/paternity leave, but their former CEO is now in politics as a labor reformer. https://www.reddit.com/r/TwoXChromosomes/comments/4y101h/til_that_for_the_last_30_years_patagonia_the/
+
+Apple
+
+Nike
+"The child care itself is fantastic, however, it is the highest rate you will find in the area. It is not subsidized by the company as is commonly thought. Also, the average waiting list is 2-3 years, however, it isn't uncommon for high ranking employees such as VPs and Directors to skip ahead in line of employees." https://www.glassdoor.com/Benefits/NIKE-Childcare-US-BNFT26_E1699_N1.htm
+
+Disney:
+https://parksjobs.disneycareers.com/benefits
+"Onsite reduced price child care." (2018) https://www.glassdoor.com/Benefits/Disney-Parks-and-Resorts-US-Benefits-EI_IE13843.0,24_IL.25,27_IN1.htm
+"The company offers great childcare vouchers" (2015) https://www.glassdoor.com/Benefits/Walt-Disney-Company-Childcare-Vouchers-UK-BNFT65_E717_N2.htm
+"06-30-2011, 05:16 PM
+Re: Does Disneyland RESORT in California have daycare for their cast members?
+Nope!" https://discuss.micechat.com/forum/disney-theme-park-news-and-discussion/disneyland-resort/159593-does-disneyland-resort-in-california-have-daycare-for-their-cast-members
+"06-30-2011, 07:38 PM
+Re: Does Disneyland RESORT in California have daycare for their cast members?
+The Studio has a great childcare facility, Disneyland Resort does not... "
+"07-01-2011, 03:45 AM
+Re: Does Disneyland RESORT in California have daycare for their cast members?
+
+Disneyland Resort does not offer daycare on property, nor does it make any accomodations for parents who need to get kids to or from daycare. Once you park your car in the CM parking lots and walk to the shuttle you need to be ready to clock in and work your scheduled shift. And any Disneyland Resort shift scheduled for less than 8.5 hours can be mandatorily extended at any time during your shift without prior notice (although the Lead and/or Managers goal is to give you at least 2 hours notice that your shift has just been extended out to a full 8.5 hours)
+
+Walt Disney World, on the other hand, has two different daycare facilites on property designed especially for Cast Members and the logistics of being a Cast Member. They are operated for Disney by the YMCA, and they are really small schools with playgrounds and very nice, modern facilities.
+
+YMCA Daycare Center for Cast Member's Children at WDW
+
+
+
+
+The WDW daycare is offered at extremely low rates for children of CM's; $27 per work week for up to 10 hours per day for a pre-school age child enrolled in the pre-school curriculum. Toddlers and infants cost a few dollars more per week for their more specialized care.
+
+There is also on-site Company-subsidized daycare facilities at the Studios in Burbank and the Grand Central Creative Campus in Glendale, for children of Disney employees and Imagineers at those two Company locations.
+
+But there is no Disney daycare facility in Anaheim, and no plans to ever build or offer anything like that in Anaheim.
+Last edited by Westsider; 07-01-2011, 03:58 AM."
+
+"They have relatively good day care benefits, my sister used their daycare when she was a housekeeper at the Contemporary before her husband got a job in Jacksonville. The hours that the day care is available (6am - 11pm 365 days a year) are longer than most private day care services. There is a waiting list for the day care, you can't just get into it the day you start your job. Disney gives you a scholarship based on your family income and the number of children you have in daycare. They have a special low rate back-up care service ($5 per day if you make less than $11/hour) you can use 15 days per year." (2010) http://www.city-data.com/forum/orlando/905683-what-like-work-disney-currently.html
+
+"Employee Benefits and Programs
+To help our eligible cast meet unique needs for themselves and their families, we offer a wide range of employee benefits including several options for medical, dental, and vision coverage. We have a variety of offerings to support and enhance our cast's everyday lives, including child care programs at several sites." https://aboutdisneyparks.com/citizenship/workplace
+
+"
+In 1990, Johnson & Johnson opened its first on-site Child Development Center at its world headquarters in New Brunswick, New Jersey—a rare offering for large companies at that time.
+Currently, the New Brunswick center offers programs for infants, toddlers and preschoolers, as well as kindergarten prep and a comprehensive kindergarten program. The company has since also added centers to other sites worldwide, and offers employees discounts for childcare in at least six countries." https://www.jnj.com/our-heritage/7-ways-johnson-johnson-has-been-supporting-its-employees-since-1886
+https://child-care-preschool.brighthorizons.com/nj/newbrunswick/jjcorp
+
+Johnson&Johnson:
+
+Cisco:
+"Childcare services in many locations" https://www.cisco.com/assets/csr/pdf/CSR-Report-2016.pdf
+"Childcare Services
+To help employees put their families first, we offer a host of programs, services, and support
+in a number of locations.
+In San Jose, Bangalore, and the U.K., we have childcare centers conveniently located on
+campus. These state-of-the-art centers are accredited and operated by our top-notch
+globally recognized childcare partners. We provide services to children from 6 weeks to 12
+years old depending on the location and the time of year. Parents are able to have peace of
+mind while their children are learning and playing close by in a secure environment.
+For families in the U.S., we provide discount programs and priority access to our partner
+childcare centers all across the nation. We have arranged for backup care in centers or in
+even in our employee’s homes for those days when a caregiver calls in sick or a child care
+center closes unexpectedly. This is available for children or elder loved ones, too!"
+2017: "Caring for Our Children
+To help employees put their families first, we offer a
+host of childcare programs, services, and support in a
+number of locations.
+At our largest campuses in San Jose, Bangalore, and
+the U.K., we have state-of-the-art childcare centers
+conveniently located and run by globally recognized
+childcare partners. In the U.S., we provide discount
+programs and priority access to our partner childcare
+centers all across the nation. We have arranged for
+backup care in centers or in even in our employee’s
+homes for those days when a caregiver calls in sick or
+a childcare center closes unexpectedly. Back-up care
+is available for elder loved ones, too!" https://www.cisco.com/assets/csr/pdf/CSR-Report-2017.pdf
+https://child-care-preschool.brighthorizons.com/ca/milpitas/cisco/frequently-asked-questions
+https://child-care-preschool.brighthorizons.com/ca/milpitas/cisco/our-center
+"Employer Summary
+Cisco offers on-site child care centers at major sites.  Parents can sneak a peek at the children throughout the day on their computers via our classroom video cameras.  Our programs are of the highest quality for infants through 5 year olds, year round, and school age children in the summer."
+"On site childcare is available at Cisco San Jose HQ for a monthly fee. Wonderful modern site."
+https://www.glassdoor.com/Benefits/Cisco-Systems-Childcare-US-BNFT26_E1425_N1.htm
+https://newsroom.cisco.com/press-release-content?type=webcontent&articleId=4592347
+"June 27, 2017 at 7:30 am
+I couldn't agree more on how amazing the on-site childcare is at Cisco. " https://blogs.cisco.com/lifeatcisco/cisco-daycare-brings-calm-to-a-panicked-first-time-mom
+https://www.forbes.com/2000/10/02/1002daycare.html#39d610811fbe
+"By Jennifer Godwin
+What can you do to attract and keep employees in the cutthroat job market of Silicon Valley? If you're Cisco Systems , you open a $10 million state-of-the-art child care center.
+
+For years, the networking giant resisted the idea of on-site day care, largely because of the risks involved when kids get hurt and parents get litigious. Cisco Chief Executive John Chambers John Chambers says CEOs of other companies--both with and without such centers--advised him against building one. But with private child care becoming scarcer and more expensive, the huge company had little choice. It was either open a center or lose employees to their families or to other companies that offer subsidized child care.
+
+In fact, finding affordable child care in the Valley has become as hard as finding an affordable home. Care for an infant now costs $150 to $250 per week--up to $12,500 per year--and the average center has a waiting list of six months to a year, according to Silicon Valley-based Choices for Children. What's worse, many child care providers who can't make a decent living in the nation's most expensive market are getting out of the business or moving elsewhere.
+
+"The reason we finally decided to build the center is because we found that child care providers were going out of the area rather than moving in," says Barbara Beck Barbara Beck , vice president of human resources at Cisco.
+
+Cisco joins a growing list of companies in the area that have opened day care centers, including biotech giant Genentech , whose 2nd Generation center has been going strong since 1989, and integrated circuit company Avant! , which has dubbed its center Planet Avant!
+
+Cisco's new center should be quite a drawing card. Built on the company's Milpitas, Calif. campus, the 55,000 square-foot facility features five courtyard play areas and will eventually support 430 children each day, with room for emergency drop-offs and older children on school holidays.
+
+In true Silicon Valley over-the-top fashion, the new center has networked digital cameras in the wall of every classroom so techie Mom and engineer Dad can watch their little Version 2.0s at play. The center has a dedicated information technology professional to train teachers and maintain the computers, scanners and digital cameras in every classroom.
+
+It should also be a hit with the Cisco kids, who get a hot lunch and two snacks per day, courtesy of the kindly head cook. She offers healthy bran biscuits to visitors and leaves the kitchen window open to the playground so the smell of baking bread wafts across the playground.
+
+Cisco, which didn't get to be the world's largest technology company by wasting money, thinks that despite the heavy investment, it will save $111 million annually by retaining employees who might otherwise quit.
+
+Cisco estimates that the existence of the center will save 1.3 million commuter miles per year now spent taking kids to and from out-of-the-way day care centers. "Plus, the employees have already figured out that with a toddler in the car you can take the carpool lane and get to work in half the time," says Roger Brown, chief executive of Bright Horizons , which will operate the center for Cisco." (2000) https://www.forbes.com/2000/10/02/1002daycare.html#39d610811fbe
+
+Valero Energy:
+
+Prudential Financial:
+Child *and* adult care!
+
+Pure Growth Organic:
+"Pure Growth Organic
+Pure Growth Organic: organic snack food. Headquarters: New York
+
+Childcare offerings:
+
+On-site child care
+
+"Alex Rosenthal was our first hire, and after we made her an offer, she told us that she was pregnant," said Peterson, the CEO at Pure Growth Organic. "And I said, 'So, what?'"
+
+Rosenthal was clearly surprised that her pregnancy wasn't viewed as an issue by her employer. She was also surprised when Peterson showed her the office nursery where her own son, Drake, was being taken care of.
+
+"It was emotionally so important for me to have my own son at the office," said Peterson. "I think it helped him grow by having a village around him of 20 adults who would just talk to him each day, let him sit in on meetings and play with him."" https://www.entrepreneur.com/article/294430
+" Alexandra Rosenthal, Vice President of Brand and Product Management at Pure Growth Organic, commutes to the office every day with her 14-month-old son, Max. While she works, Max hangs out with the company's on-site nanny.
+
+"It's amazing! Max has been coming to work with me since I came back from maternity leave," says Rosenthal. "I've met so many women who've had such anxiety about going back to work after having a baby. I feel so grateful to be able to have him here with me every day."
+
+For Rosenthal, the benefit actually makes her work harder because she feels so taken care of by her company. "I also don't have to rush home and cut my workday short to pick up Max from daycare. He's already here with me, which gives me peace of mind so that I can really focus on work," she adds.
+
+The benefit is fully paid for by Pure Growth, which currently has 10 full-time employees. " https://allhands.managedbyq.com/article/six-strategies-to-create-a-parent-friendly-workplace
+https://www.bizjournals.com/sanjose/news/2015/04/01/cisco-employee-perks-that-just-might-make-you.html
+For Cisco employees with young children, two vendors — Children’s Creative Learning Center and Bright Horizons — run Silicon Valley childcare programs for hundreds of children.
+
+Genentech:
+"We’re currently using the daycare at Genentech. I can share all the dets"
+
+Avant!:
+integrated circuit company Avant! , which has dubbed its center Planet Avant!
+
+USAA:
+ I know USAA has onsite child care. It is the same cost as other childcare in the area ($200+ per week for infants in San Antonio location). Capacity is 200-300+.
+
+ Badger Balm:
+  I listened to a podcast about a company (Badger Balm) that lets you bring babies to work (story starts at about 10:45):
+https://longestshortesttime.com/episode-143-its-a-real-mother-part-3-the-cliff/
+https://www.badgerbalm.com/s-98-family-friendly-workplace.aspx
+"Calendula Garden Child Care Center: In the summer of 2013 Badger opened its own full-day, partially subsidized child care center offering reasonably-priced, high quality, flexible child care for children of Badger employees, as well as a limited number of children from the great community. The center itself is located in the renovated house that was the former home to the Badger Company, a quarter of a mile down the road from the company's new facility."
+https://www.badgerbalm.com/s-19-babies-at-work.aspx
+https://www.badgerbalm.com/s-89-calendula-garden-child-care.aspx
+"In the summer of 2013 Badger opened its own full-day, partially subsidized child care center offering reasonably-priced, high quality, flexible child care for children of Badger employees, as well as a limited number of children from the greater community. The center itself is located in the renovated house that was the former home to the Badger Company, a quarter of a mile down the road from the company's new facility. There is space for the equivalent 12 full time children in the program, which serves children in the age range of 6 months to 3 years of age. Badger employee’s children generally make up about half of total enrollment."
+
+Salesforce:
+Also, Salesforce as on-site childcare called "Little Ohana" https://www.getsalesforcebenefits.com/en/your-benefits/work-life/parent-programs#ChildCareBenefits
+"Little Ohana—Salesforce is committed to supporting working parents. We're aware of the high demand for quality child care in the Bay Area market and we’re happy to offer a child care center, located at Salesforce West, exclusively for Salesforce employees' children. Little Ohana is a convenient, high-quality space where the littlest members of our Ohana can learn, play, and grow."
+
+Boeing:
+Boeing actually has a campus with an onsite daycare. http://boeing.mediaroom.com/1997-02-01-Boeing-Celebrates-Grand-Opening-of-First-On-site-Child-Care-Center
+
+In education:
+
+Oak Park and River Forest High School
+Also, our local HS has a program for staff, but it only runs during the school year: http://www.oprfhs.org/day-care-program/index.cfm
+"The River Forest Community Center offers full-day early childhood programs at Oak Park and River Forest High School for children ages six weeks through 5 years. Programs are available to faculty and staff, students, and the public. Spaces are limited, and registration is on a first come/first served basis.
+
+The program operates Monday through Friday from 7:00 a.m. to 5:00 p.m. and coincides with the OPRFHS school year from August through June. Fee for registration is $55.
+
+Infants: 6 weeks to 15 months, $305 per week
+Toddlers/Twos: 16-35 months, $295 per week
+Preschool: 3 to 5-year-olds, $250 per week"
+
+
+Colleges and universities are hit/miss (mostly miss) on on-campus childcare. From my professional groups, they seem few and far between, and are often prioritized entry by seniority and/or have
+"I work at a small private school connected with a church, so they have a daycare on campus, and it's free for teachers. However, like your post, it is not open late (closes at 6pm) and I have not found anything in our area that stays open beyond that." https://www.reddit.com/r/Parenting/comments/oikuy/how_many_of_you_have_child_care_options_at_your/
+"My experience was as a child at one of these facilities, run by he university that my mum worked at. It was an excellent option for her, a great environment for me, and I wish such facilities were more widely available for working parents!" https://www.reddit.com/r/TwoXChromosomes/comments/oierh/lets_talk_about_workschool_site_child_care/
+"My high school had a day care. Now I'm in college, and there is a day care at the main facility, which is a half hour drive from our location. One of the girls has a baby, but her husband takes care of it, since he only works in the evenings."
+
+In the millitary:
+"I'm military, we have CDCs all over post that are open early and close late. There are also base-approved/certified home care providers who have their own hours/do overnights/etc."
+
+Companies "looking into it"
+Yanfeng is looking into it
+
+Difficulties:
+"There’s the cost: A 10,000-square-foot on-site center that can handle 100 kids might cost $1.7 million to $2 million to build, according to Reed Construction Data, which tracks building statistics. Then there’s the added challenge of state regulations, liability risks, and operational costs," http://fortune.com/2013/10/14/which-tech-company-offers-the-best-child-care/
+
+Approaches:
+Onsite (free or subsidised / reduced rate or not subsidised)
+Childcare vouchers for
+Backup/last-minute only (free or subsidised / reduced rate)
+
+
+Backup=-only childcare:
+- Microsoft (2018 current employee described to me her recent use of it and that it worked well, although of course having even a maximally-cetted stranger take care of your child is a little stressful) - $40 for 4 hours of last-minute in-home childcare for 2 children
+https://www.reddit.com/r/Parenting/comments/44wv8z/has_anyone_ever_used_a_backup_care_benefit_for/
+Home Depo Note: only mentioning full-time here, not "backup care" which also exists (See Home Depo)
+
+Companies who notably could do it, but don't:
+Facebook
+Yahoo
+
+Core Providers:
+Bright Horizons (Microsoft, Johnson&Johnson)
+
+
+
+Other resources:
+https://fairygodboss.com/maternity-leave-resource-center
+https://www.glassdoor.com/blog/companies-with-onsite-childcare/
+http://fortune.com/2013/10/14/which-tech-company-offers-the-best-child-care/
+https://www.wikihow.com/Start-a-Home-Daycare-Center
+https://www.daycarewaitlist.com/
+https://slate.com/human-interest/2018/05/why-more-corporations-are-making-child-care-their-business.html
+https://allhands.managedbyq.com/article/six-strategies-to-create-a-parent-friendly-workplace
+https://www.reddit.com/r/Parenting/comments/oikuy/how_many_of_you_have_child_care_options_at_your/
+https://www.babiesatwork.org/
+https://www.babiesatwork.org/coalition
+https://theoutline.com/post/1610/the-fortune-100-companies-that-offer-on-site-day-care-to-employees?zd=1&zi=4vqqfqs3
+https://slate.com/human-interest/2018/02/the-corporate-case-for-childcare.html
+
+"Overall, 7 percent of employers offer child care at the work site or nearby, according to the 2016 Society for Human Resource Management’s National Study of Employers. The report is based on surveys of a nationally representative sample of more than 900 employers. Companies including Google, Cisco, and Patagonia offer on-site care.
+
+So does Home Depot, which relies in part on a 278-space Little Apron Academy at its corporate headquarters in Atlanta to recruit talent"
+
+Construction is near to completion on Apple’s $5B campus in Cupertino, and the project has included many odd notes, like the insistence on not having thresholds on the floor of the doorways lest daydreaming engineers trip over them, and some weird ideas about where the bathrooms should go.
+
+But of more significance is the omission of any daycare facilities, even as the plans include a 100,000 square foot employee gym. It’s emblematic of the notorious Silicon Valley tendency to wipe out work-life balance (a pattern often reflected in the products the industry creates); its long pattern of discrimination against older, more seasoned workers in favor of young and easily manipulated workers who’ll pull the long hours the industry relies on; and the pattern of excluding women from the workforce by failing to account for the distinctive needs of a woman workforce, including childcare.
+
+As Quartz’s Mike Murphy explains, employer-supplied childcare is a major predictor of retention of woman employees: Patagonia introduced on-site childcare and its retention rate for female employees shot to 100%.
+
+There is a small, vocal minority of people who believe that their use of Apple products makes them into a kind of oppressed minority, and that literally anything negative said about the company represents an irrational “hipster” hatred of the company for doing so well. They are probably in the comments on this post right now, trying their spittle-flecked darndest to demoralize anyone who creates cognitive dissonance in them about their purchasing decisions, insisting nonsensically that critics of Apple give other companies a walk on the same issues (they are not all that dissimilar from people who insist that criticizing Mozilla for going the wrong way on DRM is unfair because we don’t criticize other companies [we do] or that we never take note of the good things Mozilla does [we do]).
+
+Companies and organizations are not intrinsic forces for good. They are good when they do good. Apple was good when it fought the FBI on decryption backdoors in their devices. It was good when it fought North Carolina on transphobic bathroom laws. It was not good when it asked the Copyright Office to continue to felonize repairing or disclosing vulnerabilities in Apple products. It was not good when it ordered its recycler to shred used Apple products to prevent the development of a secondary market in used products, when it instructed its employees to covertly change the screws in its products to lock out independent repairers, or when it sued journalists for reporting on leaks from its own employees. They were not good when they colluded with other firms to rig employment markets. They were not good when they stashed billions offshore in a massive, fraudulent tax-evasion scheme.
+
+(For the record, Google was also not good when it did this. Nor was Amazon. Nor was Starbucks, or Ikea)
+
+Companies aren’t our friends. Mottoes like “don’t be evil” matter only to the extent that the companies that evince them follow them. The people who work for companies can be good, even while the companies aren’t. Sometimes, badness is an emergent property of good people.
+
+But the tactic of pointing to other companies that have done bad things when your favorite company is caught in its own misdeeds is the “But her emails!” of technology fanboyism.
+
+It’s literally pathetic.
+
+
+
+https://boingboing.net/2017/05/17/jobs-legacy.html
+
+
+Bright Horizons Family Solutions, BFAM, -0.02% a provider of child-care services based in Watertown, Mass., operates 464 company-sponsored centers, including Burns’s, up from 389 in 2011. But the company’s less-expensive offerings, like backup care, are growing more rapidly, according to CEO Dave Lissy.
+
+
+16: Fannie Mae
+19: Walgreens Boots Alliance
+24: Boeing
+28: Home Depot
+31: IBM
+32: Valero Energy
+34: Procter & Gamble
+39: Johnson & Johnson
+50: Prudential Financial
+53: Disney
+54: Cisco Systems
+72: Merck
+74: Goldman Sachs Group
+81: Allstate
+91: Nike
+96: Twenty-First Century Fox
+99: Time Warner
+
+Places to post this:
+- my fb thread
+- reddit XX thread
+- reddit parents thread
