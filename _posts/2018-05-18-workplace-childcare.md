@@ -205,12 +205,33 @@ The federal government recognizes the value of on-site child care to both workin
   - [CNN](https://www.cnn.com/2011/12/05/living/best-companies-for-working-moms-p/index.html)
 
 
-Bank of America https://www.cnn.com/2011/12/05/living/best-companies-for-working-moms-p/index.html
+### Bank of America
+
+- **Childcare name:**
+- **Started in:**
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:**
+- **Waiting list length:**
+- **Cost of use for employee:**
+- **Provider:**
+- **Sources:**
+  - [CNN](https://www.cnn.com/2011/12/05/living/best-companies-for-working-moms-p/index.html)
+  - [Glassdoor](https://www.glassdoor.com/Benefits/Bank-of-America-Childcare-US-BNFT26_E8874_N1.htm)
+  - [Great Place To Work](http://reviews.greatplacetowork.com/bank-of-america)
+  - [CSRWire](http://www.csrwire.com/press_releases/26414-Bank-of-America-Named-One-of-the-Top-10-Companies-for-Working-Mothers-)
+
 Employees: 248,074
 Women: 60%
 Headquarters: Charlotte, NC
 What We Love
 Family health insurance is worth its weight in gold these days, but parents at this leading bank only need to work 20 hours per week to earn it. If they want to cut their out-of-pocket costs, they can save $5,000 annually in pretax health accounts; similar versions offset dependent-care and commuter expenses. While ten on and near-site child-care centers offer subsidies, parents can also call a resource and referral service to locate nannies, day cares, backup assistance and special-needs caregivers. Employees who are thinking about the future may consult the benefits Education and Planning center, whose counselors will pinpoint savings goals for their retirement and work with them to build a long-term financial strategy. Altruistic types may take two paid hours off per week to volunteer; over a year, that's 13 days.
+
+Campbell Soup
+Offer on-site care. While this is not the most inexpensive benefit, having an on-site family center addresses many working-parent child care concerns and expresses a genuine interest in supporting parents in the workplace. At Campbell’s Soup, in addition to a 10-week, gender-blind parental leave policy and more than 12 family lounges at company headquarters, the company offers a Family Center at its headquarters in Camden, N.J., for infants through kindergarten. In my recent correspondence with Kerrin Donnelly, Director of Global Integrated Facilities, I learned, “This is subsidized, and we provide food, with a focus on healthy, nutritious options. Backup care is also available at the Family Center.”
+https://www.campbellsoupcompany.com/newsroom/news/2016/04/28/making-the-most-of-lifes-moments/
+
 
 TriHealth
 Employees: 10,114
@@ -434,6 +455,19 @@ The program operates Monday through Friday from 7:00 a.m. to 5:00 p.m. and coinc
 Infants: 6 weeks to 15 months, $305 per week
 Toddlers/Twos: 16-35 months, $295 per week
 Preschool: 3 to 5-year-olds, $250 per week"
+
+
+
+Investment banking firm Goldman Sachs opened the City of London’s first (and as yet only) on-site corporate office creche. It opened in 2003 to initially offer all employees with children 20 days free childcare a year which can be booked either in advance or on the day if there is an urgent need.
+
+In 2010 they expanded the facility and offered working parents free use of the nursery for four weeks to support transition back to work from parental leave and then full-time paid childcare available for those who say alternative arrangements are challenging.
+
+“There is nothing more stressful than worrying about childcare,” explains one female managing director whose son used the facility from six months to three years old. “I just couldn’t concentrate on my job if I was worried that my nanny wasn’t feeling well or she didn’t turn up on time. It was incredible to be able to have him there. I knew that he was happy – I could go down any time.”
+
+Goldman Sachs has rolled out on-site creches in their offices in Tokyo and New York. In locations where they can’t provide a facility they try to find a local nursery that they can subsidise for employees.
+
+The business case for providing access to nursery facilities seems compelling. According to Sally Boyle, a partner and head of Goldman Sachs’ human capital management division internationally, many senior female employees at the company were very keen to come back from maternity leave but were struggling with childcare provision. She realised then that the nursery would be an excellent retention tool.
+https://www.theguardian.com/sustainable-business/2016/jan/13/babies-at-work-onsite-childcare-office-goldman-sachs-addison-lee
 
 
 Colleges and universities are hit/miss (mostly miss) on on-campus childcare. From my professional groups, they seem few and far between, and are often prioritized entry by seniority and/or have
