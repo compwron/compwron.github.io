@@ -222,18 +222,39 @@ The federal government recognizes the value of on-site child care to both workin
   - [Great Place To Work](http://reviews.greatplacetowork.com/bank-of-america)
   - [CSRWire](http://www.csrwire.com/press_releases/26414-Bank-of-America-Named-One-of-the-Top-10-Companies-for-Working-Mothers-)
 
-Employees: 248,074
-Women: 60%
-Headquarters: Charlotte, NC
-What We Love
-Family health insurance is worth its weight in gold these days, but parents at this leading bank only need to work 20 hours per week to earn it. If they want to cut their out-of-pocket costs, they can save $5,000 annually in pretax health accounts; similar versions offset dependent-care and commuter expenses. While ten on and near-site child-care centers offer subsidies, parents can also call a resource and referral service to locate nannies, day cares, backup assistance and special-needs caregivers. Employees who are thinking about the future may consult the benefits Education and Planning center, whose counselors will pinpoint savings goals for their retirement and work with them to build a long-term financial strategy. Altruistic types may take two paid hours off per week to volunteer; over a year, that's 13 days.
 
-Campbell Soup
-Offer on-site care. While this is not the most inexpensive benefit, having an on-site family center addresses many working-parent child care concerns and expresses a genuine interest in supporting parents in the workplace. At Campbell’s Soup, in addition to a 10-week, gender-blind parental leave policy and more than 12 family lounges at company headquarters, the company offers a Family Center at its headquarters in Camden, N.J., for infants through kindergarten. In my recent correspondence with Kerrin Donnelly, Director of Global Integrated Facilities, I learned, “This is subsidized, and we provide food, with a focus on healthy, nutritious options. Backup care is also available at the Family Center.”
-https://www.campbellsoupcompany.com/newsroom/news/2016/04/28/making-the-most-of-lifes-moments/
+### Campbell Soup
 
+- **Childcare name:** Campbell Family Center
+- **Started in:** 1988 (expanded in 2018) [Source](http://www.njbiz.com/article/20180426/NJBIZ01/180429868/campbell-opens-onsite-childcare-facility)
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:** 150 children [Source](http://www.njbiz.com/article/20180426/NJBIZ01/180429868/campbell-opens-onsite-childcare-facility) "There are more than 150 children currently enrolled in the new center, increasing in capacity from 100 places at the old center which was built in 1983." [Source](https://www.campbellsoupcompany.com/newsroom/press-releases/campbell-celebrates-take-your-kids-to-work-day-with-grand-opening-of-new-family-center-at-its-world-headquarters/)
+- **Waiting list length:**
+- **Cost of use for employee:**
+- **Provider:** Bright Horizons
+- **Sources:**
+  - [Bright Horizons](https://blogs.brighthorizons.com/saw/campbell-onsite-child-care/)
+  - [Glassdoor](https://www.glassdoor.com/Benefits/Campbell-Soup-Company-Childcare-US-BNFT26_E129_N1.htm)
+  - [NJ Biz](http://www.njbiz.com/article/20180426/NJBIZ01/180429868/campbell-opens-onsite-childcare-facility)
+  - [campbellsoupcompany press release](https://www.campbellsoupcompany.com/newsroom/press-releases/campbell-celebrates-take-your-kids-to-work-day-with-grand-opening-of-new-family-center-at-its-world-headquarters/)
+  - [campbellsoupcompany 2016](https://www.campbellsoupcompany.com/newsroom/news/2016/04/28/making-the-most-of-lifes-moments/)
 
-TriHealth
+### TriHealth
+
+- **Childcare name:**
+- **Started in:**
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:**
+- **Waiting list length:**
+- **Cost of use for employee:**
+- **Provider:**
+- **Sources:**
+  -
+
 Employees: 10,114
 Women: 83%
 Headquarters: Cincinnati, OH
