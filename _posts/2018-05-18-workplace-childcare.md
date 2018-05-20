@@ -38,7 +38,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** Great Pacific Child Development Center (GPCDC)
 - **Started in:** 1983 [Source](https://work.qz.com/806516/the-secret-to-patagonias-success-keeping-moms-and-onsite-child-care-and-paid-parental-leave/)
 - **Any affects on company retention:** "100 percent of women who take maternity leave return and turnover for parents with kids in the on-site child care programs is 25 percent lower than turnover in the general employee population [at Patagonia]"
-- **Company cost to run:** About $1 million a year to run, not including tuition fees, or the costs parents pay
+- **Company cost:** About $1 million a year to run, not including tuition fees, or the costs parents pay
 - **Staff employed:** 33 total in 2016 (28 in Ventura, 5 in Reno)
 - **Capacity of daycare center:** 80 (both sites combined, in 2016)
 - **Waiting list length:**
@@ -57,7 +57,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** Little Apron Academy
 - **Started in:** 2012 [Source](https://www.benefitnews.com/news/home-depot-goes-big-with-child-care-center)
 - **Any affects on retention:** ???
-- **Company cost to run:** "the company will use child care tax credits to offset the construction of its day care facility. The credits are available to all businesses that offer state-licensed childcare facilities, and range from 75 to 100 percent of the cost of building and operating a facility, spread over several years." [Source](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
+- **Company cost:** "the company will use child care tax credits to offset the construction of its day care facility. The credits are available to all businesses that offer state-licensed childcare facilities, and range from 75 to 100 percent of the cost of building and operating a facility, spread over several years." [Source](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
 - **Staff employed:** ???
 - **Capacity of daycare center:** 278 [Source](https://www.benefitnews.com/news/home-depot-goes-big-with-child-care-center)
 - **Waiting list length:** "If the daycare's capacity is reached during sign up, a lottery will determine which children attend the daycare." [Source](https://patch.com/georgia/smyrna/daycare-center-coming-to-home-depot-headquarters)
@@ -75,7 +75,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** The Children's Campus
 - **Started in:** 2001 [Source](https://www.alston.com/en/insights/news/2001/10/alston--bird-opens-childcare-center--leading-atlan)
 - **Any affects on retention:** "Our retention statistics show an improvement of 6 percent since we opened the child-care center." [Source](https://apps.americanbar.org/buslaw/blt/2008-01-02/brown.shtml)
-- **Company cost to run:** "Alston & Bird was able to write off 100 percent of the $4 million cost of building the center over 10 years, explained Hillary Bowers, senior benefits coordinator for the firm, and they can write off 75 percent of the annual operating cost." [Source](https://www.newamerica.org/in-depth/care-report/care-in-georgia/) "Having a benefit that keeps just two associates from leaving pays for the investment made by the firm." [Source](https://apps.americanbar.org/buslaw/blt/2008-01-02/brown.shtml)
+- **Company cost:** "Alston & Bird was able to write off 100 percent of the $4 million cost of building the center over 10 years, explained Hillary Bowers, senior benefits coordinator for the firm, and they can write off 75 percent of the annual operating cost." [Source](https://www.newamerica.org/in-depth/care-report/care-in-georgia/) "Having a benefit that keeps just two associates from leaving pays for the investment made by the firm." [Source](https://apps.americanbar.org/buslaw/blt/2008-01-02/brown.shtml)
 - **Staff employed:**
 - **Capacity of daycare center:**
 - **Waiting list length:**
@@ -94,7 +94,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** Jeanette Cathy Children’s Center
 - **Started in:**
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:** 100 infant, toddler and two-year-olds [Source](http://www.studiomla.com/project/chic-fil-a/)
 - **Waiting list length:** "based upon availability." [Source](https://www.chick-fil-a.com/Careers/Corporate)
@@ -112,7 +112,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:**
 - **Started in:**
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:** "two on-site day care centers for the children of Aflac employees only" [Source](https://www.forbes.com/sites/christinecarter/2017/03/28/aflac-and-sas-weigh-in-the-hard-impact-of-child-care-on-todays-salary/2/#37bc1a44106d)
 - **Waiting list length:**
@@ -129,7 +129,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** SAS Institute Montessori Preschool
 - **Started in:** 1981 [Source](https://www.forbes.com/sites/christinecarter/2017/03/28/aflac-and-sas-weigh-in-the-hard-impact-of-child-care-on-todays-salary/2/#37bc1a44106d)
 - **Any affects on retention:** "SAS’s comprehensive child care program has also financially paid off for the company; they’ve achieved an employee turnover rate of less than 5% (vs. an industry average of 18%)." [Source](https://www.forbes.com/sites/christinecarter/2017/03/28/aflac-and-sas-weigh-in-the-hard-impact-of-child-care-on-todays-salary/2/#37bc1a44106d)
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:** 600 [Source](https://www.forbes.com/sites/christinecarter/2017/03/28/aflac-and-sas-weigh-in-the-hard-impact-of-child-care-on-todays-salary/2/#37bc1a44106d)
 - **Waiting list length:** "[the employee has to] work at SAS for a year ... there is often a waiting list to get in." [Source](https://www.fastcompany.com/36131/my-day-sas-day-care) "spot is very limited and you need to be senior enough, so timing is very critical." [2016, Source](https://www.glassdoor.com/Benefits/SAS-Institute-Childcare-US-BNFT26_E3807_N1.htm) "Daycare on campus-but only if you get them in as newborns. Worst: daycare. It's a tease because they do not have enough spaces for nearly the number of children in the Cary campus. If you don't get in as newborn, you never will." [2018, Source](https://www.glassdoor.com/Benefits/SAS-Institute-US-Benefits-EI_IE3807.0,13_IL.14,16_IN1.htm)
@@ -147,7 +147,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** Bright Generations Center(s)
 - **Started in:** 2009 [Source](https://www.ajc.com/business/home-depot-chips-for-child-elder-care/4k6IAiYOxrF3kjG8j6NU1L/)
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:** 150 children [Source](https://www.atlantadowntown.com/go/georgia-power-bright-generations-childcare)
 - **Waiting list length:**
@@ -165,7 +165,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** Clif Base Camp
 - **Started in:** 2010 [Source](http://thehill.com/blogs/congress-blog/labor/387145-using-the-market-not-tax-dollars-to-expand-on-site-childcare)
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:** 64 children [Source](https://www.workingmother.com/5-fabulous-onsite-daycares)
 - **Waiting list length:**
@@ -180,7 +180,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:**
 - **Started in:**
 - **Any affects on retention:** "The turnover for full-time employees is just 5%." [Source](http://fortune.com/2016/03/28/best-companies-child-care/)
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:**
 - **Waiting list length:**
@@ -194,7 +194,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** General Mills Infant Care Center
 - **Started in:**
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:** 70 children [Source](https://childcarecenter.us/provider_detail/general_mills_infant_care_center_golden_valley_mn)
 - **Waiting list length:**
@@ -211,7 +211,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:**
 - **Started in:**
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:**
 - **Waiting list length:**
@@ -229,7 +229,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** Campbell Family Center
 - **Started in:** 1988 (expanded in 2018) [Source](http://www.njbiz.com/article/20180426/NJBIZ01/180429868/campbell-opens-onsite-childcare-facility)
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:** 150 children [Source](http://www.njbiz.com/article/20180426/NJBIZ01/180429868/campbell-opens-onsite-childcare-facility) "There are more than 150 children currently enrolled in the new center, increasing in capacity from 100 places at the old center which was built in 1983." [Source](https://www.campbellsoupcompany.com/newsroom/press-releases/campbell-celebrates-take-your-kids-to-work-day-with-grand-opening-of-new-family-center-at-its-world-headquarters/)
 - **Waiting list length:**
@@ -247,7 +247,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** TriHealth Early Learning Center
 - **Started in:**
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:**
 - **Waiting list length:**
@@ -264,7 +264,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** Discovery Kids Learning Center
 - **Started in:**
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:**
 - **Waiting list length:**
@@ -279,7 +279,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** MacKids Learning Academy
 - **Started in:** 2016 [Source](https://child-care-preschool.brighthorizons.com/~/media/BH/Centers/1503/Documents/BurnsMcDonnellFAQsPhase1FINAL.ashx)
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:** 144 kids [Source](http://www.kansascity.com/news/business/article170078927.html)
 - **Waiting list length:**
@@ -299,7 +299,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Childcare name:** Bernice E. Lavin Early Childhood Education Center
 - **Started in:**
 - **Any affects on retention:**
-- **Company cost to run:**
+- **Company cost:**
 - **Staff employed:**
 - **Capacity of daycare center:** 320 children [Source](https://www.workingmother.com/5-fabulous-onsite-daycares#page-4)
 - **Waiting list length:**
@@ -315,14 +315,109 @@ The federal government recognizes the value of on-site child care to both workin
   - [Facebook](https://www.facebook.com/pages/NMH-Bernice-E-Lavin-Early-Childhood-Education-Center/141952175928950)
 
 
+### Toyota
 
-5. Toyota Manufacturing's Children's Center
-Location: Princeton, IN
+- **Childcare name:** Toyota Manufacturing's Children's Center
+- **Started in:**
+- **Any affects on retention:**
+- **Company cost:** $2.1 million [Source](http://articles.chicagotribune.com/1993-04-18/features/9304190002_1_child-care-parents-work-and-family)
+- **Staff employed:**
+- **Capacity of daycare center:** 230 children on the day shift, 179 children per shift [Source](https://childcarecenter.us/provider_detail/toyota_childrens_center_princeton_in)
+- **Waiting list length:**
+- **Cost of use for employee:** $90 a week for a child of preschool age, $100 a week for a toddler and $115 a week for infants [Source 2006](http://archive.courierpress.com/business/workers-children-welcome-at-toyotas-on-site-day-care-ep-449920302-324512641.html/)
+- **Provider:** Bright Horizons / Corporate Child Care Management Services(1993) [Source](http://articles.chicagotribune.com/1993-04-18/features/9304190002_1_child-care-parents-work-and-family)
+- **Location:** Princeton, IN
+- **Sources:**
+  - Late night / swing shift childcare [Source](http://articles.chicagotribune.com/1993-04-18/features/9304190002_1_child-care-parents-work-and-family)
+  - [Working Mother](https://www.workingmother.com/5-fabulous-onsite-daycares#page-6)
+  - [Bright Horizons](https://child-care-preschool.brighthorizons.com/ky/georgetown/toyotageorgetown)
+  - [Child Care Center](https://childcarecenter.us/provider_detail/toyota_childrens_center_princeton_in)
+  - [Courier Press](http://archive.courierpress.com/business/workers-children-welcome-at-toyotas-on-site-day-care-ep-449920302-324512641.html/)
+  - [DiversityInc - paywall](http://bestpractices.diversityinc.com/best-practices/benefits-onsite-childcare-increased-retention-engagement-promotions/)
+  - [Chicago Tribune](http://articles.chicagotribune.com/1993-04-18/features/9304190002_1_child-care-parents-work-and-family)
+  - [Busy Mommy Media](https://busymommymedia.com/what-is-it-like-inside-a-toyota-factory/)
 
-Why it's great: This childcare center, also managed by Bright Horizons, accommodates kids of parents who work super early and super late by operating 24 hours a day. To support work life balance, kids are kept on the same schedule as their parents. Kids can look forward to individualized attention at this NAEYC-accredited center as well as five separate outdoor learning areas, a natural trail and a green space located behind the center. To learn healthy eating habits and exercise, kids can take part in a Fit Kids program provided by Gibson General Hospital.
 
-Other notable features include free developmental and vision screenings twice a year, secure-at-all-times facilities supported by in-house security as well as fire security and EMS, and a Continuity of Care aspect to the program, which has educators stay with the the same primary group of children from enrollment in the infant program until age 2.
-https://www.workingmother.com/5-fabulous-onsite-daycares#page-6
+Hospitals have led the way in employer-sponsored, on-site child care. Of the approximately 1,400 such child care centers around the country, about 900 are operated by hospitals, said Diane Huggins, spokeswoman for Corporate Child Care Management Services.
+  Best Practices From Marriott, Toyota, Eli Lilly and Northrop Grumman
+By Barbara Frankel
+
+Demetria Silvera Elmore
+Marriott’s Demetria Silvera Elmore and her daughter
+
+As companies readjust real estate to the workplaces of the future, they should consider a cost-saving benefit that improves retention, engagement and promotion rates, especially for women: onsite childcare.
+
+Government and academic studies indicate that only 9 percent of companies nationwide have onsite childcare facilities, compared with 52 percent of The DiversityInc Top 50 Companies for Diversity. Yes, onsite childcare facilities are a big investment—building, security, trained staff. But the payoff is considerable, especially in retaining and promoting women, an issue of concern for many companies.
+
+We interviewed executives at four companies that have had successful onsite childcare centers: Marriott International, Northrop Grumman, Eli Lilly and Company and Toyota Motor North America, Nos. 16,  29, 35 and 48, respectively, in the DiversityInc Top 50. We spoke them about the benefits of these centers and with parents who have found themselves more engaged and better employees.
+
+Consider these facts:
+
+A University of North Carolina study found that companies with onsite childcare centers get back 50 percent to 200 percent of the cost of operation through reduced turnover and absenteeism, as well as increased engagement and productivity.
+A report by the National Conference of State Legislatures found that childcare issues directly contributed to absenteeism and late arrivals in 90 percent of companies.
+A study by the Simmons College Graduate School of Management found that 93 percent of parents cite onsite childcare as important when choosing an employer and 42 percent of all employees said it was a factor when determining job offers.
+A retention study conducted for Union Bank found a 2.2 percent turnover rate for employees using onsite childcare versus 9.5 percent for parents using other arrangements.
+Corporate Best Practices
+
+Kymberlee Dwinell, Northrop Grumman
+Northrop Grumman’s Kymberlee Dwinell
+
+Employees and managers at all four companies cite the comfort factor of having safe, close childcare leading to better-performing employees. “Many state they have peace of mind knowing their children are so close to them physically and are being well cared for,” says Kymberlee Dwinell, Corporate Director, Global Diversity and Inclusion, Northrop Grumman. The defense contractor has had an onsite childcare facility in Redondo Beach, Calif., called The Launching Pad, for 22 years, with 168 children currently enrolled. Here are best practices from all four companies:
+
+Use It As Recruitment, Retention Tool. Eli Lilly and Company has had two onsite childcare facilities at its Indianapolis headquarters for 18 years, with 300 children participating. The company says its feedback surveys on the childcare facilities are “flawless” and that it is a valuable recruitment and retention incentive.“Women often make that decision not to come back to work after having a first child—especially since most of our talent is recruited from outside Indianapolis, so employees don’t have that family support to help care for the child,” says Charlotte Hawthorne, Consultant, Global Diversity at Lilly.“We know that several of our participant employees have turned down other jobs where they wouldn’t have had that benefit of onsite childcare,” Northrop Grumman’s Dwinell says.
+Have Flexible Hours. Most centers are open from early morning to at least 6 p.m., and some are open on days employees are off. Marriott’s Child Development Center at corporate headquarters in Bethesda, Md., is open on school holidays as well as during the summer. The center has capacity for 113 children and is open to all employees at corporate headquarters.“Our participating employees are also able to be at work more often because the hours and days of the onsite childcare center correspond to our work calendar,” Northrop Grumman’s Dwinell says.
+Consider Needs of Older Children. While most onsite childcare is for infants through 5-year-olds, Northrop Grumman has spring, winter and summer camps for school-age children (ages 5–12) to help during times when schools are closed.
+Communicate Benefits Clearly. At Northrop Grumman, the center is advertised in the company’s bimonthly magazine. At Toyota, new-hire orientation introduces this benefit to employees.
+Offer Referrals and Assistance in Locations Without Onsite Childcare. Marriott provides a childcare directory for its employees and help finding competent care.
+Charlotte Hawthorne, Eli Lilly
+Eli Lilly’s Charlotte Hawthorne
+
+Offer Sliding-Scale Finances. While all of the companies provide good value on the service, it’s important to make sure the childcare centers are not affordable only for high-earning parents. Eli Lilly compares rates that employees are paying to rates at other local childcare operations. “We are able to offer higher-quality programming because Lilly picks up facility costs like lights, gas and maintenance. So all the income goes directly to the teachers and students,” Hawthorne says.
+Be Security Conscious. At Toyota, video cameras enable parents to view live feeds of their children throughout the day. Toyota’s Erlanger, Ky., plant has had childcare less than half a mile from the plant site since 2001. Currently, 126 children participate.
+Toyota's Imagine Tomorrow center
+Toyota’s Imagine Tomorrow center
+
+Have Waiting Lists That Move. Many of the parents interviewed told us they signed up for the waiting list as soon as they learned they were pregnant. “I told the waiting list [I was pregnant] before I told any of my friends,” says Demetria Silvera Elmore, Senior Director, Sales & Marketing Business Transformation and Planning at Marriott.
+Involve Senior Leadership. When Marriott celebrated the 20th anniversary of its childcare center in 2010, Chairman and former CEO Bill Marriott was part of the celebration. He also often went through the daycare center and engaged with the children there, says Maruiel Perkins-Chavis, Vice President, Workforce Effectiveness & Global Diversity.Elmore recalls walking in the first month and running into the Chief Operating Officer. “I was a little uncomfortable as I wanted to be taken seriously as a young executive. He just came up and started playing with my daughter’s toy giraffe. He became much less intimidating to me after that.”
+Be Inclusive of Parental Input. Marriott has a Parent Advisory Committee that generates ideas, holds fund-raisers and examines everything from the curriculum to the food.
+Success Stories: Parents Who Came, Stayed and Were Promoted
+
+1. Shruti Buckley is Vice President and Global Brand Manager of Marriott’s Fairfield Inn & Suites. She has a seven-month-old daughter. She cites the center as a key factor in her ability to perform her very demanding job. “As a new mother, they have provided great guidance for someone like myself who is going through parenthood for the first time,” she says.
+
+Shruti Buckley, Marriott International
+Marriott’s Shruti Buckley
+
+Buckley’s job requires her to be on the road between 15 and 20 percent of the time, including several week-long trips, some international. Her husband is a management consultant who has less flexibility in his job, but her mother lives locally and can help out. “The center gives us the ability to plan ahead. … I feel like I can focus on my job more effectively and efficiently because I know she’s in a really great facility and she’s nearby.”
+
+Buckley considered having an in-home provider and tried it for six weeks “but we realized the baby wasn’t getting socialization. Children who are part of a daycare system learn things from the others.”
+
+2. Marriott’s Elmore has a similar story. She has a two-year-old daughter and a son due in January. She was on the onsite facility’s waiting list for the first three months she was back at work after her daughter was born, forcing her to use another daycare center. “I was frantically running to the other side of downtown because they closed at 6. Marriott’s is open from 7 to 7. You know your child is in good hands. It was one of the reasons I wanted to work at Marriott. I’m a planner and I knew I was going to have kids.”
+
+She felt very secure with her decision because her boss had three children at the center at the time and her boss’ boss had also put three children through the center.
+
+Linda Solomon, Northrop Grumman
+Northrop Grumman’s Linda Solomon and her daughter
+
+3. Linda Solomon, a Department Manager in Systems Engineering, has been with Northrop Grumman for 18 years. All of her children, now 10, 8, and 3, have been enrolled at The Launching Pad. She cites this as a factor in her initially coming to the company and in her staying—and being promoted.
+
+“One of the main reasons I chose the company was for future planning of hopefully having a family. Having daycare on site has been a huge factor in my career and has really enabled me to be more productive, knowing that they are in a safe, consistent environment,” she says.
+
+Toyota's LaToya Duncan
+Toyota’s LaToya Duncan
+
+4. LaToya Duncan is an Assistant Manager, Corporate Strategy at Toyota Motor Engineering & Manufacturing North America. She has two sons, 11 and 2. Toyota’s onsite childcare facility at the Erlanger, Ky. plant, called Imagine Tomorrow, was a critical part of the decision she made with her husband to keep working fulltime after they became parents.
+
+She cites the diversity of the children as a major factor because it “provides our children the insight into the diversity of the world, which is difficult to find in other centers in our area.” She notes that only children of Toyota employees are enrolled in the center, reflecting the diversity within Toyota.
+
+“My children are nine years apart but have had the privilege of having some of the same teachers. This continuity has enabled us to develop a productive educational partnership among the staff and our family, which is invaluable. I’ve learned their teaching styles and they’ve learned our parenting style,” she says.
+
+5. Dr. Pamela A. Bush, who holds a Ph.D. in molecular biology and an MBA, both from Carnegie Mellon, is a Consultant in Finance for Eli Lilly. She has three children, ages 7, 4 and 2. The onsite childcare facility at Lilly’s headquarters in Indianapolis was a major factor in her deciding to work for the company in 2009.
+
+“I definitely saw this as a benefit of working with Lilly. The first thing I did when I accepted my offer was put in my application for childcare,” she recalls.
+
+If her children are sick, the center keeps an eye on them and reaches out to her immediately if symptoms become more severe. “The kids are very safe, well taken care of, and challenged,” she says.
+
+Northrup Grumman The Launching Pad
 
 Google
 "Google's childdare was too far away- across town from my office (now that Google is more spread out) and there's a waiting list anyway" (2018 Ex-Googler)
@@ -530,7 +625,97 @@ Goldman Sachs has rolled out on-site creches in their offices in Tokyo and New Y
 
 The business case for providing access to nursery facilities seems compelling. According to Sally Boyle, a partner and head of Goldman Sachs’ human capital management division internationally, many senior female employees at the company were very keen to come back from maternity leave but were struggling with childcare provision. She realised then that the nursery would be an excellent retention tool.
 https://www.theguardian.com/sustainable-business/2016/jan/13/babies-at-work-onsite-childcare-office-goldman-sachs-addison-lee
+http://www.bbc.com/news/business-40658619
+Head into the Goldman Sachs building on London's Fleet Street and you're greeted by wall to wall marble, a bank of receptionists and a water feature. So far, so City.
 
+But wind your way past the lifts through an anonymous fire door and you enter a world that couldn't be less corporate. The sounds, colours and laughter of a nursery.
+
+The Goldman Sachs Children's Centre is both incongruous - and an anomaly - the only onsite childcare facility in the Square Mile. Started in 2003 to offer back up provision for staff, it takes kids between the ages of three months and 12 years old.
+
+The expense and regulatory requirements for such a facility are the main reasons why it is unique - and peculiar to a bank with deep pockets.
+
+This is part of a day of BBC coverage looking at the cost of holiday childcare. Find out more at bbc.co.uk/business or follow the conversation on social media using the hashtag #Childcare
+
+According to the latest figures from the Chartered Institute of Personnel and Development, only 5% of businesses in the UK now offer childcare in the workplace.
+
+Anecdotally, this is almost exclusively made up of large employers because they have the money and space to allow for it. They include government departments, Royal Mail, a variety of universities, Microsoft and Toyota.
+
+There are tax breaks for those companies that do.
+
+Image copyrightGOLDMAN SACHS
+Image caption
+The onsite childcare at Goldman Sachs takes children from three months to 12 years old
+Employers who include childcare as part of the employee remuneration package, attract tax, National Insurance and reporting obligations.
+
+However, employers that offer in-workplace nurseries don't - and they get relief for the day-to-day running and capital costs of providing the service, for example heating and lighting, and premises.
+
+Flexible work
+It might be seen as a perk now, but onsite childcare flourished in the immediate post-war years out of necessity.
+
+A labour shortage meant that women were needed to work - and factories and mills started to offer the creches that allowed them to.
+
+Dr Laura Paterson of Oxford University, who specialises in the history of women's employment, says that childcare provision by businesses died away in the 1950s as the need for women became less acute and the way they worked changed.
+
+"Part-time and flexible working hours reduced the need for workplace nurseries to some extent," she says,
+
+"Women who worked from the 1950s to the 70s tell us that they did part-time jobs when their children were young to fit around school hours. And they worked in the evening so that their partner could care for their children."
+
+Image copyrightGOLDMAN SACHS
+Image caption
+Staff at Goldman Sachs are allowed 20 days of emergency childcare a year
+But what about those working full-time at Goldman? For Amanda Wong, who project manages new trades for the firm and is a mum to 12-month-old Naomi, the children's centre has been a lifesaver.
+
+Ms Wong put her daughter into nursery the same day she returned to work, shortly after Naomi turned nine months.
+
+"It has made me feel a lot more relaxed and mentally ready to come back to work a lot earlier than I would have and I think it helps new mums with separation guilt or anxieties about returning to work," she says.
+
+Though she admits it's not ideal to take a one-year-old on the Tube through central London each day.
+
+Summer childcare costs on the rise
+Counting the cost of school holidays
+'Bring your children to work'
+'Without a creche I couldn't work'
+Six alternative ways to fix the childcare problem
+Ishmeet Rayit, who manages the Goldman Sachs Children's Centre, tells me they have a higher staff ratio than Ofsted regulations require (one-to-two in the baby room rather than one-to-three), because they need to make children who might not be familiar with them, settle in quickly.
+
+Of the 5,500 people who work in the office, about a quarter are registered users. Each parent at the bank gets 20 free "back-up" days to use the centre, renewed each year.
+
+The most coveted facility in the centre is the after-school and holiday programme where the 5-12 year olds come. It's stuffed full of bilingual books and toys, showing just how multicultural the bank is.
+
+"The kids call it an office day," Ms Rayit says. "They get taken out for lunch by their parents and they make friends here." Parents are only allowed to book 10 days of this holiday service at a time, the room can accommodate 12, and the waiting list to get in is long.
+
+Image copyrightGETTY IMAGES
+Image caption
+Goldman Sachs is in two old newspaper offices on London's Fleet Street
+Sally Boyle, the international head of human resources at Goldman, says it is a "significant cost" to the firm - but it is worth it.
+
+"We've definitely seen it have an impact on retention of a smallish group of women but important women who wouldn't have stayed I suspect if they hadn't been able to manage that childcare in a way that they can here," she says.
+
+The centre is run by Bright Horizons, the largest provider of workplace nurseries in the UK. Goldman pays it a monthly management fee, and parents who need childcare beyond that paid for by the bank, deal directly with the nursery.
+
+A spokesperson for the company says that demand for onsite care is increasing. "In today's competitive talent market, recruiting and retaining exceptional people is a high priority for organisations.
+
+"Onsite childcare has been identified as a key factor in encouraging parents to return to work and, in turn, helping organisations to thrive".
+
+'Chronic shortage'
+But Rohan Silva, whose Second Home drop-in work spaces are planning in-house creches, says the barriers to entry today of setting up onsite childcare are enormous.
+
+"The Ofsted accreditation process takes at least three months, and costs hundreds of pounds in registration costs and consultancy fees. In addition, there are multiple additional inspections each year, plus a chronic shortage of trained staff," he says.
+
+Image copyrightSECOND HOME
+Image caption
+Second Home found designing its onsite creches difficult
+"Another challenge is the fact that so few architects and designers have ever designed childcare facilities, because so few are created by property developers. That means thinking from scratch the issues around access and child-friendly materials," Mr Silva says.
+
+He believes it's a vital way of allowing more parents to work. "The UK's rate of maternal employment is 27% lower than other Western countries - making childcare more accessible will make a big difference.
+
+"This is especially true of single parents - who are much more likely to be unemployed, and for whom access to childcare is the biggest barrier to finding work," Mr Silva adds.
+
+A recent Institute of Directors survey backs this up. It found over half of its members think that the cost of childcare hurts careers - particularly those of women.
+
+It is currently consulting on whether to open a creche for its members.
+
+For now, though unlike those women working in factories after the war, the option of taking your child to work is offered at a company's largesse rather than out of compulsion. And it's reserved for a privileged few.
 
 Colleges and universities are hit/miss (mostly miss) on on-campus childcare. From my professional groups, they seem few and far between, and are often prioritized entry by seniority and/or have
 "I work at a small private school connected with a church, so they have a daycare on campus, and it's free for teachers. However, like your post, it is not open late (closes at 6pm) and I have not found anything in our area that stays open beyond that." https://www.reddit.com/r/Parenting/comments/oikuy/how_many_of_you_have_child_care_options_at_your/
@@ -696,3 +881,4 @@ https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/onsite-childcare
 https://www.nytimes.com/1989/04/16/nyregion/on-site-day-care-puts-companies-to-test.html
 https://www.nytimes.com/1989/04/30/nyregion/l-corporate-day-care-pays-for-itself-202389.html
 http://www.oregon.gov/boli/TA/docs/Onsite%20Childcare%20102015.pdf
+http://articles.chicagotribune.com/2005-04-10/news/0504100180_1_latchkey-children-day-care-referral-center
