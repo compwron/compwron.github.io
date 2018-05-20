@@ -45,6 +45,7 @@ The federal government recognizes the value of on-site child care to both workin
 - **Cost of use for employee:** $1,275/month - "maximum cost per month for infants aged 8 weeks to 2 years ... and the company subsidizes the cost based on household income."
 - **Provider:** ???
 - **Sources:**
+  - "85 percent of Patagonia employees take advantage of [Patagonia's] program" [The Hill](http://thehill.com/blogs/congress-blog/labor/387145-using-the-market-not-tax-dollars-to-expand-on-site-childcare)
   - [Patagonia](http://www.patagonia.com/family-business-on-site-child-care.html)
   - [Fastcompany](https://www.fastcompany.com/3062792/patagonias-ceo-explains-how-to-make-onsite-child-care-pay-for-itself)
   - [Work.qz.com](https://work.qz.com/806516/the-secret-to-patagonias-success-keeping-moms-and-onsite-child-care-and-paid-parental-leave/)
@@ -162,7 +163,7 @@ The federal government recognizes the value of on-site child care to both workin
 ### Clif Bar
 
 - **Childcare name:** Clif Base Camp
-- **Started in:**
+- **Started in:** 2010 [Source](http://thehill.com/blogs/congress-blog/labor/387145-using-the-market-not-tax-dollars-to-expand-on-site-childcare)
 - **Any affects on retention:**
 - **Company cost to run:**
 - **Staff employed:**
@@ -243,7 +244,24 @@ The federal government recognizes the value of on-site child care to both workin
 
 ### TriHealth
 
-- **Childcare name:**
+- **Childcare name:** TriHealth Early Learning Center
+- **Started in:**
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:**
+- **Waiting list length:**
+- **Cost of use for employee:**
+- **Provider:** KinderCare
+- **Sources:**
+  - [CNN](https://www.cnn.com/2011/12/05/living/best-companies-for-working-moms-p/index.html)
+  - [KinderCare](http://www.kindercare.com/our-centers/montgomery/oh/301395)
+  - [WorkingMother](https://www.workingmother.com/best-companies-trihealth#page-2)
+  - [Care.com](https://www.care.com/b/cclc/montgomery-oh/trihealth-early-learning-center)
+
+### The Summit Center
+
+- **Childcare name:** Discovery Kids Learning Center
 - **Started in:**
 - **Any affects on retention:**
 - **Company cost to run:**
@@ -253,17 +271,28 @@ The federal government recognizes the value of on-site child care to both workin
 - **Cost of use for employee:**
 - **Provider:**
 - **Sources:**
-  -
+  - [The Summit Center](https://www.thesummitcenter.org/careers/benefits/)
+  - [Discovery Kids Childcare](http://www.discoverykidschildcare.org/faqs/)
 
-Employees: 10,114
-Women: 83%
-Headquarters: Cincinnati, OH
-What We Love
-Employee kids are everywhere at this health-care system -- working as candy stripers, roaming the halls during holiday parties, running through the on-site gymnasium and taking swimming, babysitting and yoga classes. In 2010, the organization expanded its day-care center to accommodate growing families, and now looks after 98 kids ages 6 weeks to 10 years. Children confronting tough issues get special help, with sessions on how to stay safe at home alone offered to those in grades three through six and a free retreat offered to older kids who've lost their parents. Mentoring and leadership initiatives and tuition aid abound for ambitious moms, who rely heavily on flex schedules; a very helpful employee assistance program can locate extra dependent care and provide parenting and health coaching.
-https://www.cnn.com/2011/12/05/living/best-companies-for-working-moms-p/index.html
+### Burns & McDonnell
 
-9. The Summit Center
-One of the largest human service organizations in western New York, this nonprofit takes child care seriously. Some locations offer on-site daycare, and the organization also offers “other benefits that promote a family-friendly environment.”
+- **Childcare name:** MacKids Learning Academy
+- **Started in:** 2016 [Source](https://child-care-preschool.brighthorizons.com/~/media/BH/Centers/1503/Documents/BurnsMcDonnellFAQsPhase1FINAL.ashx)
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:** 144 kids [Source](http://www.kansascity.com/news/business/article170078927.html)
+- **Waiting list length:**
+- **Cost of use for employee:** "10% discount for siblings" [Source](https://child-care-preschool.brighthorizons.com/~/media/BH/Centers/1503/Documents/BurnsMcDonnellFAQsPhase1FINAL.ashx) "priced similar to other high-quality day care centers in the area" [Source](http://www.kansascity.com/news/business/article170078927.html)
+- **Provider:** Bright Horizons
+- **Sources:**
+  - [BurnsMcDonnell - Facebook](https://www.facebook.com/BurnsMcDonnell/posts/936312073092725)
+  - [BurnsMcDonnell - company website](https://www.burnsmcd.com/careers/inside-burns-and-mcdonnell/benefits-and-wellness)
+  - [Bright Horizons - PDF](https://child-care-preschool.brighthorizons.com/~/media/BH/Centers/1503/Documents/BurnsMcDonnellFAQsPhase1FINAL.ashx)
+  - [Glassdoor](https://www.glassdoor.com/Benefits/Burns-and-McDonnell-Childcare-US-BNFT26_E26324_N1.htm)
+  - [Great Place To Work](http://reviews.greatplacetowork.com/burns-mcdonnell)
+  - [BizJournals](https://www.bizjournals.com/kansascity/news/2016/10/14/best-places-to-work-2016-burns-mcdonnell.html)
+
 
 10. Intel
 Though its child care facilities are off site, this tech company partners with local child care centers to give employees priority slots at nearby child care centers. They also offer prepaid backup care, access to summer camps and tax deferral options to help pay for it all.
@@ -354,6 +383,7 @@ https://child-care-preschool.brighthorizons.com/nj/newbrunswick/jjcorp
 Johnson&Johnson:
 
 Cisco:
+"San Jose, Calif.-based Cisco Systems has offered onsite child care for many years and, in fact, has increased the capacity of its day care centers in Bangalore, India, due to employee demand. However, its two San Jose child care centers generally operate at 60 percent to 80 percent of capacity. To increase usage, Cisco also offers back-up child care at the centers that can be used on an ad hoc basis, said Gabrielle Thompson, the company's vice president of HR acquisitions and total rewards." https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/onsite-childcare-flexible-benefits.aspx
 "Childcare services in many locations" https://www.cisco.com/assets/csr/pdf/CSR-Report-2016.pdf
 "Childcare Services
 To help employees put their families first, we offer a host of programs, services, and support
@@ -525,19 +555,6 @@ Bright Horizons (Microsoft, Johnson&Johnson)
 
 
 
-Other resources:
-https://fairygodboss.com/maternity-leave-resource-center
-https://www.glassdoor.com/blog/companies-with-onsite-childcare/
-http://fortune.com/2013/10/14/which-tech-company-offers-the-best-child-care/
-https://www.wikihow.com/Start-a-Home-Daycare-Center
-https://www.daycarewaitlist.com/
-https://slate.com/human-interest/2018/05/why-more-corporations-are-making-child-care-their-business.html
-https://allhands.managedbyq.com/article/six-strategies-to-create-a-parent-friendly-workplace
-https://www.reddit.com/r/Parenting/comments/oikuy/how_many_of_you_have_child_care_options_at_your/
-https://www.babiesatwork.org/
-https://www.babiesatwork.org/coalition
-https://theoutline.com/post/1610/the-fortune-100-companies-that-offer-on-site-day-care-to-employees?zd=1&zi=4vqqfqs3
-https://slate.com/human-interest/2018/02/the-corporate-case-for-childcare.html
 
 "Overall, 7 percent of employers offer child care at the work site or nearby, according to the 2016 Society for Human Resource Management’s National Study of Employers. The report is based on surveys of a nationally representative sample of more than 900 employers. Companies including Google, Cisco, and Patagonia offer on-site care.
 
@@ -574,6 +591,63 @@ Bright Horizons Family Solutions, BFAM, -0.02% a provider of child-care services
 24: Boeing
 28: Home Depot
 31: IBM
+https://www.nytimes.com/2001/06/17/nyregion/in-business-a-first-for-ibm-on-site-day-care.html
+CELESTINA BEAKES looked like a cherub as she napped in her crib at the Country Children's Center here, a vision of serene babyhood.
+
+Small wonder that her father, Michael, couldn't resist the impulse to pick up his 16-month-old daughter and cuddle her. ''I needed to give her a hug,'' said Dr. Beakes, a senior engineer at the I.B.M. Thomas J. Watson Research Center here.
+
+For many working parents, Dr. Beakes's ability to look in on his daughter during the workday is an impossible dream. But with the opening of the Country Children's Center, adjoining the I.B.M. campus, this spring, Dr. Beakes and many of his colleagues can check on their children during lunch breaks or any other time during the business day by visiting the center.
+
+The center opened in March and already has a 50-family waiting list for the 50 available slots. It is I.B.M.'s first on-site day care center in Westchester. And while Phelps Memorial Hospital Center in Sleepy Hollow and several colleges offer on-site day care, the only other major corporation in the county to do so is Avon in Rye, according to the Child Care Council of Westchester.
+
+Several corporations -- including I.B.M. at other sites -- have formed consortiums to provide child care close to their workplaces.
+
+Continue reading the main story
+''In this talent war companies are engaged in, after you acquire employees, how do you keep them?'' said Ted Childs, vice president for work force diversity at I.B.M. Worldwide. ''Child care is clearly an area.
+
+''Yorktown is one of the premier research centers, with a top-notch gathering of talent. More than half of our women executives are working mothers, and a critical objective of our strategy is not to have to make a choice between being an executive and having a family. At Yorktown, that is a message we are sending to women.
+
+''We want to help people balance work and personal lives, to enhance the quality of both sides of the equation.''
+
+I.B.M. owns the building and leases it to the Country Children's Center, which operates the day care program.
+
+''We run the center, and had all the decision-making about how to organize the space,'' said Polly Peace, executive director of the center. ''We pay for the utilities, and have a lease. If the slots don't get filled by I.B.M. employees, we can have community members come in.''
+
+An I.B.M. spokesman said the center is a way to help employees, ''but it's stopping short of going into the child care business.''
+
+Newsletter Sign UpContinue reading the main story
+New York Today
+Each morning, get the latest on New York businesses, arts, sports, dining, style and more.
+
+
+Enter your email address
+ Sign Up
+You will receive emails containing news content, updates and promotions from The New York Times. You may opt-out at any time.
+
+SEE SAMPLE PRIVACY POLICY OPT OUT OR CONTACT US ANYTIME
+Mr. Childs said the company realized ''in the early 1980's that child care would be a major issue,'' adding that I.B.M. has spent close to $200 million since 1982 on work on the sites and on arranging referrals for dependent care services. I.B.M. itself has no liability for the center.
+
+The center here is in an attractive white colonial-style house. There are clean, bright and well-stocked rooms for the 48 infants, toddlers and preschoolers. There are picture books and easels, arts and crafts supplies, cribs and mats for naps, a kitchen, puzzles, games, puppets and cuddly stuffed animals. The building once housed I.B.M.'s research staff, but the company converted the space for the center.
+
+There are also two playgrounds, as well as a spacious indoor play area for rainy days. The center also runs an after-school program, complete with computer stations and activities like arts and crafts and playground time for 14 school-age children.
+
+Monthly rates are $1,054 for babies, $900 for toddlers and $800 for preschoolers, and I.B.M. does not subsidize an employee's costs. According to the Child Care Council, the average child care fees in the county range from $900 to $1,300.
+
+The Country Children's Center was founded in 1967 as a nonprofit day care center in northern Westchester, and now serves 400 children in the county. Besides the Yorktown site, there are two centers in Katonah and one in Bedford Hills.
+
+The centers, which are open weekdays from 7 a.m. to 6:30 p.m. year-round, also provide summer camps, after-school programs and special programs for school vacations and closings.
+
+Offering appropriate child care to employees is a national concern. The Ford Motor Company has been building dozens of centers around the country that will not only provide child care, but also summer programs, tutoring and services for teenagers and older family members. J. C. Penney recently allocated $12 million to help communities start after-school programs.
+
+Dr. Beakes's situation reflects the challenges many families face.
+
+''Like most dual-income families, we need both incomes,'' Dr. Beakes said. ''And for most dual-income families, your option is hiring nannies or looking for family home care.''
+
+With his wife, Joanne Beccarelli, working in Manhattan for Verizon, Dr. Beakes used to drive from his home in Yorktown to Katonah to drop off his daughter and her older brother, Reginald, at that Country Children's Center program, and then head to I.B.M., which is only six miles from his house.
+
+Now all that driving has been eliminated.
+
+''This has given me and my children back an hour and 20 minutes of our day,'' he said. ''The best thing would be if we could be there with her. The second best is the Country Children's Center.''
 32: Valero Energy
 34: Procter & Gamble
 39: Johnson & Johnson
@@ -591,3 +665,22 @@ Places to post this:
 - my fb thread
 - reddit XX thread
 - reddit parents thread
+
+
+
+Other resources:
+https://fairygodboss.com/maternity-leave-resource-center
+https://www.glassdoor.com/blog/companies-with-onsite-childcare/
+http://fortune.com/2013/10/14/which-tech-company-offers-the-best-child-care/
+https://www.wikihow.com/Start-a-Home-Daycare-Center
+https://www.daycarewaitlist.com/
+https://slate.com/human-interest/2018/05/why-more-corporations-are-making-child-care-their-business.html
+https://allhands.managedbyq.com/article/six-strategies-to-create-a-parent-friendly-workplace
+https://www.reddit.com/r/Parenting/comments/oikuy/how_many_of_you_have_child_care_options_at_your/
+https://www.babiesatwork.org/
+https://www.babiesatwork.org/coalition
+https://theoutline.com/post/1610/the-fortune-100-companies-that-offer-on-site-day-care-to-employees?zd=1&zi=4vqqfqs3
+https://slate.com/human-interest/2018/02/the-corporate-case-for-childcare.html
+https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/onsite-childcare-flexible-benefits.aspx
+https://www.nytimes.com/1989/04/16/nyregion/on-site-day-care-puts-companies-to-test.html
+https://www.nytimes.com/1989/04/30/nyregion/l-corporate-day-care-pays-for-itself-202389.html
