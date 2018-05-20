@@ -294,16 +294,27 @@ The federal government recognizes the value of on-site child care to both workin
   - [BizJournals](https://www.bizjournals.com/kansascity/news/2016/10/14/best-places-to-work-2016-burns-mcdonnell.html)
 
 
-10. Intel
-Though its child care facilities are off site, this tech company partners with local child care centers to give employees priority slots at nearby child care centers. They also offer prepaid backup care, access to summer camps and tax deferral options to help pay for it all.
+### Northwestern Memorial Hospital
+
+- **Childcare name:** Bernice E. Lavin Early Childhood Education Center
+- **Started in:**
+- **Any affects on retention:**
+- **Company cost to run:**
+- **Staff employed:**
+- **Capacity of daycare center:** 320 children [Source](https://www.workingmother.com/5-fabulous-onsite-daycares#page-4)
+- **Waiting list length:**
+- **Cost of use for employee:** $1,414-$1,739 per week (5 days) + annual re/registration fees [Source](http://mcgaw.northwestern.edu/docs/McGaw-Rates-2017-2018.pdf)
+- **Provider:** Bright Horizons
+- **Location:** Chicago, IL
+- **Sources:**
+  - [Bright Horizons](https://child-care-preschool.brighthorizons.com/il/chicago/northwestern)
+  - [McGaw Northwestern](http://mcgaw.northwestern.edu/benefits-resources/benefits/childcare.html)
+  - [McGaw Northwestern - PDF](http://mcgaw.northwestern.edu/docs/McGaw-Rates-2017-2018.pdf)
+  - [Mom Trusted](http://www.momtrusted.com/childcare/preschool-in-chicago-bernice-e-lavin-children-s-care-center-572f17c3a984)
+  - [ESA Design](http://www.esadesign.com/portfolio/northwestern-memorial-healthcare-childcare-and-parking-garage/)
+  - [Facebook](https://www.facebook.com/pages/NMH-Bernice-E-Lavin-Early-Childhood-Education-Center/141952175928950)
 
 
-
-3. Northwestern Memorial Hospital's Bernice E. Lavin Early Childhood Education Center
-Location: Chicago, IL
-
-Why it's great: This center proves you can do onsite childcare in a city; with a capacity for 320 children, it's the largest onsite childcare center in Chicago. Operated by Bright Horizons, the center features programs for six different age groups (including infant, kindergarten prep and school age). It also offers enrichment programs guided by specialized teachers within an art studio, science library, dance studio and indoor physical activity spaces—and is one of only a few downtown Chicago childcare centers with two expansive playgrounds. The hospital center, a 2016 Working Mother 100 Best Company, Northwestern Memorial HealthCare, uses the World at Their Fingertips curriculum, designed to engage children in active learning that prepares them for school while helping them achieve their individual potential and fostering a spirit of community. In the summer, kids can even visit the center's rooftop garden, which provides produce for a weekly Farmer's Market. With an open door policy, parents can visit their kids anytime.
-https://www.workingmother.com/5-fabulous-onsite-daycares#page-4
 
 5. Toyota Manufacturing's Children's Center
 Location: Princeton, IN
@@ -684,3 +695,4 @@ https://slate.com/human-interest/2018/02/the-corporate-case-for-childcare.html
 https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/onsite-childcare-flexible-benefits.aspx
 https://www.nytimes.com/1989/04/16/nyregion/on-site-day-care-puts-companies-to-test.html
 https://www.nytimes.com/1989/04/30/nyregion/l-corporate-day-care-pays-for-itself-202389.html
+http://www.oregon.gov/boli/TA/docs/Onsite%20Childcare%20102015.pdf
