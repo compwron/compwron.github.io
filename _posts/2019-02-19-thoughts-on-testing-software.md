@@ -39,6 +39,8 @@ This can also include dependency checking against a known vulnerability list, in
 #### Mutation
 [Mutation testing](https://en.wikipedia.org/wiki/Mutation_testing) also tests the quality of your test coverage- i.e. if your mutation testing framework comments out an if statement in your code, and no tests fail, that means that you have no test covering that conditional. Mutation testing can be interesting to run when you also incorporate invalid data mutations, but "mutation testing" by itself usually refers to tests that change/edit the code itself.
 
+### Concerns in testing
+
 #### Test Coverage
 Test coverage means the amount of your code that is "covered" by tests, i.e if you have test coverage of 90% then 10% of your code could be deleted / break and no test would detect the change. Hopefully that code isn't liklely to break. Some kinds of code (boilerplate code, config files, getter/setters) can throw off this metric, so be skeptical. Low code coverage is a problem, but 100% code coverage does not mean that you are safe. Just because code has been "exercised" (run) by a test, doesn't mean that that test contained any assertions about whether the code did the *right* thing! (Yhis is why mutation testing is so great- it find useless tests / ineffective tests)
 
