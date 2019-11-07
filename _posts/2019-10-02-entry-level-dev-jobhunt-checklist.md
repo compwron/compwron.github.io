@@ -26,9 +26,11 @@ Your first challenge will be to get an interview. This is hard when you're reach
 
 2. make *personal* connections. Go to as many [tech meetups](https://meetup.com) as you possibly can- 4 a week will tire you out but is very doable if you are job-hunting as a full time activity. Aim for visiting offices where you might want to work (regardless of the meetup topic!) and making and keeping conenctions. Having a twitter account will help you a *lot* with this, but do it via email or SMS or linkedin or what have you if that works for you. Remember to keep up your correspondance- this is not a one-time transaction, these are people you want to be helped by and help in return for years and years of your career. You will meet excellent people; don't forget them. Many of them *want* to help you! It makes them feel warm and fuzzy, and it increases their credibility as a connector. But if you don't reach out, they probably won't. 
 
+Note- some people feel offput by attending meetups where they don't care about the topic. I would say- you care about learning more about software development. Just because you're not a python developer and are not planning to study it in the near future, it does not follow that you won't get valuable education out of a python meetup. Most languages are like most other langauges, and most topics discussed at most language/framework-specific software meetups are applicable to other languages. Go to meetups about GIS because you don't know anything about GIS (and want to see the office and meet people). Go to meetups about golang *because* you don't know anything about golang (and want to see the office and meet people). Don't annoy other meetup attendees by explaining to them at great length how little you know about the topic that they are at the meetup to discuss- just say "I know very little about F# and I am excited to learn more because it sounds interesting" or "I wanted to know more about F# and now that I'm here it's a bit overwhelming, I am mostly a C developer". You are not an impostor, you are a learner. And if the topic is something that you are deeply unenthused about, feel free to leave early to "move your car" or "see your children" or just because "I'm feeling tired"!  
+
 It is always better to apply through a recommendation from a current employee, because it puts you at the top of the (possibly still very long) list. 
 
-#### Places to apply for jobs
+#### Places to find jobs to apply to
 
 - Look for big companies that have "engineering apprenticeship" programs (Google, slack, IBM, Microsoft etc)
 - Linkedin
@@ -61,6 +63,10 @@ Keep making those little green github boxes. It might feel exhausting and pointl
 
 Also, getting better at coding over time will improve your chances of standing out and getting hired. 
 
+### Words, linguistics, and fitting in
+
+It is often important to be able to talk like engineers - like being able to talk about data structures and algorithms by name. For example: "I did a mock technical interview today at my apprenticeship and when describing runtime complexity I actually started describing an algorithm and then was told “that’s right but you could have just said ‘linear search’”" Even for companies which are theoretically excited about non traditional backgrounds, it is safe to assume that you will go farther faster, the sooner that you can key into that CS-style shared vocabulary.
+
 
 ### More about twitter
 
@@ -73,3 +79,12 @@ TODO
 
 - [About Greenhouse](https://www.jobscan.co/blog/greenhouse-ats-what-job-seekers-need-to-know/)
 - [Leetcode code practice](https://leetcode.com/)
+- [cracking the coding interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+
+
+### Thanks
+
+Thanks to y'all who reviewed and made suggestions!
+Lo Ferris
+Carmen
+coderanger
