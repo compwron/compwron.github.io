@@ -21,7 +21,7 @@ A company which finances solar powered lamps and other equipment in developing c
 Dharma ?
 [Sempre Health](https://www.semprehealth.com/)
 [Waymo](https://waymo.com/)
-Myriad
+[Myriad](https://myriad.com/) creepy genetic testing
 Box
 Newrelic
 Covariant ai
