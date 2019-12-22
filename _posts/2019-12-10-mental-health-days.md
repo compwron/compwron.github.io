@@ -9,7 +9,7 @@ I sometimes explain the concept of mental health days being the same as sick day
 
 "If you wake up sneezing your face off, don't come to the office. If you wake up and you feel poorly in an equivalent way, don't come into the office"
 
-There are different kinds of "not feeling well." If you need to run to the bathroom every five minutes, you will be both 
+There are different kinds of "not feeling well". If you need to run to the bathroom every five minutes, you will be both 
 
 1. not able to do a large percentage of the amount of work that you usually do
 and
