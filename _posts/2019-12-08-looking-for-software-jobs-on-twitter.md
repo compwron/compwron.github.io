@@ -19,6 +19,15 @@ My contract is coming up soon and I'd like to explore new opportunities. I'm Int
 ](https://twitter.com/pydanny/status/571406828799729664) "Anyone in Los Angeles or San Francisco need a good Python coder? @pkafei is looking for work!"
 1. [L0ra](https://twitter.com/yuckf001/status/1200804573495074816) "Still looking for work: I write lots of code, mostly Ruby"
 1. [DylanNunns](https://twitter.com/DylanNunns/status/1204868470292320262) "Hey folks, myself and about 75 others were let go in a company-wide lay-off today. I'm now in search of immediate work. Been working as Internal Tools Engineer for last year, Python/Docker/Etc. Open to any language/technology. Please share! ♥️ Contract/FT/Whatever. Thanks!!"
+1. [maybetrinity](https://twitter.com/maybetrinity/status/1179404472876969984) "looking for a new job! it:
+👩‍👩‍👧‍👦 high empathy team
+✅ high throughput system
+🌎 remote OR denver
+me:
+👩🏽‍💻 sr back-end eng
+❤️ APIs, helping engs write *less* code
+🗣️ Ruby 6yrs, Clojure 2yrs, Kotlin 2yrs (happy to learn new ones!)
+hmu if you know of anywhere cool :)"
 1. [jhscott](https://twitter.com/jhscott/status/1207390169415868416) "I have a Masters in CS and 10 years of exp in valleyesque cos.
 Some search constraints:
 • Talented coworkers who are good humans just like everyone else
