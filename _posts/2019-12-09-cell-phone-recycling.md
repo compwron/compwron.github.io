@@ -5,7 +5,7 @@ tags:
  -
 ---
 
-If you have any old cell phones that you don't need, this is a great time of year to get them to where they can do some good! Try doing a "phone swap" email/slack thread for your group/company. Some people might be looking for a low-cost upgrade (or downgrade! Some people are want to reduce their smartphone usage by moving to a feature phone or flip phone)
+If you have any old cell phones that you don't need, this is a great time of year to get them to where they can do some good! Try doing a "phone swap" email/slack thread for your group/company. Some people might be looking for a low-cost upgrade (or downgrade! Some people  want to reduce their smartphone usage by moving to a feature phone or flip phone)
 
 It's important to recycle old phones because they contain rare earth elements and metals like gold, silver, platinum, palladium, copper, tin, and zinc. Metals and rare earth elements especially, are difficult to mine and need a great deal of energy to extract- it is much cheaper and more sustainable to recover them from existing devices.
 
