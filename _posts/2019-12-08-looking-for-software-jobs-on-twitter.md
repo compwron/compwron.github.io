@@ -35,14 +35,14 @@ Some search constraints:
 • 50+ engineers (driven by my interest in reliability concerns that appear at that scale)
 • Market compensation 4 curr scale
 I also am not interested in crypto, gig economy (+scooters) sectors this go round (“sharing economy” like Airbnb, yes)"
-1. [MarieChatfield](https://twitter.com/MarieChatfield/status/1008733871758721030) "🎉 Y'all, I'm moving to Austin in September! 🎉
-Do you want to hire
-
+1. [MarieChatfield](https://twitter.com/MarieChatfield/status/1008733871758721030) "🎉 Y'all, I'm moving to Austin in September! 🎉 Do you want to hire
 -an experienced front-end engineer
 -who helps projects run smoother
 -mentors your junior folk
 -and leaves code cleaner & better documented?
-
 👉 http://mariechatfield.com
 📨 marie.chatfield@gmail.com / DMs open"
 1. [kf](https://twitter.com/kf/status/1207770784854245377)"Well, going to be leaving my current job Jan 10! I've worked in engineering for 6 years now. I went from entry-level to staff, tech lead, and sometimes-manager in <5 years, so I'm pretty good at it! That said, going to also look at not-IC and not-eng roles in the new year. 1/??"
+1. [cathydeng](https://cathydeng.github.io/reversejobposting.html) "I'm currently a fellow at the BuzzFeed Open Lab, where I build prototypes at the intersection of journalism, technology, and the arts. Before that, I built civic technology at DataMade.
+My fellowship ends in October 2017, so I'm searching for my next challenge. This is a reverse job posting: a solicitation for employment opportunities. Hire me!
+In a nutshell: I can build technology, design information, and wrestle data. I'll keep this page short and sweet - please get in touch and I can share much more detail about my work and experiences."
