@@ -17,7 +17,7 @@ Presentations:
 * Making shirts with diagrams of math on them by a methematics professor working at Tech Shop
 * a song! by Mathilda about finishing dev bootcamp :) "This is the point of confusion just before you learn / This is the point of frustration before communicating for the first time" I really want to get this recorded.
 
-Intersting notes:
+Interesting notes:
 
 * [Kaleidoscope](http://kaleidoscopecoffee.com/) a new cafe in Richmond! Coffee / ice cream / performance space (currently under construction, but hosting art this upcoming weekend at the [Point to Point Richmond](http://www.pt2ptrichmond.com) art walk)
   * permitting stuff is crazy! I want to hear more about this.
