@@ -11,11 +11,11 @@ I recently got a chance to read a list of the favorite organizations of some peo
 
 **Answers:** (moderately verbatim, minimal redaction)
 
-1. I don’t do a lot with them, but the existence of [Lesbians Who Tech](https://lesbianswhotech.org) is extremely validating.
+1. [Lesbians Who Tech](https://lesbianswhotech.org)
 1. [The Children’s Tumor Foundation](https://www.ctf.org/)
 1. [The National Outdoor Leadership School (NOLS)](https://www.nols.edu/en/)
 1. Al-Anon family groups. The groups can be problematic in ways, so I don't think they're for everyone
-1. [SF CASA](https://www.sfcasa.org/) it’s an org supporting foster youth
+1. [SF CASA](https://www.sfcasa.org/)
 1. [Access Women's Health Justice](https://accesswhj.org)
 1. [Asian Women's Shelter](https://www.sfaws.org/)
 1. [Muttville Senior Dog Rescue](https://muttville.org/) Muttville's mission is to change the way the world thinks about and treats older dogs and to create better lives for them through rescue, foster, adoption, hospice, education, and advocacy.
