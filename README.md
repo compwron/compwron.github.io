@@ -6,3 +6,4 @@ To generate new post:
 
 Launch locally:
 ```jekyll serve```
+
