@@ -36,6 +36,7 @@ What does "slave" mean outside of technical fields? ["a person held in servitude
 1. [kickstarter/rack-attack (2016)](https://github.com/kickstarter/rack-attack/pull/181)
 1. [apple/swift (2017)](https://github.com/apple/swift/pull/11687)
 1. [Kubernetes website (2017)](https://github.com/kubernetes/website/issues/6525)
+1. [python (2018)](https://bugs.python.org/issue34605)
 1. [redis (2018)](https://github.com/antirez/redis/issues/5335)
 1. [cpython (2018)](https://github.com/python/cpython/pull/9099), [more cpython](https://github.com/python/cpython/pull/9101)
 1. [helm (2018)](https://github.com/helm/helm/pull/3458)
@@ -44,7 +45,9 @@ What does "slave" mean outside of technical fields? ["a person held in servitude
 1. [gitlab (2018)](https://gitlab.com/gitlab-org/gitlab-foss/-/issues/42751)
 1. [debian/salsa (2018)](https://salsa.debian.org/salsa/support/-/issues/48)
 1. [rails (2018)](https://github.com/rails/rails/issues/33677), [rails more](https://github.com/rails/rails/pull/33681)
-
+1. [elixir (2020)](https://github.com/elixir-lang/elixir/pull/10078)
+1. [apollographql (2020)](https://twitter.com/glasser/status/1269330040895836160)
+1. [apache webserver docs (2020)](https://twitter.com/rbowen/status/1269346035652005890), [git commits](https://github.com/apache/httpd/commits?author=rbowen&since=2020-06-01&until=2020-06-07)
 
 ## Tools which haven't changed yet
 
@@ -55,6 +58,7 @@ What does "slave" mean outside of technical fields? ["a person held in servitude
 
 It's worth noting here that [postgres](https://github.com/search?p=2&q=org%3Apostgres+slave&type=Code) does **not** use "slave" in the vast majory of places- there are a very few remnants left.
 
+[MongoDB will switch in 4.6](https://twitter.com/MongoDB/status/1268269497447833605)
 
 ## Related discussions
 
@@ -76,6 +80,7 @@ It's worth noting here that [postgres](https://github.com/search?p=2&q=org%3Apos
 1. [twitter - justkelly_ok (2017)](https://twitter.com/justkelly_ok/status/933011085594066944)
 1. [standby (2017)](https://github.com/kenn/standby/issues/22)
 1. [postgresql (2017)](https://www.postgresql.org/message-id/flat/20170801195924.GT1769%40tamriel.snowman.net#50333dae8b2f7a8414a0885119b058c8)
+1. [IETF (2018)](https://tools.ietf.org/id/draft-knodel-terminology-00.html)
 1. [Redis - antirez (2018)](http://antirez.com/news/122)
 1. [twitter - nmgrm (2018)](https://twitter.com/nmgrm/status/1038790691529273345)
 1. [twitter - andrestaltz (2018)](https://twitter.com/andrestaltz/status/1030200563802230786)
@@ -104,6 +109,17 @@ It's worth noting here that [postgres](https://github.com/search?p=2&q=org%3Apos
 1. [twitter - EnemyOfThePpl (2020)](https://twitter.com/EnemyOfThePpl/status/1266420047645310976)
 1. [twitter - andrew_mason1 (2020)](https://twitter.com/andrew_mason1/status/1265412015125925890)
 1. [twitter - dokasto (2020)](https://twitter.com/dokasto/status/1268121379469234177)
+1. [twitter - leahculver (2020)](https://twitter.com/leahculver/status/1269109776983547904)
+1. [twitter - schmichael (Hashicorp) (2020)](https://twitter.com/schmichael/status/1269340771066380289)
+1. [twitter - girl_debord (2020)](https://twitter.com/girl_debord/status/1269401008964358144)
+1. [twitter - ldn_photo (photography) (2020)](https://twitter.com/ldn_photo/status/1269400955197497351)
+1. [twitter - arunsaitweets (2020)](https://twitter.com/arunsaitweets/status/1269385631932637184)
+1. [twitter - sheetaverma (Nutanix) (2020)](https://twitter.com/sheetaverma/status/1269385759372398592)
+1. [Theo Schlossnagle  (2020)](https://lethargy.org/~jesus/writes/a-guide-to-nomenclature-selection/)
+1. [twitter - aaronbassett (mongodb) (2020)](https://twitter.com/aaronbassett/status/1269331705485234181), [mongodb official](https://twitter.com/MongoDB/status/1268269497447833605)
+1. [twitter - DanaMC18 (2020)](https://twitter.com/DanaMC18/status/1269443031889051654)
+1. [twitter - pogo63_22485 (photography) (2020)](https://twitter.com/pogo63_22485/status/1269429348420861953)
+1. [twitter -  (2020)]()
 
 
 
