@@ -5,15 +5,13 @@ tags:
  -
 ---
 
-[Trigger warning](https://www.oxfordsu.org/resourcehub/guidetotriggerwarnings/): references to slavery. 
+## Background
+
+In the world of software development / computer science, there is a technical term "slave" which should be abandoned. This post is intended to be a list of software tools which use "slave" or which have gone through a rename process away from using the word "slave".
 
 This is a rewrite-and-extension of [Why calling things slave is weird](http://compwron.github.io/2015/05/26/why-calling-things-slave-is-weird.html)
 
 More discussion/summary or this topic on [Wikipedia](https://en.wikipedia.org/wiki/Master/slave_(technology))
-
-## Background
-
-In the world of software development / computer science, there is a technical term "slave" which should be abandoned. This post is intended to be a list of software tools which use "slave" or which have gone through a rename process away from using the word "slave".
 
 ## Definitions
 
