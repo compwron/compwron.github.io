@@ -48,6 +48,7 @@ What does "slave" mean outside of technical fields? ["a person held in servitude
 1. [apollographql (2020)](https://twitter.com/glasser/status/1269330040895836160)
 1. [apache webserver docs (2020)](https://twitter.com/rbowen/status/1269346035652005890), [git commits](https://github.com/apache/httpd/commits?author=rbowen&since=2020-06-01&until=2020-06-07)
 1. [osquery (2020)](https://github.com/osquery/osquery/issues/6475)
+1. [golang (2020)](https://go-review.googlesource.com/c/go/+/236857/), [hackernews golang discussion](https://news.ycombinator.com/item?id=23445987)
 
 ## Tools which haven't changed yet
 
