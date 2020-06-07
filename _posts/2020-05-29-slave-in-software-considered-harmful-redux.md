@@ -43,9 +43,11 @@ What does "slave" mean outside of technical fields? ["a person held in servitude
 1. [gitlab (2018)](https://gitlab.com/gitlab-org/gitlab-foss/-/issues/42751)
 1. [debian/salsa (2018)](https://salsa.debian.org/salsa/support/-/issues/48)
 1. [rails (2018)](https://github.com/rails/rails/issues/33677), [rails more](https://github.com/rails/rails/pull/33681)
+1. [angular (2019)](https://github.com/angular/angular/pull/28529)
 1. [elixir (2020)](https://github.com/elixir-lang/elixir/pull/10078)
 1. [apollographql (2020)](https://twitter.com/glasser/status/1269330040895836160)
 1. [apache webserver docs (2020)](https://twitter.com/rbowen/status/1269346035652005890), [git commits](https://github.com/apache/httpd/commits?author=rbowen&since=2020-06-01&until=2020-06-07)
+1. [osquery (2020)](https://github.com/osquery/osquery/issues/6475)
 
 ## Tools which haven't changed yet
 
@@ -117,6 +119,10 @@ It's worth noting here that [postgres](https://github.com/search?p=2&q=org%3Apos
 1. [twitter - aaronbassett (mongodb) (2020)](https://twitter.com/aaronbassett/status/1269331705485234181), [mongodb official](https://twitter.com/MongoDB/status/1268269497447833605)
 1. [twitter - DanaMC18 (2020)](https://twitter.com/DanaMC18/status/1269443031889051654)
 1. [twitter - pogo63_22485 (photography) (2020)](https://twitter.com/pogo63_22485/status/1269429348420861953)
+1. [twitter - nigelwalsh (Monzo) (2020)](https://twitter.com/nigelwalsh/status/1269237101263978496), [monzo 2](https://twitter.com/nirushika/status/1229757202694639618), [tone of voice guide](https://monzo.com/tone-of-voice/)
+1. [zdnet UK NCSC (2020)](https://www.zdnet.com/article/uk-ncsc-to-stop-using-whitelist-and-blacklist-due-to-racial-stereotyping/), [NCSC.gov.uk](https://www.ncsc.gov.uk/blog-post/terminology-its-not-black-and-white)
+1. [twitter - capajj (LooopCo) (2020)](https://twitter.com/capajj/status/1269230509747589121)
+1. [twitter - JimStLeger (DPDKProject) (2020)](https://twitter.com/JimStLeger/status/1269284187434967045)
 1. [twitter -  (2020)]()
 
 
