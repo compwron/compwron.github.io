@@ -9,6 +9,24 @@ A whole bunch of links, data, and technical notes on SNAP/EBT
 
 [NOTE: this is messy. I hope to clean it up someday but it’s better to publish now I think]
 
+
+https://www.huffpost.com/entry/food-stamp-demographics_n_6771938
+https://www.cbpp.org/research/food-assistance/a-closer-look-at-who-benefits-from-snap-state-by-state-fact-sheets#Alabama 
+https://www.kidsdata.org/topic/801/food-stamps-race/table
+https://www.fns.usda.gov/pd/supplemental-nutrition-assistance-program-snap
+https://www.vox.com/policy-and-politics/2018/6/13/17460362/race-food-stamps-snap-farm-bill-2018-republicans-welfare
+https://usafacts.org/articles/snap-benefits-how-share-americans-receiving-food-stamps-has-changed/
+https://www.snopes.com/fact-check/43-percent-food-stamps-illegal/
+
+FAQ:
+1. race balance
+1. total spend
+
+https://www.wfdd.org/story/fact-check-who-would-be-impacted-cuts-food-stamp-program
+https://www.snopes.com/news/2015/05/21/receipt-food-stamp-balance/
+
+
+
 SNAP is Supplemental Nutrition Assistance Program https://en.wikipedia.org/wiki/Supplemental_Nutrition_Assistance_Program i.e. American “food stamps” or “food assistance” and when it is accessed electronically, i.e. via a debit card (debit card ish thing) it is called EBT which stands for Electronic Benefit Transfer https://en.wikipedia.org/wiki/Electronic_benefit_transfer
 Published in 2019 there is https://snapstories.codeforamerica.org/ which tells stories from people who use SNAP/EBT. This is a great educational resource for people to learn more about what kinds of people use EBT and why.
 In January 2019 (during the government shutdown) EBT benefits for both February and March were distributed in February, so that recipients would be sure to get their March benefits even if the government shutdown did not end.
