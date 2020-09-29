@@ -2,7 +2,9 @@
 layout: post
 title: "Thoughts on Leaving ThoughtWorks again"
 tags:
- -
+ - leaving
+ - company
+ - thoughtworks
 ---
 
 Here are some thoughts, in no particular order and with no guarantee of coherency, about leaving ThoughtWorks again (in 2017- the first time was in 2014)

@@ -4,6 +4,8 @@ title: "Leaving Sempre"
 tags:
  - company
  - work
+ - leaving
+ - sempre
 ---
 
 For a while, I worked at a tiny startup. When I joined, there were 13 people, 4 of whom were developers (not including the CTO). When I left, there were again 3 developers (one had left, one had joined- just like others came and went before I joined). When I left we had 22 people! Very cool (mostly growth in the calling patients&pharmacists "Ops" team)

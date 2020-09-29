@@ -30,8 +30,8 @@ As a discriminated-against potential employee, the legal counter-move is to argu
 
 1. [Pacific Standard - How Academic Jobs Screen Out Disabled People (2018)](https://psmag.com/news/how-academic-jobs-screen-out-disabled-people)
 1. [huffpost - This Is How Employers Weed Out Disabled People From Their Hiring Pools (2019)](https://www.huffpost.com/entry/employers-disability-discrimination-job-listings_l_5d003523e4b011df123c640a)
-1. [twitter - wendyluwrites (2019)](https://twitter.com/wendyluwrites/status/1138154978852429824
-1. [twitter - emily_ladau (2019)](https://twitter.com/emily_ladau/status/1138168800967307268
+1. [twitter - wendyluwrites (2019)](https://twitter.com/wendyluwrites/status/1138154978852429824)
+1. [twitter - emily_ladau (2019)](https://twitter.com/emily_ladau/status/1138168800967307268)
 1. [twitter - elysewanshel (2019)](https://twitter.com/elysewanshel/status/1138175149818175490)
 1. [CBS Chicago - Disability Advocates Criticize Bradley Over ‘Diversity’ Job Description; University Vows Change (2019)](https://chicago.cbslocal.com/2019/03/12/disability-advocates-bradley-university-job-description/)
 1. [Week.com - Bradley revises job posting for diversity officer after criticism from advocates for people with disabilities (2019)](https://week.com/2019/03/12/bradley-revises-job-posting-for-diversity-officer-after-criticism-from-advocates-of-the-disabled/)

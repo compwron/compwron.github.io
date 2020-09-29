@@ -4,6 +4,7 @@ title: "Leaving Braintree"
 tags:
  - braintree
  - company
+ - leaving
 ---
 
 Braintree is the first company that I have worked for that has sane continuous integration. To be fair, most of the companies I worked with previously were actively progressing towards a better state, but Braintree wins hands down.
