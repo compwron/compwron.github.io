@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Console phrases"
+title: "What to say when a bad thing happened: phrases with support, not consolation"
 tags:
  -
 ---
