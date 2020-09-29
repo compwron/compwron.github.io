@@ -36,7 +36,7 @@ As a discriminated-against potential employee, the legal counter-move is to argu
 1. [CBS Chicago - Disability Advocates Criticize Bradley Over ‘Diversity’ Job Description; University Vows Change (2019)](https://chicago.cbslocal.com/2019/03/12/disability-advocates-bradley-university-job-description/)
 1. [Week.com - Bradley revises job posting for diversity officer after criticism from advocates for people with disabilities (2019)](https://week.com/2019/03/12/bradley-revises-job-posting-for-diversity-officer-after-criticism-from-advocates-of-the-disabled/)
 1. [National Law Review - Employer’s After-the-Fact Discovery of Lack of Job Qualification Sinks Employee’s ADA Discrimination Claim (2020)](https://www.natlawreview.com/article/employer-s-after-fact-discovery-lack-job-qualification-sinks-employee-s-ada) "Thus, under this test, the Ninth Circuit held that an individual who fails to meet the job prerequisites cannot be considered “qualified,” and thus cannot meet their initial burden under the ADA, unless the prerequisite itself is discriminatory in effect, which it says was not the case here."
-1. [twitter - Karosleep (2019)]https://twitter.com/Karosleep/status/382569989342896128()
+1. [twitter - Karosleep (2019)](https://twitter.com/Karosleep/status/382569989342896128)
 1. [twitter - miskeencore (2019)](https://twitter.com/miskeencore/status/1264700447450959873?s=19) (see the many replies)
 
 ### Examples of job listings with these requirements
