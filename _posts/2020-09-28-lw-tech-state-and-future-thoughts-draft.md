@@ -20,7 +20,7 @@ Oliver’s ideal LW world would be pure react postgres graphql.
 
 Why is graphql so good? Because the average graphql endpoint gets used often. In a regular REST API https://restfulapi.net/ either there are lots of endpoints and most of them are not used much, or it’s a “clunky” API and many operations take multiple API calls to finish data exchange. In graphql, you send a request which contains a descriptor of the data you want to get back and call the endpoint of the same structure. For example, if you just want the titles of all posts, in a RESTful API you would either:
 1. Create a new /postTitles endpoint
-2 Write the backend of the existing /posts endpoint to be able to take a parameter for what fields to return
+2. Write the backend of the existing /posts endpoint to be able to take a parameter for what fields to return
 3. Always send the full data of a post and let the frontend sort it out (not ideal because you always want to minimize the amount of data crossing the wire)
 All three options feel a bit crappy, even moreso in data heavy apps. So when using graphql, average operation never needs a new backend endpoint to be created- just specify what subset of data you want when writing the client-side query. 
 
