@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exit Interview"
+title: "Braintree Exit Interview"
 tags:
  - braintree
 ---
@@ -21,7 +21,7 @@ Some example question topics
 - What was your favorite thing at the company
 
 My favorite favorite question was:
-"Do you know of any compliance or integrity issues that have not been addressed with [Company] (i.e., unlawful, unethical, or
+"Do you know of any compliance or integrity issues that have not been addressed with Company (i.e., unlawful, unethical, or
 illegal behaviors) that you would like to bring to the attention of [Company]? If yes, please explain."
 
 And my second favorite question: "Is there anything else you would like to add?"
