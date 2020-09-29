@@ -51,7 +51,7 @@ Test coverage means the amount of your code that is "covered" by tests, i.e if y
 Tests should not be as DRY as code, because that makes it more likely that you will have the same code in the tests as what you are testing, which means that if you have a bug in both the code and test, the test will not catch the error.
 
 #### Making sure that a test is good enough
-If you haven't seen a test fail in teh way that you know it should fail, don't trust that the test passing means that the thing you're testing is working correctly. 
+If you haven't seen a test fail in the way that you know it should fail, don't trust that the test passing means that the thing you're testing is working correctly. 
 
 #### Sanity tests
 These are tests that test cross-cutting issues, rather than an individual method or class in your code. Some examples are testing that merchants can't access each other's data. Or testing that a long Il8n yml file is in alphabetical order (so that idems can be more easily found). Another interesting test is to check for the correct kind of "'"" in yml, or checking yml format validity, or checking that rails routes have actions. See below:
