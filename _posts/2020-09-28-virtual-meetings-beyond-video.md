@@ -17,3 +17,5 @@ tags:
 1. [spatial](https://spatial.io/)
 1. [virbela](https://www.virbela.com/)
 1. [vrchat](https://vrchat.com/)
+1. [theonline.town](https://theonline.town/)
+1. [Calla](https://github.com/capnmidnight/Calla) A wrapper library for Jitsi Meet that adds audio spatialization, to be able to create virtual meeting rooms.
