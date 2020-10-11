@@ -10,7 +10,7 @@ I have never been formally employed as a tester of software, but I have worked c
 ### Types of tests and why to write them
 
 #### Unit
-Unit tests are the smallest unit of logic, at the method or class level. They're great when you have complicated business logic that is hard to follow, has lots of edge cases, or needs to be modified after being not-modified for months and years and no one is quire sure what it does or how to check if the essential behavior is preserved. When this happens, first you extract and exhaustively unit test the core logic, and then you can test-drive the addition of the new logic with lots more unit tests.
+Unit tests are the smallest unit of logic, at the method or class level. They're great when you have complicated business logic that is hard to follow, has lots of edge cases, or needs to be modified after being not-modified for months and years and no one is quite sure what it does or how to check if the essential behavior is preserved. When this happens, first you extract and exhaustively unit test the core logic, and then you can test-drive the addition of the new logic with lots more unit tests.
 
 #### Integration
 Integration tests usually include exercising the code in question from the user interface (whether that's a webpage, mobile app, REST API, or commandline interface). The purpose here is to make sure that there are no regressions in app behavior, no matter what changes, anywhere. For these tests though it is common to stub external dependencies like external APIs- basically anything that isn't owned by your team. This makes it possible to run these integration tests in a continuous integration server and not get weird failures caused by issues outside of your team's control.
@@ -128,6 +128,16 @@ describe 'sidekiq-cron.yml' do
   end
 end
 ```
+
+#### Assorted other notes
+
+- the tests should fail when the software is broken
+- the tests should not fail when the software is not broken
+- tests should be easy to write, because we want people to write them
+- some tests are useless because they test things that never break
+- some tests are too expensive because they take too long to run
+- In React, a lot of testing is based around "does this render?" and "does this data look right?". You can read more about React testing here https://reactjs.org/docs/testing.html
+
 
 #### Resources
 
