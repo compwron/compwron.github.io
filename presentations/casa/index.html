@@ -2,628 +2,678 @@
 <html lang="en">
 
 <head>
-	<meta charset="utf-8">
+    <meta charset="utf-8">
 
-	<title>Software for Court Appointed Special Advocates</title>
+    <title>Software for Court Appointed Special Advocates</title>
 
-	<meta name="description" content="Software for Court Appointed Special Advocates">
-	<meta name="author" content="Linda Goldstein">
+    <meta name="description" content="Software for Court Appointed Special Advocates">
+    <meta name="author" content="Linda Goldstein">
 
-	<meta name="apple-mobile-web-app-capable" content="yes">
-	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<link rel="stylesheet" href="dist/reset.css">
-	<link rel="stylesheet" href="dist/reveal.css">
-	<link rel="stylesheet" href="dist/theme/black.css" id="theme">
+    <link rel="stylesheet" href="dist/reset.css">
+    <link rel="stylesheet" href="dist/reveal.css">
+    <link rel="stylesheet" href="dist/theme/black.css" id="theme">
 
-	<!-- Theme used for syntax highlighting of code -->
-	<link rel="stylesheet" href="plugin/highlight/monokai.css">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="plugin/highlight/monokai.css">
 </head>
 
 <body>
 
 <div class="reveal">
 
-	<!-- Any section element inside of this container is displayed as a slide -->
-	<div class="slides">
-		<section>
-			<h3>Software for Court Appointed Special Advocates</h3>
-			<p>
-				<small><a href="https://twitter.com/goldlindastein">@goldlindastein</a></small>
-			</p>
-			<p>
-				<small>linda@rubyforgood.org / casa@rubyforgood.org</small>
-			</p>
-		</section>
-
-		<section>
-			<h2>whoami</h2>
-			<ul>
-				<li>(2010..Time.now) dev: thoughtworks -> braintree -> breadcrumb (groupon) -> thoughtworks -> square -> sempre health -> parachute health</li>
-				<li>healthtech 4evr</li>
-				<li>Parachute Health (hiring) -> better ordering for Durable Medical Equipment</li>
-				<li>A lead of rubyforgood/casa since 2019</li>
-			</ul>
-			<aside class="notes">
-				I’ve been a software developer as a full-time job since 2011. 
-				Taking my revenge upon the USA healthcare system by trying to improve it. 
-				My open-source-supportive employer is Parachute Health, a small company trying to be more user-friendly than a fax machine
-				Parachute helps patients get their prescribed Durable Medical Equipment (wheelchairs, CPAPs)
-				We're hiring
-			</aside>
-		</section>
-
-		<section>
-			<h2>raise your hand if</h2>
-			<aside class="notes">
-			</aside>
-		</section>
-		<section>
-			<h2>raise your hand if</h2>
-			<p>
-				you have ever thought about the USA foster care system
-			</p>
-			<aside class="notes">
-				This is not my area of expertise. 
-				Available outcomes: reunification, adoption, aging out (emancipation). 
-Statistics: 
-% less likely to graduate high school
-% incarcerated
-% re-homed
-			</aside>
-		</section>
-
-		<section>
-			<h2>What is CASA?</h2>
-			<p>
-				nationalcasagal.org
-				93,225 volunteers, 950 programs in 49 states/DC (individually run)
-				"The National CASA/GAL Association for Children supports and promotes court-appointed volunteer advocacy for children and youth (...) appointed by judges to advocate for children’s best interests"
-				</p>
-			</p>
-			<aside class="notes">
-				volunteers: some law students, many retired, generally don't assume tech savvy
-			</aside>
-		</section>
-
-		<section>
-			<h2>Existing processes</h2>
-			<ul>
-				<li>CASA volunteer takes notes on interactions w/ youth/teacher/therapist/family/++</li>
-				<li>Court Report word doc / 6mo</li>
-				<li>Grant proposals</li>
-				<li>Supervisor of volunteers checking status</li>
-			</ul>
-			<aside class="notes">
-			existing tools: SimplyOptima, CasaManager, Salesforce (nonprofit), pen and paper, text message, fax
-			</aside>
-		</section>
-
-
-		<section>
-			<h2>TODO more info here- slide split</h2>
-			<p>
-			</p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-
-		<section>
-			<h2>What is Ruby for Good?</h2>
-			<p>
-				A nonprofit writing software for nonprofits
-			</p>
-			<p>
-				A friendly place to start doing open source work & learn by doing
-			</p>
-			<p>
-				Conference 2x/yr (east/west coast)
-			</p>
-			<aside class="notes">
-				It’s a nonprofit which helps teams build software for other nonprofits, grow the tech community especially the most unrepresented parts, and provide educational opportunities for folks in tech regardless of a persons skill level. They also run events where those teams get together to hang out, onboard new volunteers, and jam on their projects. 
-			</aside>
-		</section>
-
-		<section>
-			<h2>CASA <=> Ruby for Good</h2>
-			<p>December 2019 - I signed up for the Ruby for Good west coast conference</p>
-			<p>Team lead? Why not? (what does that even mean??)</p>
-			<p>Assigned to CASA</p>
-			<p>First commit 2020-03-19 (lots of planning before then)</p>
-			<aside class="notes">
-				It’s a nonprofit which helps teams build software for other nonprofits, grow the tech community especially the most unrepresented parts, and provide educational opportunities for folks in tech regardless of a persons skill level. They also run events where those teams get together to hang out, onboard new volunteers, and jam on their projects. 
-In December 2019 I signed up for the Ruby for Good west coast conference. I checked the “willing to be a tech lead” checkbox at a time when my dayjob didn’t want my glue work energy, feeling… confident. 
-I had never been to a Ruby for Good event before but I had heard a lot about it. It sounded like something I wanted to do. 
-Rfg is an registered nonprofit which finds orgs who could be helped by some software that doesn't exist or they can't afford, and builds it for them. All this work is done by volunteers. 
-Why do volunteers- or maintainers- work on these projects? 
-That's a question with a large variety of answers, and it's been on my mind a lot. I count as a maintainer because I maintain, and 
-for CASA in particular, maintaining is about eighty percent making sure it's easy for other people to do the work, and 
-the work includes figuring out what the work is. 
-Community feelings, being part of a group, meeting the kind of people who put time into helping other people
-The newest batch of Ruby for Good leads started working in Feb 2020 - talking about what we wanted to build, building up a backlog of devvable work
-The conference got last minute remote-ified and was held remotely in June 2020. 
-I paired with my co-lead Eric on the skeleton of a repo, since casa was brand new. We learned that naming a db table / activerecord model the word “case” makes rails unhappy.
-Very successful event, built out the majority of what we needed to launch. 
-Later mini-events where entire developer teams volunteered on our codebase were also very helpful
-Power Home Remodeling https://powerhrg.com/
-Sean’s work team (designer time is a precious commodity)
-
-			</aside>
-		</section>
-
-		<section>
-			<h2>CASA as developer vacation destination</h2>
-			<p>Power Home Remodeling https://powerhrg.com/</p>
-			<p>Sean’s work team (designer time is a precious commodity)</p>
-			<p></p>
-			<p></p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-
-
-		<section>
-			<h2>top priorities</h2>
-			<ul>
-				<li>Don’t give the foster youth’s data to people who shouldn’t have it</li>
-				<li>User friendly to our users, the volunteers, supervisors, and sueprvisors’s bosses admins…</li>
-				<li>Healthy open source software first stop (need work to do!)</li>
-				<li>merge > not merge</li>
-			</ul>
-			<aside class="notes">
-				As a developer team, we have some very clear priorities
-
-User friendly to our users, the volunteers, supervisors, and sueprvisors’s bosses admins…
-Be a place where software developers can make their first open source pull request and feel happy about it. We have to keep a pipeline of work that needs doing in order to serve this need. 
-I would rather merge than not merge. I encourage new TODO
-
-			</aside>
-		</section>
-
-
-		<section>
-			<h2>OSS but SAAS</h2>
-			<p>Software As A Service is findamentally different from library development</p>
-			<ul>
-				<li>*non* technical stakeholders</li>
-				<li>You are holding someone’s data; keep it safe!</li>
-				<li>hosting $ (thx r4g, heroku, azure)</li>
-				<li>customer support??? (+ uptime)</li>
-			</ul>
-			<aside class="notes">
-							Open source SAAS is in some ways “easy mode”
-No giant build matrix for backwards compatibility
-No developers opening github issues for usage you don’t support
-
-SAAS has different difficulties than developing a code library
-You are holding someone’s data; keep it safe!
-Pay for hosting (thanks ruby for good!) (currently heroku and azure)
-Customer support & uptime
-
-
-			</aside>
-		</section>
-
-		<section>
-			<h2>What do we do that works? (1/x)</h2>
-			<ul>
-				<li>topic goodfeels- fewer links in the chain to human impact</li>
-				<li>a nontechnical pitch brings in a solid set of contributors</li>
-				<li>weekly stakeholder sync keeps inspiration fresh- hearing frontline stories</li>
-				<li>Live-”blog” stakeholder meetings into a slack thread and contributors looking for work sometimes get started fixing it before you make it into a github issue</li>
-			</ul>
-			<aside class="notes">
-				This is custom advice. It may not alpply to your situation.
-				Purposeful-feeling volunteering
-				writing 911 dispatch software is too direct for me, writing code that sells shoes is too indirect for me, this is the sweet spot. 
-				Meeting the people who use the software - getting to one link away from the action
-			</aside>
-		</section>
- 		<section>
-			<h2>What do we do that works? (2/x)</h2>
-			<p></p>
-			<p></p>
-			<p></p>
-			<p></p>
-
-Weekly “office hours” to hang out & cowork - it really drives the project forward
-Accept the slow/lean times in between scheduled conferences
-Hacktoberfest: tickets prep, doing tickets… 
-Multiple maintainers, all mostly in agreement
-
-			<ul>
-				<li>Office hours on the same day as stakeholder sync, to follow up on making github issues for requested features while they’re fresh in mind</li>
-				<li>Weekly “office hours” to hang out & cowork - it really drives the project forward</li>
-				<li>Multiple maintainers, all mostly in agreement</li>
-				<li>Fast PR merge with friendly comments!!!</li>
-			</ul>
-			<aside class="notes">
-				Stakeholders send us emails with usage questions
-Typeform bug reporter that auto-posts to private maintainers slack channel
-				Weekly calls w/ stakeholders (to keep them invested, us motivated, and produce feature requests)
-
-			</aside>
-		</section>
- 		<section>
-			<h2>What do we do that works? (3/x)</h2>
-			<ul>
-				<li>Slack: R4G slack as central location - easy for current maintainers & multi-project r4g contributors, crosstalk advice between different project maintainers (+ removing moderator role from maintainers)</li>
-				<li>Slack: active public channel</li>
-				<li>Slack: maintainer private channel</li>
-				<li>Slack: bot channel for PRs, issues, bugsnag errors, and deploys to show up in</li>
-				<li></li>
-				
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
- 		<section>
-			<h2>What do we do that works? (4/x)</h2>
-			<p></p>
-			<p></p>
-			<p></p>
-			<p></p>
-			<ul>
-				<li>R4G negotiating for OSS credits for *all* projects (heroku, twilio, sendinblue, azure, etc)</li>
-				<li>Leveraging Hacktoberfest (very little spam for us the small fry)</li>
-				
-				<li>Easy setup via Docker (optional)</li>
-				<li>A big community of technically capable people who can respond to urgent needs even if they don’t otherwise contribute often (and a way to reach them)</li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
- 		<section>
-			<h2>What do we do that works? (5/x)</h2>
-			<p></p>
-			<p></p>
-			<p></p>
-			<p></p>
-			<ul>
-				<li>Keep everything close together. Eschew extra logins (to another project tracker, to CI) etc- reduces onboarding issues => more contributors. </li>
-				<li>A big community of technically capable people who can respond to urgent needs even if they don’t otherwise contribute often (and a way to reach them)</li>
-				<li>Encourage no-github-issue PRs for adding testing, upgrading deps, documentation, other dev chores (AND make chore issues so people know what needs doing)</li>
-				<li>Checklist for deploying + Checklist includes stakeholder communications</li>
-				<li>Weekly deploys, even if there is very little to deploy - keeping a cadence is key- so if you need to skip a week, it’s not a big deal
-</li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-
-		<section>
-			<h2>What do we do that works? (6/x)</h2>
-			<p>Use available tooling!</p>
-			<ul>
-				<li>Basics: PR templates, Issue templates (multiple & custom)</li>
-				<li>New issues auto-assign to the github project</li>
-				<li>Free CI however we can get it (farewell Travis, hello Github Actions)</li>
-				<li>Split CI into multiple jobs</li>
-				<li>Github bot to auto-tag with what's in the PR (ruby, js, db) for easier reviewing prioritzation</li>
-				<li>(controversial) Fast PR merge!!! Draws in contributors, keeps them engaged, and encourage follow-up PRs</li>
-				<li>To enable fast merge, qa -> staging -> prod 3 envs for safety (+ extra db/data migration testing env)</li>
-			</ul>
-			<aside class="notes">
-				New issues auto-assign to the github project - trial and error, never found the docs on it, but url makes sense
-			</aside>
-		</section>
-
-		<section>
-			<h2>What do we do that doesn’t work? (1/x)</h2>
-			<p>Need more making-good-github-issues energy to feed the contributor appetite for small bites. Having a super active PM for the first year of the project was fantastic (thank you Zoe!)</p>
-			<aside class="notes">
-			</aside>
-		</section>
-
-				<section>
-			<h2>What do we do that doesn’t work? (2/x)
-			<ul>
-				<li>import logic (import users, cases - de-dupe)</li>
-				<li>generated word docs</li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			<p>Bugs happen around the “edges”- for us, file uploads imports file upload logic are a continual struggle even with lots of tests. Also updating & testing generated word docs - few of us have word, and the stakeholders really want Word</p>
-				
-			</aside>
-		</section>
-
-		<section>
-			<h2>What do we do that doesn’t work? (3/x)</h2>
-			<p>Good testing is a skill not as easy to specify in acceptance criteria as visible functionality</p>
-			
-			<aside class="notes">
-				fill in later? do more of? flakiness, cypress. minimum js because few contributors, turns into a cycle- no js contrib because little js. avoiding frameworks, leaning hard on erb as much as possible. 
-			</aside>
-		</section>
-
-		<section>
-			<h2>What do we do that doesn’t work? (4/x)</h2>
-			<p>Getting volunteer feedback is hard, measure what *happens* instead (number contributors…) TODO</p>
-			<p></p>
-			<p></p>
-			<p></p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-
-		<section>
-			<h2>Contributors as an investment vehicle</h2>
-			<p>Retaining and growing your contributors is a good investment - many of ours come in because a friend tells them that we are the kind of project that will help them learn to contribute. Spread the load!</p>
-			<p></p>
-			<p></p>
-			<p></p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-				They bring energy, they can grow knowledge
-You want to get to the point where they can spend their apparently extra time & energy onboarding even more contributors for you + pitching you to their friends
-
-			</aside>
-		</section>
-
-
-
-
-
-		<section>
-			<h2>Summary</h2>
-			<ul>
-				Frequent and regular cadence for your essentials (stakeholder communications and deploys)
-Redundancies in people- build your flexibility. We have lots of rescuers even when we have very few day to day contributors
-A safety net / backing organization is wonderful for many reasons, including negotiating on your behalf for free services, + hard-won knowledge
-Be aware that your purpose as a project (may) be more than making a working tool for some users. Our purpose is also to help people learn how to contribute, and I consider it equally important. I could theoretically (for a while at least) build it all myself but that’s not what I want (time, flexibility, mental health)
-
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-				Frequent and regular cadence for your essentials (stakeholder communications and deploys)
-Redundancies in people- build your flexibility. We have lots of rescuers even when we have very few day to day contributors
-A safety net / backing organization is wonderful for many reasons, including negotiating on your behalf for free services, + hard-won knowledge
-Be aware that your purpose as a project (may) be more than making a working tool for some users. Our purpose is also to help people learn how to contribute, and I consider it equally important. I could theoretically (for a while at least) build it all myself but that’s not what I want (time, flexibility, mental health)
-
-			</aside>
-		</section>
-
-		<section>
-			<h2>A note on purpose</h2>
-			<p></p>
-			<p></p>
-			<p></p>
-			<p></p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-				Be aware that your purpose as a project (may) be more than making a working tool for some users. Our purpose is also to help people learn how to contribute, and I consider it equally important. I could theoretically (for a while at least) build it all myself but that’s not what I want (time, flexibility, mental health)
-This may not be you! If you are big/popular project with more contributors than you want & a pack of paid maintainers, then this is not your problem (but turning the contributors that you have *into* the contributors that you *want* can work!)
-If you want more contributors than you have, you have to consciously and conspicuously invest in making sure that people know what to do. Office hours for people who want a human face, slack reminders for people who want to show up and figure it out, a good readme so people *can* figure it out, issues that explain what needs doing using url&screenshot&login rather than domain terms that new contributors won’t know
-
-			</aside>
-		</section> 
-
-	
-
-
-
-
-
-
-
-
-
-
-
-		<section>
-			<h2>Send halp</h2>
-			<ul>
-				<li>More CASA regions - we're at ~2/1000. We're free and friendly!</li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-				We want more CASA regions on the platform- if you know someone who volunteers for CASA or is otherwise associated with one, please tell them about us and email us at casa@rubyforgood.org 
-Come contribute as a developer, designer, project manager, or whatever you skills are -- we’ll find you something to do
-We could *especially* and *always* use more people who are willing to write github issues about the future work we want to do. 
-And of course, we welcome pull requests for new features, refactoring, and improving our test suite. 
-
-			</aside>
-		</section>
-
-
-
-
-		<section>
-			<h2></h2>
-			<p>
-			</p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-
-
-		<section>
-			<h2></h2>
-			<p>
-			</p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-
-
-		<section>
-			<h2></h2>
-			<p>
-			</p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-
-
-		<section>
-			<h2></h2>
-			<p>
-			</p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-
-
-		<section>
-			<h2></h2>
-			<p>
-			</p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-
-
-		<section>
-			<h2></h2>
-			<p>
-			</p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-
-
-		<section>
-			<h2></h2>
-			<p>
-			</p>
-			<ul>
-				<li></li>
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
-			<aside class="notes">
-			</aside>
-		</section>
-
-	
-		<!-- Example of nested vertical slides -->
-		<section>
-			<section>
-				<h2>Vertical Slides</h2>
-				<p>Slides can be nested inside of each other.</p>
-				<p>Use the <em>Space</em> key to navigate through all slides.</p>
-				<br>
-				<a href="#" class="navigate-down">
-					<img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow">
-				</a>
-			</section>
-			<section>
-				<h2>Basement Level 1</h2>
-				<p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
-			</section>
-			<section>
-				<h2>Basement Level 2</h2>
-				<p>That's it, time to go back up.</p>
-				<br>
-				<a href="#/2">
-					<img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow">
-				</a>
-			</section>
-		</section>
-
-		<section>
-			<h2>Slides</h2>
-			<p>
-				Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at <a href="https://slides.com" target="_blank">https://slides.com</a>.
-			</p>
-		</section>
-
-		<section data-visibility="hidden">
-			<h2>Hidden Slides</h2>
-			<p>
-				This slide is visible in the source, but hidden when the presentation is viewed. You can show all hidden slides by setting the `showHiddenSlides` config option to `true`.
-			</p>
-		</section>
-
-		<section data-auto-animate>
-			<h2 data-id="code-title">Pretty Code</h2>
-			<pre data-id="code-animation"><code class="hljs" data-trim data-line-numbers>
+    <!-- Any section element inside of this container is displayed as a slide -->
+    <div class="slides">
+        <section>
+            <h3>Software for Court Appointed Special Advocates</h3>
+            <p>
+                <small><a href="https://twitter.com/goldlindastein">@goldlindastein</a></small>
+            </p>
+            <p>
+                <small>linda@rubyforgood.org / casa@rubyforgood.org</small>
+            </p>
+        </section>
+
+        <section>
+            <h2>whoami</h2>
+            <ul>
+                <li>(2010..Time.now) dev: thoughtworks -> braintree -> breadcrumb (groupon) -> thoughtworks -> square ->
+                    sempre health -> parachute health
+                </li>
+                <li>healthtech 4evr</li>
+                <li>Parachute Health (hiring) -> better ordering for Durable Medical Equipment</li>
+                <li>A lead of rubyforgood/casa since 2019</li>
+            </ul>
+            <aside class="notes">
+                I’ve been a software developer as a full-time job since 2011.
+                Taking my revenge upon the USA healthcare system by trying to improve it.
+                My open-source-supportive employer is Parachute Health, a small company trying to be more user-friendly
+                than a fax machine
+                Parachute helps patients get their prescribed Durable Medical Equipment (wheelchairs, CPAPs)
+                We're hiring
+            </aside>
+        </section>
+
+        <section>
+            <h2>raise your hand if</h2>
+            <aside class="notes">
+            </aside>
+        </section>
+        <section>
+            <h2>raise your hand if</h2>
+            <p>
+                you have ever thought about the USA foster care system
+            </p>
+            <aside class="notes">
+                This is not my area of expertise.
+                Available outcomes: reunification, adoption, aging out (emancipation).
+                Statistics:
+                % less likely to graduate high school
+                % incarcerated
+                % re-homed
+            </aside>
+        </section>
+
+        <section>
+            <h2>What is CASA?</h2>
+            <p>
+                nationalcasagal.org
+                93,225 volunteers, 950 programs in 49 states/DC (individually run)
+                "The National CASA/GAL Association for Children supports and promotes court-appointed volunteer advocacy
+                for children and youth (...) appointed by judges to advocate for children’s best interests"
+            </p>
+            </p>
+            <aside class="notes">
+                volunteers: some law students, many retired, generally don't assume tech savvy
+            </aside>
+        </section>
+
+        <section>
+            <h2>Existing processes</h2>
+            <ul>
+                <li>CASA volunteer takes notes on interactions w/ youth/teacher/therapist/family/++</li>
+                <li>Court Report word doc / 6mo</li>
+                <li>Grant proposals</li>
+                <li>Supervisor of volunteers checking status</li>
+            </ul>
+            <aside class="notes">
+                existing tools: SimplyOptima, CasaManager, Salesforce (nonprofit), pen and paper, text message, fax
+            </aside>
+        </section>
+
+
+        <section>
+            <h2>TODO more info here- slide split</h2>
+            <p>
+            </p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <section>
+            <h2>What is Ruby for Good?</h2>
+            <p>
+                A nonprofit writing software for nonprofits
+            </p>
+            <p>
+                A friendly place to start doing open source work & learn by doing
+            </p>
+            <p>
+                Conference 2x/yr (east/west coast)
+            </p>
+            <aside class="notes">
+                It’s a nonprofit which helps teams build software for other nonprofits, grow the tech community
+                especially the most unrepresented parts, and provide educational opportunities for folks in tech
+                regardless of a persons skill level. They also run events where those teams get together to hang out,
+                onboard new volunteers, and jam on their projects.
+            </aside>
+        </section>
+
+        <section>
+            <h2>CASA <=> Ruby for Good</h2>
+            <p>December 2019 - I signed up for the Ruby for Good west coast conference</p>
+            <p>Team lead? Why not? (what does that even mean??)</p>
+            <p>Assigned to CASA</p>
+            <p>First commit 2020-03-19 (lots of planning before then)</p>
+            <aside class="notes">
+                It’s a nonprofit which helps teams build software for other nonprofits, grow the tech community
+                especially the most unrepresented parts, and provide educational opportunities for folks in tech
+                regardless of a persons skill level. They also run events where those teams get together to hang out,
+                onboard new volunteers, and jam on their projects.
+                In December 2019 I signed up for the Ruby for Good west coast conference. I checked the “willing to be a
+                tech lead” checkbox at a time when my dayjob didn’t want my glue work energy, feeling… confident.
+                I had never been to a Ruby for Good event before but I had heard a lot about it. It sounded like
+                something I wanted to do.
+                Rfg is an registered nonprofit which finds orgs who could be helped by some software that doesn't exist
+                or they can't afford, and builds it for them. All this work is done by volunteers.
+                Why do volunteers- or maintainers- work on these projects?
+                That's a question with a large variety of answers, and it's been on my mind a lot. I count as a
+                maintainer because I maintain, and
+                for CASA in particular, maintaining is about eighty percent making sure it's easy for other people to do
+                the work, and
+                the work includes figuring out what the work is.
+                Community feelings, being part of a group, meeting the kind of people who put time into helping other
+                people
+                The newest batch of Ruby for Good leads started working in Feb 2020 - talking about what we wanted to
+                build, building up a backlog of devvable work
+                The conference got last minute remote-ified and was held remotely in June 2020.
+                I paired with my co-lead Eric on the skeleton of a repo, since casa was brand new. We learned that
+                naming a db table / activerecord model the word “case” makes rails unhappy.
+                Very successful event, built out the majority of what we needed to launch.
+                Later mini-events where entire developer teams volunteered on our codebase were also very helpful
+                Power Home Remodeling https://powerhrg.com/
+                Sean’s work team (designer time is a precious commodity)
+
+            </aside>
+        </section>
+
+        <section>
+            <h2>CASA as developer vacation destination</h2>
+            <p>Power Home Remodeling https://powerhrg.com/</p>
+            <p>Sean’s work team (designer time is a precious commodity)</p>
+            <p></p>
+            <p></p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <section>
+            <h2>top priorities</h2>
+            <ul>
+                <li>Don’t give the foster youth’s data to people who shouldn’t have it</li>
+                <li>User friendly to our users, the volunteers, supervisors, and sueprvisors’s bosses admins…</li>
+                <li>Healthy open source software first stop (need work to do!)</li>
+                <li>merge > not merge</li>
+            </ul>
+            <aside class="notes">
+                As a developer team, we have some very clear priorities
+
+                User friendly to our users, the volunteers, supervisors, and sueprvisors’s bosses admins…
+                Be a place where software developers can make their first open source pull request and feel happy about
+                it. We have to keep a pipeline of work that needs doing in order to serve this need.
+                I would rather merge than not merge. I encourage new TODO
+
+            </aside>
+        </section>
+
+
+        <section>
+            <h2>OSS but SAAS</h2>
+            <p>Software As A Service is findamentally different from library development</p>
+            <ul>
+                <li>*non* technical stakeholders</li>
+                <li>You are holding someone’s data; keep it safe!</li>
+                <li>hosting $ (thx r4g, heroku, azure)</li>
+                <li>customer support??? (+ uptime)</li>
+            </ul>
+            <aside class="notes">
+                Open source SAAS is in some ways “easy mode”
+                No giant build matrix for backwards compatibility
+                No developers opening github issues for usage you don’t support
+
+                SAAS has different difficulties than developing a code library
+                You are holding someone’s data; keep it safe!
+                Pay for hosting (thanks ruby for good!) (currently heroku and azure)
+                Customer support & uptime
+
+
+            </aside>
+        </section>
+
+        <section>
+            <h2>What do we do that works? (1/x)</h2>
+            <ul>
+                <li>topic goodfeels- fewer links in the chain to human impact</li>
+                <li>a nontechnical pitch brings in a solid set of contributors</li>
+                <li>weekly stakeholder sync keeps inspiration fresh- hearing frontline stories</li>
+                <li>Live-”blog” stakeholder meetings into a slack thread and contributors looking for work sometimes get
+                    started fixing it before you make it into a github issue
+                </li>
+            </ul>
+            <aside class="notes">
+                This is custom advice. It may not alpply to your situation.
+                Purposeful-feeling volunteering
+                writing 911 dispatch software is too direct for me, writing code that sells shoes is too indirect for
+                me, this is the sweet spot.
+                Meeting the people who use the software - getting to one link away from the action
+            </aside>
+        </section>
+        <section>
+            <h2>What do we do that works? (2/x)</h2>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+
+            Weekly “office hours” to hang out & cowork - it really drives the project forward
+            Accept the slow/lean times in between scheduled conferences
+            Hacktoberfest: tickets prep, doing tickets…
+            Multiple maintainers, all mostly in agreement
+
+            <ul>
+                <li>Office hours on the same day as stakeholder sync, to follow up on making github issues for requested
+                    features while they’re fresh in mind
+                </li>
+                <li>Weekly “office hours” to hang out & cowork - it really drives the project forward</li>
+                <li>Multiple maintainers, all mostly in agreement</li>
+                <li>Fast PR merge with friendly comments!!!</li>
+            </ul>
+            <aside class="notes">
+                Stakeholders send us emails with usage questions
+                Typeform bug reporter that auto-posts to private maintainers slack channel
+                Weekly calls w/ stakeholders (to keep them invested, us motivated, and produce feature requests)
+
+            </aside>
+        </section>
+        <section>
+            <h2>What do we do that works? (3/x)</h2>
+            <ul>
+                <li>Slack: R4G slack as central location - easy for current maintainers & multi-project r4g
+                    contributors, crosstalk advice between different project maintainers (+ removing moderator role from
+                    maintainers)
+                </li>
+                <li>Slack: active public channel</li>
+                <li>Slack: maintainer private channel</li>
+                <li>Slack: bot channel for PRs, issues, bugsnag errors, and deploys to show up in</li>
+                <li></li>
+
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+        <section>
+            <h2>What do we do that works? (4/x)</h2>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <ul>
+                <li>R4G negotiating for OSS credits for *all* projects (heroku, twilio, sendinblue, azure, etc)</li>
+                <li>Leveraging Hacktoberfest (very little spam for us the small fry)</li>
+
+                <li>Easy setup via Docker (optional)</li>
+                <li>A big community of technically capable people who can respond to urgent needs even if they don’t
+                    otherwise contribute often (and a way to reach them)
+                </li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+        <section>
+            <h2>What do we do that works? (5/x)</h2>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <ul>
+                <li>Keep everything close together. Eschew extra logins (to another project tracker, to CI) etc- reduces
+                    onboarding issues => more contributors.
+                </li>
+                <li>A big community of technically capable people who can respond to urgent needs even if they don’t
+                    otherwise contribute often (and a way to reach them)
+                </li>
+                <li>Encourage no-github-issue PRs for adding testing, upgrading deps, documentation, other dev chores
+                    (AND make chore issues so people know what needs doing)
+                </li>
+                <li>Checklist for deploying + Checklist includes stakeholder communications</li>
+                <li>Weekly deploys, even if there is very little to deploy - keeping a cadence is key- so if you need to
+                    skip a week, it’s not a big deal
+                </li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <section>
+            <h2>What do we do that works? (6/x)</h2>
+            <p>Use available tooling!</p>
+            <ul>
+                <li>Basics: PR templates, Issue templates (multiple & custom)</li>
+                <li>New issues auto-assign to the github project</li>
+                <li>Free CI however we can get it (farewell Travis, hello Github Actions)</li>
+                <li>Split CI into multiple jobs</li>
+                <li>Github bot to auto-tag with what's in the PR (ruby, js, db) for easier reviewing prioritzation</li>
+                <li>(controversial) Fast PR merge!!! Draws in contributors, keeps them engaged, and encourage follow-up
+                    PRs
+                </li>
+                <li>To enable fast merge, qa -> staging -> prod 3 envs for safety (+ extra db/data migration testing
+                    env)
+                </li>
+            </ul>
+            <aside class="notes">
+                New issues auto-assign to the github project - trial and error, never found the docs on it, but url
+                makes sense
+            </aside>
+        </section>
+
+        <section>
+            <h2>What do we do that doesn’t work? (1/x)</h2>
+            <p>Need more making-good-github-issues energy to feed the contributor appetite for small bites. Having a
+                super active PM for the first year of the project was fantastic (thank you Zoe!)</p>
+            <aside class="notes">
+            </aside>
+        </section>
+
+        <section>
+            <h2>What do we do that doesn’t work? (2/x)
+                <ul>
+                    <li>import logic (import users, cases - de-dupe)</li>
+                    <li>generated word docs</li>
+                    <li></li>
+                    <li></li>
+                </ul>
+                <aside class="notes">
+                    <p>Bugs happen around the “edges”- for us, file uploads imports file upload logic are a continual
+                        struggle even with lots of tests. Also updating & testing generated word docs - few of us have
+                        word, and the stakeholders really want Word</p>
+
+                </aside>
+        </section>
+
+        <section>
+            <h2>What do we do that doesn’t work? (3/x)</h2>
+            <p>Good testing is a skill not as easy to specify in acceptance criteria as visible functionality</p>
+
+            <aside class="notes">
+                fill in later? do more of? flakiness, cypress. minimum js because few contributors, turns into a cycle-
+                no js contrib because little js. avoiding frameworks, leaning hard on erb as much as possible.
+            </aside>
+        </section>
+
+        <section>
+            <h2>What do we do that doesn’t work? (4/x)</h2>
+            <p>Getting volunteer feedback is hard, measure what *happens* instead (number contributors…) TODO</p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <section>
+            <h2>Contributors as an investment vehicle</h2>
+            <p>Retaining and growing your contributors is a good investment - many of ours come in because a friend
+                tells them that we are the kind of project that will help them learn to contribute. Spread the load!</p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+                They bring energy, they can grow knowledge
+                You want to get to the point where they can spend their apparently extra time & energy onboarding even
+                more contributors for you + pitching you to their friends
+
+            </aside>
+        </section>
+
+
+        <section>
+            <h2>Summary</h2>
+            <ul>
+                Frequent and regular cadence for your essentials (stakeholder communications and deploys)
+                Redundancies in people- build your flexibility. We have lots of rescuers even when we have very few day
+                to day contributors
+                A safety net / backing organization is wonderful for many reasons, including negotiating on your behalf
+                for free services, + hard-won knowledge
+                Be aware that your purpose as a project (may) be more than making a working tool for some users. Our
+                purpose is also to help people learn how to contribute, and I consider it equally important. I could
+                theoretically (for a while at least) build it all myself but that’s not what I want (time, flexibility,
+                mental health)
+
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+                Frequent and regular cadence for your essentials (stakeholder communications and deploys)
+                Redundancies in people- build your flexibility. We have lots of rescuers even when we have very few day
+                to day contributors
+                A safety net / backing organization is wonderful for many reasons, including negotiating on your behalf
+                for free services, + hard-won knowledge
+                Be aware that your purpose as a project (may) be more than making a working tool for some users. Our
+                purpose is also to help people learn how to contribute, and I consider it equally important. I could
+                theoretically (for a while at least) build it all myself but that’s not what I want (time, flexibility,
+                mental health)
+
+            </aside>
+        </section>
+
+        <section>
+            <h2>A note on purpose</h2>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+                Be aware that your purpose as a project (may) be more than making a working tool for some users. Our
+                purpose is also to help people learn how to contribute, and I consider it equally important. I could
+                theoretically (for a while at least) build it all myself but that’s not what I want (time, flexibility,
+                mental health)
+                This may not be you! If you are big/popular project with more contributors than you want & a pack of
+                paid maintainers, then this is not your problem (but turning the contributors that you have *into* the
+                contributors that you *want* can work!)
+                If you want more contributors than you have, you have to consciously and conspicuously invest in making
+                sure that people know what to do. Office hours for people who want a human face, slack reminders for
+                people who want to show up and figure it out, a good readme so people *can* figure it out, issues that
+                explain what needs doing using url&screenshot&login rather than domain terms that new contributors won’t
+                know
+
+            </aside>
+        </section>
+
+
+        <section>
+            <h2>Send halp</h2>
+            <ul>
+                <li>More CASA regions - we're at ~2/1000. We're free and friendly!</li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+                We want more CASA regions on the platform- if you know someone who volunteers for CASA or is otherwise
+                associated with one, please tell them about us and email us at casa@rubyforgood.org
+                Come contribute as a developer, designer, project manager, or whatever you skills are -- we’ll find you
+                something to do
+                We could *especially* and *always* use more people who are willing to write github issues about the
+                future work we want to do.
+                And of course, we welcome pull requests for new features, refactoring, and improving our test suite.
+
+            </aside>
+        </section>
+
+
+        <section>
+            <h2></h2>
+            <p>
+            </p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <section>
+            <h2></h2>
+            <p>
+            </p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <section>
+            <h2></h2>
+            <p>
+            </p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <section>
+            <h2></h2>
+            <p>
+            </p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <section>
+            <h2></h2>
+            <p>
+            </p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <section>
+            <h2></h2>
+            <p>
+            </p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <section>
+            <h2></h2>
+            <p>
+            </p>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+            </aside>
+        </section>
+
+
+        <!-- Example of nested vertical slides -->
+        <section>
+            <section>
+                <h2>Vertical Slides</h2>
+                <p>Slides can be nested inside of each other.</p>
+                <p>Use the <em>Space</em> key to navigate through all slides.</p>
+                <br>
+                <a href="#" class="navigate-down">
+                    <img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238"
+                         data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow">
+                </a>
+            </section>
+            <section>
+                <h2>Basement Level 1</h2>
+                <p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
+            </section>
+            <section>
+                <h2>Basement Level 2</h2>
+                <p>That's it, time to go back up.</p>
+                <br>
+                <a href="#/2">
+                    <img class="r-frame" style="background: rgba(255,255,255,0.1); transform: rotate(180deg);"
+                         width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Up arrow">
+                </a>
+            </section>
+        </section>
+
+        <section>
+            <h2>Slides</h2>
+            <p>
+                Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at <a
+                    href="https://slides.com" target="_blank">https://slides.com</a>.
+            </p>
+        </section>
+
+        <section data-visibility="hidden">
+            <h2>Hidden Slides</h2>
+            <p>
+                This slide is visible in the source, but hidden when the presentation is viewed. You can show all hidden
+                slides by setting the `showHiddenSlides` config option to `true`.
+            </p>
+        </section>
+
+        <section data-auto-animate>
+            <h2 data-id="code-title">Pretty Code</h2>
+            <pre data-id="code-animation"><code class="hljs" data-trim data-line-numbers>
 						import React, { useState } from 'react';
 
 						function Example() {
@@ -634,356 +684,410 @@ And of course, we welcome pull requests for new features, refactoring, and impro
 						  );
 						}
 					</code></pre>
-			<p>Code syntax highlighting courtesy of <a href="https://highlightjs.org/usage/">highlight.js</a>.</p>
-		</section>
+            <p>Code syntax highlighting courtesy of <a href="https://highlightjs.org/usage/">highlight.js</a>.</p>
+        </section>
 
-		<section data-auto-animate>
-			<h2 data-id="code-title">With animations</h2>
-			<pre data-id="code-animation"><code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"><script type="text/template">
+        <section data-auto-animate>
+            <h2 data-id="code-title">With animations</h2>
+            <pre data-id="code-animation"><code class="hljs" data-trim data-line-numbers="|4,8-11|17|22-24"><script
+                    type="text/template">
 						import React, { useState } from 'react';
 
-						function Example() {
-						const [count, setCount] = useState(0);
+                        function Example() {
+                        const [count, setCount] = useState(0);
 
-						return (
-						<div>
+                        return (
+                        <div>
 						      <p>You clicked {count} times</p>
 						      <button onClick={() => setCount(count + 1)}>
 						        Click me
-							</button>
+                            </button>
 						    </div>
-						);
-						}
+                        );
+                        }
 
-						function SecondExample() {
-						const [count, setCount] = useState(0);
+                        function SecondExample() {
+                        const [count, setCount] = useState(0);
 
-						return (
-						<div>
+                        return (
+                        <div>
 						      <p>You clicked {count} times</p>
 						      <button onClick={() => setCount(count + 1)}>
 						        Click me
-							</button>
+                            </button>
 						    </div>
-						);
-						}
+                        );
+                        }
 					</script></code></pre>
-		</section>
+        </section>
 
-		<section>
-			<h2>Point of View</h2>
-			<p>
-				Press <strong>ESC</strong> to enter the slide overview.
-			</p>
-			<p>
-				Hold down the <strong>alt</strong> key (<strong>ctrl</strong> in Linux) and click on any element to zoom towards it using <a href="http://lab.hakim.se/zoom-js">zoom.js</a>. Click again to zoom back out.
-			</p>
-			<p>
-				(NOTE: Use ctrl + click in Linux.)
-			</p>
-		</section>
+        <section>
+            <h2>Point of View</h2>
+            <p>
+                Press <strong>ESC</strong> to enter the slide overview.
+            </p>
+            <p>
+                Hold down the <strong>alt</strong> key (<strong>ctrl</strong> in Linux) and click on any element to zoom
+                towards it using <a href="http://lab.hakim.se/zoom-js">zoom.js</a>. Click again to zoom back out.
+            </p>
+            <p>
+                (NOTE: Use ctrl + click in Linux.)
+            </p>
+        </section>
 
-		<section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
-			<h2>Auto-Animate</h2>
-			<p>Automatically animate matching elements across slides with <a href="https://revealjs.com/auto-animate/">Auto-Animate</a>.</p>
-			<div class="r-hstack justify-center">
-				<div data-id="box1" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
-				<div data-id="box2" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
-				<div data-id="box3" style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
-			</div>
-		</section>
-		<section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
-			<div class="r-hstack justify-center">
-				<div data-id="box1" data-auto-animate-delay="0" style="background: cyan; width: 150px; height: 100px; margin: 10px;"></div>
-				<div data-id="box2" data-auto-animate-delay="0.1" style="background: magenta; width: 150px; height: 100px; margin: 10px;"></div>
-				<div data-id="box3" data-auto-animate-delay="0.2" style="background: yellow; width: 150px; height: 100px; margin: 10px;"></div>
-			</div>
-			<h2 style="margin-top: 20px;">Auto-Animate</h2>
-		</section>
-		<section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
-			<div class="r-stack">
-				<div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"></div>
-				<div data-id="box2" style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"></div>
-				<div data-id="box3" style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"></div>
-			</div>
-			<h2 style="margin-top: 20px;">Auto-Animate</h2>
-		</section>
+        <section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
+            <h2>Auto-Animate</h2>
+            <p>Automatically animate matching elements across slides with <a href="https://revealjs.com/auto-animate/">Auto-Animate</a>.
+            </p>
+            <div class="r-hstack justify-center">
+                <div data-id="box1"
+                     style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
+                <div data-id="box2"
+                     style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
+                <div data-id="box3"
+                     style="background: #999; width: 50px; height: 50px; margin: 10px; border-radius: 5px;"></div>
+            </div>
+        </section>
+        <section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
+            <div class="r-hstack justify-center">
+                <div data-id="box1" data-auto-animate-delay="0"
+                     style="background: cyan; width: 150px; height: 100px; margin: 10px;"></div>
+                <div data-id="box2" data-auto-animate-delay="0.1"
+                     style="background: magenta; width: 150px; height: 100px; margin: 10px;"></div>
+                <div data-id="box3" data-auto-animate-delay="0.2"
+                     style="background: yellow; width: 150px; height: 100px; margin: 10px;"></div>
+            </div>
+            <h2 style="margin-top: 20px;">Auto-Animate</h2>
+        </section>
+        <section data-auto-animate data-auto-animate-easing="cubic-bezier(0.770, 0.000, 0.175, 1.000)">
+            <div class="r-stack">
+                <div data-id="box1" style="background: cyan; width: 300px; height: 300px; border-radius: 200px;"></div>
+                <div data-id="box2"
+                     style="background: magenta; width: 200px; height: 200px; border-radius: 200px;"></div>
+                <div data-id="box3"
+                     style="background: yellow; width: 100px; height: 100px; border-radius: 200px;"></div>
+            </div>
+            <h2 style="margin-top: 20px;">Auto-Animate</h2>
+        </section>
 
-		<section>
-			<h2>Touch Optimized</h2>
-			<p>
-				Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-			</p>
-		</section>
+        <section>
+            <h2>Touch Optimized</h2>
+            <p>
+                Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your
+                slides.
+            </p>
+        </section>
 
-		<section data-markdown>
-			<script type="text/template">
-				## Markdown support
+        <section data-markdown>
+            <script type="text/template">
+                ## Markdown support
 
-				Write content using inline or external Markdown.
-				Instructions and more info available in the [docs](https://revealjs.com/markdown/).
+                Write content using inline or external Markdown.
+                Instructions and more info available in the [docs](https://revealjs.com/markdown/).
 
-				```html []
-				<section data-markdown>
-					## Markdown support
+                ```html []
+                <section data-markdown>
+                    ## Markdown support
 
-					Write content using inline or external Markdown.
-					Instructions and more info available in the [docs](https://revealjs.com/markdown/).
-				</section>
-				```
-			</script>
-		</section>
+                    Write content using inline or external Markdown.
+                    Instructions and more info available in the [docs](https://revealjs.com/markdown/).
+                </section>
+                ```
+            </script>
+        </section>
 
-		<section>
-			<p>Add the <code>r-fit-text</code> class to auto-size text</p>
-			<h2 class="r-fit-text">FIT TEXT</h2>
-		</section>
+        <section>
+            <p>Add the <code>r-fit-text</code> class to auto-size text</p>
+            <h2 class="r-fit-text">FIT TEXT</h2>
+        </section>
 
-		<section>
-			<section id="fragments">
-				<h2>Fragments</h2>
-				<p>Hit the next arrow...</p>
-				<p class="fragment">... to step through ...</p>
-				<p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
+        <section>
+            <section id="fragments">
+                <h2>Fragments</h2>
+                <p>Hit the next arrow...</p>
+                <p class="fragment">... to step through ...</p>
+                <p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span>
+                </p>
 
-				<aside class="notes">
-					This slide has fragments which are also stepped through in the notes window.
-				</aside>
-			</section>
-			<section>
-				<h2>Fragment Styles</h2>
-				<p>There's different types of fragments, like:</p>
-				<p class="fragment grow">grow</p>
-				<p class="fragment shrink">shrink</p>
-				<p class="fragment fade-out">fade-out</p>
-				<p>
-					<span style="display: inline-block;" class="fragment fade-right">fade-right, </span>
-					<span style="display: inline-block;" class="fragment fade-up">up, </span>
-					<span style="display: inline-block;" class="fragment fade-down">down, </span>
-					<span style="display: inline-block;" class="fragment fade-left">left</span>
-				</p>
-				<p class="fragment fade-in-then-out">fade-in-then-out</p>
-				<p class="fragment fade-in-then-semi-out">fade-in-then-semi-out</p>
-				<p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span></p>
-			</section>
-		</section>
+                <aside class="notes">
+                    This slide has fragments which are also stepped through in the notes window.
+                </aside>
+            </section>
+            <section>
+                <h2>Fragment Styles</h2>
+                <p>There's different types of fragments, like:</p>
+                <p class="fragment grow">grow</p>
+                <p class="fragment shrink">shrink</p>
+                <p class="fragment fade-out">fade-out</p>
+                <p>
+                    <span style="display: inline-block;" class="fragment fade-right">fade-right, </span>
+                    <span style="display: inline-block;" class="fragment fade-up">up, </span>
+                    <span style="display: inline-block;" class="fragment fade-down">down, </span>
+                    <span style="display: inline-block;" class="fragment fade-left">left</span>
+                </p>
+                <p class="fragment fade-in-then-out">fade-in-then-out</p>
+                <p class="fragment fade-in-then-semi-out">fade-in-then-semi-out</p>
+                <p>Highlight <span class="fragment highlight-red">red</span> <span
+                        class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span>
+                </p>
+            </section>
+        </section>
 
-		<section id="transitions">
-			<h2>Transition Styles</h2>
-			<p>
-				You can select from different transitions, like: <br>
-				<a href="?transition=none#/transitions">None</a> -
-				<a href="?transition=fade#/transitions">Fade</a> -
-				<a href="?transition=slide#/transitions">Slide</a> -
-				<a href="?transition=convex#/transitions">Convex</a> -
-				<a href="?transition=concave#/transitions">Concave</a> -
-				<a href="?transition=zoom#/transitions">Zoom</a>
-			</p>
-		</section>
+        <section id="transitions">
+            <h2>Transition Styles</h2>
+            <p>
+                You can select from different transitions, like: <br>
+                <a href="?transition=none#/transitions">None</a> -
+                <a href="?transition=fade#/transitions">Fade</a> -
+                <a href="?transition=slide#/transitions">Slide</a> -
+                <a href="?transition=convex#/transitions">Convex</a> -
+                <a href="?transition=concave#/transitions">Concave</a> -
+                <a href="?transition=zoom#/transitions">Zoom</a>
+            </p>
+        </section>
 
-		<section id="themes">
-			<h2>Themes</h2>
-			<p>
-				reveal.js comes with a few themes built in: <br>
-				<!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. -->
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/black.css'); return false;">Black (default)</a> -
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/white.css'); return false;">White</a> -
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/league.css'); return false;">League</a> -
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/sky.css'); return false;">Sky</a> -
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/beige.css'); return false;">Beige</a> -
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/simple.css'); return false;">Simple</a> <br>
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/serif.css'); return false;">Serif</a> -
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/blood.css'); return false;">Blood</a> -
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/night.css'); return false;">Night</a> -
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/moon.css'); return false;">Moon</a> -
-				<a href="#" onclick="document.getElementById('theme').setAttribute('href','dist/theme/solarized.css'); return false;">Solarized</a>
-			</p>
-		</section>
+        <section id="themes">
+            <h2>Themes</h2>
+            <p>
+                reveal.js comes with a few themes built in: <br>
+                <!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. -->
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/black.css'); return false;">Black
+                    (default)</a> -
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/white.css'); return false;">White</a>
+                -
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/league.css'); return false;">League</a>
+                -
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/sky.css'); return false;">Sky</a>
+                -
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/beige.css'); return false;">Beige</a>
+                -
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/simple.css'); return false;">Simple</a>
+                <br>
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/serif.css'); return false;">Serif</a>
+                -
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/blood.css'); return false;">Blood</a>
+                -
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/night.css'); return false;">Night</a>
+                -
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/moon.css'); return false;">Moon</a>
+                -
+                <a href="#"
+                   onclick="document.getElementById('theme').setAttribute('href','dist/theme/solarized.css'); return false;">Solarized</a>
+            </p>
+        </section>
 
-		<section>
-			<section data-background="#dddddd">
-				<h2>Slide Backgrounds</h2>
-				<p>
-					Set <code>data-background="#dddddd"</code> on a slide to change the background color. All CSS color formats are supported.
-				</p>
-				<a href="#" class="navigate-down">
-					<img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238" data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow">
-				</a>
-			</section>
-			<section data-background="https://static.slid.es/reveal/image-placeholder.png">
-				<h2>Image Backgrounds</h2>
-				<pre><code class="hljs html">&lt;section data-background="image.png"&gt;</code></pre>
-			</section>
-			<section data-background="https://static.slid.es/reveal/image-placeholder.png" data-background-repeat="repeat" data-background-size="100px">
-				<h2>Tiled Backgrounds</h2>
-				<pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
-			</section>
-			<section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4" data-background-color="#000000">
-				<div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
-					<h2>Video Backgrounds</h2>
-					<pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background-video="video.mp4,video.webm"&gt;</code></pre>
-				</div>
-			</section>
-			<section data-background="http://i.giphy.com/90F8aUepslB84.gif">
-				<h2>... and GIFs!</h2>
-			</section>
-		</section>
+        <section>
+            <section data-background="#dddddd">
+                <h2>Slide Backgrounds</h2>
+                <p>
+                    Set <code>data-background="#dddddd"</code> on a slide to change the background color. All CSS color
+                    formats are supported.
+                </p>
+                <a href="#" class="navigate-down">
+                    <img class="r-frame" style="background: rgba(255,255,255,0.1);" width="178" height="238"
+                         data-src="https://static.slid.es/reveal/arrow.png" alt="Down arrow">
+                </a>
+            </section>
+            <section data-background="https://static.slid.es/reveal/image-placeholder.png">
+                <h2>Image Backgrounds</h2>
+                <pre><code class="hljs html">&lt;section data-background="image.png"&gt;</code></pre>
+            </section>
+            <section data-background="https://static.slid.es/reveal/image-placeholder.png"
+                     data-background-repeat="repeat" data-background-size="100px">
+                <h2>Tiled Backgrounds</h2>
+                <pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
+            </section>
+            <section
+                    data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4"
+                    data-background-color="#000000">
+                <div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
+                    <h2>Video Backgrounds</h2>
+                    <pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background-video="video.mp4,video.webm"&gt;</code></pre>
+                </div>
+            </section>
+            <section data-background="http://i.giphy.com/90F8aUepslB84.gif">
+                <h2>... and GIFs!</h2>
+            </section>
+        </section>
 
-		<section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom">
-			<h2>Background Transitions</h2>
-			<p>
-				Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-			</p>
-			<pre><code class="hljs javascript">Reveal.configure({ backgroundTransition: 'zoom' })</code></pre>
-		</section>
+        <section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom">
+            <h2>Background Transitions</h2>
+            <p>
+                Different background transitions are available via the backgroundTransition option. This one's called
+                "zoom".
+            </p>
+            <pre><code class="hljs javascript">Reveal.configure({ backgroundTransition: 'zoom' })</code></pre>
+        </section>
 
-		<section data-transition="slide" data-background="#b5533c" data-background-transition="zoom">
-			<h2>Background Transitions</h2>
-			<p>
-				You can override background transitions per-slide.
-			</p>
-			<pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background-transition="zoom"&gt;</code></pre>
-		</section>
+        <section data-transition="slide" data-background="#b5533c" data-background-transition="zoom">
+            <h2>Background Transitions</h2>
+            <p>
+                You can override background transitions per-slide.
+            </p>
+            <pre><code class="hljs html" style="word-wrap: break-word;">&lt;section data-background-transition="zoom"&gt;</code></pre>
+        </section>
 
-		<section data-background-iframe="https://hakim.se" data-background-interactive>
-			<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
-				<h2>Iframe Backgrounds</h2>
-				<p>Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the page in the background.</p>
-			</div>
-		</section>
+        <section data-background-iframe="https://hakim.se" data-background-interactive>
+            <div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+                <h2>Iframe Backgrounds</h2>
+                <p>Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the
+                    page in the background.</p>
+            </div>
+        </section>
 
-		<section>
-			<h2>Marvelous List</h2>
-			<ul>
-				<li>No order here</li>
-				<li>Or here</li>
-				<li>Or here</li>
-				<li>Or here</li>
-			</ul>
-		</section>
+        <section>
+            <h2>Marvelous List</h2>
+            <ul>
+                <li>No order here</li>
+                <li>Or here</li>
+                <li>Or here</li>
+                <li>Or here</li>
+            </ul>
+        </section>
 
-		<section>
-			<h2>Fantastic Ordered List</h2>
-			<ol>
-				<li>One is smaller than...</li>
-				<li>Two is smaller than...</li>
-				<li>Three!</li>
-			</ol>
-		</section>
+        <section>
+            <h2>Fantastic Ordered List</h2>
+            <ol>
+                <li>One is smaller than...</li>
+                <li>Two is smaller than...</li>
+                <li>Three!</li>
+            </ol>
+        </section>
 
-		<section>
-			<h2>Tabular Tables</h2>
-			<table>
-				<thead>
-				<tr>
-					<th>Item</th>
-					<th>Value</th>
-					<th>Quantity</th>
-				</tr>
-				</thead>
-				<tbody>
-				<tr>
-					<td>Apples</td>
-					<td>$1</td>
-					<td>7</td>
-				</tr>
-				<tr>
-					<td>Lemonade</td>
-					<td>$2</td>
-					<td>18</td>
-				</tr>
-				<tr>
-					<td>Bread</td>
-					<td>$3</td>
-					<td>2</td>
-				</tr>
-				</tbody>
-			</table>
-		</section>
+        <section>
+            <h2>Tabular Tables</h2>
+            <table>
+                <thead>
+                <tr>
+                    <th>Item</th>
+                    <th>Value</th>
+                    <th>Quantity</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>Apples</td>
+                    <td>$1</td>
+                    <td>7</td>
+                </tr>
+                <tr>
+                    <td>Lemonade</td>
+                    <td>$2</td>
+                    <td>18</td>
+                </tr>
+                <tr>
+                    <td>Bread</td>
+                    <td>$3</td>
+                    <td>2</td>
+                </tr>
+                </tbody>
+            </table>
+        </section>
 
-		<section>
-			<h2>Clever Quotes</h2>
-			<p>
-				These guys come in two forms, inline: <q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">The nice thing about standards is that there are so many to choose from</q> and block:
-			</p>
-			<blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">
-				&ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-				reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&rdquo;
-			</blockquote>
-		</section>
+        <section>
+            <h2>Clever Quotes</h2>
+            <p>
+                These guys come in two forms, inline: <q
+                    cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">The
+                nice thing about standards is that there are so many to choose from</q> and block:
+            </p>
+            <blockquote
+                    cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">
+                &ldquo;For years there has been a theory that millions of monkeys typing at random on millions of
+                typewriters would
+                reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&rdquo;
+            </blockquote>
+        </section>
 
-		<section>
-			<h2>Intergalactic Interconnections</h2>
-			<p>
-				You can link between slides internally,
-				<a href="#/2/3">like this</a>.
-			</p>
-		</section>
+        <section>
+            <h2>Intergalactic Interconnections</h2>
+            <p>
+                You can link between slides internally,
+                <a href="#/2/3">like this</a>.
+            </p>
+        </section>
 
-		<section>
-			<h2>Speaker View</h2>
-			<p>There's a <a href="https://revealjs.com/speaker-view/">speaker view</a>. It includes a timer, preview of the upcoming slide as well as your speaker notes.</p>
-			<p>Press the <em>S</em> key to try it out.</p>
+        <section>
+            <h2>Speaker View</h2>
+            <p>There's a <a href="https://revealjs.com/speaker-view/">speaker view</a>. It includes a timer, preview of
+                the upcoming slide as well as your speaker notes.</p>
+            <p>Press the <em>S</em> key to try it out.</p>
 
-			<aside class="notes">
-				Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-			</aside>
-		</section>
+            <aside class="notes">
+                Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open
+                the speaker notes window (hit 's' on your keyboard).
+            </aside>
+        </section>
 
-		<section>
-			<h2>Export to PDF</h2>
-			<p>Presentations can be <a href="https://revealjs.com/pdf-export/">exported to PDF</a>, here's an example:</p>
-			<iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-		</section>
+        <section>
+            <h2>Export to PDF</h2>
+            <p>Presentations can be <a href="https://revealjs.com/pdf-export/">exported to PDF</a>, here's an example:
+            </p>
+            <iframe data-src="https://www.slideshare.net/slideshow/embed_code/42840540" width="445" height="355"
+                    frameborder="0" marginwidth="0" marginheight="0" scrolling="no"
+                    style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen></iframe>
+        </section>
 
-		<section>
-			<h2>Global State</h2>
-			<p>
-				Set <code>data-state="something"</code> on a slide and <code>"something"</code>
-				will be added as a class to the document element when the slide is open. This lets you
-				apply broader style changes, like switching the page background.
-			</p>
-		</section>
+        <section>
+            <h2>Global State</h2>
+            <p>
+                Set <code>data-state="something"</code> on a slide and <code>"something"</code>
+                will be added as a class to the document element when the slide is open. This lets you
+                apply broader style changes, like switching the page background.
+            </p>
+        </section>
 
-		<section data-state="customevent">
-			<h2>State Events</h2>
-			<p>
-				Additionally custom events can be triggered on a per slide basis by binding to the <code>data-state</code> name.
-			</p>
-			<pre><code class="javascript" data-trim contenteditable style="font-size: 18px;">
+        <section data-state="customevent">
+            <h2>State Events</h2>
+            <p>
+                Additionally custom events can be triggered on a per slide basis by binding to the
+                <code>data-state</code> name.
+            </p>
+            <pre><code class="javascript" data-trim contenteditable style="font-size: 18px;">
 Reveal.on( 'customevent', function() {
 	console.log( '"customevent" has fired' );
 } );
 					</code></pre>
-		</section>
+        </section>
 
-		<section>
-			<h2>Take a Moment</h2>
-			<p>
-				Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want to take distracting slides off the screen.
-			</p>
-		</section>
+        <section>
+            <h2>Take a Moment</h2>
+            <p>
+                Press B or . on your keyboard to pause the presentation. This is helpful when you're on stage and want
+                to take distracting slides off the screen.
+            </p>
+        </section>
 
-		<section>
-			<h2>Much more</h2>
-			<ul>
-				<li>Right-to-left support</li>
-				<li><a href="https://revealjs.com/api/">Extensive JavaScript API</a></li>
-				<li><a href="https://revealjs.com/auto-slide/">Auto-progression</a></li>
-				<li><a href="https://revealjs.com/backgrounds/#parallax-background">Parallax backgrounds</a></li>
-				<li><a href="https://revealjs.com/keyboard/">Custom keyboard bindings</a></li>
-			</ul>
-		</section>
+        <section>
+            <h2>Much more</h2>
+            <ul>
+                <li>Right-to-left support</li>
+                <li><a href="https://revealjs.com/api/">Extensive JavaScript API</a></li>
+                <li><a href="https://revealjs.com/auto-slide/">Auto-progression</a></li>
+                <li><a href="https://revealjs.com/backgrounds/#parallax-background">Parallax backgrounds</a></li>
+                <li><a href="https://revealjs.com/keyboard/">Custom keyboard bindings</a></li>
+            </ul>
+        </section>
 
-		<section style="text-align: left;">
-			<h1>THE END</h1>
-			<p>
-				- <a href="https://slides.com">Try the online editor</a> <br>
-				- <a href="https://github.com/hakimel/reveal.js">Source code &amp; documentation</a>
-			</p>
-		</section>
+        <section style="text-align: left;">
+            <h1>THE END</h1>
+            <p>
+                - <a href="https://slides.com">Try the online editor</a> <br>
+                - <a href="https://github.com/hakimel/reveal.js">Source code &amp; documentation</a>
+            </p>
+        </section>
 
-	</div>
+    </div>
 
 </div>
 
@@ -995,17 +1099,17 @@ Reveal.on( 'customevent', function() {
 <script src="plugin/highlight/highlight.js"></script>
 <script>
 
-	// Also available as an ES module, see:
-	// https://revealjs.com/initialization/
-	Reveal.initialize({
-		controls: true,
-		progress: true,
-		center: true,
-		hash: true,
+    // Also available as an ES module, see:
+    // https://revealjs.com/initialization/
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        center: true,
+        hash: true,
 
-		// Learn about plugins: https://revealjs.com/plugins/
-		plugins: [ RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight ]
-	});
+        // Learn about plugins: https://revealjs.com/plugins/
+        plugins: [RevealZoom, RevealNotes, RevealSearch, RevealMarkdown, RevealHighlight]
+    });
 
 </script>
 
