@@ -216,25 +216,32 @@
 
 
         <section>
-            <h2>OSS but SAAS</h2>
-            <p>Software As A Service is findamentally different from library development</p>
+            <h2>OSS but SAAS (1/2)</h2>
+            <p>Software As A Service is fundamentally different from library development</p>
+            <ul>
+                <li>merging doesn't make it real!!!</li>
+                <li>hosting $ (thx r4g, heroku, azure)</li>
+            </ul>
+            <aside class="notes">
+                in a library like ruby - merging means accepting it into a usable state. on some level, vouching for it.
+                No giant build matrix for backwards compatibility
+                in SAAS, if it's not deployed to prod, only confused developers will notice in qa/staging
+                No developers opening github issues for usage you don’t support
+            </aside>
+        </section>
+
+        <section>
+            <h2>OSS but SAAS (2/2)</h2>
+            <p>Software As A Service is fundamentally different from library development</p>
             <ul>
                 <li>*non* technical stakeholders</li>
                 <li>You are holding someone’s data; keep it safe!</li>
-                <li>hosting $ (thx r4g, heroku, azure)</li>
                 <li>customer support??? (+ uptime)</li>
             </ul>
             <aside class="notes">
-                Open source SAAS is in some ways “easy mode”
-                No giant build matrix for backwards compatibility
-                No developers opening github issues for usage you don’t support
-
-                SAAS has different difficulties than developing a code library
-                You are holding someone’s data; keep it safe!
-                Pay for hosting (thanks ruby for good!) (currently heroku and azure)
-                Customer support & uptime
-
-
+                uptime promises
+                gdpr, ccpa, cookies
+                non-technical stakeholders and users - you speak different languages. need more of a PM translation layer
             </aside>
         </section>
 
