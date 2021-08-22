@@ -199,9 +199,12 @@
                 <li>Mileage reimbursement</li>
             </ul>
             <aside class="notes">
-                existing tools: SimplyOptima, CasaManager, Salesforce (nonprofit), pen and paper, text message, fax
+                existing tools: SimplyOptima, CasaManager, Salesforce (nonprofit), personal email, pen and paper, text
+                message, fax
                 <br>
                 volunteer-supervisor relationship
+                <br>
+                executive assistant
                 <br>
                 not tech savvy, don't enjoy command-line interfaces. Difficulty sharing screen on zoom. Strong UX
                 archetype
@@ -218,9 +221,9 @@
             <aside class="notes">
                 A way to get better at creating software in general
                 <br>
-                grow the tech community especially the most unrepresented parts, and provide educational opportunities
-                for folks in tech regardless of a persons skill level. They also run events where those teams get
-                together to hang out, onboard new volunteers, and jam on their projects.
+                grow the tech community especially people who are typically unrepresented in teh tech community, and
+                provide educational opportunities for folks in tech regardless of a persons skill level. They also run
+                events where those teams get together to hang out, onboard new volunteers, and jam on their projects.
                 <br>
                 You should send me a tweet about it
             </aside>
@@ -232,29 +235,13 @@
                 <li>December 2019 - I signed up for the Ruby for Good 2020 west coast conference</li>
                 <li>Team lead? Sure! ✅ ("Details TBD")</li>
                 <li>Assigned to CASA</li>
-                <li>First commit 2020-03-19 (lots of planning before then)</li>
+                <li>Planning meeting, UI mockups, db schema... -> first commit 2020-03-19</li>
+                <li>2020 surprise remote conference</li>
             </ul>
             <aside class="notes">
-                conf in 2020 which got surprise-cancelled by covid
+                conf in 2020 which got surprise-cancelled by covid and we did it anyway, remote
                 <br>
                 first commit code of conduct
-                <br>
-                Why do volunteers- or maintainers- work on these projects? That's a question with a large variety of
-                answers, and it's been on my mind a lot. I have foudn that for me, maintaining is about eighty percent
-                making sure it's easy for other people to do the work, and the work includes figuring out what the work
-                is. this may or may not be your experience of maintainership.
-                <br>
-                Why do volunteers show up and put up with me, with this? Community feelings, being part of a
-                group, meeting the kind of people who put time into helping other people
-                <br>
-                The conference got last minute remote-ified and was held remotely in June 2020.
-                I paired with my co-lead Eric on the skeleton of a repo, since casa was brand new. We learned that
-                naming a db table / activerecord model the word “case” makes rails unhappy.
-                Very successful event, built out the majority of what we needed to launch.
-                Later mini-events where entire developer teams volunteered on our codebase were also very helpful
-                Power Home Remodeling https://powerhrg.com/
-                Sean’s work team (designer time is a precious commodity)
-
             </aside>
         </section>
 
@@ -279,61 +266,42 @@
             <h2>Planning && Theory (2/x)</h2>
             <ul>
                 <li>(my) maintaining ~= 80% making it easy for OTHER people to do work</li>
-                <li>2020 surprise remote conference</li>
                 <li>Be a safety net</li>
-                <li></li>
-                <li></li>
                 <li></li>
             </ul>
             <aside class="notes">
-                conf in May(?) insta=cancelled by covid
-                <br>
                 first commit code of conduct, then rails generate. don't name db table "case", the doma specific term is
                 Case, we hammered out a lot of the db schema up front, and we've built incrementially since then and it
                 shows
                 <br>
-                Why do volunteers- or maintainers- work on these projects? it's been on my mind a lot.
-                <br>
-                the work, and the work includes figuring out what the work is. Community feelings, being part of a
-                group, meeting the kind of people who put time into helping other
-                people
-                The newest batch of Ruby for Good leads started working in Feb 2020 - talking about what we wanted to
-                build, building up a backlog of devvable work
-                The conference got last minute remote-ified and was held remotely in June 2020.
-                I paired with my co-lead Eric on the skeleton of a repo, since casa was brand new. We learned that
-                naming a db table / activerecord model the word “case” makes rails unhappy.
-                Very successful event, built out the majority of what we needed to launch.
-                Later mini-events where entire developer teams volunteered on our codebase were also very helpful
-                Power Home Remodeling https://powerhrg.com/
-                Sean’s work team (designer time is a precious commodity)
             </aside>
         </section>
 
         <section>
-            <h2>CASA as developer vacation destination</h2>
+            <h2>OSS as developer team-building</h2>
             <ul>
                 <li>Power Home Remodeling https://powerhrg.com/</li>
                 <li>Various volunteers' work teams (designer time is a precious commodity)</li>
             </ul>
             <aside class="notes">
+                vacation destination
+                <br>
+                burned down our entire backlog, making a backlog is hard
             </aside>
         </section>
 
         <section>
             <h2>top priorities</h2>
-            <ul>
+            <ol>
                 <li>Don’t give the foster youth’s data to people who shouldn’t have it</li>
-                <li>User friendly to our users, the volunteers, supervisors, and sueprvisors’s bosses admins…</li>
+                <li>User friendly to our users, the volunteers, supervisors, and admins</li>
                 <li>Healthy open source software first stop (need work to do!)</li>
-                <li>merge > not merge</li>
-            </ul>
-            <aside class="notes">
-                As a developer team, we have some very clear priorities
 
-                User friendly to our users, the volunteers, supervisors, and sueprvisors’s bosses admins…
+            </ol>
+            <aside class="notes">
                 Be a place where software developers can make their first open source pull request and feel happy about
                 it. We have to keep a pipeline of work that needs doing in order to serve this need.
-                I would rather merge than not merge. I encourage new TODO
+                I would rather merge than not merge. I encourage new TODO issues and PRs.
 
             </aside>
         </section>
@@ -358,8 +326,8 @@
             <h2>OSS but SAAS (2/2)</h2>
             <p>Software As A Service is fundamentally different from library development</p>
             <ul>
-                <li>*non* technical stakeholders</li>
                 <li>You are holding someone’s data; keep it safe!</li>
+                <li>*non* technical stakeholders</li>
                 <li>customer support??? (+ uptime)</li>
             </ul>
             <aside class="notes">
@@ -374,9 +342,9 @@
             <h2>What do we do that works? (1/x)</h2>
             <ul>
                 <li>topic goodfeels- fewer links in the chain to human impact</li>
-                <li>a nontechnical pitch brings in a solid set of contributors</li>
+                <li>a nontechnical pitch brings in a solid set of technical contributors</li>
                 <li>weekly stakeholder sync keeps inspiration fresh- hearing frontline stories</li>
-                <li>Live-”blog” stakeholder meetings into a slack thread and contributors looking for work sometimes get
+                <li>Live-"blog" stakeholder meetings into a slack thread and contributors looking for work sometimes get
                     started fixing it before you make it into a github issue
                 </li>
             </ul>
@@ -391,88 +359,113 @@
         <section>
             <h2>What do we do that works? (2/x)</h2>
             <ul>
-                <li>Office hours on the same day as stakeholder sync, to follow up on making github issues for requested
-                    features while they’re fresh in mind
-                </li>
-                <li>Weekly “office hours” to hang out & cowork - it really drives the project forward</li>
-                <li>Accept the slow/lean times in between scheduled conferences</li>
-                <li>Hacktoberfest: tickets prep, doing tickets...</li>
+                <li>Weekly: stakeholder sync, office hours (weds), deploy (fri)</li>
+                <li>slow/lean times in between zoom times</li>
                 <li>Multiple maintainers, all mostly in agreement</li>
-                <li>Fast PR merge with friendly comments!!!</li>
+                <li>Fast PR merge with friendly comments!!!✨</li>
             </ul>
             <aside class="notes">
+                Office hours on the same day as stakeholder sync, to follow up on making github issues for requested
+                features while they’re fresh in mind
+                <br>
+                My supportive employer doesn't begrudge me half an hour a week, thank you Parachute
+                <br>
+                Not just coworking but brainstorming
+                <br>
                 Stakeholders send us emails with usage questions
+                <br>
                 Typeform bug reporter that auto-posts to private maintainers slack channel
+                <br>
                 Weekly calls w/ stakeholders (to keep them invested, us motivated, and produce feature requests)
             </aside>
         </section>
         <section>
             <h2>What do we do that works? (3/x)</h2>
             <ul>
-                <li>Slack: R4G slack as central location - easy for current maintainers & multi-project r4g
-                    contributors, crosstalk advice between different project maintainers (+ removing moderator role from
-                    maintainers)
-                </li>
+                <li>Slack: R4G slack as central location</li>
                 <li>Slack: active public channel</li>
                 <li>Slack: maintainer private channel</li>
                 <li>Slack: bot channel for PRs, issues, bugsnag errors, and deploys to show up in</li>
-                <li></li>
-
             </ul>
             <aside class="notes">
+                easy for current maintainers & multi-project r4g contributors, crosstalk advice between different
+                project maintainers (+ removing moderator role from
+                maintainers)
             </aside>
         </section>
         <section>
             <h2>What do we do that works? (4/x)</h2>
-            <p></p>
-            <p></p>
-            <p></p>
-            <p></p>
             <ul>
                 <li>R4G negotiating for OSS credits for *all* projects (heroku, twilio, sendinblue, azure, etc)</li>
                 <li>Leveraging Hacktoberfest (very little spam for us the small fry)</li>
-
                 <li>Easy setup via Docker (optional)</li>
                 <li>A big community of technically capable people who can respond to urgent needs even if they don’t
                     otherwise contribute often (and a way to reach them)
                 </li>
-                <li></li>
-                <li></li>
             </ul>
             <aside class="notes">
             </aside>
         </section>
         <section>
             <h2>What do we do that works? (5/x)</h2>
-            <p></p>
-            <p></p>
-            <p></p>
-            <p></p>
             <ul>
-                <li>Keep everything close together. Eschew extra logins (to another project tracker, to CI) etc- reduces
-                    onboarding issues => more contributors.
-                </li>
-                <li>A big community of technically capable people who can respond to urgent needs even if they don’t
-                    otherwise contribute often (and a way to reach them)
-                </li>
-                <li>Encourage no-github-issue PRs for adding testing, upgrading deps, documentation, other dev chores
-                    (AND make chore issues so people know what needs doing)
-                </li>
-                <li>Checklist for deploying + Checklist includes stakeholder communications</li>
-                <li>Weekly deploys, even if there is very little to deploy - keeping a cadence is key- so if you need to
-                    skip a week, it’s not a big deal
-                </li>
+                <li>Minimum logins</li>
+                <li>Big community for emergencies</li>
+                <li>"chore" issues</li>
+                <li>deploy checklist ✉️</li>
+                <li>Cadence w/ skips</li>
             </ul>
             <aside class="notes">
+                Minimum logins- only github
+                <br>
+                Community - hard bugs, fast fixes
+                <br>
+                Chore issues - tests, refactoring, documents, dependency upgrades
             </aside>
         </section>
 
+        <section>
+            <h2>What do we do that works? (7/x)</h2>
+            <p>Use available tooling! PR templates, Issue templates (multiple & custom) TODO screenshot</p>
+            <pre><code data-trim data-noescape>
+                blank_issues_enabled: false
+                contact_links:
+                - name: Bug report
+                about: 🔨What needs fixing? ✨
+                url: https://github.com/rubyforgood/casa/issues/new?template=bug_report.md&projects=rubyforgood/casa/1
+                - name: 💡Feature request
+                about: 🔨What needs building? ✨
+                url: https://github.com/rubyforgood/casa/issues/new?template=feature_request.md&projects=rubyforgood/casa/1
+                - name: Documentation addition/change
+                about: 🔨What needs documenting? ✨
+                url: https://github.com/rubyforgood/casa/issues/new?template=documentation.md&projects=rubyforgood/casa/1
+                - name: Chore
+                about: 🔨What needs updating or removing? ✨
+                url: https://github.com/rubyforgood/casa/issues/new?template=chore.md&projects=rubyforgood/casa/1
+                - name: Problem Validation
+                about: 🔨Describe a stakeholder's issue✨
+                url: https://github.com/rubyforgood/casa/issues/new?template=problem_validation.md&projects=rubyforgood/casa/1
+                </code></pre>
+            <aside class="notes">
+                New issues auto-assign to the github project - trial and error, never found the docs on it, but url
+                makes sense
+            </aside>
+        </section>
+
+        <section>
+            <h2>What do we do that works? (6/x)</h2>
+            <img src="casa_issue_templates.png" style="max-width:90%;"/>
+            <aside class="notes">
+                New issues auto-assign to the github project - trial and error, never found the docs on it, but url
+                makes sense
+            </aside>
+        </section>
 
         <section>
             <h2>What do we do that works? (6/x)</h2>
             <p>Use available tooling!</p>
             <ul>
-                <li>Basics: PR templates, Issue templates (multiple & custom)</li>
+                <li>Basics: PR templates, Issue templates (multiple & custom) TODO screenshot</li>
                 <li>New issues auto-assign to the github project</li>
                 <li>Free CI however we can get it (farewell Travis, hello Github Actions)</li>
                 <li>Split CI into multiple jobs</li>
@@ -491,31 +484,41 @@
         </section>
 
         <section>
-            <h2>What do we do that doesn’t work? (1/x)</h2>
+            <h2>❌What do we do that doesn’t work? (1/x)</h2>
             <p>Need more making-good-github-issues energy to feed the contributor appetite for small bites. Having a
                 super active PM for the first year of the project was fantastic (thank you Zoe!)</p>
             <aside class="notes">
+                I make issues like please make The Button on The Volunteer Page go to The Right place. Okayyyy.... what?
+                <br>
+                I can't write issues for myself, I need to write issues for the people who want to solve the issues.
+                <br>
+                It is very valuable to have a contributor who writes tickets. I don't care if you call them a PM or a QA
+                or a maintainer or a designer or a team lead, someone has to write the tickets, including key developer
+                chores like
+                test improvements and refactoring.
             </aside>
         </section>
 
         <section>
-            <h2>What do we do that doesn’t work? (2/x)
-                <ul>
-                    <li>import logic (import users, cases - de-dupe)</li>
-                    <li>generated word docs</li>
-                    <li></li>
-                    <li></li>
-                </ul>
-                <aside class="notes">
-                    <p>Bugs happen around the “edges”- for us, file uploads imports file upload logic are a continual
-                        struggle even with lots of tests. Also updating & testing generated word docs - few of us have
-                        word, and the stakeholders really want Word</p>
-
-                </aside>
+            <h2>❌What do we do that doesn’t work? (2/x)</h2>
+            <ul>
+                <li>import logic (import users, cases - de-dupe)</li>
+                <li>generated word docs</li>
+                <li></li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+                Easy to do, hard to get right, few contributors have Word, hardest to get done AND most important to our
+                users
+                <br>
+                Bugs happen around the “edges”- for us, file uploads imports file upload logic are a continual
+                struggle even with lots of tests. Also updating & testing generated word docs - few of us have
+                word, and the stakeholders really want Word
+            </aside>
         </section>
 
         <section>
-            <h2>What do we do that doesn’t work? (3/x)</h2>
+            <h2>❌What do we do that doesn’t work? (3/x)</h2>
             <p>Good testing is a skill not as easy to specify in acceptance criteria as visible functionality</p>
 
             <aside class="notes">
@@ -525,40 +528,25 @@
         </section>
 
         <section>
-            <h2>What do we do that doesn’t work? (4/x)</h2>
-            <p>Getting volunteer feedback is hard, measure what *happens* instead (number contributors…) TODO</p>
-            <p></p>
-            <p></p>
-            <p></p>
-            <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
+            <h2>❌What do we do that doesn’t work? (4/x)</h2>
+            <p>Getting contributor feedback is hard; the people who leave aren't there to answer. Measure what *happens*
+                instead</p>
             <aside class="notes">
+                Number and lifespan of contributors
             </aside>
         </section>
 
 
         <section>
-            <h2>Contributors as an investment vehicle</h2>
-            <p>Retaining and growing your contributors is a good investment - many of ours come in because a friend
-                tells them that we are the kind of project that will help them learn to contribute. Spread the load!</p>
-            <p></p>
-            <p></p>
-            <p></p>
-            <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
+            <p>💡Idea: Contributors as an investment vehicle</p>
             <aside class="notes">
+                Retaining and growing your contributors is a good investment - many of ours come in because a friend
+                tells them that we are the kind of project that will help them learn to contribute. Spread the load!</p>
+                <br>
                 They bring energy, they can grow knowledge
+                <br>
                 You want to get to the point where they can spend their apparently extra time & energy onboarding even
                 more contributors for you + pitching you to their friends
-
             </aside>
         </section>
 
@@ -566,37 +554,29 @@
         <section>
             <h2>Summary</h2>
             <ul>
-                Frequent and regular cadence for your essentials (stakeholder communications and deploys)
-                Redundancies in people- build your flexibility. We have lots of rescuers even when we have very few day
-                to day contributors
-                A safety net / backing organization is wonderful for many reasons, including negotiating on your behalf
-                for free services, + hard-won knowledge
-                Be aware that your purpose as a project (may) be more than making a working tool for some users. Our
-                purpose is also to help people learn how to contribute, and I consider it equally important. I could
-                theoretically (for a while at least) build it all myself but that’s not what I want (time, flexibility,
-                mental health)
-
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>weekly cadence</li>
+                <li>safety net org</li>
+                <li>project priorities: 1. serve stakeholders 2. grow contributors</li>
+                <li>timelines (feast/famine) -> mental health!</li>
             </ul>
             <aside class="notes">
                 Frequent and regular cadence for your essentials (stakeholder communications and deploys)
+                <br>
                 Redundancies in people- build your flexibility. We have lots of rescuers even when we have very few day
                 to day contributors
+                <br>
                 A safety net / backing organization is wonderful for many reasons, including negotiating on your behalf
                 for free services, + hard-won knowledge
+                <br>
                 Be aware that your purpose as a project (may) be more than making a working tool for some users. Our
                 purpose is also to help people learn how to contribute, and I consider it equally important. I could
                 theoretically (for a while at least) build it all myself but that’s not what I want (time, flexibility,
                 mental health)
-
             </aside>
         </section>
 
         <section>
-            <h2>A note on purpose</h2>
+            <h2>📝 A note on purpose</h2>
             <p></p>
             <p></p>
             <p></p>
@@ -620,7 +600,6 @@
                 people who want to show up and figure it out, a good readme so people *can* figure it out, issues that
                 explain what needs doing using url&screenshot&login rather than domain terms that new contributors won’t
                 know
-
             </aside>
         </section>
 
@@ -629,32 +608,36 @@
             <h2>Send halp</h2>
             <ul>
                 <li>More CASA regions - we're at ~2/1000. We're free and friendly!</li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>PM/QA/design!!!</li>
+                <li>Open github issues!</li>
+                <li>PRs, especially testing & refactoring</li>
             </ul>
+            <p>
+                <small><a href="https://twitter.com/goldlindastein">@goldlindastein</a></small>
+                <small><a href="https://twitter.com/rubyforgood">@rubyforgood</a></small>
+            </p>
+            <p>
+                <small>linda@rubyforgood.org / casa@rubyforgood.org</small>
+            </p>
             <aside class="notes">
                 We want more CASA regions on the platform- if you know someone who volunteers for CASA or is otherwise
                 associated with one, please tell them about us and email us at casa@rubyforgood.org
+                <br>
                 Come contribute as a developer, designer, project manager, or whatever you skills are -- we’ll find you
                 something to do
+                <br>
                 We could *especially* and *always* use more people who are willing to write github issues about the
                 future work we want to do.
+                <br>
                 And of course, we welcome pull requests for new features, refactoring, and improving our test suite.
-
             </aside>
         </section>
 
 
         <section>
             <h2>Questions? twitter/goldlindastein (Gold Linda Stein)</h2>
-            <p>
-                wear a mask, be vaccinated, see you next year ✨
-            </p>
-            <p>
-                many thanks to ...
-            </p>
-            </ul>
+            <small>wear a mask, be vaccinated, see you next year ✨</small>
+            <small>many thanks to: Sean, Zoe, Eric, Jeanine, Shen, Michaela, and MANY more!</small>
             <aside class="notes">
             </aside>
         </section>
