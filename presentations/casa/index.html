@@ -92,7 +92,7 @@
             <aside class="notes">
                 It has ever crossed your mind. You know somebody, you've worked somewhere, you've volunteered somewhere
                 near the concept
-                When I started, I was not very familiar
+                When I started on this project, I was not very familiar
             </aside>
         </section>
 
@@ -116,8 +116,8 @@
                 much worse than those for the general population in earned income, jail time, overall health.
                 <br>
                 I would like to take this moment to point out that I strongly believe that "Housing
-                and health are fundamental human rights" and also a key indicator of a functioning society. Like
-                functional plumbing, which I consider a subset of housing...
+                and health are fundamental human rights" and also a key indicator of a functioning society, a society is
+                formed for the purpose of taking care of its members, especially the most vulnerable
             </aside>
         </section>
 
@@ -135,7 +135,7 @@
             <aside class="notes">
                 It has something to do with the foster care system
                 <br>
-                over 900 regions, one per court county, differences in how exactly he courts do things. volunteers 30hr
+                over 900 regions, one per court county, differences in how exactly the courts do things. volunteers 30hr
                 training + continuing training, sworn in by court, min 2 years, differ by region
                 <br>
                 volunteers: some law students, many retired, very good at being a special advocate, but don't love tech.
@@ -150,7 +150,7 @@
         </section>
 
         <section>
-            <h2>What is CASA? (1/x)</h2>
+            <h2>What is CASA? (2/x)</h2>
             <p style="font-size: 0.7em; text-align: left">
                 "Every child placed in foster care must have court oversight to ensure that both the
                 child’s and the parents’ legal rights are protected until the child reaches a safe, permanent home,
@@ -170,8 +170,15 @@
             <aside class="notes">
                 Head of CASA Montgomery, Francha
                 <br>
-                sworn in by court
+                started in the 70s
                 <br>
+                So to summarize, volunteers unpaid but commited, more than OSS volunteers, supervisors paid employees of
+                the regional CASA, admins (think regional CEO). regional casa hun ttheir own grants. funded by grants.
+                Affiliation groups by state
+                <br>
+                So that's cool, where's the software?
+                <br>
+                RECAP: sworn in by court.
                 volunteers: some law students, many retired, generally don't assume tech savvy
                 <br>
                 volunteer collects all info and summarizes to judge every ~6mo because nobody else does that
@@ -186,8 +193,8 @@
             <h2>Existing processes</h2>
             <ul>
                 <li>CASA volunteer takes notes</li>
-                <li>Court Report .docx</li>
-                <li>Supervisor of volunteers checking status</li>
+                <li>Court Report .docx every 6mo</li>
+                <li>Supervisor of volunteers</li>
                 <li>Grant proposals</li>
                 <li>Mileage reimbursement</li>
             </ul>
@@ -202,16 +209,12 @@
         </section>
 
         <section>
-            <ul>What is Ruby for Good?</ul>
-            <li>
-                A nonprofit writing software for nonprofits (not just CASA!)
-            </li>
-            <li>
-                A friendly place to start doing open source work & learn by doing
-            </li>
-            <li>
-                Conference 2x/yr (east/west coast)
-            </li>
+            <h2>What is Ruby for Good?</h2>
+            <ul>
+                <li>A nonprofit writing software for nonprofits (not just CASA!)</li>
+                <li>A friendly place to start doing open source work & learn by doing</li>
+                <li>Conference 2x/yr (east/west coast)</li>
+            </ul>
             <aside class="notes">
                 A way to get better at creating software in general
                 <br>
@@ -219,7 +222,7 @@
                 for folks in tech regardless of a persons skill level. They also run events where those teams get
                 together to hang out, onboard new volunteers, and jam on their projects.
                 <br>
-                You soudl send me a tweet about it
+                You should send me a tweet about it
             </aside>
         </section>
 
@@ -257,34 +260,40 @@
 
 
         <section>
-            <h2>Planning && Theory</h2>
+            <h2>Planning && Theory (1/x)</h2>
             <ul>
-                Why do volunteers- or maintainers- work on these projects? That's a question with a large variety of
-                answers, and it's been on my mind a lot. I count as a
-                maintainer because I maintain, and for CASA in particular, maintaining is about eighty percent making
-                sure it's easy for other people to do
-                the work, and the work includes figuring out what the work is. Community feelings, being part of a
-                group, meeting the kind of people who put time into helping other
-                people
-                The newest batch of Ruby for Good leads started working in Feb 2020 - talking about what we wanted to
-                build, building up a backlog of devvable work
-                The conference got last minute remote-ified and was held remotely in June 2020.
-                I paired with my co-lead Eric on the skeleton of a repo, since casa was brand new. We learned that
-                naming a db table / activerecord model the word “case” makes rails unhappy.
-                Very successful event, built out the majority of what we needed to launch.
-                Later mini-events where entire developer teams volunteered on our codebase were also very helpful
-                Power Home Remodeling https://powerhrg.com/
-                Sean’s work team (designer time is a precious commodity)
+                <li>Why do volunteers volunteer?</li>
+                <li>- to meet the kind of people who put time into helping other people</li>
+                <li>- credibility / learning / early career resume building</li>
+                <li>- getting started in OSS</li>
+            </ul>
+            <aside class="notes">
+                Why do volunteers- or maintainers- work on these projects? it's been on my mind a lot.
+                <br>
+                OSS has the best marketing team ever, not that there is a marketing team, because all developers know
+                that you should do open source work
+            </aside>
+        </section>
+
+        <section>
+            <h2>Planning && Theory (2/x)</h2>
+            <ul>
+                <li>(my) maintaining ~= 80% making it easy for OTHER people to do work</li>
+                <li>2020 surprise remote conference</li>
+                <li>Be a safety net</li>
+                <li></li>
+                <li></li>
+                <li></li>
             </ul>
             <aside class="notes">
                 conf in May(?) insta=cancelled by covid
                 <br>
-                first commit ode of conduct
+                first commit code of conduct, then rails generate. don't name db table "case", the doma specific term is
+                Case, we hammered out a lot of the db schema up front, and we've built incrementially since then and it
+                shows
                 <br>
-                Why do volunteers- or maintainers- work on these projects? That's a question with a large variety of
-                answers, and it's been on my mind a lot. I count as a
-                maintainer because I maintain, and for CASA in particular, maintaining is about eighty percent making
-                sure it's easy for other people to do
+                Why do volunteers- or maintainers- work on these projects? it's been on my mind a lot.
+                <br>
                 the work, and the work includes figuring out what the work is. Community feelings, being part of a
                 group, meeting the kind of people who put time into helping other
                 people
@@ -297,26 +306,18 @@
                 Later mini-events where entire developer teams volunteered on our codebase were also very helpful
                 Power Home Remodeling https://powerhrg.com/
                 Sean’s work team (designer time is a precious commodity)
-
             </aside>
         </section>
 
         <section>
             <h2>CASA as developer vacation destination</h2>
-            <p>Power Home Remodeling https://powerhrg.com/</p>
-            <p>Sean’s work team (designer time is a precious commodity)</p>
-            <p></p>
-            <p></p>
             <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-                <li></li>
+                <li>Power Home Remodeling https://powerhrg.com/</li>
+                <li>Various volunteers' work teams (designer time is a precious commodity)</li>
             </ul>
             <aside class="notes">
             </aside>
         </section>
-
 
         <section>
             <h2>top priorities</h2>
