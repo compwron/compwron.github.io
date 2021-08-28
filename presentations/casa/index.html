@@ -349,29 +349,6 @@
         </section>
 
         <section>
-            <h2>Hacktoberfest</h2>
-            <p>🎃😱😱🎃</p>
-            <p>
-                <small>
-                    🎃 <a href="https://hacktoberfest.digitalocean.com/">hacktoberfest.digitalocean.com</a>
-                    <br>
-                    😱 <a href="https://blog.domenic.me/hacktoberfest">blog.domenic.me/hacktoberfest</a>
-                </small>
-            </p>
-            <img src="casa_contributions.png" style="max-width:90%;"/>
-            <small>
-                ✨<a href="https://github.com/rubyforgood/casa/graphs/contributors">github.com/rubyforgood/casa/graphs/contributors</a>✨
-            </small>
-            <aside class="notes">
-                hard on big famous projects
-                <br>
-                good for us
-                <br>
-                designer time is a precious commodity
-            </aside>
-        </section>
-
-        <section>
             <h2>our priorities</h2>
             <ol>
                 <li>Data safety 🔒</li>
@@ -507,64 +484,47 @@
                 <li>Bot channel (PRs, issues, errors, deploys)</li>
             </ul>
             <aside class="notes">
+                moderation & invite management <br>
                 easy for current maintainers & multi-project r4g contributors, crosstalk advice between different
                 project maintainers (+ removing moderator role from maintainers)
                 <br>
-                Channel reminders for stakeholder, office hour, deploy, weekly contributor guide, liveblog where possible
+                Channel reminders for stakeholder, office hour, deploy, weekly contributor guide, liveblog where
+                possible
             </aside>
         </section>
+
+
+
         <section>
-            <h2>What do we do that works? ✅ (x/x)</h2>
+            <p>✅ Github</p>
             <ul>
-                <li>R4G negotiating for OSS credits for *all* projects (heroku, twilio, sendinblue, azure, etc)</li>
-                <li>Leveraging Hacktoberfest (very little spam for us the small fry)</li>
-                <li>Easy setup via Docker (optional)</li>
-                <li>A big community of technically capable people who can respond to urgent needs even if they don’t
-                    otherwise contribute often (and a way to reach them)
-                </li>
+                <li>Fast PR merge !!!</li>
+                <li>Dependabot 💖</li>
+                <li>Project management 📊</li>
+                <li>CI (farewell Travis 😭)</li>
+                <li>Workflows <br><small>(auto-close, auto-comment, auto-unassign)</small></li>
+                <li>PR templates</li>
+                <li>Issue templates</li>
             </ul>
             <aside class="notes">
-            </aside>
-        </section>
-        <section>
-            <h2>What do we do that works? ✅ (x/x)</h2>
-            <ul>
-                <li>Minimum logins</li>
-                <li>Big community for emergencies</li>
-                <li>"chore" issues</li>
-                <li>deploy checklist ✉️</li>
-                <li>Cadence w/ skips</li>
-            </ul>
-            <aside class="notes">
-                Minimum logins- only github
+                Fast merge keeps contributors with you. Follow-up PRs. Maintainer merge
                 <br>
-                Community - hard bugs, fast fixes
+                Workflows to reduce *emotional* labor of unassigning abandoned issues. Workflows to redeuce *manual* labor of labels & board
                 <br>
-                Chore issues - tests, refactoring, documents, dependency upgrades
+                Split CI into many parallel chunks
             </aside>
         </section>
 
         <section>
-            <h2>What do we do that works? ✅ (x/x)</h2>
-            <p>Use available tooling! PR templates, Issue templates (multiple & custom) TODO screenshot</p>
+            <p>✅ Issue templates</p>
             <pre><code data-trim data-noescape>
                 blank_issues_enabled: false
                 contact_links:
                 - name: Bug report
                 about: 🔨What needs fixing? ✨
-                url: https://github.com/rubyforgood/casa/issues/new?template=bug_report.md&projects=rubyforgood/casa/1
-                - name: 💡Feature request
-                about: 🔨What needs building? ✨
-                url: https://github.com/rubyforgood/casa/issues/new?template=feature_request.md&projects=rubyforgood/casa/1
-                - name: Documentation addition/change
-                about: 🔨What needs documenting? ✨
-                url: https://github.com/rubyforgood/casa/issues/new?template=documentation.md&projects=rubyforgood/casa/1
-                - name: Chore
-                about: 🔨What needs updating or removing? ✨
-                url: https://github.com/rubyforgood/casa/issues/new?template=chore.md&projects=rubyforgood/casa/1
-                - name: Problem Validation
-                about: 🔨Describe a stakeholder's issue✨
-                url: https://github.com/rubyforgood/casa/issues/new?template=problem_validation.md&projects=rubyforgood/casa/1
+                url: https://github.com/rubyforgood/casa/issues/new?
+                  template=bug_report.md&
+                  projects=rubyforgood/casa/1
                 </code></pre>
             <aside class="notes">
                 New issues auto-assign to the github project - trial and error, never found the docs on it, but url
@@ -573,41 +533,127 @@
         </section>
 
         <section>
-            <h2>What do we do that works? ✅ (x/x)</h2>
             <img src="casa_issue_templates.png" style="max-width:90%;"/>
             <aside class="notes">
                 New issues auto-assign to the github project - trial and error, never found the docs on it, but url
-                makes sense
+                makes sense. Projects can do this on its own now also.
             </aside>
         </section>
 
         <section>
-            <h2>What do we do that works? ✅ (x/x)</h2>
-            <p>Use available tooling!</p>
+            <p>✅ Deployment</p>
             <ul>
-                <li>Basics: PR templates, Issue templates (multiple & custom) TODO screenshot</li>
-                <li>New issues auto-assign to the github project</li>
-                <li>Free CI however we can get it (farewell Travis, hello Github Actions)</li>
-                <li>Split CI into multiple jobs</li>
-                <li>Github bot to auto-tag with what's in the PR (ruby, js, db) for easier reviewing prioritzation</li>
-                <li>(controversial) Fast PR merge!!! Draws in contributors, keeps them engaged, and encourage follow-up
-                    PRs
-                </li>
-                <li>To enable fast merge, qa -> staging -> prod 3 envs for safety (+ extra db/data migration testing
-                    env)
-                </li>
+                <li>deploy checklist ✉️</li>
+                <li>PR merge -> auto-deploys to QA 🛺</li>
+                <li>Manual deploy to staging</li>
+                <li>Heroku scheduler 🕒</li>
+                <li>Papertrail (logs) 📄</li>
+                <li>Bugsnag 🐞</li>
+                <li>Manual button deploy to prod 🚀</li>
+                <li>DB backups 📀</li>
             </ul>
             <aside class="notes">
-                New issues auto-assign to the github project - trial and error, never found the docs on it, but url
-                makes sense
+                deploy to staging shortly before prod- a chance to see migrations and data migrations run together realistically rather than piecemeal
+                <br>
+                scheduler- rake tasks- weekly emails, data checking
             </aside>
         </section>
 
         <section>
-            <h2>❌What do we do that doesn’t work? (1/x)</h2>
-            <p>Need more making-good-github-issues energy to feed the contributor appetite for small bites. Having a
-                super active PM for the first year of the project was fantastic (thank you Zoe!)</p>
+            <p>✅ Code</p>
+            <ul>
+                <li>Test LOTS</li>
+                <li>Limit JS</li>
+                <li>Dependencies: stay basic and picky (devise, pundit, draper, bootstrap, factorybot, letter_opener)</li>
+                <li>Docker or not 🐋</li>
+                <li>Android app!</li>
+            </ul>
             <aside class="notes">
+                <br>
+            </aside>
+        </section>
+
+        <section>
+            <p>✅ Fast PR merge!!!</p>
+            <ul>
+                <li>Retention & growth 🌱 📈 ✨</li>
+                <li>Merge as deployment (library/language) vs deployment as deployment (SaaS)</li>
+                <li>Deployment pipeline = safety net ⚽️ 🥅</li>
+                <li>Test LOTS 👨‍👩‍👧‍👦</li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+                New contributors often want to learn how to test!
+                <br>
+            </aside>
+        </section>
+
+
+        <section>
+            <p>✅ Ruby for Good Conferences</p>
+            <ul>
+                <li>New friends!</li>
+                <li>Deep direction setting work</li>
+                <li>Speedrun onboarding</li>
+            </ul>
+            <aside class="notes">
+                TODO fill this in more during r4g??
+                <br>
+                Next: hacktoberfest aaaaa
+            </aside>
+        </section>
+
+        <section>
+            <h2>✅ Hacktoberfest</h2>
+            <p>🎃😱😱🎃</p>
+            <p>
+                <small>
+                    🎃 <a href="https://hacktoberfest.digitalocean.com/">hacktoberfest.digitalocean.com</a>
+                    <br>
+                    😱 <a href="https://blog.domenic.me/hacktoberfest">blog.domenic.me/hacktoberfest</a>
+                </small>
+            </p>
+            <img src="casa_contributions.png" style="max-width:90%;"/>
+            <small>
+                ✨<a href="https://github.com/rubyforgood/casa/graphs/contributors">github.com/rubyforgood/casa/graphs/contributors</a>✨
+            </small>
+            <aside class="notes">
+                hard on big famous projects
+                <br>
+                good for us
+                <br>
+                designer time is a precious commodity
+            </aside>
+        </section>
+
+
+        <section>
+            <p>✅ Community</p>
+            <ul>
+                <li>R4G negotiating for OSS credits for *all* projects (heroku, twilio, sendinblue, azure, etc)</li>
+                <li>Cross-project help squad</li>
+                <li></li>
+            </ul>
+            <aside class="notes">
+                Big community for emergencies. A big community of technically capable people who can respond to urgent needs even if they don’t
+                otherwise contribute often (and a way to reach them)
+            </aside>
+        </section>
+
+
+        <section>
+            <p>❌What do we do that doesn’t work? (1/x)</p>
+            <aside class="notes">
+            </aside>
+        </section>
+
+        <section>
+            <p>❌ More issues, please!</p>
+            <p>Small bites 🍪</p>
+            <aside class="notes">
+                Need more making-good-github-issues energy to feed the contributor appetite for small bites. Having a
+                super active PM for the first year of the project was fantastic (thank you Zoe!)
+                <br>
                 I make issues like please make The Button on The Volunteer Page go to The Right place. Okayyyy.... what?
                 <br>
                 I can't write issues for myself, I need to write issues for the people who want to solve the issues.
