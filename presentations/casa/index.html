@@ -699,7 +699,7 @@
                 <li>Test LOTS</li>
                 <li>Limit javascript</li>
                 <li>Dependencies: stay basic and picky <small>e.g. devise, pundit, draper, bootstrap, factorybot,
-                    letter_opener</small>
+                    letter_opener, sablon</small>
                 </li>
                 <li>Stick to rails standards</li>
                 <li>Standardrb linting</li>
@@ -983,6 +983,126 @@
                 code plz
             </aside>
         </section>
+
+
+        <section>
+            <pre>
+                <code data-trim data-noescape>
+                  # seed realistic case numbers
+                  def generate_case_number
+                    # CINA-YY-XXXX
+                    years = ((DateTime.now.year - 20)..DateTime.now.year).to_a
+                    yy = years.sample(random: rng).to_s[2..3]
+                    @case_number_sequence += 1
+                    "CINA-#{yy}-#{@case_number_sequence}"
+                  end
+                </code>
+            </pre>
+            <aside class="notes">
+                code plz
+            </aside>
+        </section>
+        <section>
+            <pre>
+                <code data-trim data-noescape>
+                    ### What github issue is this PR for, if any?
+                    Resolves #2XXX
+                    ### What changed, and why?
+                    ### How will this affect user permissions?
+                    - Volunteer permissions:
+                    - Supervisor permissions:
+                    - Admin permissions:
+                    ### How is this tested? (please write tests!) 💖💪
+                    ### Screenshots please :)
+                    ### Feelings gif (optional)
+                    What gif best describes your feeling working on this issue? https://giphy.com/
+                    How to embed:
+                    `![alt text](https://media.giphy.com/media/1nP7ThJFes5pgXKUNf/giphy.gif)`
+                </code>
+            </pre>
+            <aside class="notes">
+            </aside>
+        </section>
+
+        <section>
+            <pre>
+                <code data-trim data-noescape>
+                    gem "after_party" # post-deployment tasks
+                    gem "amazing_print" # easier console reading
+                    gem "azure-storage-blob", require: false
+                    gem "bootsnap", ">= 1.4.2", require: false # Reduces boot times through caching; required in config/boot.rb
+                    gem "bugsnag" # tracking errors in prod
+                    gem "devise" # for authentication
+                    gem "devise_invitable"
+                    gem "draper" # adds decorators for cleaner presentation logic
+                    gem "faker" # creates realistic seed data, valuable for staging and demos
+                    gem "filterrific" # filtering and sorting of models
+                    gem "image_processing", "~> 1.12" # Set of higher-level helper methods for image processing.
+                    gem "jbuilder", "~> 2.11" # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
+                    gem "lograge" # log less so heroku papertrail quits rate limiting our logs
+                    gem "noticed" # Notifications
+                </code>
+            </pre>
+            <aside class="notes">
+                code plz
+            </aside>
+        </section>
+
+
+        <section>
+            <pre>
+                <code data-trim data-noescape>
+                    gem "paper_trail" # tracking changes
+                    gem "paranoia", "~> 2.2" # For soft-deleting purpose
+                    gem "pg", ">= 0.18", "< 2.0" # Use postgresql as the database for Active Record
+                    gem "puma", "~> 5.4" # Use Puma as the app server
+                    gem "pundit" # for authorization management - based on user.role field
+                    gem "rack-attack" # for blocking & throttling abusive requests
+                    gem "request_store"
+                    gem "sablon" # Word document templating tool for Case Court Reports
+                    gem "skylight" # automated performance testing https://www.skylight.io/
+                    gem "webpacker", "~> 5.4" # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
+                </code>
+            </pre>
+            <aside class="notes">
+                code plz
+            </aside>
+        </section>
+
+        <section>
+            <img src="casa_heroku.png" style="max-width:100%;">
+            <aside class="notes">
+                code plz
+            </aside>
+        </section>
+        <section>
+            <pre>
+                <code data-trim data-noescape>
+                </code>
+            </pre>
+            <aside class="notes">
+                code plz
+            </aside>
+        </section>
+        <section>
+            <pre>
+                <code data-trim data-noescape>
+                </code>
+            </pre>
+            <aside class="notes">
+                code plz
+            </aside>
+        </section>
+        <section>
+            <pre>
+                <code data-trim data-noescape>
+                </code>
+            </pre>
+            <aside class="notes">
+                code plz
+            </aside>
+        </section>
+
 
     </div>
 
