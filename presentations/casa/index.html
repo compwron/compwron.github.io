@@ -264,9 +264,6 @@
         </section>
         <section>
             <h2>Volunteer retention</h2>
-            <p>
-                volunteer - supervisor communication
-            </p>
             <ol>
                 <li>✨ volunteer - supervisor communication 1️⃣</li>
                 <li>📞 volunteer - supervisor communication 2️⃣</li>
@@ -301,7 +298,7 @@
         </section>
 
         <section>
-            <h2>Ruby for Good -> CASA</h2>
+            <h2>💎❤️ Ruby for Good -> CASA</h2>
             <ul>
                 <li>A former Prince George CASA volunteer joined Ruby for Good</li>
                 <li>December 2019 - conference signup!</li>
@@ -522,7 +519,6 @@
             </table>
 
             <aside class="notes">
-                TODO titles of all subsequent slides
                 This is custom advice. It may not apply to your situation.
             </aside>
         </section>
@@ -655,12 +651,21 @@
                 leads channel, discussing project access control, potentially sensitive end user bug reports
             </aside>
         </section>
+        <section>
+            <p>✅ Continuous Integration</p>
+            <p>
+                <img src="casa-ci.png">
+            </p>
+            <aside class="notes">
+                Continuous integration split into named build sections
+            </aside>
+        </section>
 
 
         <section>
             <p>✅ GitHub</p>
             <ul>
-                <li>Continuous integration in named sections</li>
+                <li>Continuous integration split into named build sections</li>
                 <li>Dependabot 💖</li>
                 <li>Project management 📊</li>
                 <li>Workflows <br><small>(auto-comment, auto-unassign) via github actions</small></li>
@@ -806,7 +811,6 @@
             </table>
 
             <aside class="notes">
-                TODO titles of all subsequent slides
                 This is custom advice. It may not apply to your situation.
             </aside>
         </section>
@@ -878,6 +882,33 @@
                 networking from us, this is great, this is the point.
                 <br>
                 Number and lifespan of contributors
+            </aside>
+        </section>
+
+        <section>
+            <h2>We will work on</h2>
+            <p>📈 💪 😅 🛠</p>
+            <table>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Lots of issues</li>
+                            <li>Data Import/Export w/ .docx</li>
+
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>Testing</li>
+                            <li>Getting feedback</li>
+                        </ul>
+                    </td>
+                </tr>
+            </table>
+
+            <aside class="notes">
+                We have lots of fun and interesting work to do. If this work sounds like good work to you, come and
+                bring your friends and coworkers
             </aside>
         </section>
 
@@ -1021,17 +1052,24 @@
             <pre>
                 <code data-trim data-noescape>
                   # seed realistic case numbers
+                  @case_number_sequence = 1000
+                  CASE_TYPES = ["CINA", "TPR", ""]
                   def generate_case_number
-                    # CINA-YY-XXXX
+                    # CINA-YY-XXXX Child In Need of Assistance
+                    # TPR-YY-XXXX Termination of Parental Rights
                     years = ((DateTime.now.year - 20)..DateTime.now.year).to_a
                     yy = years.sample(random: rng).to_s[2..3]
                     @case_number_sequence += 1
-                    "CINA-#{yy}-#{@case_number_sequence}"
+                    "#{CASE_TYPES.sample(random: rng)}-#{yy}-#{@case_number_sequence}"
                   end
                 </code>
             </pre>
             <aside class="notes">
-                code plz
+                Case numbers are meaningful. When we show data to our Subject Matter Experts, SMEs, it's important that
+                the data be realistic because many SMEs are hyper-sensitive to invalid or unrealistic data. For example,
+                occasionally one of our users points out that in our test data, a case with a number starting in 00
+                should have emancipated by now, and a case with a YY field of 20 cannot reasonably be a transition aged
+                youth because they are 1 year old, not a teenager.
             </aside>
         </section>
         <section>
@@ -1053,6 +1091,7 @@
                 </code>
             </pre>
             <aside class="notes">
+                A balance between too much and too little - too much work
             </aside>
         </section>
 
@@ -1076,7 +1115,6 @@
                 </code>
             </pre>
             <aside class="notes">
-                code plz
             </aside>
         </section>
 
@@ -1097,14 +1135,13 @@
                 </code>
             </pre>
             <aside class="notes">
-                code plz
             </aside>
         </section>
 
         <section>
             <img src="casa_heroku.png" style="max-width:100%;">
             <aside class="notes">
-                code plz
+                Our pipeline and safety net- looks a lot like Jenkins if you squint.
             </aside>
         </section>
         <section>
