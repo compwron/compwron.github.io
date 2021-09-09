@@ -1157,7 +1157,7 @@
                   # seed realistic case numbers
                   @case_number_sequence = 1000
                   CASE_TYPES = ["CINA", "TPR", ""]
-                  def generate_case_number
+                  def generate_case_number # format different per region! PG CASA
                     # CINA-YY-XXXX Child In Need of Assistance
                     # TPR-YY-XXXX Termination of Parental Rights
                     years = ((DateTime.now.year - 20)..DateTime.now.year).to_a
