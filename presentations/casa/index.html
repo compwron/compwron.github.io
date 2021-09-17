@@ -63,13 +63,15 @@
             <aside class="notes">
                 I have been a developer since 2010. For a while I was a consultant, I've worked in a variety of
                 industries, and now I work in healthtech.
-                I have figured out what I want to do with the rest of my life, which by the way is terrifying- I plan to
-                spend my foreseeable years taking my revenge upon the USA healthcare system by trying to improve it.
+                I work in healthtech because I have figured out what I want to do with the rest of my life, which by the
+                way is terrifying- I plan to spend my foreseeable future taking my revenge upon the USA healthcare
+                system
+                by trying to improve it.
                 <br>
                 My open-source-supportive employer is Parachute Health, which helps patients get their prescribed
-                Durable Medical Equipment like wheelchairs and CPAPs
+                Durable Medical Equipment like wheelchairs and CPAPs.
                 <br>
-                I have been a lead on this CASA project since it started in 2019.
+                I have been a lead on the CASA project since it started in 2019.
             </aside>
         </section>
 
@@ -83,6 +85,11 @@
             <p style="text-align: left">The Ruby for Good CASA project ✨🛠 is software written by Ruby for Good to help
                 CASA</p>
             <aside class="notes">
+                CASA is a nonprofit which trains volunteers to help foster youth
+                <br>
+                Ruby for Good️ is a nonprofit which builds software for other nonprofits
+                <br>
+                The Ruby for Good CASA project is software written by Ruby for Good to help CASA
             </aside>
         </section>
 
@@ -113,21 +120,21 @@
                 who serve foster youth
             </p>
             <aside class="notes">
-                We are talking about a specific project and lessons learned - like a case study. I like case studies.
-                If you do not like case studies, you will be sad.
+                This talk is about creating an ecosystem for writing open source software specifically software as a
+                service open source software to serve volunteers who serve foster youth
             </aside>
         </section>
 
         <section>
             <h2>Foster youth?</h2>
             <aside class="notes">
-                So, who has any idea what I'm talking about, step one
+                (next slide)
             </aside>
         </section>
         <section>
             <h2>raise your hand if</h2>
             <aside class="notes">
-                So, who has any idea what I'm talking about, step one
+                (next slide)
             </aside>
         </section>
         <section>
@@ -136,10 +143,10 @@
                 you have ever thought about the USA foster care system
             </p>
             <aside class="notes">
-                Foster Care - It has ever crossed your mind. You know somebody, you've worked somewhere, you've
-                volunteered somewhere
-                near the concept
-                When I started on this project, I was not very familiar
+                Have you heard of foster care? Thank you, you can put your hands down.
+                <br>
+                Many people know somebody, have worked somewhere, have volunteered somewhere, have read something about
+                the foster care system. When I started on this project, I was not very familiar with it. An overview-
             </aside>
         </section>
 
@@ -149,8 +156,7 @@
             <ul>
                 <li>I am not an expert</li>
                 <li>Details differ per state</li>
-                <li>440,000 children are in foster care on any given day*
-                </li>
+                <li>440,000 youth are in foster care on any given day*</li>
                 <li>Youth 0-18/21 not under original parental guardianship</li>
                 <li>Outcomes: reunification/guardianship OR adoption OR emancipation (aging out)</li>
                 <small>
@@ -164,13 +170,18 @@
                     <li><a href="https://www.acf.hhs.gov/cb/research-data-technology/statistics-research/afcars">hhs.gov
                         care metrics</a></li>
                     <li><a href="https://cwoutcomes.acf.hhs.gov/cwodatasite/">hhs.gov outcomes metrics</a></li>
+                    <li>
+                        <a href="https://www.childtrends.org/wp-content/uploads/2017/09/Transition-Age-Youth_United-States.pdf">childtrends.org</a>
+                    </li>
                 </small>
             </ul>
             <aside class="notes">
-                Over four hundred thousand youth in the foster care system on any day- many come and go as their cases
-                are resolved.
+                Details differ per state but there are over four hundred thousand youth in the foster care system on any
+                given day.
                 <br>
-                I've added links below if you want to learn more.
+                These youth are ages zero thru eighteen or twenty-one - depending on circumstances- who are not under
+                their original parental guardianship. A youth exits foster care through reunification OR adoption OR
+                emancipation. You can learn more from the links here.
             </aside>
         </section>
 
@@ -765,17 +776,13 @@
         </section>
 
         <section>
-            <p>Pull Request Template</p>
+            <p>Issue Templates</p>
             <img src="casa_issue_templates.png" style="max-width:90%;"/>
             <aside class="notes">
-                Building a PR template is an art
+                Emoji I have been here! Building a template is an art
                 This is built of the best pieces of many excellent artifacts.
-                We want the minimum that will make for better PRs. Guide without discouraging new contributors
-                <br>
-                Having a bug issue type separate from feature request is useful emotionally to new contributors looking
-                for small bites, and for people who feel a strong urge to classify things.
-                Chores refactoring, adding more tests
-                <br>
+                We want the minimum that will make for better user contributions. Guide without discouraging new
+                contributors
             </aside>
         </section>
 
@@ -795,7 +802,8 @@
             </ul>
             <aside class="notes">
                 deploy to staging shortly before prod- a chance to see migrations and data migrations run together
-                realistically rather than piecemeal.
+                realistically rather than piecemeal. Because code that deployed together successfully does not always
+                deploy successfully together.
                 <br>
                 scheduler- rake tasks- monday mornign email summary to supervisors
             </aside>
@@ -833,12 +841,13 @@
                 <li>Test LOTS 💯</li>
             </ul>
             <aside class="notes">
-                Fast merge, ppl stick around because they feel their work is valued. Contributor stickiness i.e.
-                retention. Cultural expectation when a PR is merged but with some comments on style and testing is to
+                Fast merge, increases contributor stickiness. People stick around because they feel their work is
+                valued.
+                Cultural expectation when a PR is merged but with some comments on style and testing is to
                 open a new PR addressing those comments
                 <br>
                 Lead merges, improves velocity and reduces chances of conflicts. Started during onsite conferences,
-                continued because we like the way it feels.
+                continued because we like the way it feels. Not all r4g projects do that, just us.
                 <br>
                 merge is safe because our deployment pipeline gates between merge and production
                 <br>
@@ -1080,7 +1089,9 @@
             <h2>Tips recap 💡</h2>
             <ul>
                 <li>When you want users to upload a spreadsheet, provide a downloadable sample spreadsheet</li>
-                <li>Use github workflows to automate polite stale issue un-assignment to replace maintainer emotional labor</li>
+                <li>Use github workflows to automate polite stale issue un-assignment to replace maintainer emotional
+                    labor
+                </li>
                 <li>PRs that each deployed cleanly may not deploy cleanly together</li>
             </ul>
             <aside class="notes">
