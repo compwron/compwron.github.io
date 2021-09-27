@@ -873,7 +873,8 @@
             <p>Issue Templates</p>
             <img src="casa_issue_templates.png" style="max-width:90%;"/>
             <aside class="notes">
-                Emoji I have been here! Building a template is an art
+                You can tell by the emoji that I have been here!
+                Building a template is an art
                 This is built of the best pieces of many excellent artifacts.
                 We want the minimum that will make for better user contributions.
                 We want to guide new contributors without discouraging them
@@ -895,11 +896,16 @@
                 <li>Bugsnag 🐞</li>
             </ul>
             <aside class="notes">
-                deploy to staging shortly before prod- a chance to see migrations and data migrations run together
-                realistically rather than piecemeal. Because code that deployed together successfully does not always
-                deploy successfully together.
+                When a PR is merged, it automatically deploys to the QA environment.
+                Then there is a button in heroku to press to manually deploy to staging, and from there to prod.
                 <br>
-                scheduler- rake tasks- monday mornign email summary to supervisors
+                Deploying to staging shortly before prod gives us a chance to see migrations and data migrations run
+                together realistically rather than piecemeal. Because code that deployed together successfully does not
+                always deploy successfully together.
+                <br>
+                We have a deploy checklist, which includes checking on db backups and email bounce rates.
+                We have a few cronjobs to do things like send a monday morning email to each supervisor telling them
+                everything their volunteers have done that week
             </aside>
         </section>
 
