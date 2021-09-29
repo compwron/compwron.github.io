@@ -852,14 +852,14 @@
             <p>✅ GitHub permissions</p>
             <ul>
                 <li>Protect your main branch!</li>
-                <li>Branches vs forks</li>
-                <li>Forks vs branches</li>
+                <li>Branches - maintainer-merger convenience</li>
+                <li>Forks - more educational</li>
             </ul>
             <aside class="notes">
                 No one should be able to force-push to your main branch. If you really need to, remove the permission
                 blockage, do the needful, and then put your protective gear back on.
                 <br>
-                We prefer branching over forking because that makes it easy for a maintainer to push to a branch to
+                I prefer contributors to branch rather than forking when possible because that makes it easy for a maintainer to push to a branch to
                 clean up PR issues pre-merge. In order to enable branching over forking, we give excessive permissions
                 to contributors who made made a fwe PRs or come to office hours.
                 <br>
@@ -930,7 +930,8 @@
                 <br>
                 To reduce conceptual complexity, we try to minimize our javascript and rely on server-side rendering.
                 <br>
-                Our readme is very important to help new contributors understand the value and setup flow of the project.
+                Our readme is very important to help new contributors understand the value and setup flow of the
+                project.
                 Minimum configuration, maximum predictability, test everything, value refactoring.
                 We have a docker development environment, which runs in CI but not everyone uses locally
             </aside>
@@ -1059,27 +1060,37 @@
         </section>
 
         <section>
-            <p>❌ System edges</p>
+            <p>❌ System edges - Import</p>
+            <p><small>(table-based data) </small></p>
             <ul>
-                <li>Import
-                    <ul>
-                        <li>override? 🔨</li>
-                        <li>de-duplicate? 🤦🏻</li>
-                        <li>partial error? 🛑 ➡️ 🛑 ↩️</li>
-                        <li>rollback? ⏮</li>
-                    </ul>
-                </li>
-                <li>Export data filters 🌪️</li>
-                <li>Generate user-customizable templated .docx 📄 (Sablon)</li>
+                <li>Volunteers, cases, supervisors, and the <b>linkages between them</b></li>
+                <li>Override existing data by unique key? 🔨</li>
+                <li>De-duplicate duplicate rows? 🤦🏻</li>
+                <li>Partial error - row 1 succeeds, row 2 fails 🛑 ➡️ 🛑 ↩️</li>
+                <li>Row dependencies- row 3 references row 2 and 1. Keep it? ⏭⏮</li>
+                <li>Display per-row errors 🛠</li>
             </ul>
             <aside class="notes">
-                Import is easy to do, hard to get right, few contributors have Word, hardest to get done AND most
-                important to our
-                users
-                <br>
-                Bugs happen around the “edges”- for us, data imports are a continual struggle even with lots of tests.
-                Also generated Word docs - few of us have Word, and the stakeholders really want Word
-                TODO maybe split?
+                What do we import? Volunteers, cases, supervisors, and the linkages between them.
+                Bugs happen around the edges- for us, data imports are a continual struggle even with lots of tests.
+                Import is easy to do, hard to get right.
+            </aside>
+        </section>
+
+        <section>
+            <p>❌ System edges - Export</p>
+            <ul>
+                <li>Word documents are hard</li>
+                <li>User supplied court report template format with header logo (one per CASA organization, + a
+                    default)
+                </li>
+                <li>User-created data (case contacts)</li>
+                <li>Slice and dice date-based data</li>
+                <li>Yay <a href="https://github.com/senny/sablon">sablon</a> (rubygem)</li>
+            </ul>
+            <aside class="notes">
+                Stakeholders need Word. Not many contributors have it. Nice formatting in something you can't see is
+                hard.
             </aside>
         </section>
 
@@ -1094,6 +1105,7 @@
                 <li>Verbal history</li>
             </ul>
             <p>It's never enough</p>
+            <p><small>I don't think we can fix this</small></p>
             <aside class="notes">
                 All projects have this issue and we do too
             </aside>
@@ -1159,38 +1171,20 @@
 
 
         <section>
-            <p>💡 Encouraged contributors 💡</p>
-            <p>💡 Become strong contributors 💡</p>
+            <p>💡 Encouraged contributors... 💡</p>
+            <p>💡 ...become strong contributors 💡</p>
             <aside class="notes">
                 Many of our contributors come in because a friend tells them that we are the kind of project that will
                 let them work!
                 <br>
                 Contributors bring Energy. They can Grow knowledge. They can spend their apparently extra time & energy
-                onboarding even
-                more contributors for you + pitching you to their friends
+                onboarding even more contributors for you + pitching you to their friends
                 <br>
-                How do you encourage? Say the words "you can do it! you got this! slack the channel with questions!"
+                How do you encourage someone? Say the words "you can do it! You got this! That idea sounds good, please
+                do it."
             </aside>
         </section>
 
-        <section>
-            <h2>Summary</h2>
-            <ul>
-                <li>Multi-level safety nets 🥅⚽️</li>
-                <li>Project goals: <b>serve stakeholders</b> 📈 and <b>grow contributors</b> 🌱</li>
-                <li>Weekly cadence 📅</li>
-                <li>Ebbs and flows of intensity -> sustainable maintainership</li>
-            </ul>
-            <aside class="notes">
-                Safety allows people to move faster. Backing org helps with negotiating on your behalf
-                for free services, + hard-won knowledge
-                <br>
-                Frequent and regular cadence for your essentials (stakeholder communications and deploys)
-                <br>
-                Redundancies in people- build your flexibility. We have lots of rescuers even when we have very few day
-                to day contributors
-            </aside>
-        </section>
         <section>
             <h2>Tips 💡</h2>
             <ul>
@@ -1199,6 +1193,9 @@
                     labor
                 </li>
                 <li>PRs that each deployed cleanly may not deploy cleanly together</li>
+                <li>Word documents save edit history- check for sensitive info <b>before</b> attaching one to a github
+                    issue
+                </li>
             </ul>
             <aside class="notes">
             </aside>
@@ -1219,13 +1216,30 @@
             </aside>
         </section>
 
+        <section>
+            <h2>Summary - what I know now</h2>
+            <ul>
+                <li>Multi-level safety nets 🥅⚽️</li>
+                <li><b>Serve stakeholders</b> 📈 and <b>grow contributors</b> 🌱</li>
+                <li>Strong cadence 📅</li>
+                <li>Sustainable maintainership requires rest and a community (for me)</li>
+            </ul>
+            <aside class="notes">
+                Safety nets like multiple maintainers, a deployment pipeline, lots of tests, a backing organization like
+                ruby for good, cross-talk with other projects. Safety nets allows people to move faster.
+                <br>
+                Clear priorities reduce total effort. talk about why you do things like have a deployment pipeline, or
+                why you have specifically Word docs. Arbitrary decisions and requirements are a transparency problem.
+                <br>
+                Cadence and breaks are key (for me). Your mileage may vary. Multiple maintainers are great to have.
+            </aside>
+        </section>
 
         <section>
             <h2>Send halp</h2>
             <ol>
-                <li>More CASA regions - we're at ~4/900+ <br>We're free and friendly!</li>
-                <li>PM, QA, design!!! 📊 🛠 🎨</li>
-                <li>Open github issues! 💯</li>
+                <li>More CASA regional organizations - we're at ~4/900+ <br>We're free and friendly!</li>
+                <li>PM, QA, design!!! 📊 🐞 🎨</li>
                 <li>PRs, especially testing & refactoring 🍦</li>
             </ol>
             <p>
@@ -1426,7 +1440,15 @@
         </section>
 
         <section>
-            <p>maintainer selection</p>
+            <p>Our maintainer selection</p>
+            <ul>
+                <li>Informal</li>
+                <li>Do work</li>
+                <li>Get invited</li>
+                <li>Get permissions</li>
+                <li>Do more work</li>
+                <li>...maybe we should change this?</li>
+            </ul>
             <aside class="notes">
                 Informal
             </aside>
