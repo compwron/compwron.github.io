@@ -5,8 +5,9 @@ tags:
  -
 ---
 
-
 [Delayed::Job](https://github.com/collectiveidea/delayed_job) is a currently unmaintained library (last updated Dec 2020)
+
+Ditto for `Delayed::RecurringJob` [https://github.com/amitree/delayed_job_recurring](https://github.com/amitree/delayed_job_recurring) (last updated June 2020)
  
 `Delayed::Job` gets stuck sometimes. 
 
@@ -15,7 +16,11 @@ We started noticing problems related to DelayedJob around the time we were makin
 
 The fix to our problems as far as we can tell was to remove a slow regex from some logging which happens inside a particular DelayedJob, which was not timing out but was getting "stuck" i.e. not failed but not running, for hours and days. We suspect resource contention issues somehow.
 
-  
+We expect `Delayed::Job` and `Delayed::Recurring` to break on rails 7 which is [currently in alpha](https://weblog.rubyonrails.org/2021/9/17/this-week-in-rails-rails-7-alpha-released/). given that we generally upgrade as soon as a stable version comes out, this is something we need to plan for. 
+
+We have 40+ DelayedJob jobs 
+
+
 Some links that I suspect I will be reading closely sometime this year
 
 1. [https://stackshare.io/delayed_job/alternatives](https://stackshare.io/delayed_job/alternatives)
