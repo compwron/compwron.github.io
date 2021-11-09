@@ -17,7 +17,7 @@ Integrating with Glassbox can be slow- first we signed up on their website to ge
 I'd like to introduce the team members from Glassbox who would be leading this initiative - 
 <name1> - Professional Services Engineer: Technical liaison helping with integration. 
 <name2> - Business Insights Manager : The analytics expert who will help you with deriving value out of Glassbox. 
-<name2 (original contact) - For escalations 
+<name2 (original contact)> - For escalations 
 We have submitted the request to build the environment and the standard SLA is 48 hours. 
 
 As soon as the environment comes up, <name1> will reach out to your team to schedule a call for kick-off/integration. 
