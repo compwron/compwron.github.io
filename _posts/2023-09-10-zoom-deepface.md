@@ -25,6 +25,8 @@ https://github.com/parMaster/zoomrs (might be better?)
 
 https://github.com/kastldratza/zoomrec (launched, notes below)
 
+https://devforum.zoom.us/t/are-meeting-recordings-done-in-single-channel-or-multiple-channels/69733/3 multiple audio channels can do yay
+
 
 `PYTHONUNBUFFERED`
 
