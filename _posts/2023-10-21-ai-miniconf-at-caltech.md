@@ -132,7 +132,7 @@ https://www.washingtonpost.com/weather/2023/09/21/hurricane-lee-artificial-intel
 
 ---- 10:30
 
-dad might really like https://www.toonstar.com/
+https://www.toonstar.com/
 
 https://mars.nasa.gov/people/profile/index.cfm?id=23121
 https://planetaryprotection.jpl.nasa.gov/stricker-bio Dr. Moogega Stricker 
@@ -155,3 +155,48 @@ https://www.linkedin.com/in/racheljoyvictor/
 
 
 ----- Q&A
+
+
+"so bartenders will be ok" 
+people consume more content now
+entertainment will be hyper personalized. you can go to a machine rack and get a magazine on- finches- but the next spielberg - there will be millions of him- an expansive economy. in the broad scale, there will be a lot more - but not what we consider to be hollywood jobs now. 
+who should be really worried? whose jobs are really at risk? if you cant do better than chatgpt, as a programmer, ... get better than that. use those tool sbut can you do better. same for academics- just release dpolicy and free to use them but must be transparent that they are used. progessors are now our job is harder, cant give an assignment that is directl answred nby chatgpt. future of education will chagnet his way. socrates was interactive, it was personalized, it wasnt answer a multiple choice question. 
+
+"great thing about younger folks is- willing to embrace new technologies. it can be a force multiplier in any field"
+specific tools today- a month from now will be different. you have to be curious and out there and experiementing and playing with them. 
+
+caltech - information architecture, taxonomies, understanding that. chatgpt isnt good at that yet. parsing results- first second third order things all mixed together
+
+liptune ai live translate? 
+https://the-decoder.com/heygen-offers-ai-powered-video-translation-with-impressive-lip-syncing-capabilities/
+https://twitter.com/0xgaut/status/1701624127755337901
+https://www.stenomatic.ai/
+https://www.wordly.ai/audio-translation
+
+
+ai bill of rights 
+https://builtin.com/artificial-intelligence/ai-bill-of-rights
+https://www.whitehouse.gov/ostp/ai-bill-of-rights/
+
+
+startups -is it a product or a feature? 
+
+
+new ways of residuals, monetixing essences, image, voice, include teh residuals pie, make a market opportunity, whats the feasibility? 
+
+lots of putting ux wrappers on top of foundation models they dont own. ok so who is using which model? 
+
+accessing a virtual work=ld: paying to access world, customize avatar, access various spaces. a different category of thigns that one can find valuable. so buold an industry abround distribution and monetization of it. narrative vs functional content... 
+
+Q: how much cpmupter fodes it take to run chatgpt? A: no just use it online, dont run your own. 
+
+Q from John: where do u see innovation being reated? part 2 is there a us competitive advantage? 
+A: open source is very important for US competitiveness. ANyone can take the models but all the talent here is plugged into it and can move faster. openai needs to continue to innovate or they will be overtaken. same at country level. open source enables participation. 
+A: big companies are dominating it, china in second place, but agree that oss model will win in the end. uae funded oss Falcon https://www.reuters.com/technology/abu-dhabi-makes-its-falcon-40b-ai-model-open-source-2023-05-25/  https://github.com/Decentralised-AI/falcon-40b ? 
+
+
+Q: CEO freaking out how get to market. what will moon landing of AI be that hchnges how business sees it? 2: how are they making money right now on ai? companies requesting knowledge workshops to upskill their workers on ai. 
+A; not ai specific, thats change management. getting people to embrace the new way whatever it is. hire and retain great people, and do change managemnt. Create a safe playground, educate them, let 1k flowers bloom
+
+Q Richard: climate models have been croticiex. Adequate historical training data to let AI make progres? Has it been tried? 
+A: climate models suffer from uncertainy. 
