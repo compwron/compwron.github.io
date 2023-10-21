@@ -199,4 +199,33 @@ Q: CEO freaking out how get to market. what will moon landing of AI be that hchn
 A; not ai specific, thats change management. getting people to embrace the new way whatever it is. hire and retain great people, and do change managemnt. Create a safe playground, educate them, let 1k flowers bloom
 
 Q Richard: climate models have been croticiex. Adequate historical training data to let AI make progres? Has it been tried? 
-A: climate models suffer from uncertainy. 
+A: climate models suffer from uncertainy on long timelines. We know the physics but its expensive to simulate. Ok so we combine physics equations with hostorical data. Gotta extrapolate to a new world. 
+
+Q: never know how long mars rover will last. And prdiuct human life last? 
+A: yes can improve the current art. 
+
+Q Dani: work in comms. Toonstar, how do you make stories still relatable and relevant? Storytelling? 
+A: fans and community memebers and feedback, 8yr studio, we have data. 
+
+https://www.joinai.la/
+
+Q for michaela: generateive AI model to determine comedians. What about the knowledge cutoff? How get current info? 
+A: we paid for it, as an enterprise it is now up to date real time. Singlebiggest opstacle. 
+
+Q from Mcihaely Kietley; I have a question, I was at a conf w a guy who runs google brain, he thinks the real game changer on the way to agi would be large vision models. Uh what is that? 
+A: [Dr Anandkumar] is language the seat of intelligence or is it vision? 
+
+Q from Andrew for Dr: how did the coronoavirus prediction model, can it predict cancer drug effectiveness and resistance?
+A: yes we are looking at proteins and their properties
+
+Q: I am the CA surgeon general (wait really? what was her name? that was not the same human face as Dr Nadine Burke Harris). want more of this, will DM you later. 
+A: how to train surgeons better? Med school then on ghte job. Expereinced surgeons do better. Working more on early sepsis tdetection. 
+
+cartoon guy is bragging on space junk series having social good. 
+
+another pitch for https://www.fbrc.ai/
+
+AI could practively advise you tto take a walk between meetings. 
+
+
+
