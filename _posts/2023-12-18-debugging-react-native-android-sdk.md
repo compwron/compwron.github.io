@@ -35,7 +35,7 @@ And before that, having to turn off system integrity protection for dtruss by re
 
 checked in Android Studio and the emulator was present and launched, BUT `emulator -list-avds` threw same java version exception - therefore it's a commandline tools issue
 
-`grep -rin "Required for building and installing your app on Android" node_modules` to find where the message was from - it turned out to be [https://github.com/react-native-community/cli/blob/main/packages/cli-doctor/src/tools/envinfo.ts which got it from https://github.com/tabrindle/envinfo/blob/main/src/helpers/sdks.js](https://github.com/react-native-community/cli/blob/main/packages/cli-doctor/src/tools/envinfo.ts which got it from https://github.com/tabrindle/envinfo/blob/main/src/helpers/sdks.js)
+`grep -rin "Required for building and installing your app on Android" node_modules` to find where the message was from - it turned out to be [cli-doctor/src/tools/envinfo.ts](https://github.com/react-native-community/cli/blob/main/packages/cli-doctor/src/tools/envinfo.ts) which got it from https://github.com/tabrindle/envinfo/blob/main/src/helpers/sdks.js](https://github.com/react-native-community/cli/blob/main/packages/cli-doctor/src/tools/envinfo.ts which got it from [tabrindle/envinfo sdks.js](https://github.com/tabrindle/envinfo/blob/main/src/helpers/sdks.js)
 
 `type -a sdkmanager` see the location of all installed versions of a command on the PATH!!!
 
