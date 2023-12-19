@@ -6,4 +6,4 @@ tags:
 ---
 
 
-https://github.com/alexander-yakushev/events/blob/master/tutorial.md
+[https://github.com/alexander-yakushev/events/blob/master/tutorial.md](https://github.com/alexander-yakushev/events/blob/master/tutorial.md)
