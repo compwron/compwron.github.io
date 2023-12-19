@@ -20,7 +20,6 @@ GEM
       execjs
     coffee-script-source (1.11.1)
     colorator (1.1.0)
-    colorize (1.1.0)
     commonmarker (0.23.10)
     concurrent-ruby (1.2.2)
     connection_pool (2.4.1)
@@ -262,9 +261,6 @@ GEM
       unf_ext
     unf_ext (0.0.9.1)
     unicode-display_width (1.8.0)
-    word_counter (0.3.0)
-      colorize
-      nokogiri
 
 PLATFORMS
   arm64-darwin-23
@@ -273,7 +269,6 @@ DEPENDENCIES
   github-pages
   stringex
   thor
-  word_counter
 
 BUNDLED WITH
    2.3.7
