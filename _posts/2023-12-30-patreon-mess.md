@@ -202,11 +202,10 @@ Hmm ok that didn't work
 
 Related code I have seen
 
-1. https://github.com/Charlotte-Kosche-Thesis/patreon-scraper
-2. https://github.com/daemionfox/patreon-feed
-3. https://github.com/BassOfBass/Kitsune/blob/master/src/importers/patreon.py
-4. https://github.com/pfrazee/ctzn.network/blob/master/_scripts/fetch-patrons.js
-5. https://github.com/memoryholecc/patreondownloader
-6. https://github.com/PipedreamHQ/pipedream/tree/master/components/patreon https://pipedream.com/
-7. 
+1. [https://github.com/Charlotte-Kosche-Thesis/patreon-scraper](https://github.com/Charlotte-Kosche-Thesis/patreon-scraper)
+2. [https://github.com/daemionfox/patreon-feed](https://github.com/daemionfox/patreon-feed)
+3. [https://github.com/BassOfBass/Kitsune/blob/master/src/importers/patreon.py](https://github.com/BassOfBass/Kitsune/blob/master/src/importers/patreon.py)
+4. [https://github.com/pfrazee/ctzn.network/blob/master/_scripts/fetch-patrons.js](https://github.com/pfrazee/ctzn.network/blob/master/_scripts/fetch-patrons.js)
+5. [https://github.com/memoryholecc/patreondownloader](https://github.com/memoryholecc/patreondownloader)
+6. [https://github.com/PipedreamHQ/pipedream/tree/master/components/patreon](https://github.com/PipedreamHQ/pipedream/tree/master/components/patreon) [https://pipedream.com/](https://pipedream.com/)
 

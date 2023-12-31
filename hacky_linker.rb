@@ -22,4 +22,4 @@ def process_markdown_files(directory, extra_match="")
   end
 end
 
-process_markdown_files('_posts', "android")
+process_markdown_files('_posts', ARGV[0])
