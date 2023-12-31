@@ -5,7 +5,8 @@ tags:
  -
 ---
 
-Ppl afam game stories
+I attended a conference. These notes are for me, but you can read them too.
+
 Ppl mozilla 6yr hub dev
 
 Intro
@@ -13,7 +14,7 @@ Health var fren story
 Pizza order not printing 
 Nasa make it work
 
-https://caseymuratori.com/blog_0015
+[https://caseymuratori.com/blog_0015](https://caseymuratori.com/blog_0015)
 Ginger
 Linguistics
 C compiler
@@ -24,7 +25,7 @@ Llvm replace hope
 No consulting background of persuasion 
 Complainy
 
-https://vimeo.com/644068002
+[https://vimeo.com/644068002](https://vimeo.com/644068002)
 Simjjson
 Lz4
 Build time therefore no errorchecking
@@ -35,13 +36,13 @@ Problem is lines to fill. Binary. Space fill,… watertight, bug makes a mess
 Lunch
 
 
-https://handmade.network/p/366/diffest/
+[diffest](https://handmade.network/p/366/diffest/)
 
-https://jamhub.dev/
+[https://jamhub.dev/](https://jamhub.dev/)
 
-https://tree-sitter.github.io/tree-sitter/
+[https://tree-sitter.github.io/tree-sitter/](https://tree-sitter.github.io/tree-sitter/)
 
-https://github.com/Wilfred/difftastic
+[https://github.com/Wilfred/difftastic](https://github.com/Wilfred/difftastic)
 
 
 Demos
@@ -50,7 +51,7 @@ Rgb programmin
 Latin os
 Rendering
 Movilecode app
-Orca https://orca-app.dev/index.html
+Orca [https://orca-app.dev/index.html](https://orca-app.dev/index.html)
 
 
 Gpvt docker like singularity for high perf computing
@@ -58,13 +59,13 @@ Gpvt docker like singularity for high perf computing
 Audience demos
 Cactus image editor
 
-https://github.com/orbitinghail/sqlsync
+[https://github.com/orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync)
 
 Mobilecode.app
 With contents of file! 
 Brain noise: the feels of different ppl holding your phone
 
-https://www.pureref.com/
+[https://www.pureref.com/](https://www.pureref.com/)
 
 Sql talk laplab.me
 
@@ -92,17 +93,17 @@ Sell 97 percent tix, not fill tho
 Ee elevator board
 
 Day 2
-https://tbl.nu/posts/
+[https://tbl.nu/posts/](https://tbl.nu/posts/)
 
-https://zeux.io/2022/01/08/on-proebstings-law/
+[https://zeux.io/2022/01/08/on-proebstings-law/](https://zeux.io/2022/01/08/on-proebstings-law/)
 
-https://news.ycombinator.com/item?id=38282950
+[https://news.ycombinator.com/item?id=38282950](https://news.ycombinator.com/item?id=38282950)
 Spider monkey team Mozilla
 Google docs non html just canvas and rendering engine
 (I brought in a) Julia Evans reference :)
 I could make a zine about fhir, a la julia evans style… ????? 
 
-Potential example of more beginner friendly low level documentation: https://beej.us/guide/bgnet/
+Potential example of more beginner friendly low level documentation: [https://beej.us/guide/bgnet/](https://beej.us/guide/bgnet/)
 
 Apple actions
 He says native ui is done, its web now
@@ -119,7 +120,7 @@ RemedyBG windows debugging
 
 Not just but allies
 
-https://remedybg.handmade.network/
+[https://remedybg.handmade.netwo](https://remedybg.handmade.netwo)rk/
 Tech bros who are there for the paycheck and hate handmade
 Heartbreak channel
 
@@ -133,7 +134,7 @@ Dude Davis, and lady and guy linear algebra
 Dmitry linear algebra done right 
 Collab with casey 
 Gave number lol
-https://www.computerenhance.com/p/upcoming-collaboration-with-demetri
+[https://www.computerenhance.com/p/upcoming-collaboration-with-demetri](https://www.computerenhance.com/p/upcoming-collaboration-with-demetri)
 S21 phone
 
 Magicpose app wow!!
@@ -145,7 +146,7 @@ R/sideproject
 Disk voyager
 Good demo video is very very good
 
-https://www.reddit.com/r/SideProject/s/o2on9pb2BG
+[https://www.reddit.com/r/SideProject/s/o2on9pb2BG](https://www.reddit.com/r/SideProject/s/o2on9pb2BG)
 
 Met the guy who wrote the clockwork gane with dying tree eee
 
@@ -158,21 +159,20 @@ If i write, that brings me into the writing. Glowfic might be the new choir.
 
 30million line problem new os
 
-Lapisss? Remi?? 
 
 One entire woman speaker ux fireside chat lol
 
-https://terminal.click/
+[https://terminal.click/](https://terminal.click/)
 
-https://www.diskvoyager.com/
+[https://www.diskvoyager.com/](https://www.diskvoyager.com/)
 
-https://samhsmith.com/serenum/
+[https://samhsmith.com/serenum/](https://samhsmith.com/serenum/)
 
 Goal super accomplished, learn new things think new ideas learn of new types of problems and solutions
-Last of things i didn’t knows last week, Google docs canvas
+
 Mark.dev
 
-https://kristoff.it/blog/interfacing-with-zig/
+[https://kristoff.it/blog/interfacing-with-zig/](https://kristoff.it/blog/interfacing-with-zig/)
 
 Handmade ny meetup
 
