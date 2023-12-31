@@ -197,7 +197,18 @@ for memberid in ids:
 Hmm ok that didn't work 
 
 ```json
-{'errors': [{'code': 4, 'code_name': 'ResourceMissing', 'detail': 'member-cancellation with id memberid was not found.', 'id': 'REDACTED', 'status': '404', 'title': 'member-cancellation was not found.'}]}
+{
+  "errors": [
+    {
+      "code": 4,
+      "code_name": "ResourceMissing",
+      "detail": "member-cancellation with id memberid was not found.",
+      "id": "REDACTED",
+      "status": "404",
+      "title": "member-cancellation was not found."
+    }
+  ]
+}
 ```
 
 Related code I have seen
