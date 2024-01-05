@@ -52,9 +52,20 @@ Now that the answer is clear, add the PATH prepend to your `.zshrc` and to your 
 Close and restart terminal and Android Studio to check that it works even when restarted
 
 
+Addenda
 
+If you see an error like
 
+```
+01-04 22:53:03.957 91262 7506869 I adb     : main.cpp:63 Android Debug Bridge version 1.0.41
+01-04 22:53:03.957 91262 7506869 I adb     : main.cpp:63 Version 34.0.5-10900879
+...
+01-04 22:53:03.958 91262 7506869 I adb     : transport_mdns.cpp:237 Openscreen mdns discovery enabled
+01-04 22:53:04.574 91262 7506869 F adb     : main.cpp:165 could not install smartsocket listener: Address already in use
+```
 
+Then look for your multiple running servers with:
+`pgrep -lfi adb`
 
-
-
+and kill them with:
+`pkill -lfi adb`
