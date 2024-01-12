@@ -71,3 +71,9 @@ Then look for your multiple running servers with:
 
 and kill them with:
 `pkill -lfi adb`
+
+
+Other stuff:
+
+`adb shell "cmd uimode night yes"`
+`adb shell "cmd uimode night no"`
