@@ -5,6 +5,8 @@ tags:
  -
 ---
 
+Step one, stare at [https://reactnative.dev/docs/environment-setup?platform=android](https://reactnative.dev/docs/environment-setup?platform=android)
+
 The original problem looked like `npm run android` starting a metro server and then hanging forever. 
 
 The problem was actually that I had a version of `cmdline-tools` (11) that was too new for the version of java (zulu11) that my react native (0.71) was using.
