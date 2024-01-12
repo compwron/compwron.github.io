@@ -38,6 +38,8 @@ Errors and things one could try to resolve them
 
  Info: npx react-native info
 
+ Error: `AccessibilityResources.bundle" not found`
+
 
 
  Resources
