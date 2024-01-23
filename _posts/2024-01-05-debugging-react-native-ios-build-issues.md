@@ -41,11 +41,31 @@ Errors and things one could try to resolve them
  Error: `AccessibilityResources.bundle" not found`
 
 
+```
+# .xcode.env.local
+-# This `.xcode.env` file is versioned and is used to source the environment
+-# used when running script phases inside Xcode.
+-# To customize your local environment, you can create an `.xcode.env.local`
+-# file that is not versioned.
++set -e
+
+-# NODE_BINARY variable contains the PATH to the node executable.
+-#
+-# Customize the NODE_BINARY variable here.
+-# For example, to use nvm with brew, add the following line
+-# . "$(brew --prefix nvm)/nvm.sh" --no-use
+-export NODE_BINARY=$(command -v node)
+```
+
+`sudo xcode-select -switch /Applications/Xcodex.14.3.app`
+
 
  Resources
  1. https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation 
  1. https://github.com/CocoaPods/CocoaPods/blob/master/CHANGELOG.md
  1. https://cocoadocs.org/
  1. https://reactnative.dev/docs/0.71/linking-libraries-ios
- https://github.com/react-navigation/react-navigation/issues/9385
-https://reactnative.dev/docs/troubleshooting
+ 1. https://github.com/react-navigation/react-navigation/issues/9385
+ 1. https://reactnative.dev/docs/troubleshooting
+ 1. https://developer.apple.com/support/xcode/
+ 1. release planning - pre-stage how to rollback if needed https://forums.developer.apple.com/forums/thread/6682
