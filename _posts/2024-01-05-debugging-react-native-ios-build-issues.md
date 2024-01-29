@@ -60,6 +60,11 @@ Errors and things one could try to resolve them
 `sudo xcode-select -switch /Applications/Xcodex.14.3.app`
 
 
+Error: `Errno::EEXIST - File exists @ syserr_fail2_in - /Users/me/Library/Caches/CocoaPods/Pods/External/hermes-engine/a4753531c473e6dd66fefa25b5cda1bf-47986/destroot/Library/Frameworks/universal/hermes.xcframework/ios-arm64_x86_64-maccatalyst/hermes.framework/Resources` Happened during `npx react-native@0.71.8 init NewRN --version 0.71.8` (making a new react project from scratch to try to compare to a malfunctioning project) 
+Fix: idk man, consider not having two projects on one laptop, especially this laptop
+
+
+
  Resources
  1. https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation 
  1. https://github.com/CocoaPods/CocoaPods/blob/master/CHANGELOG.md
