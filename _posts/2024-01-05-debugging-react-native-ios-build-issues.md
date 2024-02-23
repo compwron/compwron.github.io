@@ -74,3 +74,4 @@ Fix: idk man, consider not having two projects on one laptop, especially this la
  1. https://reactnative.dev/docs/troubleshooting
  1. https://developer.apple.com/support/xcode/
  1. release planning - pre-stage how to rollback if needed https://forums.developer.apple.com/forums/thread/6682
+ 1. AMAZING https://github.com/TheoBendixson/apple-build-system-xcode-free
