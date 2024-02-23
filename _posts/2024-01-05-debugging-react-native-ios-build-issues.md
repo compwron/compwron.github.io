@@ -30,7 +30,7 @@ Errors and things one could try to resolve them
 
  Info: `pod outdated`
 
- Info: available versions of a pod: `https://api.github.com/repos/CocoaPods/Specs/contents/Specs/ObjectiveSugar`
+ Info: available versions of a pod: `[https://api.github.com/repos/CocoaPods/Specs/contents/Specs/ObjectiveSugar`](https://api.github.com/repos/CocoaPods/Specs/contents/Specs/ObjectiveSugar`)
 
  Info: An MM file is a source code file that can contain both Objective-C and Objective-C++ programming code. It is used on MacOS and differentiates from . M files that contains Objective-C code only.
 
@@ -66,12 +66,12 @@ Fix: idk man, consider not having two projects on one laptop, especially this la
 
 
  Resources
- 1. https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation 
- 1. https://github.com/CocoaPods/CocoaPods/blob/master/CHANGELOG.md
- 1. https://cocoadocs.org/
- 1. https://reactnative.dev/docs/0.71/linking-libraries-ios
- 1. https://github.com/react-navigation/react-navigation/issues/9385
- 1. https://reactnative.dev/docs/troubleshooting
- 1. https://developer.apple.com/support/xcode/
- 1. release planning - pre-stage how to rollback if needed https://forums.developer.apple.com/forums/thread/6682
- 1. AMAZING https://github.com/TheoBendixson/apple-build-system-xcode-free
+ 1. [https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation ](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation )
+ 1. [https://github.com/CocoaPods/CocoaPods/blob/master/CHANGELOG.md](https://github.com/CocoaPods/CocoaPods/blob/master/CHANGELOG.md)
+ 1. [https://cocoadocs.org/](https://cocoadocs.org/)
+ 1. [https://reactnative.dev/docs/0.71/linking-libraries-ios](https://reactnative.dev/docs/0.71/linking-libraries-ios)
+ 1. [https://github.com/react-navigation/react-navigation/issues/9385](https://github.com/react-navigation/react-navigation/issues/9385)
+ 1. [https://reactnative.dev/docs/troubleshooting](https://reactnative.dev/docs/troubleshooting)
+ 1. [https://developer.apple.com/support/xcode/](https://developer.apple.com/support/xcode/)
+ 1. release planning - pre-stage how to rollback if needed [https://forums.developer.apple.com/forums/thread/6682](https://forums.developer.apple.com/forums/thread/6682)
+ 1. AMAZING [https://github.com/TheoBendixson/apple-build-system-xcode-free](https://github.com/TheoBendixson/apple-build-system-xcode-free)
