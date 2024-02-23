@@ -30,7 +30,7 @@ Errors and things one could try to resolve them
 
  Info: `pod outdated`
 
- Info: available versions of a pod: `[https://api.github.com/repos/CocoaPods/Specs/contents/Specs/ObjectiveSugar`](https://api.github.com/repos/CocoaPods/Specs/contents/Specs/ObjectiveSugar`)
+ Info: available versions of a pod: `https://api.github.com/repos/CocoaPods/Specs/contents/Specs/ObjectiveSugar`
 
  Info: An MM file is a source code file that can contain both Objective-C and Objective-C++ programming code. It is used on MacOS and differentiates from . M files that contains Objective-C code only.
 
@@ -66,7 +66,7 @@ Fix: idk man, consider not having two projects on one laptop, especially this la
 
 
  Resources
- 1. [https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation ](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation )
+ 1. [https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation)
  1. [https://github.com/CocoaPods/CocoaPods/blob/master/CHANGELOG.md](https://github.com/CocoaPods/CocoaPods/blob/master/CHANGELOG.md)
  1. [https://cocoadocs.org/](https://cocoadocs.org/)
  1. [https://reactnative.dev/docs/0.71/linking-libraries-ios](https://reactnative.dev/docs/0.71/linking-libraries-ios)
