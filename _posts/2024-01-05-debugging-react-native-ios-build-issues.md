@@ -17,6 +17,7 @@ Errors and things one could try to resolve them
  Info: `idb list-targets` shows simulators
 
  Error: `AppDelegate.h:1:9: 'RCTAppDelegate.h' file not found`
+ Fix: `"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;` in 4 places
 
  Error: 
  ```
