@@ -77,3 +77,5 @@ Other stuff:
 
 `adb shell "cmd uimode night yes"`
 `adb shell "cmd uimode night no"`
+
+very noisy ADB debugging: `export ADB_TRACE=all`
