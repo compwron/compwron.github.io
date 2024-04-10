@@ -65,6 +65,9 @@ Error: `Errno::EEXIST - File exists @ syserr_fail2_in - /Users/me/Library/Caches
 Fix: idk man, consider not having two projects on one laptop, especially this laptop
 
 
+Error: `Build service could not create build operation: unknown error while handling message: MsgHandlingError(message: "unable to initiate PIF transfer session (operation in progress?)")`
+(Suggested) Fix: restart computer
+
 
  Resources
  1. [https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation)
@@ -76,3 +79,5 @@ Fix: idk man, consider not having two projects on one laptop, especially this la
  1. [https://developer.apple.com/support/xcode/](https://developer.apple.com/support/xcode/)
  1. release planning - pre-stage how to rollback if needed [https://forums.developer.apple.com/forums/thread/6682](https://forums.developer.apple.com/forums/thread/6682)
  1. AMAZING [https://github.com/TheoBendixson/apple-build-system-xcode-free](https://github.com/TheoBendixson/apple-build-system-xcode-free)
+
+
