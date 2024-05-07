@@ -7,6 +7,7 @@ tags:
 
 Errors and things one could try to resolve them
  
+ turn on lots of debugging output `defaults write com.apple.CoreSimulator DebugLogging -bool YES`
 
  Error: many Fix: `cd myapp && cd ios  && pod deintegrate &&  pod cache clean --all && npm cache verify &&   yarn cache clean && pod install --repo-update && cd myapp && npm run ios`
 
@@ -14,7 +15,13 @@ Errors and things one could try to resolve them
 
  Error: `:x: error: Multiple commands produce `
 
+```
+brew tap facebook/fb
+brew install idb-companion
+```
  Info: `idb list-targets` shows simulators
+
+ `xcrun simctl boot <simulator id>`
 
  Error: `AppDelegate.h:1:9: 'RCTAppDelegate.h' file not found`
  Fix: `"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;` in 4 places
@@ -67,6 +74,8 @@ Fix: idk man, consider not having two projects on one laptop, especially this la
 
 Error: `Build service could not create build operation: unknown error while handling message: MsgHandlingError(message: "unable to initiate PIF transfer session (operation in progress?)")`
 (Suggested) Fix: restart computer
+
+Debugging `/Volumes/Macintosh\ HD/private/tmp` see simulator IDs
 
 
  Resources
