@@ -78,6 +78,8 @@ Error: `Build service could not create build operation: unknown error while hand
 Debugging `/Volumes/Macintosh\ HD/private/tmp` see simulator IDs
 
 
+XCode: `Clean Build Folder`
+
  Resources
  1. [https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation)
  1. [https://github.com/CocoaPods/CocoaPods/blob/master/CHANGELOG.md](https://github.com/CocoaPods/CocoaPods/blob/master/CHANGELOG.md)
