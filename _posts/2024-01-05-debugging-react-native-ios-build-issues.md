@@ -77,8 +77,9 @@ Error: `Build service could not create build operation: unknown error while hand
 
 Debugging `/Volumes/Macintosh\ HD/private/tmp` see simulator IDs
 
-
 XCode: `Clean Build Folder`
+
+[https://docs.proxyman.io/debug-devices/ios-simulator](https://docs.proxyman.io/debug-devices/ios-simulator)
 
  Resources
  1. [https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation](https://docs.swmansion.com/react-native-reanimated/docs/fundamentals/getting-started/#installation)
