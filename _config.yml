@@ -8,3 +8,5 @@ twitter_username: compiledwrong
 github_username: compwron
 highlighter: rouge
 markdown: kramdown
+gems:
+  - jekyll-autolinks
