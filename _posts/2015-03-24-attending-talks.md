@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Attending Talks"
+title: "Attending Talks: PyladiesSF Mini Pycon"
 tags:
- - conf
+ - conference
 ---
 
 Today I attended [PyLadiesSF Mini Pycon](https://www.eventbrite.com/e/pyladiessf-presents-mini-pycon-2015-registration-16107987424)

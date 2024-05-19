@@ -3,7 +3,7 @@ layout: post
 title: "The Continuing Adventure"
 tags:
  - volunteer
- - conf
+ - conference
 ---
 
 A friend is very interested in working at my former company BT, partially because of the things that I have said about their awesome tech practices. I recommended him to the people there; I think that he would do well. We shall see where this goes.

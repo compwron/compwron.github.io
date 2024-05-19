@@ -2,7 +2,7 @@
 layout: post
 title: "Talking About Talking"
 tags:
- - conf
+ - conference
 ---
 
 I went to a [talk about talking](https://www.eventbrite.com/e/writespeakcode-conference-talk-proposals-twitter-hq-tickets-16166042067) by [@wscsf](https://twitter.com/wscsf) where [@caitie](https://twitter.com/Caitie) spoke about speaking. Twitter hosted. Their lobby is not the most meetup-friendly place, but I do like their elevators. There was also another meetup about [automated testing in java](http://www.meetup.com/sfjava/events/220862630/) being hosted at the same time, although of course the office was more than big enough for all. (We never even saw them once we got upstairs.)

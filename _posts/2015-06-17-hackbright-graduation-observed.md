@@ -2,7 +2,7 @@
 layout: post
 title: "Hackbright Graduation Observed"
 tags:
- - conf
+ - conference
 ---
 
 I would love to attend Hackbright as a student for a variety of reasons; this is deeply unlikely for a yet larger variety of reasons.

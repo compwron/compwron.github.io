@@ -2,7 +2,7 @@
 layout: post
 title: "Outer Developer"
 tags:
- - conf
+ - conference
 ---
 
 Once upon a time, there was [a python meetup at Yelp](http://www.meetup.com/sfpython/events/222835660/) (again). [Previous post](https://compwron.github.io/2015/03/24/attending-talks.html)

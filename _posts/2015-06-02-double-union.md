@@ -2,7 +2,7 @@
 layout: post
 title: "Double Union"
 tags:
- - conf
+ - conference
 ---
 
 There was [a show and tell event recently at double union](http://doubleunion.tumblr.com/post/120787769184/show-tell-june-9th-6-30pm).

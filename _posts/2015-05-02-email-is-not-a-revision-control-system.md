@@ -3,7 +3,7 @@ layout: post
 title: "Email is not a revision control system"
 tags:
  - startups
- - conf
+ - conference
 ---
 
 "Email is not a revision control system!!" someone said to me at a [Karmic Labs](https://karmiclabs.com/) hack night

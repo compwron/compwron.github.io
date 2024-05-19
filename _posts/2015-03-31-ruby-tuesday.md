@@ -2,7 +2,7 @@
 layout: post
 title: "Ruby Tuesday"
 tags:
- - conf
+ - conference
  - talk
 ---
 
