@@ -6,6 +6,7 @@ tags:
 ---
 
 https://2024.northbaypython.org/
+https://pretalx.northbaypython.org/nbpy-2024/schedule/
 
 
 Venue is a barn in Petaluma. There are cats :) 
@@ -52,5 +53,47 @@ Pamela Fox - vectors! https://pretalx.northbaypython.org/nbpy-2024/talk/DLYZFF/
 no slides, only jupyter notebooks!
 "Vector embeddings are a way to encode a text or image as an array of floating point numbers, and they make it possible to perform similarity search on many kinds of content. Let's try to wrap our head around vector embeddings and similarity spaces by exploring them visually! We'll compare different embedding models, different quantization schemes, and different input modalities, using open source tools that produce graphs and charts. Come on a vector voyage!"
 retrieval augmented generatior
+...
+"what is the time like?" "eh, keep going" (organizer)
+https://github.com/pamelafox
+
+https://desfontain.es/blog/five-stages.html
+https://alsmola.medium.com/risks-are-not-risks-vulnerabilities-are-not-vulnerabilities-9af05fd103e4
+https://en.wikipedia.org/wiki/Planes_(film)
 
 
+Bloomberg sponsor
+Greg K-
+member of Python infra team
+Member of python guild
+First time attendee
+support regional conferences
+this is impressively cringe lol
+sponsor PSF nomfocus, memray, pytsatck, Blazingm2
+he's trying and it's sweet
+cringe halp
+"proud - spython security council member working at bloomberg" 
+4k pf 9k eng use pyton daily, including data analysists
+"drop by our... booth? (guy looks around at the boothless barn)" xD xD
+
+last talk before lunch
+https://pretalx.northbaypython.org/nbpy-2024/talk/DQMNE3/
+Lukas Fittl
+Founder and CEO of pganalyze, a product for monitoring and optimizing Postgres performance.
+
+Host of the weekly series "5mins of Postgres", that explains what's new with Postgres development, or introduces various Postgres concepts in detail.
+
+Author of pg_query, a C library (with Ruby, Rust, Go, Python & other bindings) to parse queries just like Postgres does.
+
+I love working with PostgreSQL statistics, visualizing them, and using techniques like constraint programming to automatically optimize a Postgres database for a specific workload.
+
+optimize postgres queries
+ok this giy knows so much more than he's saying
+"you can read the source code" (of postgres) "just look at the actual source"
+`create statistics` command
+imo should be talking about query testing libraries for pytest like ruby has, ? 
+"high relation between zip code and state" 
+"I apologize for quoting him four times" (Tom Lane)
+uses https://www.postgresql.org/docs/current/geqo-pg-intro.html if more than 12 tables. not very good
+3 essential methods to get good vs bad query plans: ...
+join order can change for the same query, depending on selectivity
