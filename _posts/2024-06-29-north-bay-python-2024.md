@@ -63,6 +63,7 @@ https://en.wikipedia.org/wiki/Planes_(film)
 
 
 Bloomberg sponsor
+https://x.com/TechAtBloomberg/status/1807096694162468947
 Greg K-
 member of Python infra team
 Member of python guild
@@ -97,3 +98,65 @@ imo should be talking about query testing libraries for pytest like ruby has, ?
 uses https://www.postgresql.org/docs/current/geqo-pg-intro.html if more than 12 tables. not very good
 3 essential methods to get good vs bad query plans: ...
 join order can change for the same query, depending on selectivity
+
+
+lunch
+
+https://en.wikipedia.org/wiki/Roboexotica
+zap robot shocks you, if you hold on it dispense a drink
+https://en.wikipedia.org/wiki/Colophon_(publishing)
+"you left nasa and helped *ohter* people become functioning alcoholics"
+
+
+Hypothesis! By Zac
+https://pretalx.northbaypython.org/nbpy-2024/talk/WNJTKZ/
+live demo!
+hypothesis is very cool
+"a sin which hypothesis is guilty of, but not in this particular case" 
+"use each tool to get past the barriers tgat te otghers have trouble with" 
+"this is just a json file fll of stuff"
+
+
+blogs from yesteryear 
+https://nkantar.com/blog/2023/08/nbpy-2023-afterfeels/
+
+
+
+talk: Mario Munoz: Bridges - community connection
+https://pretalx.northbaypython.org/nbpy-2024/talk/X7ZZPP/
+from Honduras
+"cholutexas" choluteca, southernmost state of honduras. very hot
+https://en.wikipedia.org/wiki/Choluteca,_Choluteca
+https://pythonbynight.com/
+bridge building analogy
+
+
+https://ericvilas.tumblr.com/post/751878689048887296?is_related_post=1#notes
+
+https://ericvilas.tumblr.com/post/751878689048887296?is_related_post=1
+"livestock guardian dogs will look at a human and go 'yeah that's close enough to a goat, you're my problem now'"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
