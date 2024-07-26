@@ -7,7 +7,7 @@ tags:
 
 ```bash
 mkdir bee-ssr
-10190  cd bee-ssr
+cd bee-ssr
 python3 -m venv  bee-ssr
 source bee-ssr/bin/activate
 python -m pip install briefcase
@@ -18,11 +18,13 @@ briefcase dev
 briefcase create # takes timeeeee on slow wifi
 briefcase build
 briefcase run
-briefcase package --adhoc-sign
+# briefcase package --adhoc-sign mac app build
 # briefcase run -u # update, build and run the app with one command
 briefcase create iOS
 briefcase build iOS
+# Launch Screen.storyboard: error: iOS 17.5 Platform Not Installed.
+
 briefcase run iOS # select simulator
-# briefcase run iOS -d "iPhone SE (3rd generation)::iOS 16.2"
+# briefcase run iOS -d "iPhone 15 Pro"
 
 ```
