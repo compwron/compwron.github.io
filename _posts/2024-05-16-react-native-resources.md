@@ -25,3 +25,15 @@ Book: https://read.amazon.com/?_encoding=UTF8&asin=B09XMY6TYR&consumptionLimitRe
 
 
 Kuttig, Alexander Benedikt. Professional React Native: Expert techniques and solutions for building high-quality, cross-platform, production-ready apps (p. 5). Packt Publishing. Kindle Edition. 
+
+https://www.npmjs.com/package/prop-types use if not typescript
+
+chrome://inspect/#devices
+
+`npx react-native init MyNewApp --template react-native-template-typescript`
+
+https://wix.github.io/Detox/docs/introduction/getting-started/ vs appium
+
+
+
+
