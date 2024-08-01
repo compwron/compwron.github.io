@@ -84,4 +84,6 @@ very noisy ADB debugging: `export ADB_TRACE=all`
 [compilesdkversion-minsdkversion-targetsdkversion](https://medium.com/androiddevelopers/picking-your-compilesdkversion-minsdkversion-targetsdkversion-a098a0341ebd)
 
 
-https://developer.android.com/tools/releases/build-tools#notes
+[android buildToolsVersion changelog](https://developer.android.com/tools/releases/build-tools#notes)
+
+[firebase changelog](https://github.com/invertase/react-native-firebase/blob/main/CHANGELOG.md)
