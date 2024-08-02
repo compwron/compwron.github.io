@@ -21,7 +21,19 @@ brew install idb-companion
 ```
  Info: `idb list-targets` shows simulators
 
+### Simulators
+
+ `xcrun simctl diagnose`
+
  `xcrun simctl boot <simulator id>`
+
+[https://developer.apple.com/download/all/](https://developer.apple.com/download/all/)
+
+`xcrun simctl runtime add "~Downloads/iOS_17_Simulator_Runtime.dmg"`
+
+`xcodebuild -downloadPlatform iOS`
+
+
 
  Error: `AppDelegate.h:1:9: 'RCTAppDelegate.h' file not found`
  Fix: `"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = arm64;` in 4 places
