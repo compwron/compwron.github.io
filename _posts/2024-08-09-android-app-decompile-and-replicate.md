@@ -19,3 +19,6 @@ https://www.decompiler.com/jar/3a64c48b42354550b00fa1c4dc4af2ec/ECC%20BluetoothC
 https://apkpure.com/ecc-bluetoothchat/com.ecc.android.bluetoothchatappstore
 
 `jadx ECC\ BluetoothChat_1.5_APKPure.apk -e`
+
+
+https://github.com/compwron/ecc-bluetoothchat-2
